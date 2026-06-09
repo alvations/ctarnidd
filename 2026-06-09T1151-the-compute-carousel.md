@@ -2,6 +2,8 @@
 
 *Inside the $1.77 trillion listing where rockets, satellites and a money-losing AI lab orbit a single man — where insiders hold the early exits, ordinary savers are routed in on autopilot, and the safeguards built after the last crash are quietly bending to let it pass.*
 
+**Related tickers:** `SPCX` (SpaceX — debuts June 12, 2026) · `TSLA` (Tesla) · `GOOGL` (Alphabet — compute customer) · `SATS` (EchoStar — spectrum counterparty) · `BTC` (bitcoin — 18,712 BTC on the balance sheet). Live prices in the [repo README](README.md).
+
 ---
 
 On the flat industrial outskirts of Memphis, in a hangar-scale building that did not exist three years ago, more than 220,000 graphics processors draw three hundred megawatts of electricity — roughly the appetite of a small city — and turn it into heat, noise and arithmetic. The machines were built by one of the most ambitious men alive to train his own artificial intelligence. They are now, for $1.25 billion a month, being rented to one of his rivals.
@@ -102,7 +104,7 @@ The machine is almost at escape velocity. The question the prospectus never quit
 
 ## A note on method, and corrections
 
-This is an original, fictionalized market feature — a stylistic exercise in the forensic-investigative register, not a published news report or investment advice. Every figure is drawn from the publicly reported coverage and filing summaries listed below, and was checked against them before publication. Where sources conflicted, the most authoritative (prospectus-derived) figure was used; where a claim could not be verified, it was cut.
+This is an original market-research piece, not a published news report or investment advice. Every figure is drawn from the publicly reported coverage and filing summaries listed below, and was checked against them before publication. Where sources conflicted, the most authoritative (prospectus-derived) figure was used; where a claim could not be verified, it was cut.
 
 Corrected or sharpened between the pre-fact-check draft (commit `ee4beaa`) and this version:
 
