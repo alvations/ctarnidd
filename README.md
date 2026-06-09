@@ -30,6 +30,8 @@ fact-checked against public reporting; see the corrections note at the foot of t
 - `SOURCES.md` — a cumulative, never-deleted list of every source encountered during research.
 - `sources/<article>/` — the actual content read for each article (page fetches and search
   results), preserved so every claim can be traced back.
+- `audit/<article>.md` — method note and fact-check corrections log for each article (kept out
+  of the article itself, retained for future audit).
 
 Every figure is drawn from publicly reported coverage and filing summaries and was verified
 before publication. These are research/analysis pieces, not investment advice.
