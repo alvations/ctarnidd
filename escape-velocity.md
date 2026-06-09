@@ -1,0 +1,136 @@
+# The Compute Carousel
+
+*Inside the $1.77 trillion listing where rockets, satellites and a money-losing AI lab orbit a single man — where insiders hold the early exits, ordinary savers are routed in on autopilot, and the safeguards built after the last crash are quietly bending to let it pass.*
+
+---
+
+On the flat industrial outskirts of Memphis, in a hangar-scale building that did not exist three years ago, more than 220,000 graphics processors draw three hundred megawatts of electricity — roughly the appetite of a small city — and turn it into heat, noise and arithmetic. The machines were built by one of the most ambitious men alive to train his own artificial intelligence. They are now, for $1.25 billion a month, being rented to one of his rivals.
+
+The building is called Colossus 1. The rival is Anthropic, the AI lab backed by Google and Amazon. And the arrangement — a competitor paying north of fifteen billion dollars a year to run its models on a system its competitor built for himself — is one of the stranger facts buried in the largest stock-market prospectus ever filed. It is not the only one. Read closely, the document describing Elon Musk's plan to take SpaceX public reads less like the story of a rocket company than like the schematic of a machine designed to spin money in a circle and call the motion growth.
+
+This week, that machine asks the public to climb aboard.
+
+The numbers are deliberately difficult to hold in the mind. SpaceX intends to sell about 555.6 million shares at $135 apiece, raising roughly $75 billion at a valuation near $1.77 trillion. That is more than twice the size of any initial public offering in history. Pricing is set for the evening of June 11; the stock is expected to begin trading on the Nasdaq the next morning under the ticker SPCX. Demand, by accounts circulating among the underwriters, is running at something like twice the shares on offer. Roughly a third of the deal — about $22.5 billion — has been set aside for ordinary investors, three times the usual retail slice, distributed through the familiar consumer apps: Robinhood, Fidelity, Schwab, SoFi, E*Trade.
+
+It is being sold as democratization. The little guy, for once, let in early. What follows is an attempt to read the same document the way a forensic accountant would — not for the romance of Mars, but for where the money comes from, where it goes, and who is left holding the position when the music slows. Several analysts, reading the same pages, have already used a blunter word for parts of it. "Borderline dishonest," one verdict ran, in coverage that circulated the week the roadshow began.
+
+## Three companies, one heartbeat
+
+Officially, SpaceX is a launch business, and a formidable one. In 2025 it put more than eighty percent of the world's payload mass into orbit across 165 launches, reusing flight-proven boosters on all but a handful of them, one of them for the thirty-fourth time. No competitor is close. That dominance is real, and it is the gravitational center of the whole enterprise.
+
+But the company that will trade on Friday is three businesses wearing one skin. There is the launch operation. There is Starlink, the satellite-internet network that by the first quarter of 2026 served 10.3 million subscribers, a figure that had more than doubled in a year. And there is xAI, the artificial-intelligence venture Musk folded into SpaceX in an all-stock merger in February — the unit that owns Colossus 1, that builds the Grok chatbot now claimed to reach 117 million monthly users, and that is, by a wide margin, the reason the company lost money last year.
+
+The contrast between the two halves of the business is stark enough that the prospectus works hard to blur it. Starlink is a genuine cash engine: about $11.4 billion in 2025 revenue at a thirty-nine percent operating margin, throwing off $4.4 billion in operating income. The AI segment is its mirror image — roughly $3.2 billion in revenue against a $6.4 billion operating loss, with $12.7 billion in capital expenditure poured into data centers in a single year and another $7.7 billion in the first quarter of 2026 alone. One business prints money. The other sets it on fire, at a rate that accelerated every quarter.
+
+Blend them and you get the headline the bankers prefer: a single, vertically integrated colossus, rockets feeding satellites feeding compute, each layer the on-ramp to the next. Pull them apart and you get something more honest and more unsettling — a superb utility shackled to a venture so capital-hungry that it turned a company which earned $791 million in 2024 into one that lost $4.9 billion in 2025. That is the swing the romance is built to obscure: from modest profit to a near-five-billion-dollar hole in a single year, almost entirely on the AI lab's account.
+
+## The carousel
+
+Here is where the forensic eye snags, and does not let go.
+
+The bull case for xAI rests on demand for its compute. The prospectus duly supplies the demand — but the buyers are a small circle of giants who look a great deal like the seller's own neighbors. Anthropic has agreed to pay $1.25 billion a month, through May 2029, to rent essentially all of Colossus 1's capacity — its more than 220,000 Nvidia processors and 300 megawatts of draw — a deal that could send xAI more than $40 billion over its life. Google, separately, has agreed to pay roughly $920 million a month for compute of its own. The company describes these arrangements, with disarming candor, as a way to "monetize unused compute capacity in our infrastructure" — which is another way of saying that the AI lab cannot yet consume what it has built, so it leases the surplus to rivals and books the rent as a thesis.
+
+It is, on its face, an enviable problem: too much of a scarce resource. But study the terms and the foundation shivers. Either side of the Anthropic deal can walk away with ninety days' notice. The single largest revenue stream supporting the most expensive, most speculative, most heavily promoted piece of a $1.77 trillion company can be switched off, by a competitor, with one financial quarter's warning. Revenue that fragile is not an annuity. It is a tenant who has not signed a lease, paying month to month, in a building the landlord borrowed twenty billion dollars to keep the lights on in.
+
+There is a name, in the less reputable corners of finance, for an arrangement in which a cluster of related and overlapping players pass enormous sums among themselves, each transaction validating the next, the whole edifice resting on the assumption that the merry-go-round never stops. The skeptics have already reached for it; one widely read critic likened the structure to "a crypto fraud, but with AI." That is the short-seller's instinct, and it may prove unfair. But what the prospectus presents as an ecosystem, a forensic reader is entitled to see as a carousel — beautiful while it turns, dangerous the instant it doesn't, and impossible to value honestly while everyone aboard insists the motion is the same thing as forward progress.
+
+## The clock on the wall
+
+Beneath the orbital romance sits a balance sheet with a stopwatch running.
+
+SpaceX carries about $29.1 billion in total debt. Buried within it is a $20 billion bridge loan, taken on in March, used to extinguish the legacy debts xAI dragged in through the merger — a loan that, by its terms, must be repaid within six months of the IPO closing. Read that sequence in order: the company borrows twenty billion dollars, goes public to raise cash, and then hands a large share of that cash straight back to its lenders before the year is out. A meaningful fraction of the money the public is being marched in to provide will not build a single rocket or train a single model. It will pay down a clock that is already ticking.
+
+The other line items do not soothe. The company holds 18,712 bitcoin, worth roughly $1.6 billion, on the balance sheet of an aerospace concern — a small position, but a telling one about the temperament running the place. To acquire wireless spectrum from EchoStar it has agreed to issue 261.8 million new Class A shares at $42.40 each, plus up to $8.5 billion in cash, a deal closing in late 2027; that $42.40 sits beside the $135 the public is being asked to pay this week, a gap worth sitting with — the spectrum seller's shares struck at less than a third of the price the retail buyer pays for his.
+
+And Starlink, the engine that makes the whole machine plausible, is showing the first hairline crack of a maturing business. Average revenue per user slid from $91 a month in 2024 to $81 in 2025 to $66 in the first quarter of 2026. Subscribers are still surging; what each one is worth is quietly falling. Growth that looks vertical on a subscriber chart can be flat or sinking in dollars, and the prospectus, naturally, prefers the subscriber chart.
+
+The most-quoted defense — that the company generated $6.8 billion in operating cash flow and $6.6 billion in "adjusted EBITDA" — is true, and is precisely the kind of truth that should make a careful reader more nervous, not less. Adjusted EBITDA is the number a company shows you when the unadjusted one is a $4.9 billion loss. It is the photograph with the AI furnace cropped out of the frame.
+
+## The exits
+
+Now watch who is standing nearest the door.
+
+Initial public offerings normally lock insiders in for six months, a crude but real alignment: the people who know the company best cannot dump it on newcomers until the newcomers have had time to learn what they bought. SpaceX has engineered something unusual. Under its lockup, employees and early backers may sell twenty percent of their shares as soon as the company reports earnings for the quarter ending June 30 — weeks after the debut. If the stock trades at least thirty percent above the IPO price for five of any ten trading days, another ten percent unlocks. Further tranches of seven percent come free at 70, 90, 105, 120 and 135 days. After third-quarter earnings, another twenty-eight percent. By the 180-day mark, every restricted share is eligible to be sold.
+
+In other words, the insiders begin filing toward the exits almost immediately, and the ramp is steepest exactly when retail enthusiasm is freshest. There is one conspicuous exception: Elon Musk himself, along with select major backers, has committed to a full 366-day lockup. The founder holds; the rank and file are handed early doors. A founder's year-long lock is the kind of detail a roadshow will wave as a banner of conviction. Set against a staff lockup that springs open in stages from week six, it reads less like conviction and more like choreography — the principal staying visibly aboard while the supporting cast is given a quiet, scheduled way off.
+
+The trade has a phrase for the role the latecomer plays in a structure like this. One widely circulated note put it without varnish: *you are the exit liquidity.* The retail allocation, three times the usual size, is not only generosity. The wider the shares are scattered at the open, the deeper the pool of buyers available to absorb whatever insiders begin selling once the staggered locks release. A broad retail base is a feature for everyone who got in early. Whether it is a feature for retail is a different question, and not one the apps asking for the order are inclined to raise.
+
+## One man, and a closed door
+
+If the financials describe a machine that funds itself, the governance describes a machine that answers to no one.
+
+After the offering, Elon Musk will control 85.1 percent of SpaceX's voting power — the product of owning 12.3 percent of the Class A shares and 93.6 percent of a Class B stock that carries ten votes each. He will be chief executive, chief technology officer and chairman at once, with the authority to elect, remove and replace the directors who are nominally meant to supervise him. The company will register as a "controlled company," a designation that exempts it from the requirement that a majority of its board be independent. No accumulation of public shares, however large, can outvote him. Investors are being offered the economics of the enterprise and none of its steering.
+
+The prospectus then closes the last exit that matters to the powerless. Shareholder disputes are funneled into mandatory arbitration before the International Chamber of Commerce — no class actions, no jury trials. Should the thesis sour and ordinary holders be harmed, the customary path to a courtroom has been engineered shut in advance. This is not hypothetical anxiety; it is structural fact, written into the document a forensic reader is meant to skim past.
+
+Some of the world's most careful stewards of other people's money have already recoiled. Denmark's AkademikerPension, which manages the retirements of academics, has blacklisted the company outright, citing what it called a "catastrophic governance structure." When the institutions whose entire profession is prudence refuse to touch a thing — and the plumbing of the market is being adjusted, at the same moment, to force everyone else to touch it — the asymmetry is the story.
+
+## The forced buy
+
+That plumbing is the most quietly alarming part of the whole affair, because it removes choice from people who have never heard the ticker.
+
+Index funds do not think. They obey rules. And after the dot-com collapse vaporized a generation of retirement savings, the keepers of those rules built guardrails: a company generally had to be profitable, and to "season" on the public market for roughly ninety days, before the great automated river of 401(k) money was obliged to follow it in. The rules existed precisely so that the passive saver would not be marched, blind, into the next overpriced spectacle.
+
+For this listing, those guardrails are buckling — though not uniformly, and the nuance is the whole point. S&P Dow Jones Indices, keeper of the S&P 500, held the line: in early June it reaffirmed its existing standards and declined to fast-track the stock, stating flatly that exceptions to its viability and seasoning requirements "should not be granted solely based on market capitalization." But others bent. FTSE Russell adopted fast-entry provisions that make SpaceX eligible for its U.S. and global indexes; Nasdaq's rules allow addition to the Nasdaq-100 just fifteen trading days after listing; and funds tracking the CRSP indexes — including some of the largest total-market vehicles ordinary Americans own — could be compelled to begin buying as soon as five trading days in.
+
+The mechanism the trade calls "price-insensitive demand" is exactly as cold as it sounds: buying that occurs because a rule requires it, at whatever price the market has set, regardless of whether the business deserves it. And because index funds are fully invested, the obligation to buy SPCX implies a corresponding obligation to sell slices of everything else — a forced rotation that analysts warn could ripple dislocations across hundreds of unrelated stocks, a quiet tax levied on every other holding in the index to make room for this one. The Wedbush technologist Dan Ives, a bull, framed the upside of this pull at its most expansive, estimating that more than $30 trillion in passive and retirement money could ultimately be drawn toward the stock; Ives also puts the odds of a SpaceX–Tesla merger by 2027 above eighty percent, which would lash an even larger share of the average portfolio to the same man. The $30 trillion figure describes a gravitational field, not an instant transfer — the S&P's refusal blunts the first wave — but the direction is unmistakable. Money that belongs to people who were never asked is being routed toward a company that lost five billion dollars last year.
+
+You did not choose this. The index will choose it for you, and it will do so on autopilot, and the rule written after the last disaster to stand between your savings and exactly this kind of object is, in several of the venues that matter, being lifted to let it pass.
+
+## The trillion-dollar gap
+
+Into this marched Morningstar, which initiated coverage of SpaceX and arrived at a fair value of roughly $780 billion — about fifty-five percent below the asking price. The analyst, Nicolas Owens, built it the slow way: a discounted-cash-flow model that valued the launch and Starlink core at around $611 billion in enterprise value, and then bolted on perhaps $170 billion in probability-weighted hope for the AI venture.
+
+It is worth lingering on how that AI number is constructed, because it is where the dread becomes quantitative. Owens did not assume xAI's edge would come from chatbots. He concluded its likeliest path to a durable advantage ran through data centers placed *in space* — an idea he then modeled across scenarios that range from a "moonshot" case worth $1.3 trillion, to which he assigned a seven percent probability, down to a "no-go" case he gave a forty-three percent chance and which would *destroy* more than $81 billion in value. "We think the most likely path to a durable edge for xAI is through its space-based infrastructure," he wrote, "but we are uncertain about the scientific and economic feasibility of such a plan." Read that twice. The single most defensible thread of the bull case, in the eyes of the most-cited independent valuation on the Street, depends on orbiting server farms that may or may not be physically possible — and the modal outcome is value destruction.
+
+At the offering price the stock would change hands at roughly ninety-four times sales. Owens's counsel, in the deliberately unscreamed register of an analyst who must one day testify to what he wrote, was to wait and buy at "more attractive levels" once the listing's enforced demand had spent itself.
+
+That is the gap at the dead center of this thing: a roughly trillion-dollar disagreement about what the AI bet is worth, papered over by a deal engineered so that the largest, slowest, least-informed pool of capital on earth is nudged into funding the optimistic side of the argument without ever being consulted, while the insiders who know best are handed a staircase of early exits on the way down from it.
+
+## Escape velocity
+
+None of this is a prophecy of collapse. Empires built on the premise that the founder is right have, more than once, turned out to be built on the founder being right. The launch cadence is genuine and without peer. Starlink's dominance is real. Starship, on which the company spent $3 billion last year, may yet do what its boosters promise, though it has not delivered a commercial payload to orbit and is only now reaching for that milestone. If the carousel keeps turning — if Anthropic and Google keep paying, if the AI losses bend toward profit, if the bridge loan is refinanced rather than called, if Starlink's falling revenue per user is buried under enough new subscribers, if the server farms really do rise into orbit — then today's price may someday look like the bargain the believers insist it is.
+
+But notice what has already happened, before a single share has traded on its merits. The compute is rented to rivals on ninety-day strings and booked as destiny. The debt is borrowed, raised and repaid in a circle. The votes are gathered in one man's hands and the courthouse door is bolted behind him. The insiders are queued at staggered exits while the retail allocation is widened to receive whatever they sell. The professional stewards are backing away while the index rules are bent to force the amateurs in. The market has moved its furniture for an object still out in the hallway — not because of what it has proven, but because of how heavy it is going to be.
+
+When SPCX opens on Friday, most of the people about to own it will not have been asked whether they want to. They will look up one day and find that they already do — at nearly double what the most-cited independent estimate says it is worth, in a company that lost five billion dollars last year, owes twenty billion within six months, rents its future to its rivals on terms they can cancel in a quarter, and answers to one man who has closed every door behind him but his own.
+
+The machine is almost at escape velocity. The question the prospectus never quite answers is the one every passenger should be asking on the way up: what happens to everyone strapped in, if the thing that is lifting them turns out to be falling.
+
+---
+
+## A note on method, and corrections
+
+This is an original, fictionalized market feature — a stylistic exercise in the forensic-investigative register, not a published news report or investment advice. Every figure is drawn from the publicly reported coverage and filing summaries listed below, and was checked against them before publication. Where sources conflicted, the most authoritative (prospectus-derived) figure was used; where a claim could not be verified, it was cut.
+
+Corrected or sharpened between the pre-fact-check draft (commit `ee4beaa`) and this version:
+
+- **Voting control:** "more than 82%" → **85.1%** (12.3% of Class A plus 93.6% of the ten-vote Class B).
+- **2024 result:** the draft's "earned something like $8 billion" was an erroneous secondary figure. The prospectus shows **2024 net income of about $791 million**, making the swing to a $4.9 billion 2025 loss roughly **$5.7 billion**, not "more than ten billion."
+- **Valuation:** "$1.75 trillion" refined to the prospectus-consistent **$1.77 trillion** (~$1.75T is the rounded target).
+- **xAI's future share / capex:** the draft's "70% of the enterprise by 2030, capex approaching $300 billion" could **not be verified** in primary filings and was **removed**, replaced with reported 2025 AI figures and the Anthropic/Google compute contracts.
+- **Index mechanics:** the draft implied a blanket waiver. Corrected to the actual split — **S&P reaffirmed its rules and declined early entry**, while **FTSE Russell, Nasdaq and CRSP-tracked funds** adopted fast-entry provisions (5 trading days for some CRSP vehicles; 15 for the Nasdaq-100). The "$30 trillion" figure is attributed to **Dan Ives / Wedbush** as a bullish estimate of pull, not an automatic transfer.
+- **Lockup:** the draft's loose "44% in 90 days" was replaced with the **precise reported ladder** (20% after Q2 earnings; +10% on a 30%-above-IPO trigger; +7% at 70/90/105/120/135 days; +28% after Q3 earnings; 100% at 180 days) and **Musk's 366-day exemption**.
+- **Valuation detail added:** Morningstar analyst **Nicolas Owens** named; his space-data-center scenarios ("moonshot" $1.3T at 7%; "no-go" at 43%, destroying $81B) incorporated.
+- **Starlink** subscribers (**10.3 million**, Q1 2026) and **ARPU decline** ($91→$81→$66) added.
+
+## Sources consulted
+
+- [Markets Prepare for Arrival of Musk's AI-Infused Space Conglomerate — Bloomberg](https://www.bloomberg.com/news/newsletters/2026-06-09/markets-prepare-for-arrival-of-musk-s-ai-infused-space-conglomerate) *(paywalled; framing only)*
+- [SpaceX Stock: 7 Things Every Investor Should Know — The Motley Fool](https://www.fool.com/research/spacex-stock-ipo-prospectus/)
+- [The SpaceX IPO Has an Unusual Lockup Policy for Insiders — The Motley Fool](https://www.fool.com/investing/2026/05/26/the-spacex-ipo-has-an-unusual-lockup-policy-for-in/)
+- [SpaceX insiders will get to sell shares earlier than usual after the IPO — CNBC](https://www.cnbc.com/2026/05/21/spacex-insiders-will-get-to-sell-shares-earlier-than-usual-after-the-ipo.html)
+- [News Flash: You Are the Exit Liquidity for the SpaceX IPO — The Motley Fool](https://www.fool.com/investing/2026/06/04/news-flash-you-are-the-exit-liquidity-spacex-ipo/)
+- [SpaceX files for Nasdaq IPO with Musk retaining 85.1% voting control — investingLive](https://investinglive.com/stocks/spacex-files-for-nasdaq-ipo-with-musk-retaining-851-voting-control-20260520/)
+- [Mistrust in Musk's math? Morningstar says SpaceX is worth less than half — Moneywise (Nicolas Owens)](https://moneywise.com/news/investing/spacex-ipo-valuation-morningstar-nicolas-owens-ed-elson)
+- ['Borderline dishonest': Analysts shred SpaceX's IPO filing — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/borderline-dishonest-analysts-shred-spacexs-171000969.html)
+- [Anthropic will pay xAI $1.25B per month for compute — TechCrunch](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/)
+- [Google will pay SpaceX $920M per month for compute — TechCrunch](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+- [SpaceX blocked from early U.S. benchmark index entry as S&P reaffirms rules — CNBC](https://www.cnbc.com/2026/06/05/spacex-blocked-from-early-us-benchmark-index-entry-as-sp-reaffirms-existing-rules.html)
+- [SpaceX's IPO will also be a massive selling event triggering price dislocations — Fortune](https://fortune.com/2026/06/07/spacex-ipo-selling-price-dislocations-spcx-stock-passive-index-flows-retail-investors/)
+- [SpaceX IPO could trigger $30 trillion in 401(k)/retirement money — Benzinga (Dan Ives)](https://www.benzinga.com/markets/private-markets/26/06/52896519/spacex-ipo-could-trigger-30-trillion-worth-of-401k-retirement-money-to-buy-spcx-as-dan-ives-predicts-tesla-merger-in-2027)
+- [Why upcoming big tech IPOs will shake up retirement funds — Marketplace](https://www.marketplace.org/story/2026/05/25/why-upcoming-big-tech-ipos-will-shake-up-retirement-funds)
+- [SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says — CNBC](https://www.cnbc.com/2026/06/03/morningstar-spacex-ipo-target-price-nasdaq.html)
+- [Shareholder advocacy group challenges SpaceX governance ahead of IPO — Governance Intelligence](https://www.governance-intelligence.com/boardroom/shareholder-advocacy-group-challenges-spacex-governance-ahead-blockbuster-175-trn-ipo)
+- [SpaceX reveals its share price and record valuation — Fortune](https://fortune.com/2026/06/03/spacex-ipo-share-price-index-funds-valuation-public/)
