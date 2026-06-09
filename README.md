@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Tell](2026-06-09T1259-the-tell.md) · _2026-06-09_
+
+CoreWeave's billionaire co-founders have sold $2.3B of stock since their August-2025 lockup
+expired — and bought back zero. A forensic read of the insider tape, the GPU "melting machine"
+(depreciation ≈ half of revenue), ~$28B of debt, Microsoft at two-thirds of revenue, and Nvidia
+as backer-supplier-and-backstop-customer. Fact-checked; see `audit/` for the corrections log.
+
+**Related tickers — live prices:**
+
+[![CRWV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWV%20(CoreWeave)&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWV)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=1877F2&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+[![BTC/USD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC%2FUSD&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+
 ### [The Compute Carousel](2026-06-09T1151-the-compute-carousel.md) · _2026-06-09_
 
 The record $1.77T SpaceX/SPCX listing: the AI "compute carousel," the debt clock, the staggered

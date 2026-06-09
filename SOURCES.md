@@ -8,6 +8,50 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: CoreWeave / CRWV insider selling (article: "The Tell" — 2026-06-09T1259-the-tell.md)
+
+### Seed / insider selling
+- 🔒 [CoreWeave Founders Have Dumped $2.3 Billion in Stock Since IPO — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-09/coreweave-founders-have-dumped-2-3-billion-in-stock-since-ipo) *(paywalled seed)*
+- ✅ [CoreWeave Founders Have Dumped $2.3 Billion in Stock Since IPO — Yahoo Finance reprint](https://finance.yahoo.com/markets/stocks/articles/coreweave-founders-dumped-2-3-093000394.html)
+- ✅ [CoreWeave Stock at Risk Amid Insider Selling, Depreciation, Soaring Debt — BanklessTimes](https://www.banklesstimes.com/articles/2026/06/09/coreweave-stock-at-risk-amid-insider-selling-depreciation-soaring-debt/)
+- ✅ [CoreWeave (CRWV) Executives Sell Over $2.3B Following Lockup — GuruFocus](https://www.gurufocus.com/news/8907358/coreweave-crwv-executives-sell-over-23b-in-stock-following-lockup-period)
+- 📎 [CoreWeave founders sold $2.3B in planned stock sales since IPO — Seeking Alpha](https://seekingalpha.com/news/4601664-coreweave-founders-sold-23b-in-planned-stock-sales-since-ipo-report)
+- 📎 [CoreWeave (CRWV) Stock Up 150% — But Founders Have Cashed Out $2.3 Billion — CoinCentral](https://coincentral.com/coreweave-crwv-stock-up-150-but-founders-have-cashed-out-2-3-billion/)
+- 📎 [CoreWeave Faces Fresh Insider Selling Scrutiny — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/coreweave-faces-fresh-insider-selling-125714361.html)
+- 📎 [Magnetar funds sell $24.2M in CoreWeave shares (Form-4 series) — Investing.com](https://www.investing.com/news/insider-trading-news/magnetar-funds-sell-242-million-in-coreweave-shares-93CH-4622076)
+- 📎 [Magnetar-linked funds trim CoreWeave stake (Form-4) — StockTitan](https://www.stocktitan.net/sec-filings/CRWV/form-4-core-weave-inc-insider-trading-activity-e2d7a230371b.html)
+
+### IPO / stock / valuation
+- ✅ [CoreWeave Announces Pricing of Initial Public Offering ($40, Mar 27 2025) — CoreWeave](https://www.coreweave.com/news/coreweave-announces-pricing-of-initial-public-offering)
+- 📎 [CoreWeave stock rips higher after muted IPO — Yahoo Finance](https://finance.yahoo.com/news/coreweave-stock-rips-higher-after-muted-ipo-144723161.html)
+- 📎 [CoreWeave (CRWV) Stock Price, Quote — Yahoo Finance](https://finance.yahoo.com/quote/CRWV/)
+- 📎 [CoreWeave equity research (Microsoft 67%, Q1 2026) — Sacra](https://sacra.com/c/coreweave/)
+- 📎 [CoreWeave — mlq.ai research](https://mlq.ai/research/coreweave/)
+
+### Financials / revenue / backlog (SEC + coverage)
+- ✅ [CoreWeave Reports Q4 & FY2025 Results — SEC 8-K](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000094/coreweave4q25earningspress.htm)
+- ✅ [CoreWeave surges to $5.1B in 2025 AI cloud revenue (10-K) — StockTitan](https://www.stocktitan.net/sec-filings/CRWV/10-k-core-weave-inc-files-annual-report-765643168fc2.html)
+- ✅ [CoreWeave reports 2025 revenue of $5.13B with $66.8B backlog — Yahoo Finance](https://finance.yahoo.com/news/coreweave-crwv-reports-2025-revenue-195641826.html)
+- 📎 [CoreWeave tops $5B revenue for 2025, projects hypergrowth — Constellation Research](https://www.constellationr.com/insights/news/coreweave-tops-5-billion-revenue-2025-projects-more-hypergrowth-2026-2027)
+- 📎 [CoreWeave Has a Massive $88 Billion Revenue Backlog — The Motley Fool](https://www.fool.com/investing/2026/04/15/coreweave-has-a-massive-88-billion-revenue-backlog/)
+
+### Customers / Nvidia circle
+- ✅ [CoreWeave: From Crypto to $23B AI Infrastructure (Microsoft 62/67%, OpenAI, Meta, Nvidia) — Introl](https://introl.com/blog/coreweave-openai-microsoft-gpu-provider)
+- ✅ [Nvidia in $6.3B deal with CoreWeave (unsold capacity through 2032) — CoinDesk](https://www.coindesk.com/markets/2025/09/15/coreweave-stock-climbs-7-after-usd6-3b-cloud-capacity-deal-with-nvidia)
+- ✅ [Nvidia to purchase unsold compute capacity from CoreWeave for $6.3bn — Data Center Dynamics](https://www.datacenterdynamics.com/en/news/nvidia-to-purchase-unsold-compute-capacity-from-coreweave-for-63bn/)
+- ✅ [Nvidia increases CoreWeave stake to ~11% after Q1 2026 investment — IndexBox](https://www.indexbox.io/blog/nvidia-nearly-doubles-coreweave-stake-to-over-47-million-shares-in-q1-2026/)
+- 📎 [CoreWeave stock jumps as Nvidia invests $2B to expand AI data centers — CNBC](https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html)
+- 📎 [CoreWeave has now signed the four biggest AI labs — Augment](https://augment.market/pulse/coreweave-has-now-signed-the-four-biggest-ai-labs)
+
+### Depreciation / GPU useful-life debate / skeptics
+- ✅ [Michael Burry's Latest Warning Could Be Bad News for CoreWeave — Yahoo Finance](https://finance.yahoo.com/news/michael-burrys-latest-warning-could-174332312.html)
+- ✅ [The question everyone in AI is asking: How long before a GPU depreciates? — CNBC](https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html)
+- 📎 [CoreWeave: The Devil Is In The Details Of Its GPU Defense — Seeking Alpha](https://seekingalpha.com/article/4859225-coreweave-the-devil-is-in-the-details-of-its-gpu-defense)
+- 📎 [Depreciation of GPUs: between useful lives and useful myths — Deep Quarry](https://deepquarry.substack.com/p/depreciation-of-gpus-between-useful)
+- 📎 [CoreWeave Is A Time Bomb — Ed Zitron (Where's Your Ed At)](https://www.wheresyoured.at/core-incompetency/)
+
+---
+
 ## Topic: SpaceX / SPCX IPO (article: "The Compute Carousel" — 2026-06-09T1151-the-compute-carousel.md)
 
 ### Origin / framing
