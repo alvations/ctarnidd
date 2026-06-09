@@ -10,7 +10,7 @@
 [![SATS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSATS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SATS%20(EchoStar)&color=5b2d8e&cacheSeconds=300)](https://finance.yahoo.com/quote/SATS)
 [![BTC/USD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC%2FUSD&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
 
-`SPCX` (SpaceX) debuts **June 12, 2026** — its badge stays pending until the listing is live · `TSLA` Tesla (Musk; mooted 2027 merger) · `GOOGL` Alphabet ($920M/mo compute customer) · `SATS` EchoStar (spectrum counterparty) · `BTC` bitcoin (18,712 BTC on the balance sheet).
+_`SPCX` debuts June 12, 2026 — its badge stays pending until the listing is live._
 
 ---
 
