@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Mark to Myth](2026-06-10T0635-mark-to-myth.md) · _2026-06-10_
+
+Private credit ($1.7T) sold "stability" — a smooth, never-falling NAV produced by managers marking their own
+loans. Now the defaults have arrived (First Brands, Tricolor; Dimon's "one cockroach → more"), funds are
+gating redemptions, $265B has been wiped off the managers' stocks (Blue Owl −67%), and Apollo is racing to
+price daily. Is the number a price, or a wish? Fact-checked; see `audit/`.
+
+[![OWL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FOWL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=OWL&color=1f6feb&cacheSeconds=300)](https://finance.yahoo.com/quote/OWL)
+[![APO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAPO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=APO&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/APO)
+[![BX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BX&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/BX)
+[![KKR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKKR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KKR&color=388e3c&cacheSeconds=300)](https://finance.yahoo.com/quote/KKR)
+[![ARES](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FARES%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ARES&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/ARES)
+
 ### [Patient Zero](2026-06-10T0626-patient-zero.md) · _2026-06-10_
 
 Nvidia is the most valuable company in history (~$5T) and the keystone of every AI portfolio — but its

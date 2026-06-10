@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Private credit (article: "Mark to Myth" — 2026-06-10T0635-mark-to-myth.md)
+
+- 🔒 [Apollo's Pricing Plan Will Transform Private Credit — Bloomberg](https://www.bloomberg.com/opinion/articles/2026-05-13/apollo-s-pricing-plan-will-transform-private-credit)
+- 🔒 [Apollo Pledges To Dispel Shadows In Private Credit — Bloomberg](https://www.bloomberg.com/news/newsletters/2026-03-13/apollo-pledges-to-dispel-shadows-in-private-credit)
+- 🔒 [Goldman, BlackRock Calm Private Credit Panic, Blue Owl Less So — Bloomberg](https://www.bloomberg.com/opinion/articles/2026-04-20/goldman-blackrock-calm-private-credit-panic-blue-owl-less-so)
+- 🔒 [First Brands and Tricolor Show Why Private-Credit Lenders Should Worry — Bloomberg](https://www.bloomberg.com/opinion/articles/2025-09-29/first-brands-and-tricolor-show-why-private-credit-lenders-should-worry)
+- 🔒 [Is a Private Credit Crisis Brewing? Tricolor, First Brands Shake Wall Street — Bloomberg](https://www.bloomberg.com/news/articles/2025-10-31/is-a-private-credit-crisis-brewing-tricolor-first-brands-shake-wall-street)
+- ✅ [The $265 billion private credit meltdown — Fortune](https://fortune.com/2026/03/14/private-credit-meltdown-how-wall-streets-blackstone-kkr-apollo-ares-blue-owl-investment-craze-panic/)
+- ✅ [Private Credit Meltdown: Why the $265B Market Is Freezing Investors Out — Kevin Crowther](https://kevincrowther.com/news/265-billion-private-credit-meltdown-blackrock-blue-owl-and-morgan-stanley-gate-redemptions/)
+- ✅ [Do the Bankruptcies of First Brands and Tricolor Suggest Trouble Ahead? — Cambridge Associates](https://www.cambridgeassociates.com/insight/do-the-recent-bankruptcies-of-first-brands-and-tricolor-suggest-trouble-ahead-in-private-credit/)
+- ✅ [Private Credit & Systemic Risk — Harvard Kennedy School (M-RCBG)](https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/private-credit-systemic-risk)
+- 📎 [Measuring Counterparty Exposures to Private Credit — Office of Financial Research](https://www.financialresearch.gov/briefs/files/OFRBrief-26-02-measuring-counterparty-exposures-private-credit.pdf)
+- 📎 [The Outlook for Private Credit amid Rising Market Stress — Goldman Sachs](https://www.goldmansachs.com/insights/articles/the-outlook-for-private-credit-amid-rising-market-stress)
+
+---
+
 ## Topic: Nvidia / NVDA (article: "Patient Zero" — 2026-06-10T0626-patient-zero.md)
 
 - ✅ [Nvidia stock clinches record close, market cap over $5 trillion — Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/nvidia-stock-clinches-record-close-pushing-market-cap-over-5-trillion-once-again-173529477.html)
