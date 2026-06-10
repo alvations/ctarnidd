@@ -5,6 +5,18 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Peak It Knows](2026-06-09T2213-the-peak-it-knows.md) · _2026-06-09_
+
+SoftBank became Japan's most valuable company for the first time since the 2000 dot-com peak — after which
+its stock fell 99% and Son lost ~$70B. He's now bet a $180B war chest on AI, concentrated in an illiquid
+13% OpenAI stake, financed with NAV loans. The most ominous rhyme in finance. Fact-checked; see `audit/`.
+
+[![SoftBank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F9984.T%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%20%C2%A5&label=SoftBank&color=ED1A3D&cacheSeconds=300)](https://finance.yahoo.com/quote/9984.T)
+[![Toyota](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F7203.T%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%20%C2%A5&label=Toyota&color=EB0A1E&cacheSeconds=300)](https://finance.yahoo.com/quote/7203.T)
+[![SFTBY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSFTBY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SFTBY&color=ED1A3D&cacheSeconds=300)](https://finance.yahoo.com/quote/SFTBY)
+[![ARM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FARM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ARM&color=0091BD&cacheSeconds=300)](https://finance.yahoo.com/quote/ARM)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+
 ### [Sixty-Seven Times](2026-06-09T2207-sixty-seven-times.md) · _2026-06-09_
 
 Palantir is a genuinely great, profitable company growing ~70% — which is the trap. At ~67× sales / ~154×

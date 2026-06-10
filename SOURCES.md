@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: SoftBank / 9984.T (article: "The Peak It Knows" — 2026-06-09T2213-the-peak-it-knows.md)
+
+- 🔒 [SoftBank Group Overtakes Toyota as Japan's Most Valuable Company — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-01/softbank-set-to-dethrone-toyota-as-japan-s-most-valuable-company) *(seed)*
+- ✅ [SoftBank overtakes Toyota as Japan's most valuable company — The Japan Times](https://www.japantimes.co.jp/business/2026/06/01/companies/softbank-most-valuable-japan-firm/)
+- ✅ [SoftBank tops Toyota for first time since dot-com peak — The Next Web](https://thenextweb.com/news/japan-ai-bubble-softbank-toyota-dotcom-parallels)
+- ✅ [SoftBank dethrones Toyota as Japan's most valuable company — Nikkei Asia](https://asia.nikkei.com/business/markets/equities/softbank-dethrones-toyota-as-japan-s-most-valuable-company)
+- ✅ [Masayoshi Son — Wikipedia (2000 loss; record)](https://en.wikipedia.org/wiki/Masayoshi_Son)
+- ✅ [SoftBank Vision Fund — Wikipedia ($100B; WeWork; 2022 loss)](https://en.wikipedia.org/wiki/SoftBank_Vision_Fund)
+- ✅ [SoftBank Vision Fund posts $21.6B quarterly loss — CNBC](https://www.cnbc.com/2022/08/08/softbank-vision-fund-posts-a-21point6-billion-quarterly-loss-.html)
+- ✅ [Apollo expands SoftBank Vision Fund 2 NAV loan to record $5.4bn — PE Insights](https://pe-insights.com/apollo-expands-softbank-vision-fund-2-nav-loan-to-record-5-4bn/)
+- ✅ [SoftBank scrambles to find $22.5B for OpenAI before year-end — SiliconANGLE](https://siliconangle.com/2025/12/22/report-softbank-scrambles-find-22-5b-openai-end-year/)
+- ✅ [Announcing The Stargate Project — SoftBank Group](https://group.softbank/en/news/press/20250122)
+
+---
+
 ## Topic: Palantir / PLTR valuation + insider selling (article: "Sixty-Seven Times" — 2026-06-09T2207-sixty-seven-times.md)
 
 - ✅ [AI Juggernauts… $13 Billion Warning (PLTR ~67× sales) — The Motley Fool](https://www.fool.com/investing/2026/06/09/ai-nvda-pltr-mu-avgo-wall-st-13-billion-warning/)
