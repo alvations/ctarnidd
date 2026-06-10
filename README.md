@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Heartbeat](2026-06-09T2307-heartbeat.md) · _2026-06-09_
+
+Several times a year a violent, symmetric spike appears on big ETFs' flow charts — money in, then out, like
+an EKG blip. It's a "heartbeat" trade: a legal maneuver that washes capital gains off the fund tax-free
+under IRC §852(b)(6), opened to every ETF by a 2019 SEC rule, costing the US Treasury ~$48B/yr. Hidden in
+plain sight on your screen. Fact-checked; see `audit/`.
+
+[![BLK](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBLK%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BLK&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/BLK)
+[![IVV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FIVV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=IVV&color=1f6feb&cacheSeconds=300)](https://finance.yahoo.com/quote/IVV)
+[![VOO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVOO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VOO&color=b3261e&cacheSeconds=300)](https://finance.yahoo.com/quote/VOO)
+[![SPY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPY&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/SPY)
+[![DFAC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDFAC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DFAC&color=2a7de1&cacheSeconds=300)](https://finance.yahoo.com/quote/DFAC)
+
 ### [The Appetite Trade](2026-06-09T2301-the-appetite-trade.md) · _2026-06-09_
 
 A hunger-suppressing pill made Lilly the first $1T drugmaker — and is draining $30–55B/yr from food, snacks

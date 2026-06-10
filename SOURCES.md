@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: ETF heartbeat trades / tax structure (article: "Heartbeat" — 2026-06-09T2307-heartbeat.md)
+
+- 🔒 [Tax Break For ETFs Costs US Government $48 Billion A Year — Bloomberg (graphics, seed)](https://www.bloomberg.com/graphics/2026-etf-trading-heartbeats/)
+- 🔒 [Treasury Asked to Clarify Fast-Growing ETF Tax-Busting Strategy — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-08/treasury-asked-to-clarify-fast-growing-etf-tax-busting-strategy)
+- 🔒 [Treasury Takes Aim at Booming ETF Move That's Slashing Tax Bills — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-27/treasury-takes-aim-at-booming-etf-move-that-s-slashing-tax-bills)
+- ✅ [ETF industry exploits tax loophole, costing US Treasury $48B annually — Crypto Briefing](https://cryptobriefing.com/etf-tax-loophole-costs-us-48-billion/)
+- ✅ [Unplugging Heartbeat Trades and Reforming the Taxation of ETFs — U. Chicago Business Law Review](https://businesslawreview.uchicago.edu/print-archive/unplugging-heartbeat-trades-and-reforming-taxation-etfs)
+- ✅ ["Unplugging Heartbeat Trades…" by Jeffrey M. Colon — Fordham](https://ir.lawnet.fordham.edu/faculty_scholarship/1241/)
+- ✅ [ETF Heartbeats Defer, Not Dodge, Taxes — etf.com](https://www.etf.com/sections/news/etf-heartbeats-defer-not-dodge-taxes)
+- ✅ [The Role of Taxes in the Rise of ETFs — Review of Financial Studies (Oxford)](https://academic.oup.com/rfs/article/38/10/2988/8191041)
+- 📎 [Taxing index funds: paths to reform — Brookings](https://www.brookings.edu/articles/taxing-index-funds-mutual-funds-etfs-and-paths-to-reform/)
+- 📎 [SEC's Rule 6c-11 Impact on the Tax Efficiency of ETFs — Columbia Business Law Review](https://journals.library.columbia.edu/index.php/CBLR/announcement/view/497)
+
+---
+
 ## Topic: GLP-1 / Eli Lilly (article: "The Appetite Trade" — 2026-06-09T2301-the-appetite-trade.md)
 
 - ✅ [Eli Lilly Hits $1.01 Trillion Valuation — FX Leaders](https://www.fxleaders.com/news/2026/06/08/eli-lilly-hits-1-01-trillion-valuation-as-new-obesity-drug-data-reinforces-glp-1-dominance/)
