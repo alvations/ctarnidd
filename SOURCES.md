@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: S&P 500 concentration (article: "Index of One" — 2026-06-09T2144-index-of-one.md)
+
+- ✅ [The Magnificent Seven's Market Cap vs. the S&P 500 — The Motley Fool](https://www.fool.com/research/magnificent-seven-sp-500/)
+- ✅ [Should Investors Be Worried That the Mag 7 Make Up 35% of the S&P 500? — The Motley Fool](https://www.fool.com/investing/2026/01/05/should-investors-be-worried-that-the-magnificent-s/)
+- ✅ [The Magnificent Seven Fell 40% While the S&P Dropped 18% — 24/7 Wall St.](https://247wallst.com/investing/2026/05/13/the-magnificent-seven-fell-40-while-the-sp-dropped-18-heres-how-much-tech-concentration-you-can-actually-afford/)
+- ✅ [Exploring Investors' Concerns About Equity Market Concentration — Goldman Sachs Asset Management](https://am.gs.com/en-us/advisors/insights/article/2026/exploring-investors-concerns-about-equity-market-concentration)
+- ✅ [Nvidia becomes first company to close above $5 trillion market cap — Yahoo Finance](https://finance.yahoo.com/news/nvidia-becomes-first-company-to-close-above-5-trillion-market-cap-133101442.html)
+- ✅ [For investors all-in on Mag 7, 'equal weight' trending for 2026 — CNBC](https://www.cnbc.com/2025/12/12/stocks-market-risks-investors-portfolios-2026.html)
+- 📎 [MAGS Bundles the Magnificent Seven Into One Ticker — 24/7 Wall St.](https://247wallst.com/investing/2026/05/21/mags-bundles-the-magnificent-seven-into-one-ticker-and-that-concentration-cuts-both-ways/)
+- 📎 [Advisors confront Magnificent 7 concentration risk in portfolios — InvestmentNews](https://www.investmentnews.com/equities/mag-7-for-tomorrow/264753)
+- 📎 [Stock Market Predictions 2026 (Investment Outlooks) — Bloomberg](https://www.bloomberg.com/graphics/2026-investment-outlooks/) *(paywalled)*
+
+---
+
 ## Topic: AI credit/debt bubble (article: "Borrowed Time" — 2026-06-09T2139-borrowed-time.md)
 
 - 🔒 [DoubleLine's Cohen Warns AI Debt Bubble Is Likely in Credit Markets — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/ai-bubble-is-coming-to-credit-markets-doubleline-s-cohen-says) *(paywalled seed)*

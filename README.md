@@ -5,6 +5,18 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Index of One](2026-06-09T2144-index-of-one.md) · _2026-06-09_
+
+The S&P 500 index fund — sold as "diversification" — now concentrates ~34% in seven correlated AI names
+(top 10 ≈ 40%), the highest in 50 years. One bet in seven jerseys: in 2022 the Mag 7 fell twice as hard
+as the index (−41% vs −20%), and the smart money is quietly rotating to equal-weight. Fact-checked; see `audit/`.
+
+[![SPY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPY&color=1f6feb&cacheSeconds=300)](https://finance.yahoo.com/quote/SPY)
+[![RSP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRSP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RSP%20(eq-wt)&color=8957e5&cacheSeconds=300)](https://finance.yahoo.com/quote/RSP)
+[![MAGS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMAGS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MAGS&color=d29922&cacheSeconds=300)](https://finance.yahoo.com/quote/MAGS)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![QQQ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQQQ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QQQ&color=00bcd4&cacheSeconds=300)](https://finance.yahoo.com/quote/QQQ)
+
 ### [Borrowed Time](2026-06-09T2139-borrowed-time.md) · _2026-06-09_
 
 The AI build-out is debt-financed: $155B+ of hyperscaler bonds (+45%), $120B hidden in off-balance-sheet
