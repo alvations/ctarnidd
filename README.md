@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Stars, Fading](2026-06-09T2249-stars-fading.md) · _2026-06-09_
+
+Defense was 2025's other great trade (Rheinmetall +150%) — but US contractors fell 13–26% *with* the Iran
+war (it ended in 10 days), Rheinmetall is −38% from its peak despite guiding +45% growth, Trump's record
+$1.5T budget made stocks fall (and banned buybacks), and bankers are rushing the KNDS/OHB IPOs out at the
+top (KNDS cut €25B→€18–20B). The theme and the trade are not the same thing. Fact-checked; see `audit/`.
+
+[![LMT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLMT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LMT&color=00205b&cacheSeconds=300)](https://finance.yahoo.com/quote/LMT)
+[![RTX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRTX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RTX&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/RTX)
+[![NOC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNOC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NOC&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/NOC)
+[![Rheinmetall](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRHM.DE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%20%E2%82%AC&label=Rheinmetall&color=e2001a&cacheSeconds=300)](https://finance.yahoo.com/quote/RHM.DE)
+[![ITA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FITA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ITA&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/ITA)
+
 ### [The Peak It Knows](2026-06-09T2213-the-peak-it-knows.md) · _2026-06-09_
 
 SoftBank became Japan's most valuable company for the first time since the 2000 dot-com peak — after which

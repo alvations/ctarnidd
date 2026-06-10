@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Defense sector (article: "Stars, Fading" — 2026-06-09T2249-stars-fading.md)
+
+- 🔒 [Bernstein Says Defense Stocks Unlikely to Rebound Before November Election — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/defense-stocks-losing-steam-as-catalysts-fade-bernstein-says) *(seed)*
+- 🔒 [Europe's Next Set of IPOs Will Add to the Year's Defining Theme — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-08/europe-s-next-set-of-ipos-will-add-to-the-year-s-defining-theme) *(seed)*
+- 🔒 [KNDS IPO Faces Uncertainty as Valuation Drops on Defense Stock Slump — Bloomberg](https://www.bloomberg.com/news/articles/2026-05-08/knds-ipo-wobbles-over-valuation-as-peers-fall)
+- ✅ [Defense stocks have floundered since the Iran war began. Here's why — CNBC](https://www.cnbc.com/2026/04/28/defense-stocks-have-floundered-since-the-iran-war-began-heres-why.html)
+- ✅ [US defense stocks see no Iran war lift after early surge — Military Times](https://www.militarytimes.com/news/your-military/2026/04/02/us-defense-stocks-see-no-iran-war-lift-after-early-surge/)
+- ✅ [Trump says he will not permit dividends and stock buybacks for defense companies — CNBC](https://www.cnbc.com/2026/01/07/trump-dividends-stock-buybacks-defense-companies.html)
+- ✅ [Trump signs order to block defense companies from buying back stock — Fox Business](https://www.foxbusiness.com/politics/trump-signs-order-block-defense-companies-from-buying-back-stock-until-arms-production-improves)
+- ✅ [Trump proposes $1.5T 2027 defense budget — PBS NewsHour](https://www.pbs.org/newshour/politics/trump-proposes-massive-increase-in-2027-defense-spending-to-1-5-trillion-to-build-dream-military)
+- ✅ [European defense stocks are cooling off after the military spending boom — CNBC](https://www.cnbc.com/2026/05/30/defense-stocks-consolidation-rheinmetall-saab-renk.html)
+- ✅ [Rheinmetall FY earnings: sales set to grow up to 45% in 2026 — CNBC](https://www.cnbc.com/2026/03/11/rheinmetall-rhm-fy-earnings-stock-2025.html)
+- ✅ [KNDS, OHB to test appetite after Rheinmetall derating — ION Analytics](https://ionanalytics.com/insights/dealogic/knds-ohb-to-test-appetite-for-european-defence-stocks-after-rheinmetall-derating-ecm-pulse-emea/)
+
+---
+
 ## Topic: SoftBank / 9984.T (article: "The Peak It Knows" — 2026-06-09T2213-the-peak-it-knows.md)
 
 - 🔒 [SoftBank Group Overtakes Toyota as Japan's Most Valuable Company — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-01/softbank-set-to-dethrone-toyota-as-japan-s-most-valuable-company) *(seed)*
