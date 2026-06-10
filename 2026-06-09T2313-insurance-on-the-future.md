@@ -12,7 +12,7 @@
 
 ---
 
-In March 2026, JPMorgan offered its clients a new product. It was not a fund, or a bond, or a way to invest in the artificial-intelligence boom. It was a way to *bet against* it — a custom basket of credit-default swaps on the debt of five of the largest hyperscalers in the world: Alphabet, Amazon, Meta, Microsoft and Oracle. For a fee, an investor could now buy, in a single liquid instrument, insurance that pays out if the companies leading the AI revolution struggle to repay the hundreds of billions of dollars they are borrowing to build it.
+In March 2026, JPMorgan offered its clients a new product. It was not a fund, or a bond, or a way to invest in the artificial-intelligence boom. It was a way to *bet against* it — a custom basket of credit-default swaps on the debt of five of the largest hyperscalers in the world: Alphabet, Amazon, Meta, Microsoft and Oracle, traded in $25 million increments, equally weighted across the five. For a fee, an investor could now buy, in a single liquid instrument, insurance that pays out if the companies leading the AI revolution struggle to repay the hundreds of billions of dollars they are borrowing to build it.
 
 Sit with the symmetry of that for a moment. JPMorgan is one of the principal banks *underwriting* the very debt the basket is designed to protect against. It helps the hyperscalers sell their bonds to investors, and now it helps those same investors bet that the bonds will sour. The bank is, in effect, selling both the cruise tickets and the lifeboats — and the brisk demand for lifeboats is the story.
 

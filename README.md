@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Insurance on the Future](2026-06-09T2313-insurance-on-the-future.md) · _2026-06-09_
+
+The same banks underwriting the trillion-dollar AI debt boom are building the instruments to bet against it.
+Hyperscaler CDS volume is up ~10× in a year, single-name tech swaps went from near-zero to among the most
+active in the market, and JPMorgan launched a five-name CDS basket (the AI-debt ABX). When the people
+arranging the bonds start selling the fire exits, read the fine print. Fact-checked; see `audit/`.
+
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=C74634&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=1877F2&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+[![CRWV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWV&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWV)
+[![JPM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FJPM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=JPM&color=005eb8&cacheSeconds=300)](https://finance.yahoo.com/quote/JPM)
+[![HYG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHYG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HYG&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/HYG)
+
 ### [Heartbeat](2026-06-09T2307-heartbeat.md) · _2026-06-09_
 
 Several times a year a violent, symmetric spike appears on big ETFs' flow charts — money in, then out, like

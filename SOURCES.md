@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AI credit derivatives (article: "Insurance on the Future" — 2026-06-09T2313-insurance-on-the-future.md)
+
+- 🔒 [AI Debt Boom Spurs Surge in Credit Derivatives for Big Tech Investors — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly) *(seed)*
+- 🔒 [Big Tech AI Debt Boom Fuels Surge in Hyperscaler Credit Derivatives Trading — Bloomberg](https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly) *(seed)*
+- 🔒 [JPMorgan Offers Clients a New CDS Basket to Hedge AI Debt Risk — Bloomberg](https://www.bloomberg.com/news/articles/2026-03-23/jpmorgan-offers-clients-a-new-cds-basket-to-hedge-ai-debt-risk)
+- ✅ [JPMorgan Offers Clients a New CDS Basket to Hedge AI Debt Risk — Bloomberg Law](https://news.bloomberglaw.com/banking-law/jpmorgan-offers-clients-a-new-cds-basket-to-hedge-ai-debt-risk)
+- ✅ [Investors flock to credit default swaps as AI surge spurs tech debt concerns — Cryptopolitan](https://www.cryptopolitan.com/investors-flock-to-cds-as-ai-raises-concerns/)
+- ✅ [AI Debt Explosion Has Traders Searching for Cover: Credit Weekly — Yahoo Finance](https://finance.yahoo.com/news/ai-debt-explosion-traders-searching-175630817.html)
+- ✅ [JPMorgan Launches CDS Basket to Hedge AI Debt Risk — Winbuzzer](https://winbuzzer.com/2026/03/24/jpmorgan-launches-cds-basket-hedge-ai-debt-risk-xcxwbn/)
+- 📎 [When the Credit Market Builds a Fire Exit — AI Realist](https://www.airealist.ai/p/when-the-credit-market-builds-a-fire)
+- 📎 [Financing the AI infrastructure boom: on- and off-balance sheet borrowing — BIS](https://www.bis.org/publ/qtrpdf/r_qt2603u.htm)
+
+---
+
 ## Topic: ETF heartbeat trades / tax structure (article: "Heartbeat" — 2026-06-09T2307-heartbeat.md)
 
 - 🔒 [Tax Break For ETFs Costs US Government $48 Billion A Year — Bloomberg (graphics, seed)](https://www.bloomberg.com/graphics/2026-etf-trading-heartbeats/)
