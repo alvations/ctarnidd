@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Appetite Trade](2026-06-09T2301-the-appetite-trade.md) · _2026-06-09_
+
+A hunger-suppressing pill made Lilly the first $1T drugmaker — and is draining $30–55B/yr from food, snacks
+and alcohol. The market is long the winner at a perfection price (while a price war, $499→$349, and 193
+pipeline rivals eat its margins) and has barely priced the diffuse losers. The theme ≠ the trade: same drug
+class, Lilly +40% / Novo −40%. Fact-checked; see `audit/`.
+
+[![LLY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLLY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LLY&color=d52b1e&cacheSeconds=300)](https://finance.yahoo.com/quote/LLY)
+[![NVO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVO&color=001965&cacheSeconds=300)](https://finance.yahoo.com/quote/NVO)
+[![MDLZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMDLZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MDLZ&color=6f2b8f&cacheSeconds=300)](https://finance.yahoo.com/quote/MDLZ)
+[![KHC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKHC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KHC&color=e2231a&cacheSeconds=300)](https://finance.yahoo.com/quote/KHC)
+[![STZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSTZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=STZ&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/STZ)
+
 ### [Stars, Fading](2026-06-09T2249-stars-fading.md) · _2026-06-09_
 
 Defense was 2025's other great trade (Rheinmetall +150%) — but US contractors fell 13–26% *with* the Iran

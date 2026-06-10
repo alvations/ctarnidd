@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: GLP-1 / Eli Lilly (article: "The Appetite Trade" — 2026-06-09T2301-the-appetite-trade.md)
+
+- ✅ [Eli Lilly Hits $1.01 Trillion Valuation — FX Leaders](https://www.fxleaders.com/news/2026/06/08/eli-lilly-hits-1-01-trillion-valuation-as-new-obesity-drug-data-reinforces-glp-1-dominance/)
+- ✅ [FDA approves Eli Lilly's GLP-1 pill Foundayo for obesity — CNBC](https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html)
+- ✅ [Eli Lilly's GLP-1 growth only getting started as Novo braces for decline — CNBC](https://www.cnbc.com/2026/02/04/eli-lilly-novo-nordisk-earnings-glp1-market.html)
+- ✅ [2026 is the year of obesity pills — CNBC](https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html)
+- ✅ [GLP-1 price war heats up as Novo offers $199 starter doses — Fast Company](https://www.fastcompany.com/91443391/glp-1-price-war-heats-up-as-novo-nordisk-offers-199-starter-doses)
+- ✅ [GLP-1 users cut food spending by 5.3% — Food Business News](https://www.foodbusinessnews.net/articles/29532-glp-1-users-cut-food-spending-by-53)
+- ✅ [GLP-1 users to make up 35% of food and beverage sales by 2030 — Food Dive](https://www.fooddive.com/news/glp1s-weight-loss-food-beverage-sales-2030/806415/)
+- ✅ [GLP-1s: Winners and losers in food and drink — FoodNavigator](https://www.foodnavigator.com/Article/2026/01/19/glp-1s-winners-and-losers/)
+- 📎 [Compounding Pharmacy Sues Eli Lilly, Novo Over GLP-1 Antitrust — HMP Global](https://www.hmpgloballearningnetwork.com/site/pln/news/compounding-pharmacy-sues-eli-lilly-novo-nordisk-over-alleged-glp-1-antitrust)
+- 📎 [The outlook for obesity from 2026 to 2030 — IQVIA](https://www.iqvia.com/locations/emea/blogs/2026/04/the-outlook-for-obesity-from-2026-to-2030)
+
+---
+
 ## Topic: Defense sector (article: "Stars, Fading" — 2026-06-09T2249-stars-fading.md)
 
 - 🔒 [Bernstein Says Defense Stocks Unlikely to Rebound Before November Election — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/defense-stocks-losing-steam-as-catalysts-fade-bernstein-says) *(seed)*
