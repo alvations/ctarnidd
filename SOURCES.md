@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Strategy / MSTR bitcoin treasury (article: "The Forced Seller" — 2026-06-09T2148-the-forced-seller.md)
+
+- ✅ [Strategy sold 32 BTC for $2.5M in late May (filing) — CoinDesk](https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows)
+- ✅ [Michael Saylor backs STRC after Strategy sells bitcoin to fund preferred dividends — CoinDesk](https://www.coindesk.com/markets/2026/06/01/michael-saylor-breaks-silence-after-strategy-sells-usd2-5-million-in-bitcoin)
+- ✅ [Strategy Executes Rare 32 BTC Sale to Fund STRC Dividends — Crypto Times](https://www.cryptotimes.io/2026/06/01/strategy-executes-rare-32-btc-sale-to-fund-strc-dividends/)
+- ✅ [Strategy Inc — Form 8-K (mstr-20260530) — SEC](https://www.sec.gov/Archives/edgar/data/0001050446/000119312526249768/mstr-20260530.htm)
+- ✅ [Can Capital Markets Fund MSTR Without a Premium? (mNAV collapse) — BeInCrypto](https://beincrypto.com/strategy-mnav-collapse-bitcoin-leverage-2026/)
+- ✅ [Why Is MSTR Stock Down 58% YoY? — 24/7 Wall St.](https://247wallst.com/investing/2026/05/19/why-is-mstr-stock-down-58-yoy-despite-strategys-relentless-bitcoin-buying/)
+- ✅ [The Bitcoin Crash Wiped $62B From Corporate Treasury Holders — CryptoNews](https://cryptonews.com/news/bitcoin-treasury-strategies-62-billion-wipeout/)
+- ✅ [Michael Saylor Calls Bitcoin Selloff an AI Rotation — BeInCrypto](https://beincrypto.com/microstrategy-saylor-bitcoin-sell-off-ai-capital-rotation/)
+- 📎 [How much debt does Strategy actually have? — PANews](https://www.panewslab.com/en/articles/019e968e-0c79-75bd-a626-499558a797ed)
+- 📎 [MSTR vs Bitcoin 2026: The 5x Leverage Trade Explained — TECHi](https://www.techi.com/mstr-bitcoin-leverage-trade/)
+
+---
+
 ## Topic: S&P 500 concentration (article: "Index of One" — 2026-06-09T2144-index-of-one.md)
 
 - ✅ [The Magnificent Seven's Market Cap vs. the S&P 500 — The Motley Fool](https://www.fool.com/research/magnificent-seven-sp-500/)

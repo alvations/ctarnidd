@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Forced Seller](2026-06-09T2148-the-forced-seller.md) · _2026-06-09_
+
+Strategy (MSTR) swore it would "never sell" bitcoin — then sold 32 coins to make a preferred-dividend
+payment. The mNAV premium that powered the flywheel collapsed from 3.89× to ~1.2× (below 1.0× in Nov
+2025) as spot-BTC ETFs erased its reason to exist; the stock is −58% YoY. The forced seller was in the
+capital structure all along. Fact-checked; see `audit/`.
+
+[![MSTR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSTR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSTR&color=f7931a&cacheSeconds=300)](https://finance.yahoo.com/quote/MSTR)
+[![BTC/USD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC%2FUSD&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+[![IBIT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FIBIT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=IBIT&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/IBIT)
+[![COIN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOIN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COIN&color=1652f0&cacheSeconds=300)](https://finance.yahoo.com/quote/COIN)
+[![MARA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMARA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MARA&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/MARA)
+
 ### [Index of One](2026-06-09T2144-index-of-one.md) · _2026-06-09_
 
 The S&P 500 index fund — sold as "diversification" — now concentrates ~34% in seven correlated AI names
