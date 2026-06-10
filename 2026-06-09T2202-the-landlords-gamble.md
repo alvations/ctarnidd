@@ -1,0 +1,51 @@
+# The Landlord's Gamble
+
+*Oracle has borrowed more than $100 billion and is burning cash faster than at any point in its history to build $300 billion of data centers for a single tenant — one that loses fourteen billion dollars a year and cannot yet pay the rent. Its bondholders are suing. Its credit insurance just hit a record. And the whole bet rests on one company's promise.*
+
+**Related tickers — live prices:**
+
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=C74634&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![LQD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLQD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LQD%20(IG%20bonds)&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/LQD)
+
+---
+
+There is a version of Oracle's story, the one its share price told for most of the past two years, that is purely triumphant. A fifty-year-old database company, long since written off as a slow-growing relic of the client-server age, reinvented itself as one of the essential landlords of the artificial-intelligence revolution — renting out vast tracts of computing power to the companies building the future, signing the largest cloud contracts in the industry's history, and watching its founder Larry Ellison briefly become one of the richest men on earth. It is a genuinely remarkable second act.
+
+There is another version, told not by the stock but by the bond market, and it is the one worth reading. In this version Oracle is a company that has borrowed more than **$100 billion**, driven its free cash flow to the worst deficit in its history, and staked its balance sheet on building hundreds of billions of dollars of data centers for a customer that does not yet make money — and the people who lend Oracle money have begun, visibly and litigiously, to lose their nerve.
+
+Both versions are true. The question the equity market has not wanted to ask, and the credit market can no longer avoid, is which one is the future.
+
+## The tenant
+
+Start with the lease at the center of everything, because almost everything else is downstream of it.
+
+In 2025 Oracle struck a five-year cloud agreement with OpenAI — part of the "Stargate" build-out — to deliver some **4.5 gigawatts** of data-center capacity, a deal Oracle has valued at as much as **$300 billion** in revenue over its life. It is, by a wide margin, the largest cloud contract ever signed, and it is the single thing most responsible for Oracle's transformation in the eyes of investors. It powered a backlog — "remaining performance obligations," in the accounting term — that exploded from around **$455 billion** to roughly **$523 billion** in the space of a few quarters, a year-over-year increase of more than **400%.** On paper, Oracle has half a trillion dollars of future revenue under contract. The number is staggering, and it is the centerpiece of every bull case.
+
+Now read the same fact from the other side. A backlog is only as good as the customer's ability to pay it, and a single customer — OpenAI — accounts for a large share of this one. OpenAI, as its own confidential IPO filing makes plain, **lost an estimated $14 billion last year**, does not expect to be profitable until around the end of the decade, and is simultaneously promising vast sums to Nvidia, Microsoft, AMD, CoreWeave and others. Oracle's half-trillion-dollar backlog is, to a meaningful degree, a promise from a company that is itself burning cash on a historic scale and depends on raising fresh capital to keep its own lights on. Oracle has been reduced to reassuring its investors, in public statements, that it remains "highly confident in OpenAI's ability to raise funds and meet its commitments." When a landlord has to issue press releases vouching for the solvency of its tenant, the tenant is not an ordinary tenant.
+
+## Tomorrow's debt for yesterday's buildings
+
+To be the landlord, Oracle has had to build — and to build, it has had to borrow, on a scale that has rewritten its balance sheet.
+
+Oracle's total borrowings have climbed to somewhere around **$124 billion**, up sharply from roughly $85 billion a year earlier, with net debt north of **$95 billion** against operating cash flow of only about **$17 billion** over the first nine months of its fiscal year. To fund the buildout it has come to the markets again and again: an **$18 billion** investment-grade bond sale in September, a record-demand **$25 billion** sale in February, with banks reported to be preparing tens of billions more in loans and bonds, and a roughly **$50 billion** debt-and-equity financing plan on top. A **$14 billion** infusion arrived from Pimco. This is not a company funding growth out of profits. It is a company funding a landgrab out of leverage.
+
+And the capital spending required to honor the Stargate promise has driven Oracle's **free cash flow deeply negative** — into the neighborhood of **negative $25 billion** through three quarters of the fiscal year, against capital-expenditure guidance around **$50 billion.** CNBC put the structural problem with brutal economy: Oracle, it wrote, is "building yesterday's data centers with tomorrow's debt." The phrase captures both halves of the risk — that the borrowing is enormous, and that the assets it buys, like all AI hardware, begin depreciating toward obsolescence the moment they are switched on, long before the decades-long debt that financed them comes due.
+
+## The credit market flinches
+
+The tell, as always, is in the price of insurance.
+
+The cost of insuring Oracle's debt against default — its five-year credit-default swap spread — surged through late 2025 and into 2026 to around **198 basis points**, the highest level on record and the widest in at least three years. It has been violently volatile: it tumbled sharply when Oracle unveiled its financing plans, as relieved investors took comfort that the money had been raised, then climbed again as the underlying worry reasserted itself. That worry is not about whether Oracle can borrow — it plainly can — but about what it is borrowing *for*, and whether the cash flows to service all this debt will materialize on the schedule the contracts assume. Oracle's CDS now trades wide of where a company with its investment-grade rating "should," which is the market's polite way of saying it does not fully believe the rating.
+
+More striking still: **bondholders have sued.** Investors who bought Oracle's debt have brought legal action related to its OpenAI-linked financing — a remarkable development for a blue-chip technology company, and a sign that some of the people who lent Oracle money believe they were not adequately told what they were lending it *into*. When your own creditors are reaching for lawyers, the gap between the triumphant story and the bond market's story has become a chasm.
+
+## The shape of the bet
+
+Strip away the database heritage and the Ellison mystique, and what Oracle has constructed is a single, enormous, leveraged wager with a very specific shape. It is borrowing money today, at the most negative free cash flow in its history, to build depreciating assets, in order to fulfill a half-trillion-dollar contract whose largest counterparty loses fourteen billion dollars a year and must keep raising capital to survive. If the AI boom continues, OpenAI grows into its commitments, and the compute Oracle is building gets rented at the margins Oracle hopes for, the bet pays off spectacularly and the bond market's anxiety looks, in hindsight, like timidity. That is the bull case, and it is not absurd — Oracle's capacity is real, the demand for AI compute is real, and a company that successfully becomes a core landlord of the AI era will have earned every dollar.
+
+But the structure leaves Oracle dangerously little room for the future to disappoint. It has converted itself from a cash-generating software business into a capital-intensive, debt-laden infrastructure developer whose fortunes are now lashed to the solvency of a single loss-making customer and the permanence of a single technological boom. It has taken the circular logic of the AI build-out — in which Nvidia funds OpenAI, OpenAI pays Oracle, Oracle buys Nvidia's chips — and placed its own balance sheet at the load-bearing center of it. A landlord can survive a bad tenant. It is much harder to survive having bet the entire firm on one.
+
+The equity market has spent two years pricing the triumphant version. The credit market, with its record CDS and its litigious bondholders, has started pricing the other one. When those two markets disagree this loudly about the same company, the resolution usually comes from the side that has to be repaid in cash — and it usually comes faster than anyone building yesterday's data centers with tomorrow's debt would like.
