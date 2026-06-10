@@ -5,6 +5,18 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Borrowed Time](2026-06-09T2139-borrowed-time.md) · _2026-06-09_
+
+The AI build-out is debt-financed: $155B+ of hyperscaler bonds (+45%), $120B hidden in off-balance-sheet
+SPVs (Blue Owl/Pimco/BlackRock), Meta's Hyperion notes due 2049 funding chips obsolete by the 2030s, and
+DoubleLine's Robert Cohen putting the odds of an AI debt bubble at 100%. Fact-checked; see `audit/`.
+
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=C74634&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=1877F2&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![CRWV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWV&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWV)
+[![HYG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHYG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HYG&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/HYG)
+
 ### [The Encore](2026-06-09T1331-the-encore.md) · _2026-06-09_
 
 DI Corp — the Korean chip-tester pumped ~500% in 2012 because its chairman is Psy's father — is being

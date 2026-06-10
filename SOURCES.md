@@ -8,6 +8,24 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AI credit/debt bubble (article: "Borrowed Time" — 2026-06-09T2139-borrowed-time.md)
+
+- 🔒 [DoubleLine's Cohen Warns AI Debt Bubble Is Likely in Credit Markets — Bloomberg](https://www.bloomberg.com/news/articles/2026-06-03/ai-bubble-is-coming-to-credit-markets-doubleline-s-cohen-says) *(paywalled seed)*
+- 🔒 [The $3 Trillion AI Data Center Build-Out Becomes All-Consuming For Debt Markets — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-02/the-3-trillion-ai-data-center-build-out-spurs-a-debt-market-boom) *(paywalled seed)*
+- ✅ [Oracle, xAI, Meta, CoreWeave drive $120B off-balance-sheet AI financing — Cryptopolitan](https://www.cryptopolitan.com/oracle-xai-meta-coreweave-off%E2%80%91balance-sheet/)
+- ✅ [DoubleLine, Oaktree Brace for Potential AI Pain — Advisor Perspectives](https://www.advisorperspectives.com/articles/2026/06/08/doubleline-oaktree-brace-potential-ai-pain)
+- ✅ [DoubleLine manager sees AI debt bubble as almost certain — Investing.com](https://www.investing.com/news/stock-market-news/doubleline-manager-sees-ai-debt-bubble-as-almost-certain-93CH-4725004)
+- ✅ [Meta, Blue Owl seal $30bn deal for Hyperion data centre — Business Standard](https://www.business-standard.com/technology/tech-news/meta-blue-owl-seal-30-bn-private-capital-deal-for-hyperion-data-centre-125101700310_1.html)
+- ✅ [Meta secures $30bn Blue Owl finance package for Louisiana data center — Data Center Dynamics](https://www.datacenterdynamics.com/en/news/meta-secures-30bn-blue-owl-finance-package-for-louisiana-data-center-report/)
+- ✅ [Meta–Blue Owl Hyperion JV — Meta IR](https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx)
+- ✅ [Big Tech's AI bond binge shatters 'unspoken contract' with investors — CNBC](https://www.cnbc.com/2026/02/23/big-techs-ai-bond-binge-shatters-unspoken-contract-with-investors.html)
+- 📎 [AI Debt Deluge Tops $1 Trillion; bond giants draft 'bubble survival guides' — BigGo](https://finance.biggo.com/news/gZLUn54BaoGGrU-IFLOe)
+- 📎 [Wall Street banks offloading AI data-center debt via 'SRT' — kimminwoo.com](https://kimminwoo.com/daily/2026-05-04-claude-scout2)
+- 📎 [The AI Supercycle Is Being Financed by Junk Bonds — FourWeekMBA](https://fourweekmba.com/ai-supercycle-junk-bonds-coreweave-gpu-debt-map-of-ai/)
+- 📎 [CoreWeave taps Europe's high-yield bond market (JPMorgan-led) — Futu](https://news.futunn.com/en/post/74339518/the-ai-bond-issuance-frenzy-expands-further-coreweave-taps-into)
+
+---
+
 ## Topic: Korea AI-memory mania / DI Corp (article: "The Encore" — 2026-06-09T1331-the-encore.md)
 
 ### Seed + DI Corp / Gangnam Style
