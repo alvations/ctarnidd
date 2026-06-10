@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Encore](2026-06-09T1331-the-encore.md) · _2026-06-09_
+
+DI Corp — the Korean chip-tester pumped ~500% in 2012 because its chairman is Psy's father — is being
+bid up again by the AI-memory boom. The emblem for a market where Samsung + SK Hynix are >50% of the
+KOSPI, retail piled into brand-new 2× single-stock ETFs (a ₩28T "black hole"), and a 7% Broadcom miss
+detonated an 8% crash + circuit breaker on June 8. Fact-checked; see `audit/`.
+
+[![Samsung](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F005930.KS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%20%E2%82%A9&label=Samsung&color=1428A0&cacheSeconds=300)](https://finance.yahoo.com/quote/005930.KS)
+[![SK Hynix](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F000660.KS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%20%E2%82%A9&label=SK%20Hynix&color=E60012&cacheSeconds=300)](https://finance.yahoo.com/quote/000660.KS)
+[![DI Corp](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F003160.KS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%20%E2%82%A9&label=DI%20Corp&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/003160.KS)
+[![EWY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEWY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EWY&color=2a7de1&cacheSeconds=300)](https://finance.yahoo.com/quote/EWY)
+[![AVGO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAVGO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AVGO&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/AVGO)
+
 ### [The Ouroboros](2026-06-09T1310-the-ouroboros.md) · _2026-06-09_
 
 OpenAI filed to go public at up to $1 trillion — while losing ~$14B a year, having pledged ~$1.4T

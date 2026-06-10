@@ -8,6 +8,39 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Korea AI-memory mania / DI Corp (article: "The Encore" — 2026-06-09T1331-the-encore.md)
+
+### Seed + DI Corp / Gangnam Style
+- ✅ [A 'Gangnam Style' stock gets an AI sequel: Chart of the Day — Yahoo Finance (seed)](https://finance.yahoo.com/markets/article/a-gangnam-style-stock-gets-an-ai-sequel-chart-of-the-day-135037570.html)
+- ✅ [DI Corporation — Wikipedia](https://en.wikipedia.org/wiki/DI_Corporation)
+- ✅ [Psy's Real Daddy Is Super Rich CEO (Park Won-ho; Bloomberg "almost 500%") — 2paragraphs](https://2paragraphs.com/2015/12/psys-real-daddy-is-super-rich-ceo/)
+- 📎 [Gangnam Style stock bubble — Slate (2012)](https://slate.com/business/2012/10/gangnam-style-stock-bubble-di-corp-owned-by-k-pop-star-psy-s-father-is-surging-in-value.html)
+- 📎 [Why "Gangnam Style" gave Psy's father an 800% boost — Quartz (2012)](https://qz.com/109346/why-gangnam-style-gave-psys-father-an-800-stock-boost)
+- 📎 [Investor PSY-chology surrounding "Gangnam Style" — RePEc/Pacific-Basin Finance Journal](https://ideas.repec.org/a/eee/pacfin/v37y2016icp23-34.html)
+- 📎 [D.I Corporation (003160.KS) — Yahoo Finance](https://finance.yahoo.com/quote/003160.KS/)
+
+### Korea AI-memory mania / chips
+- ✅ [Beware the boom and bust cycle of memory stocks — CNBC](https://www.cnbc.com/2026/05/25/memory-stocks-cyclical-boom-bust-samsung-sk-hynix.html)
+- ✅ [SK Hynix hits $1 trillion valuation as AI boom lifts Korean chip stocks — CNBC](https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html)
+- 📎 [Korea's AI memory boom: could SK Hynix overtake Samsung? — KED Global](https://www.kedglobal.com/korean-chipmakers/newsView/ked202605270007)
+- 📎 [SK Hynix nears US$1tn as South Korea leads AI boom — Technology Magazine](https://technologymagazine.com/news/sk-hynix-nears-us-1tn-as-ai-memory-demand-surges)
+
+### Leveraged ETFs ("black hole")
+- ✅ [Samsung-SK Hynix Leveraged ETFs Become Market 'Black Hole' — Seoul Economic Daily](https://en.sedaily.com/markets/2026/06/03/samsung-hynix-leveraged-etfs-become-market-black-hole)
+- ✅ [Samsung-SK Hynix Slide Sends '2x ETFs' Down 20% — Seoul Economic Daily](https://en.sedaily.com/finance/2026/06/05/samsung-sk-hynix-slide-sends-2x-etfs-down-20-percent-as)
+- ✅ [Mirae Asset Samsung-Hynix Single-Stock Leverage ETFs Top ₩3T in Retail Buying — Seoul Economic Daily](https://en.sedaily.com/finance/2026/06/09/mirae-asset-samsung-hynix-single-stock-leverage-etfs-top-3)
+- 📎 [Samsung, SK Hynix Leveraged ETFs Draw ₩28T in Three Days — Seoul Economic Daily](https://en.sedaily.com/finance/2026/05/31/samsung-sk-hynix-leveraged-etfs-draw-28-trillion-won-in)
+- 📎 [Korea's first single-stock leverage ETFs debut — KED Global](https://www.kedglobal.com/korean-stock-market/newsView/ked202605270003)
+
+### June 8 crash / bubble warnings
+- ✅ [KOSPI sinks over 8%, circuit breaker, AI bubble fears (Broadcom miss) — TradingKey](https://www.tradingkey.com/analysis/stocks/more/261947500-kospi-korea-crash-samsung-sk-hynix-broadcom-ai-chip-guidance-miss-foreign-outflow-circuit-breaker-tradingkey)
+- ✅ [South Korea's KOSPI meltdown sends a warning to every market that bet on AI — European Business Magazine](https://europeanbusinessmagazine.com/south-korea-kospi-ai-selloff-2026/)
+- ✅ [iShares MSCI South Korea ETF (EWY) — Yahoo Finance](https://finance.yahoo.com/quote/EWY/)
+- 📎 [KOSPI plunges 8%, triggers circuit breaker — Multibagg](https://www.multibagg.ai/market-pulse/articles/kospi-plunge-ai-chip-rotation-cmq4kz1jwdx30s50j7tgn7ja9)
+- 📎 [South Korea stocks crashed 18% in two days (March 2026) — CNBC](https://www.cnbc.com/2026/03/04/south-korea-stocks-kospi.html)
+
+---
+
 ## Topic: OpenAI IPO (article: "The Ouroboros" — 2026-06-09T1310-the-ouroboros.md)
 
 ### Seed / confidential filing / Anthropic race
