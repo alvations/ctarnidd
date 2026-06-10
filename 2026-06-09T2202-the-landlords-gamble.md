@@ -16,7 +16,7 @@ There is a version of Oracle's story, the one its share price told for most of t
 
 There is another version, told not by the stock but by the bond market, and it is the one worth reading. In this version Oracle is a company that has borrowed more than **$100 billion**, driven its free cash flow to the worst deficit in its history, and staked its balance sheet on building hundreds of billions of dollars of data centers for a customer that does not yet make money — and the people who lend Oracle money have begun, visibly and litigiously, to lose their nerve.
 
-Both versions are true. The question the equity market has not wanted to ask, and the credit market can no longer avoid, is which one is the future.
+Both versions are true. The equity market spent two years pricing the first and has only lately begun to flinch — Oracle's shares are down roughly **25% in 2026.** The question it still has not fully asked, and the credit market can no longer avoid, is which version is the future.
 
 ## The tenant
 
@@ -38,9 +38,9 @@ And the capital spending required to honor the Stargate promise has driven Oracl
 
 The tell, as always, is in the price of insurance.
 
-The cost of insuring Oracle's debt against default — its five-year credit-default swap spread — surged through late 2025 and into 2026 to around **198 basis points**, the highest level on record and the widest in at least three years. It has been violently volatile: it tumbled sharply when Oracle unveiled its financing plans, as relieved investors took comfort that the money had been raised, then climbed again as the underlying worry reasserted itself. That worry is not about whether Oracle can borrow — it plainly can — but about what it is borrowing *for*, and whether the cash flows to service all this debt will materialize on the schedule the contracts assume. Oracle's CDS now trades wide of where a company with its investment-grade rating "should," which is the market's polite way of saying it does not fully believe the rating.
+The cost of insuring Oracle's debt against default — its five-year credit-default swap spread — surged through late 2025 and into 2026 to around **198 basis points**, the highest level on record. To grasp what that means: the market's price for insuring a blue-chip, investment-grade software company against default rose *above where it stood at the depths of the 2008 financial crisis.* It has been violently volatile: it tumbled sharply when Oracle unveiled its financing plans, as relieved investors took comfort that the money had been raised, then climbed again as the underlying worry reasserted itself. That worry is not about whether Oracle can borrow — it plainly can — but about what it is borrowing *for*, and whether the cash flows to service all this debt will materialize on the schedule the contracts assume. Oracle's CDS now trades wide of where a company with its investment-grade rating "should," which is the market's polite way of saying it does not fully believe the rating.
 
-More striking still: **bondholders have sued.** Investors who bought Oracle's debt have brought legal action related to its OpenAI-linked financing — a remarkable development for a blue-chip technology company, and a sign that some of the people who lent Oracle money believe they were not adequately told what they were lending it *into*. When your own creditors are reaching for lawyers, the gap between the triumphant story and the bond market's story has become a chasm.
+More striking still: **bondholders have sued.** Investors who bought Oracle's debt brought a proposed class action alleging the company **concealed the scale of the additional borrowing** it would need to fund its AI buildout — a remarkable development for a blue-chip technology company, and a sign that some of the people who lent Oracle money believe they were not adequately told what they were lending it *into*. When your own creditors are reaching for lawyers, the gap between the triumphant story and the bond market's story has become a chasm.
 
 ## The shape of the bet
 

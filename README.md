@@ -5,6 +5,18 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Landlord's Gamble](2026-06-09T2202-the-landlords-gamble.md) · _2026-06-09_
+
+Oracle borrowed >$100B and drove free cash flow to ~−$25B to build $300B of data centers for one tenant —
+OpenAI, which loses $14B/yr. Its $523B backlog (+438%) is a promise from a cash-burning customer; its CDS
+hit a record 198 bps (above its 2008 peak) and bondholders filed a class action. Fact-checked; see `audit/`.
+
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=C74634&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![LQD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLQD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LQD&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/LQD)
+
 ### [The Forced Seller](2026-06-09T2148-the-forced-seller.md) · _2026-06-09_
 
 Strategy (MSTR) swore it would "never sell" bitcoin — then sold 32 coins to make a preferred-dividend

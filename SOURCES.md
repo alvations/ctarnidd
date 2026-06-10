@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Oracle AI debt / OpenAI (article: "The Landlord's Gamble" — 2026-06-09T2202-the-landlords-gamble.md)
+
+- 🔒 [Oracle Kicks Off 8-Part Dollar Bond Sale Amid AI Borrowing Push — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-02/oracle-kicks-off-8-part-dollar-bond-sale-amid-ai-borrowing-push) *(paywalled seed)*
+- 🔒 [Oracle Credit Risk Measure Hits Record High on AI-Debt Fears — Bloomberg](https://www.bloomberg.com/news/articles/2026-03-27/oracle-s-credit-risk-measure-nears-record-high-on-ai-debt-fears)
+- ✅ [Oracle CDS Hits Record 198 Bps, Surpassing 2008 Crisis Peak — The Tradable](https://thetradable.com/stocks/oracle-cds-hits-record-198-basis-points-surpassing-2008-financial-crisis-peak--ms)
+- ✅ [Oracle's Credit Risk Is At an All-Time High — The Motley Fool](https://www.fool.com/investing/2026/04/10/oracles-credit-risk-is-at-an-all-time-high/)
+- ✅ [Oracle is building yesterday's data centers with tomorrow's debt — CNBC](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
+- ✅ [Oracle's CDS plummeting after financing plans — CNBC](https://www.cnbc.com/2026/02/02/oracles-credit-default-swaps-are-plummeting-after-financing-plans.html)
+- ✅ [Oracle & OpenAI's $300B Deal — IntuitionLabs](https://intuitionlabs.ai/articles/oracle-openai-300b-deal-analysis)
+- ✅ [Bondholders sue Oracle over OpenAI debt deals — Pivot to AI](https://pivot-to-ai.com/2026/01/15/bondholders-sue-oracle-over-openai-debt-deals/)
+- ✅ [Banks Prep Multibillion-Dollar Debt Offerings for Oracle — Octus](https://octus.com/resources/articles/banks-prep-series-of-multibillion-dollar-debt-offerings-for-oracle/)
+- ✅ [Oracle Gets $14B Infusion From Pimco — TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261760815-oracle-pimco-ai-datacenter-stargate-openai-debt-funding-capital-tradingkey)
+- ✅ [Stargate advances with 4.5 GW partnership with Oracle — OpenAI](https://openai.com/index/stargate-advances-with-partnership-with-oracle/)
+
+---
+
 ## Topic: Strategy / MSTR bitcoin treasury (article: "The Forced Seller" — 2026-06-09T2148-the-forced-seller.md)
 
 - ✅ [Strategy sold 32 BTC for $2.5M in late May (filing) — CoinDesk](https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows)
