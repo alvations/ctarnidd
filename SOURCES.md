@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Palantir / PLTR valuation + insider selling (article: "Sixty-Seven Times" — 2026-06-09T2207-sixty-seven-times.md)
+
+- ✅ [AI Juggernauts… $13 Billion Warning (PLTR ~67× sales) — The Motley Fool](https://www.fool.com/investing/2026/06/09/ai-nvda-pltr-mu-avgo-wall-st-13-billion-warning/)
+- ✅ [Palantir Insiders Keep Selling After $4 Billion Windfall in 2024 — Bloomberg](https://www.bloomberg.com/news/articles/2025-02-21/palantir-insiders-keep-selling-after-4-billion-windfall-in-2024)
+- ✅ [Palantir CEO Alex Karp made nearly $2 billion from selling stock last year — Fortune](https://fortune.com/2025/02/22/palantir-ceo-alex-karp-2-billion-stock-net-worth-sales-insider-trading/)
+- ✅ [Palantir's CEO just started selling stock again — Sherwood News](https://sherwood.news/markets/palantirs-ceo-just-started-selling-stock-again/)
+- ✅ [Palantir Insiders including CEO Dump Shares as Valuation Skyrockets — TipRanks](https://www.tipranks.com/news/palantir-insiders-including-pltr-ceo-dump-shares-as-valuation-skyrockets-340)
+- ✅ [Palantir Q1 FY2026 results (8-K) — SEC](https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000026/a2026q1ex991pressrelease.htm)
+- ✅ [Palantir (PLTR) P/E Ratio (≈154) — Public.com](https://public.com/stocks/pltr/pe-ratio)
+- 📎 [PLTR Extends AI Defense Push As Insider Selling Heats Up — Timothy Sykes](https://www.timothysykes.com/news/palantir-technologies-inc-pltr-news-2026_06_04/)
+- 📎 [Buy or Sell Palantir Stock in 2026? Analysts Weigh AI vs Valuation — IBTimes](https://www.ibtimes.com.au/palantir-technologies-ai-demand-valuation-1870027)
+
+---
+
 ## Topic: Oracle AI debt / OpenAI (article: "The Landlord's Gamble" — 2026-06-09T2202-the-landlords-gamble.md)
 
 - 🔒 [Oracle Kicks Off 8-Part Dollar Bond Sale Amid AI Borrowing Push — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-02/oracle-kicks-off-8-part-dollar-bond-sale-amid-ai-borrowing-push) *(paywalled seed)*

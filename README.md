@@ -5,6 +5,18 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Sixty-Seven Times](2026-06-09T2207-sixty-seven-times.md) · _2026-06-09_
+
+Palantir is a genuinely great, profitable company growing ~70% — which is the trap. At ~67× sales / ~154×
+earnings it's priced for a decade of perfection, while the insiders who know it best cashed out >$4B in a
+year (Karp ~$2B, Thiel ~$1.5B). A great company can be a terrible investment. Fact-checked; see `audit/`.
+
+[![PLTR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPLTR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PLTR&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/PLTR)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![AVGO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAVGO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AVGO&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/AVGO)
+[![MU](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMU%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MU&color=0a4d8c&cacheSeconds=300)](https://finance.yahoo.com/quote/MU)
+[![IGV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FIGV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=IGV&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/IGV)
+
 ### [The Landlord's Gamble](2026-06-09T2202-the-landlords-gamble.md) · _2026-06-09_
 
 Oracle borrowed >$100B and drove free cash flow to ~−$25B to build $300B of data centers for one tenant —
