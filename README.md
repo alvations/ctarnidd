@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Patient Zero](2026-06-10T0626-patient-zero.md) · _2026-06-10_
+
+Nvidia is the most valuable company in history (~$5T) and the keystone of every AI portfolio — but its
+revenue increasingly comes from three customers it partly finances (OpenAI stake, CoreWeave), the $100B
+OpenAI pledge quietly became $30B, and Burry is short $1.1B comparing it to Cisco (3,800%→ −80%, never
+recovered). When the most certain thing becomes the most owned thing, certainty is the risk. Fact-checked; see `audit/`.
+
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=C74634&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![CRWV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWV&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWV)
+[![SPY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPY&color=6e7681&cacheSeconds=300)](https://finance.yahoo.com/quote/SPY)
+
 ### [Insurance on the Future](2026-06-09T2313-insurance-on-the-future.md) · _2026-06-09_
 
 The same banks underwriting the trillion-dollar AI debt boom are building the instruments to bet against it.

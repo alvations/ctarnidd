@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Nvidia / NVDA (article: "Patient Zero" — 2026-06-10T0626-patient-zero.md)
+
+- ✅ [Nvidia stock clinches record close, market cap over $5 trillion — Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/nvidia-stock-clinches-record-close-pushing-market-cap-over-5-trillion-once-again-173529477.html)
+- ✅ [Nvidia Q1 FY2027 Earnings: Record $81.6B Revenue and $91B Guidance — KuCoin](https://www.kucoin.com/blog/nvidia-q1-fy-2027-earnings-record-revenue-and-$91-billion-guidance-crush-wall-street-estimates)
+- ✅ [NVIDIA Financial Results for Q4 and Fiscal 2026 — NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)
+- ✅ ["Blackwell Sales Are Off the Charts" — and so Is Customer Concentration — The Motley Fool](https://www.fool.com/investing/2025/11/27/blackwell-off-charts-nvidia-customer-concentration/)
+- ✅ [Nvidia says two customers represented 39% of revenue — RCR Wireless](https://www.rcrwireless.com/20250902/ai-infrastructure/nvidia-customers)
+- ✅ [Pledge to Invest $100B in OpenAI Was 'Never a Commitment,' Says Huang — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-01/openai-investment-was-never-a-commitment-nvidia-s-huang-says)
+- ✅ [NVIDIA OpenAI Investment Shrinks From $100B to $30B — TechTimes](https://www.techtimes.com/articles/317839/20260605/nvidia-openai-investment-shrinks-100b-30b-compute-lock-war-continues.htm)
+- ✅ ['Big Short' Michael Burry warns Nvidia is the Cisco of the AI boom — Yahoo Finance](https://finance.yahoo.com/news/big-short-investor-michael-burry-162334180.html)
+- ✅ [Burry Compares Nvidia's $95B Purchase Commitments to Cisco's Dot-Com Peak — Yahoo Finance](https://finance.yahoo.com/news/michael-burry-compares-nvidias-95-213054783.html)
+- 📎 [NVIDIA Customer Concentration: A Big 4 Earnings Preview — Daloopa](https://daloopa.com/blog/analyst-pov/nvidia-customer-concentration-a-big-4-earnings-preview)
+- 📎 [Nvidia's $100B OpenAI deal showcases growing investment portfolio — CNBC](https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html)
+- 📎 [No, Nvidia is Not Enron — The Real Nightmare is Cisco's Ghost — 24/7 Wall St.](https://247wallst.com/investing/2025/11/28/no-nvidia-is-not-enron-the-real-nightmare-is-ciscos-ghost/)
+
+---
+
 ## Topic: AI credit derivatives (article: "Insurance on the Future" — 2026-06-09T2313-insurance-on-the-future.md)
 
 - 🔒 [AI Debt Boom Spurs Surge in Credit Derivatives for Big Tech Investors — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly) *(seed)*
