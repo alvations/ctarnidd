@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Lock-In](2026-06-11T0710-the-lock-in.md) · _2026-06-11_
+
+The pandemic's cheap money built the cage the housing market is now trapped in: ~80% of US mortgages sit below
+6% (many near 3%), so at today's 6%-plus rates almost no one will move. The result is a frozen paradox — low
+volume, record prices, worst affordability since the early 1980s. Homebuilders are the only open door but buy
+volume with their margins via rate buydowns (Lennar's operating margin roughly halved, EPS ~−35%, stock ~−47%).
+The thaw is double-edged (it unleashes supply, or arrives via recession), Buffett's bet is a decade not a year,
+and the unlock rate is set by the bond market. Fact-checked; see `audit/`.
+
+[![LEN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLEN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LEN&color=003da5&cacheSeconds=300)](https://finance.yahoo.com/quote/LEN)
+[![DHI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDHI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DHI&color=00529b&cacheSeconds=300)](https://finance.yahoo.com/quote/DHI)
+[![PHM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPHM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PHM&color=c8102e&cacheSeconds=300)](https://finance.yahoo.com/quote/PHM)
+[![XHB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXHB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XHB&color=f2a900&cacheSeconds=300)](https://finance.yahoo.com/quote/XHB)
+
 ### [The Final Cut](2026-06-11T0645-the-final-cut.md) · _2026-06-11_
 
 Paramount (the Ellisons' Skydance) is buying Warner Bros. Discovery — $31/share, ~$110B enterprise value,

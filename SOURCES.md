@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Homebuilders / housing lock-in (article: "The Lock-In" — 2026-06-11T0710-the-lock-in.md)
+
+- ✅ [Housing Market 2026: Frozen, Not Broken — Raymond James / Advisor Perspectives](https://www.advisorperspectives.com/commentaries/2026/05/26/housing-2026-frozen-not-broken)
+- ✅ [US Housing Market Frozen: What Higher-for-Longer Did to Affordability — VaaSBlock](https://www.vaasblock.com/news/us-housing-market-mortgage-rates-affordability-2026/)
+- ✅ [Lennar vs. D.R. Horton: Which Consumer Stock Is a Better Buy in 2026? — The Motley Fool](https://www.fool.com/coverage/better-buy/2026/05/29/lennar-vs-dr-horton-which-consumer-stock-is-a-better-buy-in-2026/)
+- ✅ [Here's What Investors Must Know Ahead of Lennar's Q2 Earnings — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/heres-investors-must-know-ahead-150400160.html)
+- ✅ [Lennar Q2 Preview: Buffett's Homebuilder Pick — Benzinga](https://www.benzinga.com/trading-ideas/previews/26/06/53123844/lennar-q2-preview-buffetts-homebuilder-pick-looks-to-reverse-recent-earnings-misses)
+- ✅ [Builders Respond to Affordability Challenges with Buyer Incentives — NAHB](https://www.nahb.org/news-and-economics/press-releases/2026/04/builders-respond-to-affordability-challenges-with-buyer-incentives-and-innovative-designs)
+- ✅ [Share of Mortgages with Rates Above 6% Climbs to 10-Year High — Redfin](https://www.redfin.com/news/rate-lock-q2-2025/)
+- ✅ [Mortgage rates fall below 6% for the first time in more than 3 years — CNN Business](https://www.cnn.com/2026/02/26/economy/mortgage-rate-falls-below-six-percent)
+- ✅ [Berkshire Hathaway to acquire Taylor Morrison for $8.5 billion — HousingWire](https://www.housingwire.com/articles/berkshire-hathaway-to-acquire-taylor-morrison-home-corporation-8-5-billion/)
+- ✅ [Berkshire Hathaway buys Taylor Morrison for $8.5 billion — CNBC](https://www.cnbc.com/2026/06/01/berkshire-hathaway-taylor-morrison-home-acquisition-housing-market.html)
+- 📎 [Is the Housing Market's 'Lock-In Effect' Finally Starting to Ease? — Kiplinger](https://www.kiplinger.com/real-estate/selling-a-home/housing-market-lock-in-effect-easing)
+- 📎 [Housing Affordability Index — NAR](https://www.nar.realtor/research-and-statistics/housing-statistics/housing-affordability-index)
+
+---
+
 ## Topic: Paramount–Warner Bros / media consolidation (article: "The Final Cut" — 2026-06-11T0645-the-final-cut.md)
 
 - ✅ [Paramount to Acquire Warner Bros. Discovery — Paramount / PR Newswire](https://www.paramount.com/press/paramount-to-acquire-warner-bros-discovery-to-form-next-generation-global-media-and-entertainment-company)

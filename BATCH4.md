@@ -13,7 +13,7 @@ S&P concentration (Index of One), Treasury yields/inflation (The Vigilantes).
 | 2 | done    | 2026-06-11T0555-creative-destruction.md | Adobe (ADBE) — generative AI disrupting creative software |
 | 3 | done    | 2026-06-11T0620-whatever-it-takes.md  | Meta (META) — AI/superintelligence capex bet |
 | 4 | done    | 2026-06-11T0645-the-final-cut.md      | Paramount–Warner Bros megadeal / media consolidation |
-| 5 | pending | TBD-the-lock-in.md                    | Homebuilders / housing — mortgage rate lock-in (LEN, DHI, PHM) |
+| 5 | done    | 2026-06-11T0710-the-lock-in.md        | Homebuilders / housing — mortgage rate lock-in (LEN, DHI, PHM) |
 
 ## Per-article workflow (the "round")
 1. Research (2–3 web searches) → write (3,000+ prose words), editorial-only, date-stamped filename, 4 live badges.
