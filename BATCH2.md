@@ -18,7 +18,7 @@ next firing after the limit resets picks up the first `pending` row.
 | 7 | done    | 2026-06-10T2300-five-thousand.md      | Gold > $5,000 / central banks |
 | 8 | done    | 2026-06-11T0015-the-server-room.md    | Super Micro (SMCI) — accounting |
 | 9 | done    | 2026-06-11T0035-the-challenger.md     | Anthropic IPO |
-| 10| pending | TBD-the-autonomy-premium.md          | Tesla — robotaxi vs Waymo |
+| 10| done    | 2026-06-11T0055-the-autonomy-premium.md | Tesla — robotaxi vs Waymo |
 
 ## Per-article workflow (the "round")
 1. Research (2 web searches) → write the article (3,000+ prose words), editorial-only, date-stamped filename, live badges.

@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Autonomy Premium](2026-06-11T0055-the-autonomy-premium.md) · _2026-06-11_
+
+Tesla's ~$1.5T market cap at ~195–400× earnings is almost entirely the "autonomy premium" — and the car
+business under it is shrinking (deliveries down to ~1.64M from ~1.79M). But on the only robotaxi scoreboard
+that exists, Waymo runs ~3,067 cars delivering 500,000+ paid rides a week across 10 cities, while Tesla's
+unsupervised fleet sits at ~20 in Austin (3 in Dallas, 6 in Houston, no growth). $8 fares mask 15-minute
+waits; the camera-only fleet-scaling thesis stays unproven at scale; the promise has been "one year away" for
+a decade. The market is paying for a victory the scoreboard says hasn't happened. Fact-checked; see `audit/`.
+
+[![TSLA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSLA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSLA&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSLA)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![UBER](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FUBER%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=UBER&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/UBER)
+[![LYFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLYFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LYFT&color=ff00bf&cacheSeconds=300)](https://finance.yahoo.com/quote/LYFT)
+
 ### [The Challenger](2026-06-11T0035-the-challenger.md) · _2026-06-11_
 
 The safety-first AI lab — the careful one — confidentially filed for a ~$1 trillion IPO after a $65B Series H

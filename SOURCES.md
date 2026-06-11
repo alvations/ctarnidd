@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Tesla robotaxi / autonomy (article: "The Autonomy Premium" — 2026-06-11T0055-the-autonomy-premium.md)
+
+- ✅ [Waymo Hits 500,000 Weekly Rides and Over 4 Million Miles — The Driverless Digest](https://www.thedriverlessdigest.com/p/waymo-hits-500000-weekly-rides-and)
+- ✅ [Tesla expands 'Robotaxi' to entire Austin metro — but still has only ~20 vehicles — Electrek](https://electrek.co/2026/06/03/tesla-robotaxi-expands-entire-austin-metro-only-20-vehicles/)
+- ✅ [Tesla Robotaxi Trails Waymo 42 to 577 in Texas — TechTimes](https://www.techtimes.com/articles/318160/20260610/tesla-robotaxi-trails-waymo-42-577-texasaustin-map-masks-20-car-fleet-until-fsd-v15-rewrite.htm)
+- ✅ [Waymo vs Tesla Robotaxi 2026: Scaling vs. Promising — VaaSBlock](https://www.vaasblock.com/news/tesla-waymo-robotaxi-autonomous-vehicles-2026/)
+- ✅ [Tesla undercuts Waymo with $8 robotaxi rides—at a cost — TechBuzz](https://www.techbuzz.ai/articles/tesla-undercuts-waymo-with-8-robotaxi-rides-at-a-cost)
+- ✅ [Tesla PE Ratio 2012–2026 — Macrotrends](https://www.macrotrends.net/stocks/charts/TSLA/tesla/pe-ratio)
+- ✅ [Tesla (TSLA) Valuation Measures & Financial Statistics — Yahoo Finance](https://finance.yahoo.com/quote/TSLA/key-statistics/)
+- ✅ [Tesla Q1 2026 deliveries miss expectations at 358,000 — Electrek](https://electrek.co/2026/04/02/tesla-tsla-q1-2026-delivery-results-misses-expectations/)
+- ✅ [Is Tesla a Buy in 2026? Why AI and Robotaxis Now Define TSLA's $1.5T Valuation — TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261814467-us-stock-tesla-tsla-ev-ai-robotaxis-elon-musk-autonomous-mobility-cybercab-tradingkey)
+- ✅ [Waymo expands robotaxi coverage more than 20% — Electrek](https://electrek.co/2026/05/13/waymo-expands-coverage-1400-square-miles-11-cities/)
+- 📎 [Tesla Stock 2026: Should You Hold TSLA on Robotaxi and $25B Capex? — HeyGoTrade](https://www.heygotrade.com/en/blog/tesla-stock-2026-robotaxi-capex-25b/)
+- 📎 [Tesla Robotaxi Dallas/Houston Unsupervised Launch 2026 — Tech-Insider](https://tech-insider.org/tesla-robotaxi-dallas-houston-unsupervised-launch-2026/)
+
+---
+
 ## Topic: Anthropic IPO (article: "The Challenger" — 2026-06-11T0035-the-challenger.md)
 
 - ✅ [Anthropic raises $65B in Series H at $965B post-money valuation — Anthropic](https://www.anthropic.com/news/series-h)
