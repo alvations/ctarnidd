@@ -1,6 +1,6 @@
 # The Other Chip
 
-*There is a company whose stock doubled in a year on the strength of a single story: that it is finally about to catch the most valuable company on Earth. The story has been told, in one form or another, for nearly a decade. AMD is the eternal challenger to Nvidia, the perpetual second source, the chip the hyperscalers buy so they can tell Nvidia they have options. In 2026 it landed a deal with OpenAI that the headlines called a coronation — six gigawatts of GPUs, ninety billion dollars of potential revenue. Read the terms and a different shape appears: a company so desperate to break the monopoly that it is handing its largest new customer a hundred and sixty million shares for a penny each. This is the anatomy of a second place that the market keeps pricing as a first.*
+*There is a company whose stock doubled in a year on the strength of a single story: that it is finally about to catch the most valuable company on Earth. The story has been told, in one form or another, for nearly a decade. AMD is the eternal challenger to Nvidia, the perpetual second source, the chip the hyperscalers buy so they can tell Nvidia they have options. In 2026 it landed a deal with OpenAI that the headlines called a coronation — six gigawatts of GPUs, a hundred billion dollars of potential revenue. Read the terms and a different shape appears: a company so desperate to break the monopoly that it is handing its largest new customers a hundred and sixty million shares each for a penny apiece. This is the anatomy of a second place that the market keeps pricing as a first.*
 
 **Related tickers — live prices:**
 
@@ -69,18 +69,30 @@ Now the OpenAI deal, because it is the centerpiece of the 2026 AMD story and bec
 confession.
 
 The announced terms: AMD and OpenAI struck a partnership for **6 gigawatts** of AMD Instinct GPUs across
-multiple generations, the first 1 GW of MI450 chips deploying in the second half of 2026, with OpenAI's
-purchases representing as much as **$90 billion** of cumulative hardware revenue potential. The headlines
-treated it as the moment AMD arrived. And the chips are real, the gigawatts are real, the demand is real.
+multiple generations, the first 1 GW of MI450 chips deploying in the second half of 2026, with the relationship
+worth, by AMD management's own framing, more than **$100 billion** of cumulative revenue potential over four
+years. The headlines treated it as the moment AMD arrived. And the chips are real, the gigawatts are real, the
+demand is real.
 
 But look at what AMD gave to get it. As part of the deal, AMD issued OpenAI a **warrant for up to 160 million
-shares of AMD common stock** — at an exercise price reported around **one cent per share** — vesting as
-deployment and milestone targets are hit. OpenAI, in other words, was handed the right to acquire a stake that
-could approach 10% of AMD for essentially nothing, contingent on it buying AMD's chips. Sit with the structure.
-The supplier is paying the customer — in equity, in ownership of the supplier itself — to become a customer.
-This is vendor financing in its most naked form: AMD is so determined to break Nvidia's monopoly, so aware that
-it cannot win a marquee customer on product merit alone, that it is willing to dilute its own shareholders by
-up to a tenth to buy the reference win.
+shares of AMD common stock** — at an exercise price of **one cent per share** — vesting in tranches as Instinct
+GPU purchases are made, the first tranche after the initial 1 GW of MI450 deploys, full vesting contingent on
+the entire 6 GW. OpenAI, in other words, was handed the right to acquire a stake that could approach 10% of AMD
+for essentially nothing, contingent on it buying AMD's chips. And it was not the only one: Meta was
+subsequently handed a warrant on the same terms — another 160 million shares at a penny — so that *two* of
+AMD's largest customers now hold options on a combined fifth of the company, total exercise cost a few million
+dollars, in exchange for buying chips. Sit with the structure. The supplier is paying the customer — in equity,
+in ownership of the supplier itself — to become a customer. This is vendor financing in its most naked form:
+AMD is so determined to break Nvidia's monopoly, so aware that it cannot win a marquee customer on product
+merit alone, that it is willing to dilute its own shareholders by up to a fifth to buy the reference wins.
+
+In fairness, the warrants are not free money for the customers either: full vesting requires not only the chip
+purchases but AMD's stock climbing through escalating price targets that reach $600 a share — roughly triple
+where it traded when the deal was struck. The dilution only fully bites if AMD's equity triples, which the bulls
+read as alignment: the customers win biggest if AMD wins biggest. True enough. But flip it around and the same
+structure says something starker — AMD had to promise its customers a slice of a *tripled* company to get them
+to commit to its chips. Nvidia promises its customers nothing and rations the supply. The contrast is the whole
+argument.
 
 Compare this to Nvidia, which does not pay its customers to take its chips. Nvidia's customers fight each other
 for allocation, prepay, and accept whatever margin Nvidia chooses to charge — and Nvidia charges enormous
@@ -115,22 +127,22 @@ There is a second, quieter problem with the OpenAI deal that the warrant structu
 it is the same circularity that runs underneath the entire AI capital-spending boom. Look at who is actually on
 each side of these transactions and the money starts to move in a loop.
 
-OpenAI has committed to buy as much as $90 billion of AMD hardware. OpenAI has *also* committed, separately, to
-vast purchases of Nvidia chips, and to a roughly $500 billion infrastructure buildout with Oracle and SoftBank,
-and to spending on a scale that, by some estimates, runs toward a trillion dollars over the next decade. The
-obvious question — the one the headlines about gigawatts and warrants never quite ask — is where a company that
-is itself deeply unprofitable, burning capital at a historic rate, funded by rounds that are themselves
-increasingly circular, gets the money to honor a $90 billion hardware commitment to AMD on top of everything
-else it has promised everyone else. The answer is that the commitment is denominated in *potential* and
+OpenAI has committed to buy as much as $100 billion of AMD hardware over four years. OpenAI has *also*
+committed, separately, to vast purchases of Nvidia chips, and to a roughly $500 billion infrastructure buildout
+with Oracle and SoftBank, and to spending on a scale that, by some estimates, runs toward a trillion dollars
+over the next decade. The obvious question — the one the headlines about gigawatts and warrants never quite ask
+— is where a company that is itself deeply unprofitable, burning capital at a historic rate, funded by rounds
+that are themselves increasingly circular, gets the money to honor a hundred-billion-dollar hardware commitment
+to AMD on top of everything else it has promised everyone else. The answer is that the commitment is denominated in *potential* and
 *milestones*, not cash in hand, and the AMD warrant is structured to vest only as deployments actually happen —
-which is to say the $90 billion headline is a ceiling contingent on OpenAI continuing to raise and spend at a
+which is to say the $100 billion headline is a ceiling contingent on OpenAI continuing to raise and spend at a
 pace that has never been sustained by any company in history.
 
 So the AMD bull is, without quite realizing it, taking a position not just on AMD's chips but on OpenAI's
 balance sheet — on the durability of the most aggressive capital-consumption story in the history of
 enterprise. AMD gave away equity to anchor itself to that story. If the AI-infrastructure spending cycle
 slows, or if OpenAI's funding tightens, the gigawatts that justify the warrant simply do not deploy, and the
-$90 billion ceiling recedes into the same fog as every other forward commitment in this cycle. The supplier
+$100 billion ceiling recedes into the same fog as every other forward commitment in this cycle. The supplier
 paid the customer in equity to lock in revenue that depends on the customer's ability to keep raising money to
 pay the supplier. That is not a contract so much as a shared bet that the music keeps playing — and the company
 that *isn't* making that bet, that simply rations supply and collects premium cash, is the one in green.
