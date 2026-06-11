@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Other People's Money](2026-06-10T2150-other-peoples-money.md) · _2026-06-10_
+
+Circle (CRCL) is a money-market fund wearing a tech-stock multiple. 94% of its revenue is reserve income —
+interest on Treasury bills it cannot influence and the Fed is expected to cut; ~54¢ of every dollar earned
+flows to Coinbase under a revenue-share Circle "neither controls nor oversees" (renews 2026); and its
+zero-interest model survives only because the GENIUS Act bans the obvious competition. It lost money in 2025
+at the rate cycle's peak, yet trades near 7× sales after falling ~75% from a $298.99 spike. The token never
+moves; the stock can't stop. Fact-checked; see `audit/`.
+
+[![CRCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRCL&color=0052ff&cacheSeconds=300)](https://finance.yahoo.com/quote/CRCL)
+[![COIN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOIN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COIN&color=0a0b0d&cacheSeconds=300)](https://finance.yahoo.com/quote/COIN)
+[![BTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+
 ### [Before Revenue](2026-06-10T0645-before-revenue.md) · _2026-06-10_
 
 Quantum-computing stocks rose 69% in five months (vs S&P +10%) on companies with almost no sales — Rigetti
