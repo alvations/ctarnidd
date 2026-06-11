@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Outage Premium](2026-06-11T0440-the-outage-premium.md) · _2026-06-11_
+
+In July 2024, CrowdStrike pushed a flawed update and crashed 8.5 million Windows machines — grounding airlines,
+freezing hospitals, the largest IT outage in history, caused by the security vendor itself. Less than two years
+later the stock has more than tripled to records above $600 (~$165B), at more than 30× sales and a forward
+multiple near 100×. The recovery IS the warning: a perfection price on a company that proved kernel-level,
+monoculture catastrophe is possible; Delta's $500M suit lives; Microsoft Defender bundling squeezes pricing
+power. The market forgave the disaster and left itself zero margin for the next one. Fact-checked; see `audit/`.
+
+[![CRWD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWD&color=e3000b&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWD)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![PANW](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPANW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PANW&color=fa582d&cacheSeconds=300)](https://finance.yahoo.com/quote/PANW)
+[![S](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=S%20(SentinelOne)&color=6b2fb5&cacheSeconds=300)](https://finance.yahoo.com/quote/S)
+
 ### [The Multiple](2026-06-11T0415-the-multiple.md) · _2026-06-11_
 
 AppLovin is one of the most profitable companies of its size on earth — 84–85% EBITDA margins, 50%+ growth, in

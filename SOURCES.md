@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: CrowdStrike / outage premium (article: "The Outage Premium" — 2026-06-11T0440-the-outage-premium.md)
+
+- ✅ [CrowdStrike defeats shareholder lawsuit over huge software outage — CNBC](https://www.cnbc.com/2026/01/14/crowdstrike-defeats-shareholder-lawsuit-over-huge-software-outage.html)
+- ✅ [Delta sues CrowdStrike over software update that prompted mass flight disruptions — CNN](https://www.cnn.com/2024/10/25/business/delta-sues-crowdstrike/index.html)
+- ✅ [Delta Sues CrowdStrike Over Outage That Cost $500 Million — Inc./Reuters](https://www.inc.com/reuters/delta-sues-crowdstrike-over-outage-that-cost-500-million/90995358)
+- ✅ [Delta allowed to proceed with lawsuit against CrowdStrike — FOX 5 Atlanta](https://www.fox5atlanta.com/news/delta-allowed-proceed-lawsuit-against-crowdstrike-over-outage)
+- ✅ [CrowdStrike Is Still Best-in-Breed—But 2026 May Be a Tough Trade — Yahoo Finance](https://finance.yahoo.com/news/crowdstrike-still-best-breed-2026-143700614.html)
+- ✅ [Is CrowdStrike's Premium Valuation Justified? — AInvest](https://www.ainvest.com/news/crowdstrike-premium-valuation-justified-deep-dive-q2-earnings-cybersecurity-market-dynamics-2508/)
+- ✅ [CrowdStrike Shook Investor Confidence With Its 2024 Outage. Is It Time to Buy? — Barchart](https://www.barchart.com/story/news/30812205/crowdstrike-shook-investor-confidence-with-its-2024-outage-is-it-time-to-buy-crwd-stock-again)
+- ✅ [CrowdStrike (CRWD) Statistics & Valuation — StockAnalysis](https://stockanalysis.com/stocks/crwd/statistics/)
+- ✅ [CrowdStrike Price to Sales Ratio 2019-2026 — Macrotrends](https://www.macrotrends.net/stocks/charts/CRWD/crowdstrike/price-sales)
+- 📎 [CRWD Stock: Buy the Dip or Beware the Valuation? — TradingView/MarketBeat](https://www.tradingview.com/news/marketbeat:2a4864915094b:0-crwd-stock-buy-the-dip-or-beware-the-valuation/)
+- 📎 [Delta sues CrowdStrike over IT outage fallout — TechTarget](https://www.techtarget.com/searchsecurity/news/366614745/Delta-sues-CrowdStrike-over-IT-outage-fallout)
+
+---
+
 ## Topic: AppLovin / ad-tech black box (article: "The Multiple" — 2026-06-11T0415-the-multiple.md)
 
 - ✅ [AppLovin Probed by SEC Over Its Data-Collection Practices — Bloomberg](https://www.bloomberg.com/news/articles/2025-10-06/applovin-has-been-probed-by-sec-over-data-collection-practices)

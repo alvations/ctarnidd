@@ -1,0 +1,7 @@
+# Sources read — "The Outage Premium" (CrowdStrike / CRWD)
+
+Read 2026-06-11. Content consulted, preserved for traceability. Cumulative ledger in `../../SOURCES.md`.
+
+- `2026-06-11-search-01-outage-valuation.md` — July 19 2024 outage: flawed Falcon update crashed ~8.5M Windows systems (aviation/banking/healthcare/media); Delta canceled 5,000+ (lawsuit: 7,000+) flights, reset 40,000 servers, 1.3M passengers, claims $500M cost; Delta & CRWD suing each other; recovery to records; valuation ~30x sales, premium; FY2026 rev guide $4.74-4.8B, growth ~21.4%; Microsoft Defender (E5 bundle) + Palo Alto bundling pressure; best-in-breed esp non-Windows.
+- `2026-06-11-search-02-verify-recovery-suits.md` — VERIFY: shareholder suit DISMISSED Jan 14 2026 (Judge Pitman, Austin); Delta suit CONTINUES (Georgia judge let Delta pursue most of case, May 2025; ~$500M / 7,000+ flights). STALE-FIGURE CORRECTION: prior search's "$419 ATH / +115% / $103B" were stale — ATH ~$566.90 (one source) then higher.
+- `2026-06-11-search-03-current-price.md` — CURRENT (June 2026): price ~$642.80-707.47 (Jun 9-10), records above $600; market cap ~$164-167B; trailing GAAP P/E negative (EPS TTM -$0.19, barely unprofitable) → the ~95-100x "forward earnings" is a non-GAAP forward figure; at ~$165B/$4.8B rev → P/S ~34x; 4-for-1 split effective Jul 2 2026. Article corrected: price→"above $600", recovery→"more than tripled", cap→"~$165B", earnings multiple→"approaching 100x forward (adjusted); GAAP barely profitable", sales→">30x".
