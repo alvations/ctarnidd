@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Other Chip](2026-06-11T1145-the-other-chip.md) · _2026-06-11_
+
+AMD's stock doubled in a year on one story: that it is finally about to catch Nvidia. The same story has been
+told for nearly a decade. Nvidia does more data-center revenue in two weeks ($75.2B/quarter, ~$194B/year) than
+AMD's whole Instinct line does in a quarter (~$7–8B), and its moat isn't the silicon — it's CUDA, a two-decade
+software ecosystem ROCm has barely dented. The tell: to win OpenAI, AMD handed it a warrant for 160M shares at
+a penny — and gave Meta the same — so two customers now hold options on a fifth of the company in exchange for
+buying chips. That's vendor financing, not a coronation. A great business, priced as a first place it is
+structurally second in. Fact-checked; see `audit/`.
+
+[![AMD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMD&color=ed1c24&cacheSeconds=300)](https://finance.yahoo.com/quote/AMD)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![INTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FINTC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=INTC&color=0071c5&cacheSeconds=300)](https://finance.yahoo.com/quote/INTC)
+[![TSM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSM&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSM)
+
 ### [Cash to Burn](2026-06-11T1120-cash-to-burn.md) · _2026-06-11_
 
 Two American EV startups have spent a decade and tens of billions building cars almost nobody buys, and the

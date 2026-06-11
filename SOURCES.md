@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AMD vs Nvidia AI GPU (article: "The Other Chip" — 2026-06-11T1145-the-other-chip.md) [WSB]
+
+- ✅ [AMD 8-K (OpenAI warrant terms), Oct 6 2025 — SEC](https://www.sec.gov/Archives/edgar/data/0000002488/000119312525230895/d28189d8k.htm)
+- ✅ [AMD and OpenAI announce strategic partnership to deploy 6 GW of AMD GPUs — AMD IR](https://ir.amd.com/news-events/press-releases/detail/1260/amd-and-openai-announce-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus)
+- ✅ [AMD Pays a High Price for Blockbuster OpenAI Deal — Yahoo Finance](https://finance.yahoo.com/news/amd-pays-high-price-blockbuster-104500982.html)
+- ✅ [OpenAI looks to take 10% stake in AMD through AI chip deal — CNBC](https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html)
+- ✅ [Meta strikes AI chip deal with AMD days after committing to Nvidia GPUs — CNBC](https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html)
+- ✅ [AMD next-gen AI chips set to power 2026 data center growth — S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/amd-s-next-generation-ai-chips-set-to-power-2026-data-center-growth)
+- ✅ [Nvidia Earnings May 2026: Record Revenue and AI Growth — Intellectia](https://intellectia.ai/blog/nvda-stock-earnings-analysis-may-2026)
+- ✅ [GPU Software for AI: CUDA vs. ROCm in 2026 — AIMultiple](https://aimultiple.com/cuda-vs-rocm)
+- 📎 [AMD MI400 Series: $7.2B AI GPU Challenging Nvidia [2026] — Tech Insider](https://tech-insider.org/amd-mi400-series-ai-gpu-data-center-2026/)
+
+---
+
 ## Topic: US EV startups vs BYD (article: "Cash to Burn" — 2026-06-11T1120-cash-to-burn.md) [Engadget/CNET]
 
 - ✅ [Rivian Q1 2026 quarterly report (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html)
