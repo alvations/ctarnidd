@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Loosening the Bolts](2026-06-11T0825-loosening-the-bolts.md) · _2026-06-11_
+
+America's six biggest banks have added ~$600B in a year (to ~$2.37T) on Trump-era deregulation — eased capital
+and leverage rules, softer stress tests, a watered-down Basel III Endgame (the biggest banks' CET1 cut ~5–6%),
+and record ~$33B of Q1 buybacks (Citi alone $30B, after a presidential endorsement). But the capital being
+freed for returns *is* the buffer that absorbs the next crisis — same effect, two angles. The gains are private,
+the tail losses socialized (too-big-to-fail), and deregulation-precedes-crisis (S&L, 2008) is one of history's
+most reliable patterns — just as the shocks pile up across this series. Fact-checked; see `audit/`.
+
+[![JPM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FJPM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=JPM&color=5c2d2d&cacheSeconds=300)](https://finance.yahoo.com/quote/JPM)
+[![C](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=C&color=003b70&cacheSeconds=300)](https://finance.yahoo.com/quote/C)
+[![GS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GS&color=6b8cae&cacheSeconds=300)](https://finance.yahoo.com/quote/GS)
+[![XLF](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXLF%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XLF&color=00843d&cacheSeconds=300)](https://finance.yahoo.com/quote/XLF)
+
 ### [Search and Destroy](2026-06-11T0800-search-and-destroy.md) · _2026-06-11_
 
 Alphabet fights a two-front war beneath serene numbers (+22% revenue, search still +19%). Front one: a federal

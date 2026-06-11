@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Big banks / deregulation (article: "Loosening the Bolts" — 2026-06-11T0825-loosening-the-bolts.md)
+
+- ✅ [JPMorgan, Citi, BofA and peers drive record $600 billion rally on Trump's deregulation — Cryptopolitan](https://www.cryptopolitan.com/us-banks-600-billion-rally-on-deregulation/)
+- ✅ [Citigroup shares outperform down market after Trump endorsement — CNBC](https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html)
+- ✅ [JPMorgan, BofA, Citi investors get good news from Fed, FDIC — TheStreet](https://www.thestreet.com/economy/jpmorgan-bofa-citi-investors-get-good-news-from-fed-fdic)
+- ✅ [Get ready: Bank deregulation now has Washington's support — J.P. Morgan Private Bank](https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/ideas-and-insights/get-ready-bank-deregulation-now-has-washingtons-support)
+- ✅ [US large banks: The peak of the cycle is not the time to be complacent — Allianz Trade](https://www.allianz-trade.com/en_global/news-insights/economic-insights/US_large_banks_The_peak_of_the_cycle_is_not_the_time_to_be_complacent.html)
+- ✅ [Largest US Banks by Market Cap 2026 — Capital.com](https://capital.com/en-int/markets/shares/largest-us-banks-by-market-cap)
+- 📎 [Could 2026 Be Another Big Year for Bank Stocks? — Themes ETFs](https://themesetfs.com/insights/could-2026-be-another-big-year-for-bank-stocks)
+
+---
+
 ## Topic: Alphabet / search antitrust + AI (article: "Search and Destroy" — 2026-06-11T0800-search-and-destroy.md)
 
 - ✅ [Alphabet Q1 2026 8-K (exhibit 99.1) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000043/googexhibit991q12026.htm)
