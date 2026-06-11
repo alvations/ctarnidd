@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Five Thousand](2026-06-10T2300-five-thousand.md) · _2026-06-10_
+
+Gold broke $5,000 (ATH ~$5,589, Jan 2026) — its first inflation-adjusted record since 1980. The conventional
+read is triumph; the forensic read is a no-confidence vote in fiat, cast by the central banks themselves, now
+holding more gold than US Treasuries for the first time since 1996 after the 2022 freeze of $300B of Russia's
+reserves taught them dollars can be weaponized. The kicker: the last real-terms peak (1980) was followed by a
+~85% real drawdown over 20 years. The signal is true; the price is dangerous. Fact-checked; see `audit/`.
+
+[![GOLD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGC%3DF%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=Gold&color=d4af37&cacheSeconds=300)](https://finance.yahoo.com/quote/GC=F)
+[![GLD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGLD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GLD&color=c5a028&cacheSeconds=300)](https://finance.yahoo.com/quote/GLD)
+[![GDX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGDX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GDX&color=b8860b&cacheSeconds=300)](https://finance.yahoo.com/quote/GDX)
+[![SLV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSLV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SLV&color=9ea2a8&cacheSeconds=300)](https://finance.yahoo.com/quote/SLV)
+
 ### [The Carry](2026-06-10T2235-the-carry.md) · _2026-06-10_
 
 The yen carry trade — borrow yen at ~zero, buy everything else — is the largest, oldest, least-measured

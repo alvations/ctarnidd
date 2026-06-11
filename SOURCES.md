@@ -8,6 +8,24 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Gold / central banks (article: "Five Thousand" — 2026-06-10T2300-five-thousand.md)
+
+- ✅ [Why Gold Just Surged Above $5,000 for the First Time — HF Financial](https://www.hffinancial.com/why-gold-surged-above-5000)
+- ✅ [Gold forecast and tracker: where prices could land in 2026 — Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/gold-forecast-and-tracker-heres-where-prices-could-land-in-2026-130000950.html)
+- ✅ [Forget $5,000: BofA sees gold hitting $6,000/oz by Spring 2026 — Kitco](https://www.kitco.com/news/article/2026-01-23/forget-5000-bank-america-sees-gold-price-hitting-6000oz-spring-2026)
+- ✅ [Gold Price Predictions for 2026 and 2027 — J.P. Morgan Global Research](https://www.jpmorgan.com/insights/global-research/commodities/gold-prices)
+- ✅ [Central Banks Buying Gold at Record Pace in 2026 — The Middle East Insider](https://themiddleeastinsider.com/2026/04/01/central-banks-buying-gold-2026-record-reserves-analysis/)
+- ✅ [Central Banks (Gold Demand Trends Full Year 2025) — World Gold Council](https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2025/central-banks)
+- ✅ [Central Banks (Gold Demand Trends Q1 2026) — World Gold Council](https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2026/central-banks)
+- ✅ [Central Banks Added 244 Tonnes of Gold in Q1 2026 — Canadian Mining Report](https://www.canadianminingreport.com/blog/central-banks-added-244-tonnes-of-gold-in-q1-what-investors-should-know)
+- ✅ [Significance Of 1980 Gold Price Peak — GoldPriceForecast](https://www.goldpriceforecast.com/gold-price-analysis/significance-of-1980-gold-price-peak/)
+- ✅ [Gold Has Finally Broken a 'Real' Record — Investing.com](https://www.investing.com/analysis/gold-has-finally-broken-a-real-record-200653395)
+- 📎 [Could Gold Price Reach $5,000 Again by End of 2026? — KuCoin](https://www.kucoin.com/blog/could-gold-price-reach-5000-again-by-the-end-of-2026)
+- 📎 [Inflation Adjusted Annual Average Gold Prices — InflationData](https://inflationdata.com/articles/charts/inflation-adjusted-annual-average-gold-prices/)
+- 📎 [Central Banks Buying and Selling Gold in 2026 — Visual Capitalist](https://elements.visualcapitalist.com/central-banks-buying-and-selling-gold-in-2026/)
+
+---
+
 ## Topic: Yen carry trade / Japan (article: "The Carry" — 2026-06-10T2235-the-carry.md)
 
 - ✅ [Carry Trade at Risk: Japan's 10-Year JGB Yield Hits 25-Year High — Wolf Street](https://wolfstreet.com/2025/12/22/yen-carry-trade-at-risk-japans-10-year-jgb-yield-hits-25-year-high-yield-curve-steepens-finance-ministry-verbally-props-up-yen/)

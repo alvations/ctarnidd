@@ -15,7 +15,7 @@ next firing after the limit resets picks up the first `pending` row.
 | 4 | done    | 2026-06-10T2150-other-peoples-money.md | Circle / stablecoins (CRCL) |
 | 5 | done    | 2026-06-10T2210-kilowatt-kings.md     | AI power / utilities (VST, CEG) |
 | 6 | done    | 2026-06-10T2235-the-carry.md          | Yen carry trade (Japan/JGB) |
-| 7 | pending | TBD-five-thousand.md                  | Gold > $5,000 / central banks |
+| 7 | done    | 2026-06-10T2300-five-thousand.md      | Gold > $5,000 / central banks |
 | 8 | pending | TBD-the-server-room.md               | Super Micro (SMCI) — accounting |
 | 9 | pending | TBD-the-challenger.md                 | Anthropic IPO |
 | 10| pending | TBD-the-autonomy-premium.md          | Tesla — robotaxi vs Waymo |
