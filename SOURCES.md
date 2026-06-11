@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: TikTok US divestiture / JV (article: "The Algorithm" — 2026-06-11T1055-the-algorithm.md) [Verge/Mashable]
+
+- ✅ [Here's what you should know about the US TikTok deal — TechCrunch](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/)
+- ✅ [The deal to secure TikTok's future in the US has finally closed — CNN Business](https://www.cnn.com/2026/01/22/tech/tiktok-us-deal-closes)
+- ✅ [TikTok U.S. Joint Venture Deal Set to Close in January — Variety](https://variety.com/2025/digital/news/tiktok-us-joint-venture-deal-close-date-oracle-silver-lake-1236612315/)
+- ✅ [Oracle's Stake in TikTok US JV Is Worth Roughly $2 Billion, Filing Shows — U.S. News](https://money.usnews.com/investing/news/articles/2026-03-11/oracles-stake-in-tiktok-us-joint-venture-is-worth-roughly-2-billion-filing-shows)
+- ✅ [TikTok owner ByteDance's valuation hits US$500 billion — Yahoo Finance / SCMP](https://finance.yahoo.com/news/tiktok-owner-bytedances-valuation-hits-093000737.html)
+- ✅ [Deal for U.S.-Owned TikTok May Retain Chinese Algorithm — Time](https://time.com/7317896/tiktok-us-china-deal-bytedance-algorithm/)
+- ✅ [Critics Warn the TikTok Deal Swaps Chinese Surveillance for U.S. Surveillance — Time](https://time.com/7319281/tiktok-trump-surveillance-china/)
+- ✅ [The TikTok Deal Leaves Many Questions Unanswered — Center for American Progress](https://www.americanprogress.org/article/the-tiktok-deal-leaves-many-questions-unanswered/)
+- ✅ [Oracle's $523 Billion AI Backlog and TikTok Deal Ignite Nasdaq Rally — FinancialContent](https://markets.financialcontent.com/stocks/article/marketminute-2025-12-19-oracles-523-billion-ai-backlog-and-tiktok-deal-ignite-nasdaq-rally-signaling-2026-cloud-boom)
+- 📎 [TikTok's confirmed U.S. deal still leaves unanswered questions — Digiday](https://digiday.com/marketing/tiktoks-confirmed-u-s-deal-still-leaves-unanswered-questions/)
+
+---
+
 ## Topic: Reddit / AI data licensing (article: "The Data Mine" — 2026-06-11T1030-the-data-mine.md) [TC/Verge]
 
 - ✅ [Google strikes $60 million deal with Reddit to train AI on human posts — CBS News](https://www.cbsnews.com/news/google-reddit-60-million-deal-ai-training/)

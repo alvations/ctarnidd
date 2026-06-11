@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Algorithm](2026-06-11T1055-the-algorithm.md) · _2026-06-11_
+
+They told you TikTok was sold. The cap table says otherwise. The January 2026 "divestiture" left ByteDance
+holding 19.9% — one-tenth of a point under the 20% legal trigger — and *licensing* the U.S. entity the
+recommendation algorithm, the only part of TikTok that was ever worth anything. The $14B price tag on TikTok US,
+against ByteDance's ~$550B parent valuation, isn't a price; it's a confession of what was actually transferred:
+the shell, not the engine. Oracle, the data landlord and 15% owner, gets a marquee reference customer it needs
+to justify $124B of capex debt. Every clause is legal. The sum is a lease with extra steps. Fact-checked; see
+`audit/`.
+
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=f80000&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=0866ff&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+[![SNAP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSNAP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SNAP&color=fffc00&cacheSeconds=300)](https://finance.yahoo.com/quote/SNAP)
+[![PINS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPINS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PINS&color=e60023&cacheSeconds=300)](https://finance.yahoo.com/quote/PINS)
+
 ### [The Data Mine](2026-06-11T1030-the-data-mine.md) · _2026-06-11_
 
 A generation wrote billions of posts for free, thinking it was a community; it turns out it was a mine. Reddit
