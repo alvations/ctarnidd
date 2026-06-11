@@ -1,0 +1,7 @@
+# Sources read — "The Hands" (humanoid robots) [TechCrunch/CES-inspired]
+
+Read 2026-06-11. Topic inspiration: TechCrunch ("CES 2026 was all about robots"), The Verge, Engadget. Content
+consulted, preserved for traceability. Cumulative ledger in `../../SOURCES.md`.
+
+- `2026-06-11-search-01-humanoids.md` — Figure AI $39B post-money Series C (>$1B, Sept 16 2025; investors Nvidia/Intel/Qualcomm/Brookfield/Macquarie/Salesforce/T-Mobile); BotQ factory ~1 robot/hr (Figure 03); May 2026 week-long package-processing demo (~98.5% of human). Tesla Optimus: 50-100k units 2026 target, Fremont 1M/yr run-rate goal; Model S/X line being repurposed; ~$30k limited external sales late 2026, <$20k long-term; NO external customers; Musk Q4'25 call "not in usage in our factories in a material way." Apptronik $520M at ~$5B (Apollo). Boston Dynamics, 1X, Chinese makers. Nvidia "physical AI."
+- `2026-06-11-search-02-verify.md` — VERIFY: Figure $39B Series C (Sept 16 2025) CONFIRMED. CORRECTION: Figure HAS early commercial deployments — Figure 02 to BMW (Spartanburg) and reportedly UPS → softened "no commercial revenue" to "early pilot deployments, revenue a rounding error vs $39B." Tesla Optimus: zero external customers; Musk Q4'25 (Jan 28 2026) admitted no robots doing "useful work" yet; 50-100k 2026, meaningful volumes year-end; Fremont Model S/X shut down, converting to Optimus. Title "The Hands" held.

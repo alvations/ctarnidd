@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Hands](2026-06-11T1005-the-hands.md) · _2026-06-11_
+
+The AI boom got a body. Figure AI is valued at ~$39B with revenue a rounding error (early BMW pilots only);
+Tesla is converting its Model S/X line to mass-produce an Optimus its own CEO admits isn't "in usage in a
+material way" and has zero external customers. It's the purest "someday" trade since the quantum stocks — sold
+on an *infinite* TAM (all human labor) that justifies any price, across the chasm between a viral demo and a
+profitable deployment that has swallowed robotics pioneers for decades, against cheaper Chinese humanoids that
+did to EVs and solar what they may do here. The hands are real; the fortune is a forecast. Fact-checked; see `audit/`.
+
+[![TSLA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSLA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSLA&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSLA)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![BOTZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBOTZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BOTZ&color=455a64&cacheSeconds=300)](https://finance.yahoo.com/quote/BOTZ)
+[![SERV](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSERV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SERV&color=00897b&cacheSeconds=300)](https://finance.yahoo.com/quote/SERV)
+
 ### [Zero Days](2026-06-11T0940-zero-days.md) · _2026-06-11_
 
 The fastest-growing product in finance is a lottery ticket that expires the same day you buy it. 0DTE options

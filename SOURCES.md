@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Humanoid robots (article: "The Hands" — 2026-06-11T1005-the-hands.md) [TechCrunch/CES]
+
+- ✅ [Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation — Figure AI](https://www.figure.ai/news/series-c)
+- ✅ [Figure reaches $39B valuation in latest funding round — TechCrunch](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/)
+- ✅ [Tesla Turning Its Model S Line Into an Optimus Robot Factory — TechTimes](https://www.techtimes.com/articles/318071/20260609/tesla-turning-its-model-s-line-optimus-robot-factorygen-3-targets-2026-production-start.htm)
+- ✅ [Tesla Optimus Production Timeline 2026 — OptimusK](https://optimusk.blog/blog/tesla-optimus-production-timeline/)
+- ✅ [Apptronik raises $520 million at $5 billion valuation for Apollo robot — CNBC](https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html)
+- ✅ [CES 2026 was all about 'physical AI' and robots, robots, robots — TechCrunch](https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/)
+- ✅ [Figure AI valuation, funding & news — Sacra](https://sacra.com/c/figure-ai/)
+- ✅ [Tesla Optimus In Volume and Selling to External Customer Starting Late 2026 — NextBigFuture](https://www.nextbigfuture.com/2025/09/tesla-optimus-in-volume-and-selling-to-external-customer-starting-late-2026.html)
+- 📎 [Humanoid Robotics 2026: Figure, Optimus, 1X Commercial Reality — VaaSBlock](https://www.vaasblock.com/news/humanoid-robotics-figure-tesla-optimus-commercial-reality-2026/)
+- 📎 [Figure AI - Wikipedia](https://en.wikipedia.org/wiki/Figure_AI)
+
+---
+
 ## Topic: 0DTE options / income ETFs (article: "Zero Days" — 2026-06-11T0940-zero-days.md) [WSB]
 
 - ✅ [0DTE Options Explained: Why 50% of SPX Volume Trades the Same Day — HeyGoTrade](https://www.heygotrade.com/en/blog/0dte-options-explained/)

@@ -7,7 +7,7 @@ forensic-financial house voice. Deduped against the 44 published articles. Same 
 | # | status | slug | focus |
 |---|--------|------|-------|
 | 1 | done    | 2026-06-11T0940-zero-days.md          | 0DTE options casino + 0DTE income ETFs (SPY, VIX) [WSB] |
-| 2 | pending | TBD-the-hands.md                      | Humanoid robots — Figure AI $39B, Tesla Optimus [TechCrunch/CES] |
+| 2 | done    | 2026-06-11T1005-the-hands.md          | Humanoid robots — Figure AI $39B, Tesla Optimus [TechCrunch/CES] |
 | 3 | pending | TBD-the-data-mine.md                  | Reddit (RDDT) — selling user posts as AI training data [TC/Verge] |
 | 4 | pending | TBD-the-algorithm.md                  | TikTok divestiture / ByteDance $550B [Verge/Mashable] |
 | 5 | pending | TBD-cash-to-burn.md                   | EV startups Rivian/Lucid cash burn + BYD [Engadget/CNET] |
