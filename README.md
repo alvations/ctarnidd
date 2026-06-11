@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Other Side of the Needle](2026-06-11T0505-the-other-side-of-the-needle.md) · _2026-06-11_
+
+The counterpart to "The Appetite Trade": Novo Nordisk is the GLP-1 *loser*. Two years ago it was Europe's most
+valuable company (~$650B), the maker of Ozempic and Wegovy. Today it's down more than two-thirds — lapped by
+Eli Lilly (>60% share), its next-gen CagriSema disappointed, semaglutide faces a patent cliff and compounders
+(it sued Hims & Hers), it's cutting US prices to $675 (~50%), and its CEO was ousted. The drug is a marvel; the
+stock a catastrophe. The series' core lesson in pharmaceutical ink: right about the technology, wrong about the
+price. Fact-checked; see `audit/`.
+
+[![NVO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVO&color=003c71&cacheSeconds=300)](https://finance.yahoo.com/quote/NVO)
+[![LLY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLLY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LLY&color=d52b1e&cacheSeconds=300)](https://finance.yahoo.com/quote/LLY)
+[![HIMS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHIMS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HIMS&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/HIMS)
+[![VKTX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVKTX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VKTX&color=00857a&cacheSeconds=300)](https://finance.yahoo.com/quote/VKTX)
+
 ### [The Outage Premium](2026-06-11T0440-the-outage-premium.md) · _2026-06-11_
 
 In July 2024, CrowdStrike pushed a flawed update and crashed 8.5 million Windows machines — grounding airlines,

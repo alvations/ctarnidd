@@ -18,7 +18,7 @@ All 10 are fresh themes — no overlap with the 14 batch-1 or 10 batch-2 article
 | 7 | done    | 2026-06-11T0350-the-vigilantes.md     | US fiscal / 30Y Treasury / term premium / debt |
 | 8 | done    | 2026-06-11T0415-the-multiple.md       | AppLovin (APP) — ad-tech short-seller target |
 | 9 | done    | 2026-06-11T0440-the-outage-premium.md | CrowdStrike (CRWD) — valuation after the 2024 global outage |
-| 10| pending | TBD-the-other-side-of-the-needle.md  | Novo Nordisk (NVO) — the GLP-1 loser |
+| 10| done    | 2026-06-11T0505-the-other-side-of-the-needle.md | Novo Nordisk (NVO) — the GLP-1 loser |
 
 ## Per-article workflow (the "round")
 1. Research (2–3 web searches) → write the article (3,000+ prose words), editorial-only, date-stamped filename, 4 live badges.

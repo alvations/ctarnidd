@@ -8,6 +8,24 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Novo Nordisk / GLP-1 loser (article: "The Other Side of the Needle" — 2026-06-11T0505-the-other-side-of-the-needle.md)
+
+- ✅ [Novo Nordisk Shares Down 43% in a Year as Generic Rivals Force 48% Price Cuts — 24/7 Wall St.](https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/)
+- ✅ [Novo Nordisk has lost most of its post-Wegovy market cap gains — Sherwood News](https://sherwood.news/markets/novo-nordisk-has-lost-most-of-its-post-wegovy-market-cap-gains/)
+- ✅ [Novo Nordisk stock tumbles after FY earnings, sales forecast — CNBC](https://www.cnbc.com/2026/02/03/novo-nordisk-2025-earnings-wegovy-ozempic.html)
+- ✅ [These 4 charts show the scale of Novo Nordisk's woes — CNBC](https://www.cnbc.com/2026/02/25/novo-nordisk-stock-nvo-lly-eli-lilly-ozempic-weight-loss-obesity.html)
+- ✅ [Novo Nordisk stock tumbles: CEO says it will get worse before it gets better — CNBC](https://www.cnbc.com/2026/02/04/novo-nordisk-stock-ceo-earnings-guidance-ozempic-wegovy.html)
+- ✅ [Novo Nordisk to slash Wegovy, Ozempic U.S. list prices by up to 50% — CNBC](https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html)
+- ✅ [Novo Nordisk to slash Ozempic and Wegovy list prices by up to 50% for 2027 — CNN](https://www.cnn.com/2026/02/24/health/novo-nordisk-ozempic-wegovy-costs)
+- ✅ [The GLP-1 Gold Rush Hits a Wall: Novo Nordisk Sues Hims & Hers — FinancialContent](https://www.financialcontent.com/article/marketminute-2026-2-9-the-glp-1-gold-rush-hits-a-wall-novo-nordisk-sues-hims-and-hers-as-fda-crackdown-triggers-20-stock-crash)
+- ✅ [Novo shares plummet on sales, profit warning for '26 as 2 top execs head for the door — Fierce Pharma](https://www.fiercepharma.com/pharma/novo-shares-plummet-sales-profit-warning-26)
+- ✅ [Is Novo Nordisk's 72% Crash a Generational Buying Opportunity or a Value Trap? — Motley Fool](https://www.fool.com/investing/2026/04/23/is-novo-nordisks-72-crash-a-generational-buying/)
+- ✅ [Novo Nordisk CagriSema Falls Short of 25% Weight Loss Target — PharmExec](https://www.pharmexec.com/view/novo-nordisk-cagrisema-falls-short-25-weight-loss-target-patients-obesity-overweight)
+- 📎 [Novo Nordisk Has Fallen 56% From Its High. Is NVO Finally Cheap Enough? — TIKR](https://www.tikr.com/blog/novo-nordisk-has-fallen-56-from-its-high-is-nvo-finally-cheap-enough-to-buy-in-2026)
+- 📎 [Eli Lilly gaining in GLP-1 market over Novo Nordisk, earnings show — CNBC](https://www.cnbc.com/2026/02/04/eli-lilly-novo-nordisk-earnings-glp1-market.html)
+
+---
+
 ## Topic: CrowdStrike / outage premium (article: "The Outage Premium" — 2026-06-11T0440-the-outage-premium.md)
 
 - ✅ [CrowdStrike defeats shareholder lawsuit over huge software outage — CNBC](https://www.cnbc.com/2026/01/14/crowdstrike-defeats-shareholder-lawsuit-over-huge-software-outage.html)
