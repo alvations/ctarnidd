@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Vigilantes](2026-06-11T0350-the-vigilantes.md) · _2026-06-11_
+
+For fifteen years the market believed US deficits don't matter. The bond vigilantes weren't dead — only
+dormant. Now the 30-year Treasury is at 5.2% (a 19-year high), the term premium has turned positive (+75bps),
+the Moody's downgrade stripped the last AAA to Aa1, auctions are straining, and interest (>$1T/yr) now exceeds
+defense and is heading toward 30% of all federal revenue — a self-reinforcing debt/interest doom loop on $38T
+of debt with no margin for error. And because the Treasury yield is the risk-free rate, it reprices every other
+asset in this series. Fact-checked; see `audit/`.
+
+[![30Y](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F%5ETYX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%25&label=30Y%20yield&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/%5ETYX)
+[![10Y](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F%5ETNX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&suffix=%25&label=10Y%20yield&color=e07000&cacheSeconds=300)](https://finance.yahoo.com/quote/%5ETNX)
+[![TLT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTLT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TLT&color=1f6feb&cacheSeconds=300)](https://finance.yahoo.com/quote/TLT)
+[![GLD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGLD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GLD&color=d4af37&cacheSeconds=300)](https://finance.yahoo.com/quote/GLD)
+
 ### [The Empty Floor](2026-06-11T0325-the-empty-floor.md) · _2026-06-11_
 
 The office building is finance's most honest indicator: you can mark a loan at par, but you can't fill the

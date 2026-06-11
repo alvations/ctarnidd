@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: US fiscal / long bond / term premium (article: "The Vigilantes" — 2026-06-11T0350-the-vigilantes.md)
+
+- ✅ [30-year Treasury yield tops 5.19%, highest since before the financial crisis — CNBC](https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html)
+- ✅ [30-year US Treasury yield hits highest level in 19 years — CNN Business](https://www.cnn.com/2026/05/19/business/30-year-treasury-yield-bond-record)
+- ✅ [Surging Treasury yields expose a brutal truth: America has no margin for error — Fortune](https://fortune.com/2026/05/30/national-debt-treasury-bond-rates-fiscal-crisis/)
+- ✅ [Interest on the national debt is eating a record 19% of federal revenue — Fortune/CRFB](https://fortune.com/2026/05/27/national-debt-interest-payments-30-percent-revenue-bond-yields-crfb/)
+- ✅ [National Debt Outlook Gets Worse as Interest Costs Exceed $1 Trillion Annually — PGPF](https://www.pgpf.org/article/new-report-national-debt-outlook-gets-worse-as-interest-costs-exceed-1-trillion-annually/)
+- ✅ [Interest Costs Surpass National Defense and Medicare Spending — House Budget Committee](https://budget.house.gov/press-release/interest-costs-surpass-national-defense-and-medicare-spending)
+- ✅ [Moody's lowers U.S. credit rating to 'Aa1' — CNBC](https://www.cnbc.com/2025/05/16/moodys-downgrades-united-states-credit-rating-on-increase-in-government-debt.html)
+- ✅ [Moody's downgrade of the U.S. credit rating and the rising term premium — RSM Real Economy](https://realeconomy.rsmus.com/moodys-downgrade-of-u-s-debt-and-the-rising-term-premium/)
+- ✅ [Weak Auctions Underscore Risks of our Growing Debt Burden — CRFB](https://www.crfb.org/blogs/weak-auctions-underscore-risks-our-growing-debt-burden)
+- ✅ [US interest payments surpass defence spending as national debt hits $38.5 trillion — TRT World](https://www.trtworld.com/article/b31aec272cac)
+- 📎 [Demand for longer-term U.S. debt gets weaker — Fortune](https://fortune.com/2026/05/15/us-debt-demand-long-bond-yield-treasury-auction-inflation-iran-war-us-china-summit/)
+- 📎 [Market Yield on U.S. Treasury at 30-Year Constant Maturity (DGS30) — FRED](https://fred.stlouisfed.org/series/DGS30)
+
+---
+
 ## Topic: Commercial real estate / regional banks (article: "The Empty Floor" — 2026-06-11T0325-the-empty-floor.md)
 
 - ✅ [Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial Crisis Peak — Wolf Street](https://wolfstreet.com/2026/02/03/office-cmbs-delinquency-rate-spikes-to-record-12-3-much-worse-than-financial-crisis-meltdown-peak/)
