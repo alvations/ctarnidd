@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AppLovin / ad-tech black box (article: "The Multiple" — 2026-06-11T0415-the-multiple.md)
+
+- ✅ [AppLovin Probed by SEC Over Its Data-Collection Practices — Bloomberg](https://www.bloomberg.com/news/articles/2025-10-06/applovin-has-been-probed-by-sec-over-data-collection-practices)
+- ✅ [AppLovin stock tanks on report SEC is investigating data-collection — CNBC](https://www.cnbc.com/2025/10/06/applovin-stock-tanks-on-report-sec-is-investigating-company-over-data-collection-practices.html)
+- ✅ [AppLovin plunged 20% as short-seller Muddy Waters goes after company — CNBC](https://www.cnbc.com/2025/03/27/applovin-plunged-20percent-as-short-seller-muddy-waters-goes-after-company.html)
+- ✅ [MW is Short AppLovin (APP US) — Muddy Waters Research](https://muddywatersresearch.com/research/2025/mw-short-app/)
+- ✅ [AppLovin shares tumble as short sellers target AXON ad software — CNBC](https://www.cnbc.com/2025/02/26/applovin-shares-tumble-as-short-sellers-target-axon-ad-software.html)
+- ✅ [AppLovin CEO urges investors to 'dig deeper'; retains Alex Spiro — CNBC](https://www.cnbc.com/2025/03/28/applovin-ceo-tells-investors-dig-deeper-after-short-seller-report.html)
+- ✅ [Breaking down short-sellers' claims about AppLovin — Marketing Brew](https://www.marketingbrew.com/stories/2025/04/23/breaking-down-short-sellers-claims-about-applovin)
+- ✅ [AppLovin and Robinhood added to S&P 500 — CNBC](https://www.cnbc.com/2025/09/05/applovin-robinhood-sp-500.html)
+- ✅ [AppLovin (APP) Statistics & Valuation — StockAnalysis](https://stockanalysis.com/stocks/app/statistics/)
+- ✅ [Why the S&P 500 Is Adding Riskier High-Flying Stocks Like AppLovin — Bloomberg](https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-adds-dicey-stocks-as-market-turns-increasingly-exuberant)
+- 📎 [AppLovin Just Joined the S&P 500. Here's What History Suggests — Motley Fool](https://www.fool.com/investing/2025/11/12/applovin-just-joined-sp-500-history-suggests-ai/)
+- 📎 [AppLovin Faces SEC Scrutiny Over Alleged Data Practices — National Law Review](https://natlawreview.com/article/applovin-faces-sec-scrutiny-over-alleged-data-practices)
+
+---
+
 ## Topic: US fiscal / long bond / term premium (article: "The Vigilantes" — 2026-06-11T0350-the-vigilantes.md)
 
 - ✅ [30-year Treasury yield tops 5.19%, highest since before the financial crisis — CNBC](https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html)

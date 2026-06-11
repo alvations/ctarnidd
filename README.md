@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Multiple](2026-06-11T0415-the-multiple.md) · _2026-06-11_
+
+AppLovin is one of the most profitable companies of its size on earth — 84–85% EBITDA margins, 50%+ growth, in
+the S&P 500, ~$160–190B — all riding on AXON, a black-box ad engine the company won't open. Credible short-
+sellers (Fuzzy Panda, Culper, Muddy Waters) allege its edge depends on ToS-violating data extraction; the
+company vehemently denies it and the shorts lost money on price — but an SEC probe into its data collection is
+now open. The contested e-commerce expansion is the exact growth the multiple is paying for. It's a bet, at a
+rich price, on the contents of a sealed box. Fact-checked; see `audit/`.
+
+[![APP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAPP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=APP&color=1a73e8&cacheSeconds=300)](https://finance.yahoo.com/quote/APP)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=0866ff&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+[![AAPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAAPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AAPL&color=555555&cacheSeconds=300)](https://finance.yahoo.com/quote/AAPL)
+[![TTD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTTD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TTD&color=00baff&cacheSeconds=300)](https://finance.yahoo.com/quote/TTD)
+
 ### [The Vigilantes](2026-06-11T0350-the-vigilantes.md) · _2026-06-11_
 
 For fifteen years the market believed US deficits don't matter. The bond vigilantes weren't dead — only

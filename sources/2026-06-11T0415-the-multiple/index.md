@@ -1,0 +1,7 @@
+# Sources read — "The Multiple" (AppLovin / APP)
+
+Read 2026-06-11. Content consulted, preserved for traceability. Cumulative ledger in `../../SOURCES.md`.
+
+- `2026-06-11-search-01-financials-shorts.md` — market cap ~$162-192B (June 2026), stock ~$563.69; LTM rev ~$5.48B / profit ~$3.33B; Q1'26 rev $1.842B (+59% YoY); Q2'26 guide $1.915-1.945B (52-55%), adj EBITDA margin 84-85%; trailing P/E 45.85, fwd 29.11, EV/EBITDA 52-68x; AXON AI engine; short reports — Muddy Waters (Mar 2025, fingerprinting/data extraction/ToS, e-commerce retargeting + 23% beta churn, stock -20%), Fuzzy Panda + Culper (Feb 2025, "House of Cards"); company denies, CEO Foroughi "dig deeper," retained Alex Spiro; SEC investigating data collection (Oct 2025).
+- `2026-06-11-search-02-sp500-axon.md` — S&P 500 inclusion (announced Sept 5 2025, "joined" Nov 2025); Q1 2026 rev $1.842B (+59%); MAX + AXON segments; AXON expanding gaming → e-commerce/fintech; CEO Foroughi Axon public launch June 2026.
+- `2026-06-11-search-03-verify.md` — VERIFY: SEC probe launched Oct 6 2025 (whistleblower + short reports; SDK data flows/consent/partner contracts), stock -14% / -$8.65B; S&P 500 announced Sept 5 2025 (mkt cap >$150B, TTM NI >$2.7B, Q3 rev +68%); Q2'26 EBITDA margin 84-85%; mkt cap ~$162B (May) to ~$192B; Muddy Waters Mar 27 2025 record -20% one-day / ~$20B wiped, code evidence of user-ID collection from platform partners = alleged ToS violation. Widened article mkt-cap range to $160-190B.
