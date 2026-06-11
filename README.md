@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Zero Days](2026-06-11T0940-zero-days.md) · _2026-06-11_
+
+The fastest-growing product in finance is a lottery ticket that expires the same day you buy it. 0DTE options
+have gone from 5% of S&P 500 options volume in 2020 to roughly half (peaking past 60%) — a casino where theta
+is the house edge. The other side is sold to retirees as "income": ETFs (QDTE ~40%, XDTE ~26% "yield") that are
+largely handing back capital while their NAV erodes. And the gamma of the whole complex has *manufactured* the
+market's eerie calm — calm that can violently reverse in a shock, as the 2018 "Volmageddon" (XIV −96% in a day)
+rehearsed on a smaller stage. The calm is the danger. Fact-checked; see `audit/`.
+
+[![SPY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPY&color=1f6feb&cacheSeconds=300)](https://finance.yahoo.com/quote/SPY)
+[![VIX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F%5EVIX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&label=VIX&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/%5EVIX)
+[![QDTE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQDTE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QDTE&color=6a1b9a&cacheSeconds=300)](https://finance.yahoo.com/quote/QDTE)
+[![XDTE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXDTE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XDTE&color=00897b&cacheSeconds=300)](https://finance.yahoo.com/quote/XDTE)
+
 ### [The Supercycle](2026-06-11T0915-the-supercycle.md) · _2026-06-11_
 
 Micron just crossed a $1 trillion market cap on the AI memory boom — revenue +196%, gross margin 75%, its HBM

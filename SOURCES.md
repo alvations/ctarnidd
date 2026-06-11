@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: 0DTE options / income ETFs (article: "Zero Days" — 2026-06-11T0940-zero-days.md) [WSB]
+
+- ✅ [0DTE Options Explained: Why 50% of SPX Volume Trades the Same Day — HeyGoTrade](https://www.heygotrade.com/en/blog/0dte-options-explained/)
+- ✅ [SPX 0DTE Options Jump to Record 62% Share in August — Cboe](https://www.cboe.com/insights/posts/spx-0-dte-options-jump-to-record-62-share-in-august/)
+- ✅ [Evaluating the Market Impact of SPX 0DTE Options — Cboe](https://www.cboe.com/insights/posts/volatility-insights-evaluating-the-market-impact-of-spx-0-dte-options/)
+- ✅ [XDTE vs QDTE: Which Roundhill 0DTE ETF Pays the Higher Friday Yield — 24/7 Wall St.](https://247wallst.com/investing/2026/06/10/xdte-vs-qdte-which-roundhill-0dte-etf-actually-pays-the-higher-friday-yield/)
+- ✅ [XDTE: This Fund Will Never Recover Its NAV — Seeking Alpha](https://seekingalpha.com/article/4766073-xdte-this-fund-will-never-recover-its-nav)
+- ✅ [Volmageddon and the Failure of Short Volatility Products — CFA Institute](https://rpc.cfainstitute.org/research/financial-analysts-journal/2021/volmageddon-failure-short-volatility-products)
+- ✅ [What Caused the Feb 5, 2018 Volatility Spike / XIV Termination — Six Figure Investing](https://www.sixfigureinvesting.com/2019/02/what-caused-the-february-5th-2018-volatility-spike-xiv-termination/)
+- ✅ [XIV plummets 80%+ — CNBC (Feb 5, 2018)](https://www.cnbc.com/2018/02/05/xiv-exchange-traded-security-linked-to-volatility-plummets-80-percent.html)
+- 📎 [Record 0DTE volume reshapes the S&P 500 — SpotGamma](https://spotgamma.com/record-0dte-volume-reshapes-the-sp-500/)
+- 📎 [Roundhill QDTE 0DTE Covered Call ETF — Roundhill Investments](https://www.roundhillinvestments.com/etf/qdte/)
+
+---
+
 ## Topic: Micron / memory supercycle (article: "The Supercycle" — 2026-06-11T0915-the-supercycle.md)
 
 - ✅ [Micron hits $1 trillion market cap for the first time as stock surges 19% — CNBC](https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html)
