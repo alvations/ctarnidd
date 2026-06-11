@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Oil / Strait of Hormuz (article: "Twenty Miles Wide" — 2026-06-11T0530-twenty-miles-wide.md)
+
+- ✅ [2026 Strait of Hormuz crisis — Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+- ✅ [The Strait of Hormuz is the world's most important oil transit chokepoint — EIA](https://www.eia.gov/todayinenergy/detail.php?id=4430)
+- ✅ [How Much Oil Passes Through the Strait of Hormuz? — Britannica](https://www.britannica.com/topic/How-Much-Oil-Passes-Through-the-Strait-of-Hormuz)
+- ✅ [Brent crude oil price — Trading Economics](https://tradingeconomics.com/commodity/brent-crude-oil)
+- ✅ [Economic impact of the 2026 Iran war — Wikipedia](https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war)
+- ✅ ['Misplaced euphoria': Markets are sleepwalking into a recession amid Iran war oil shock — CNBC](https://www.cnbc.com/2026/05/04/strait-hormuz-gas-price-oil-shock-recession-risk-economy-iran-us-war.html)
+- ✅ [Iran war scenarios: The oil price that breaks parts of the economy — Oxford Economics](https://www.oxfordeconomics.com/resource/iran-war-scenarios-the-oil-price-that-breaks-parts-of-the-economy/)
+- ✅ [Exxon and Chevron Are Warning That Oil Prices Could Skyrocket — The Motley Fool](https://www.fool.com/investing/2026/05/31/exxon-and-chevron-are-warning-that-oil-prices-coul/)
+- ✅ [Trump says U.S. secretly moved more than 100 million barrels through Strait of Hormuz — CNBC](https://www.cnbc.com/2026/06/10/trump-strait-hormuz-iran-oil-tanker-navy.html)
+- ✅ [A timeline of how the Iran war shook oil prices — CNBC](https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html)
+- 📎 [Strait of Hormuz — IEA](https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz)
+- 📎 [Charted: Global Energy Flows at Risk in the Strait of Hormuz — Visual Capitalist](https://www.visualcapitalist.com/chart-energy-flows-at-risk-strait-of-hormuz/)
+
+---
+
 ## Topic: Novo Nordisk / GLP-1 loser (article: "The Other Side of the Needle" — 2026-06-11T0505-the-other-side-of-the-needle.md)
 
 - ✅ [Novo Nordisk Shares Down 43% in a Year as Generic Rivals Force 48% Price Cuts — 24/7 Wall St.](https://247wallst.com/investing/2026/04/03/novo-nordisk-shares-down-43-in-a-year-as-generic-rivals-force-48-price-cuts/)

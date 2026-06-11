@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Twenty Miles Wide](2026-06-11T0530-twenty-miles-wide.md) · _2026-06-11_
+
+The security of the world economy passes daily through a strait ~21 miles wide — ~20% of the planet's oil and
+LNG — and in 2026 a US–Israel–Iran war turned that abstraction into the variable governing inflation and rates.
+Brent ran from $72 past $120 (highest since 2008) as 90%+ of traffic diverted, then oscillated back to the $90s
+on a fragile ceasefire, jumping again on each renewed strike. OPEC's spare-capacity "insurance" is trapped
+behind the same chokepoint; energy majors (XOM, CVX) are a leveraged long on the war continuing; and the oil
+shock threatens the rate-cut assumption under every other asset. Fact-checked; see `audit/`.
+
+[![Brent](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBZ%3DF%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=Brent&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/BZ=F)
+[![XOM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXOM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XOM&color=e3000b&cacheSeconds=300)](https://finance.yahoo.com/quote/XOM)
+[![CVX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCVX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CVX&color=0066b2&cacheSeconds=300)](https://finance.yahoo.com/quote/CVX)
+[![XLE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXLE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XLE&color=f2a900&cacheSeconds=300)](https://finance.yahoo.com/quote/XLE)
+
 ### [The Other Side of the Needle](2026-06-11T0505-the-other-side-of-the-needle.md) · _2026-06-11_
 
 The counterpart to "The Appetite Trade": Novo Nordisk is the GLP-1 *loser*. Two years ago it was Europe's most
