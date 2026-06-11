@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Quantum-computing stocks (article: "Before Revenue" — 2026-06-10T0645-before-revenue.md)
+
+- ✅ [S&P Kensho Global Quantum Computing Technologies Index — S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/thematics/sp-kensho-global-quantum-computing-technologies-index/)
+- ✅ [Qubits and beyond: Tracking Quantum Computing's Momentum — Indexology (S&P DJI)](https://www.indexologyblog.com/2026/06/01/qubits-and-beyond-tracking-quantum-computings-momentum/)
+- ✅ [Rigetti Has a $6 Billion Market Cap and $7 Million in Revenue — 24/7 Wall St.](https://247wallst.com/investing/2026/05/13/rigetti-has-a-6-billion-market-cap-and-7-million-in-revenue-here-are-the-two-stocks-worth-owning-instead/)
+- ✅ [Quantinuum IPO Prices at $60: $14B Valuation Meets $31M Revenue — TechTimes](https://www.techtimes.com/articles/317783/20260604/quantinuum-ipo-prices-60-nasdaq-debut-14b-valuation-meets-31m-revenue.htm)
+- ✅ [Quantinuum closes flat in Nasdaq debut, after upsized offering — CNBC](https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html)
+- ✅ [Nvidia CEO Huang says was wrong about timeline for quantum computing — CNBC](https://www.cnbc.com/2025/03/20/nvidia-ceo-huang-says-was-wrong-about-timeline-for-quantum-computing.html)
+- ✅ [NVIDIA CEO's Predictions Rain on Quantum Stock Parade — The Quantum Insider](https://thequantuminsider.com/2025/01/08/nvidia-ceos-predictions-rain-on-quantum-stock-parade/)
+- 📎 [QUBT Valuation (600×+ sales) — Simply Wall St](https://simplywall.st/stocks/us/tech/nasdaq-qubt/quantum-computing/news/a-look-at-quantum-computing-inc-qubt-valuation-after-its-str)
+- 📎 [Rigetti Posts $216M Annual Loss While Expanding Deployments — The Quantum Insider](https://thequantuminsider.com/2026/03/05/rigetti-posts-216-million-annual-loss-while-expanding-quantum-system-deployments/)
+- 📎 [Honeywell-backed Quantinuum's IPO puts the quantum stock rally to the test — Yahoo Finance](https://finance.yahoo.com/markets/article/honeywell-backed-quantinuums-ipo-puts-the-quantum-stock-rally-to-the-test-154531937.html)
+
+---
+
 ## Topic: Private credit (article: "Mark to Myth" — 2026-06-10T0635-mark-to-myth.md)
 
 - 🔒 [Apollo's Pricing Plan Will Transform Private Credit — Bloomberg](https://www.bloomberg.com/opinion/articles/2026-05-13/apollo-s-pricing-plan-will-transform-private-credit)

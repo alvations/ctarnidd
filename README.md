@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Before Revenue](2026-06-10T0645-before-revenue.md) · _2026-06-10_
+
+Quantum-computing stocks rose 69% in five months (vs S&P +10%) on companies with almost no sales — Rigetti
+$7M and *falling*, QUBT at 600× sales, IonQ ~$20B on ~$260M guide, Quantinuum's $1.68B IPO on $30.9M revenue /
+$192.6M loss — for a technology Jensen Huang said is 15–30 years from useful before he apologized to the share
+prices. The purest narrative mania in the market. Fact-checked; see `audit/`.
+
+[![IONQ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FIONQ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=IONQ&color=6f2b8f&cacheSeconds=300)](https://finance.yahoo.com/quote/IONQ)
+[![RGTI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRGTI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RGTI&color=00857a&cacheSeconds=300)](https://finance.yahoo.com/quote/RGTI)
+[![QBTS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQBTS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QBTS&color=d81e5b&cacheSeconds=300)](https://finance.yahoo.com/quote/QBTS)
+[![QUBT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQUBT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QUBT&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/QUBT)
+[![QNT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQNT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QNT&color=0091bd&cacheSeconds=300)](https://finance.yahoo.com/quote/QNT)
+
 ### [Mark to Myth](2026-06-10T0635-mark-to-myth.md) · _2026-06-10_
 
 Private credit ($1.7T) sold "stability" — a smooth, never-falling NAV produced by managers marking their own
