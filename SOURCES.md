@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Coinbase / crypto exchange (article: "The Rake" — 2026-06-11T1210-the-rake.md) [CNET]
+
+- ✅ [Coinbase Q1 2026 Revenue Falls 31% to $1.41 Billion — Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-q1-2026-revenue-falls-210348048.html)
+- ✅ [Coinbase (COIN) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/05/07/coinbase-coin-earnings-q1-2026.html)
+- ✅ [Coinbase Q1 2026: Revenue $1.41B, GAAP Loss $1.49/sh — IndexBox](https://www.indexbox.io/blog/coinbase-q1-2026-results-miss-expectations-as-revenue-falls-305/)
+- ✅ [State of the Network: Coinbase Q1 2026 Earnings — Talos](https://www.talos.com/insights/state-of-the-network-363)
+- ✅ [How Circle and Coinbase make money from USDC — USDC.org](https://usdc.org/guides/how-circle-and-coinbase-make-money-from-usdc)
+- ✅ [Hyperliquid's USDC deal could pressure Circle, Coinbase margins — CoinDesk](https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say)
+- ✅ [Coinbase Q1 2026: Revenue Down 21%, Derivatives and Stablecoins Gaining — TIKR](https://www.tikr.com/blog/coinbase-q1-2026-earnings-revenue-down-21-but-derivatives-and-stablecoins-are-gaining)
+- 📎 [Coinbase Q1 2026 Earnings Results: Revenue Miss, $394M Loss — CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+
+---
+
 ## Topic: AMD vs Nvidia AI GPU (article: "The Other Chip" — 2026-06-11T1145-the-other-chip.md) [WSB]
 
 - ✅ [AMD 8-K (OpenAI warrant terms), Oct 6 2025 — SEC](https://www.sec.gov/Archives/edgar/data/0000002488/000119312525230895/d28189d8k.htm)

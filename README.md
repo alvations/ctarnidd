@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Rake](2026-06-11T1210-the-rake.md) · _2026-06-11_
+
+The pitch for owning a crypto exchange is that you're buying the casino, and the house always wins. Then Q1 2026
+arrived: trading volume fell, and Coinbase's revenue fell with it — down 31%, into a $394M loss. A casino has a
+floor; Coinbase doesn't, because it's the rake, not the house. The bull rebuttal — a "record 44% subscription
+mix" — is a denominator illusion (both lines fell, transaction faster). The biggest "diversification" leg,
+stablecoin yield, is a disguised T-bill business under revenue-share attack (Hyperliquid just clawed 90% of its
+deposits' income). And all three engines track one number: the price of Bitcoin. A real franchise, mispriced as
+an annuity. Fact-checked; see `audit/`.
+
+[![COIN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOIN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COIN&color=0052ff&cacheSeconds=300)](https://finance.yahoo.com/quote/COIN)
+[![CRCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRCL&color=00d395&cacheSeconds=300)](https://finance.yahoo.com/quote/CRCL)
+[![HOOD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHOOD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HOOD&color=00c805&cacheSeconds=300)](https://finance.yahoo.com/quote/HOOD)
+[![BTC/USD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC%2FUSD&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+
 ### [The Other Chip](2026-06-11T1145-the-other-chip.md) · _2026-06-11_
 
 AMD's stock doubled in a year on one story: that it is finally about to catch Nvidia. The same story has been
