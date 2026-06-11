@@ -10,7 +10,7 @@ forensic-financial house voice. Deduped against the 44 published articles. Same 
 | 2 | done    | 2026-06-11T1005-the-hands.md          | Humanoid robots — Figure AI $39B, Tesla Optimus [TechCrunch/CES] |
 | 3 | done | 2026-06-11T1030-the-data-mine.md                  | Reddit (RDDT) — selling user posts as AI training data [TC/Verge] |
 | 4 | done | 2026-06-11T1055-the-algorithm.md                  | TikTok divestiture / ByteDance $550B [Verge/Mashable] |
-| 5 | pending | TBD-cash-to-burn.md                   | EV startups Rivian/Lucid cash burn + BYD [Engadget/CNET] |
+| 5 | done | 2026-06-11T1120-cash-to-burn.md                   | EV startups Rivian/Lucid cash burn + BYD [Engadget/CNET] |
 | 6 | pending | TBD-the-other-chip.md                 | AMD MI400 — perpetual #2 to Nvidia [WSB] |
 | 7 | pending | TBD-the-everything-exchange.md        | Coinbase (COIN) — the crypto casino's stock + layoffs [CNET] |
 | 8 | pending | TBD-the-pin.md                        | AI hardware/product graveyard: Humane/Rabbit/Sora [Verge/Gizmodo] |

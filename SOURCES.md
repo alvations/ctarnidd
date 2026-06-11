@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: US EV startups vs BYD (article: "Cash to Burn" — 2026-06-11T1120-cash-to-burn.md) [Engadget/CNET]
+
+- ✅ [Rivian Q1 2026 quarterly report (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html)
+- ✅ [Rivian Q1 2026 earnings beat estimates as R2 production starts — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/rivian-q1-2026-earnings-beat-204843698.html)
+- ✅ [Lucid Group Q1 FY2026 earnings 8-K — SEC](https://www.sec.gov/Archives/edgar/data/0001811210/000162828026030509/q1fy26ex991earnings.htm)
+- ✅ [EV maker Lucid posts Q1 loss despite revenue and production rise — just-auto](https://www.just-auto.com/news/lucid-posts-q1-loss/)
+- ✅ [Lucid Q1 2026 Earnings: Revenue Misses, Loss Widens, Production Cut — Drive Tesla Canada](https://driveteslacanada.ca/news/lucid-q1-2026-earnings-miss-loss-production/)
+- ✅ [BYD overtakes Tesla as China reshapes the global EV race — Euronews](https://www.euronews.com/business/2026/01/02/byd-overtakes-tesla-as-china-reshapes-the-global-ev-race)
+- ✅ [BYD profit falls amid EV price war, Tesla challenge — Rest of World](https://restofworld.org/2026/byd-profits-drop/)
+- ✅ [BYD Sales Surges 272% in European Union as Tesla Slumps — Carbon Credits](https://carboncredits.com/byd-surges-272-in-europe-sales-as-tesla-slumps/)
+- 📎 [Lucid (LCID) Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/05/lucid-lcid-q1-2026-earnings-call-transcript/)
+
+---
+
 ## Topic: TikTok US divestiture / JV (article: "The Algorithm" — 2026-06-11T1055-the-algorithm.md) [Verge/Mashable]
 
 - ✅ [Here's what you should know about the US TikTok deal — TechCrunch](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/)

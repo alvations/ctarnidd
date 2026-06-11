@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Cash to Burn](2026-06-11T1120-cash-to-burn.md) · _2026-06-11_
+
+Two American EV startups have spent a decade and tens of billions building cars almost nobody buys, and the
+market still calls them the future. Lucid loses ~$3.50 in operating loss for every $1 of revenue (Q1'26: $989M
+operating loss on $282M revenue, 3,093 cars sold) and survives only on Saudi PIF tranches. Rivian burns >$1B a
+quarter and leans on a Volkswagen software JV. Meanwhile BYD already overtook Tesla in battery-EVs, is
+profitable, and sells cars at half the price — kept off US roads only by a tariff wall that is itself an
+admission the startups can't compete on cost. The losses were supposed to be tuition; someone else already
+graduated. Fact-checked; see `audit/`.
+
+[![RIVN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRIVN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RIVN&color=ffd400&cacheSeconds=300)](https://finance.yahoo.com/quote/RIVN)
+[![LCID](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLCID%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LCID&color=00d1b2&cacheSeconds=300)](https://finance.yahoo.com/quote/LCID)
+[![TSLA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSLA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSLA&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSLA)
+[![VWAGY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVWAGY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VWAGY&color=001e50&cacheSeconds=300)](https://finance.yahoo.com/quote/VWAGY)
+
 ### [The Algorithm](2026-06-11T1055-the-algorithm.md) · _2026-06-11_
 
 They told you TikTok was sold. The cap table says otherwise. The January 2026 "divestiture" left ByteDance
