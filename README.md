@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Server Room](2026-06-11T0015-the-server-room.md) · _2026-06-11_
+
+Super Micro (SMCI) was delisted in 2018 and paid the SEC $17.5M in 2020 for improper revenue recognition (CEO
+clawed back $2.1M). Then the AI boom doubled its revenue — and a fresh crisis arrived: a 2024 Hindenburg
+report, Ernst & Young resigning mid-audit, a DOJ probe, a China server-smuggling indictment, and BDO's second
+straight *adverse opinion* on internal controls. The market values it on doubling revenue — the exact number
+a twice-caught revenue-recognition history says to trust least — in a ~10% margin box-assembly business Dell
+and HPE can copy. Fact-checked; see `audit/`.
+
+[![SMCI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSMCI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SMCI&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/SMCI)
+[![DELL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDELL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DELL&color=0076ce&cacheSeconds=300)](https://finance.yahoo.com/quote/DELL)
+[![HPE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHPE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HPE&color=01a982&cacheSeconds=300)](https://finance.yahoo.com/quote/HPE)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+
 ### [Five Thousand](2026-06-10T2300-five-thousand.md) · _2026-06-10_
 
 Gold broke $5,000 (ATH ~$5,589, Jan 2026) — its first inflation-adjusted record since 1980. The conventional

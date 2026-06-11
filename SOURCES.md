@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Super Micro / SMCI accounting (article: "The Server Room" — 2026-06-11T0015-the-server-room.md)
+
+- ✅ [SEC Charges Super Micro and Former CFO… Widespread Accounting Violations — SEC.gov](https://www.sec.gov/newsroom/press-releases/2020-190)
+- ✅ [Supermicro Announces Settlement of Financial Accounting Investigation — Supermicro IR](https://ir.supermicro.com/news/news-details/2020/Supermicro-Announces-Settlement-of-Financial-Accounting-Investigation/default.aspx)
+- ✅ [Supermicro Announces Approval to Relist on NASDAQ — Supermicro IR](https://ir.supermicro.com/news/news-details/2020/Supermicro-Announces-Approval-to-Relist-on-NASDAQ-and-Provides-Business-Update/default.aspx)
+- ✅ [Super Micro: Fresh Evidence Of Accounting Manipulation, Sibling Self-Dealing And Sanctions Evasion — Hindenburg Research](https://hindenburgresearch.com/smci/)
+- ✅ [Super Micro Computer stock tanks after accounting firm resigns — Yahoo Finance](https://finance.yahoo.com/news/super-micro-computer-stock-tanks-after-accounting-firm-resigns-135641306.html)
+- ✅ [Super Micro Has Now Faced SEC Probes, Accounting Scandals, and Smuggling Charges — Motley Fool](https://www.fool.com/investing/2026/03/20/super-micro-has-now-faced-sec-probes-accounting-sc/)
+- ✅ [SMCI Stock at $31.99: AI Server Hyper-Growth, Thin Margins, Deep Discount — Investing.com](https://www.investing.com/analysis/super-micro-stock-at-3199-ai-server-hypergrowth-thin-margins-deep-discount-200675761)
+- ✅ [SMCI Stock Analysis 2026: AI Server Boom, Accounting Aftermath, Where the Real Risk Sits — Kalkine](https://www.kalkine.com/news/premium/super-micro-computer-smci-stock-analysis-2026-ai-server-boom-accounting-aftermath-and-where-the-real-risk-sits)
+- ✅ [Super Micro Doubled Revenue Year Over Year, and the Stock Is Still Flat — 24/7 Wall St.](https://247wallst.com/investing/2026/05/06/super-micro-doubled-revenue-year-over-year-and-the-stock-is-still-flat-that-math-doesnt-add-up/)
+- ✅ [The Super Micro Crisis: Engineering Excellence vs. Governance Failure — FinancialContent](https://www.financialcontent.com/article/finterra-2026-3-23-the-super-micro-crisis-engineering-excellence-vs-governance-failure-nasdaq-smci)
+- 📎 [Super Micro (SMCI) Q3 FY2026 8-K exhibit 99.1 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000013/exhibit991_20260331.htm)
+- 📎 [Super Micro Faces Manipulation Allegations, But Future Is Bright — Nasdaq](https://www.nasdaq.com/articles/super-micro-smci-faces-manipulation-allegations-future-bright)
+
+---
+
 ## Topic: Gold / central banks (article: "Five Thousand" — 2026-06-10T2300-five-thousand.md)
 
 - ✅ [Why Gold Just Surged Above $5,000 for the First Time — HF Financial](https://www.hffinancial.com/why-gold-surged-above-5000)

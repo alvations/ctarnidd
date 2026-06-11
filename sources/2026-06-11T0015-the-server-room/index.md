@@ -1,0 +1,7 @@
+# Sources read — "The Server Room" (Super Micro / SMCI)
+
+Read 2026-06-11. Content consulted, preserved for traceability. Cumulative ledger in `../../SOURCES.md`.
+
+- `2026-06-11-search-01-hindenburg-ey-doj.md` — 2024 Hindenburg report (improper rev rec, channel stuffing, related-party, sibling self-dealing, export evasion); E&Y resigned mid-audit (internal-control concerns); delayed 10-K; Nasdaq noncompliance; DOJ probe (whistleblower); unsealed indictment — 3 people tied to SMCI smuggled AI servers/GPUs to China (false docs, staged servers, billions).
+- `2026-06-11-search-02-financials-margins-bdo.md` — Q3 FY2026 net sales $10.2B (vs $12.7B Q2'26, $4.6B Q3'25); FY2026 guide $38.9–40.4B; gross margin 9.9% Q3'26 (vs 6.3% Q2'26, 9.6% Q3'25), compressing; Blackwell order book ~$13B early 2026; >90% revenue AI GPU platforms; Dell/HPE competing; stock ~$32 (target $33.20), analysts 5 buy/9 hold/4 sell; BDO hired late 2024, special committee NO restatement, BDO adverse opinion on internal controls.
+- `2026-06-11-search-03-verify-prior-sec.md` — VERIFY recidivism: 2018 Nasdaq removal over revenue-recognition probe; Aug 2020 SEC settlement (FY2014–2017) — $17.5M penalty, CEO Charles Liang SOX clawback $2,122,000, "widespread accounting violations"; relisted Jan 9/14 2020. BDO adverse opinion on internal controls as of June 30 2025 = 2nd consecutive year; no restatement filed; remained listed.
