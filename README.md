@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Carry](2026-06-10T2235-the-carry.md) · _2026-06-10_
+
+The yen carry trade — borrow yen at ~zero, buy everything else — is the largest, oldest, least-measured
+leverage in global finance: ~$500B on the narrow count, ~$20T (Deutsche Bank) on the broad one, plus ~$5T of
+Japanese overseas savings that could repatriate. For the first time in 30 years the foundation is moving: BOJ
+at 0.75% (Dec-2025 high), 10y JGB ~2.77%, 20y 3.555%, and the differential closing from both ends as the Fed
+eases. August 2024 — Nikkei −12.4%, BTC $64k→$49k — was only a fraction unwinding. Fact-checked; see `audit/`.
+
+[![USDJPY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FJPY%3DX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&label=USD%2FJPY&color=bc002d&cacheSeconds=300)](https://finance.yahoo.com/quote/JPY=X)
+[![Nikkei](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2F%5EN225%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%C2%A5&label=Nikkei%20225&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/%5EN225)
+[![EWJ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEWJ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EWJ&color=0a4595&cacheSeconds=300)](https://finance.yahoo.com/quote/EWJ)
+[![BTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+
 ### [Kilowatt Kings](2026-06-10T2210-kilowatt-kings.md) · _2026-06-10_
 
 The electric utility — a bond with a smokestack, owned for a century for its boredom — has been re-rated into

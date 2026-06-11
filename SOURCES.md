@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Yen carry trade / Japan (article: "The Carry" — 2026-06-10T2235-the-carry.md)
+
+- ✅ [Carry Trade at Risk: Japan's 10-Year JGB Yield Hits 25-Year High — Wolf Street](https://wolfstreet.com/2025/12/22/yen-carry-trade-at-risk-japans-10-year-jgb-yield-hits-25-year-high-yield-curve-steepens-finance-ministry-verbally-props-up-yen/)
+- ✅ [Yen Carry Trade Strategies 2026: Rising Rates & USD/JPY Risks — Quantum Trading](https://www.quantumtrading.com/forex-trading/forex-carry-trade-strategies-in-the-new-rising-rate-environment-usd-jpy-focus-may-2026/)
+- ✅ [BOJ raises benchmark rates to highest in 30 years, lifting 10y JGB past 2% — CNBC](https://www.cnbc.com/2025/12/19/bank-of-japan-boj-rate-cpi-inflation-takaichi-ueda.html)
+- ✅ [BOJ keeps policy rate steady (April 2026) — CNBC](https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html)
+- ✅ [BOJ raises growth forecasts, holds rates at 0.75% (Jan 2026) — CNBC](https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html)
+- ✅ [Japan 20-Year Bond Yield Hits 3.555% High in May 2026 — KuCoin](https://www.kucoin.com/blog/Japan20-Year-Bond-Yield-Hits3555-High-in-Ma-2026)
+- ✅ [Japan's Bond Market Crash: What Just Happened — Wright Research](https://www.wrightresearch.in/blog/japans-bond-market-crash-what-just-happened-and-why-it-matters-for-global-markets/)
+- ✅ [Yen Carry Trade Unwind: Could It Trigger the Next Market Crash? — EBC](https://www.ebc.com/forex/yen-carry-trade-unwind-could-it-trigger-the-next-market-crash)
+- ✅ [The Yen Carry Trade and Its Global Implications — MenthorQ](https://menthorq.com/guide/the-yen-carry-trade-and-its-global-implications/)
+- ✅ [Bank of Japan raises rates to 30-year high — EFG International](https://www.efginternational.com/insights/2025/bank_of_japan_raises_rates_to_30-year_high.html)
+- 📎 [Japan government bonds: high yields spark fears of carry trade unwind — CNBC](https://www.cnbc.com/2025/05/28/japan-government-bond-yields-spark-fears-of-carry-trade-unwind.html)
+- 📎 [Japan Interest Rate — Trading Economics](https://tradingeconomics.com/japan/interest-rate)
+
+---
+
 ## Topic: AI power / utilities (article: "Kilowatt Kings" — 2026-06-10T2210-kilowatt-kings.md)
 
 - ✅ [Key US Power Grid Cuts Demand Outlook on Overstated AI Boom — Bloomberg](https://www.bloomberg.com/news/articles/2026-01-14/biggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom)
