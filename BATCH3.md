@@ -11,7 +11,7 @@ All 10 are fresh themes — no overlap with the 14 batch-1 or 10 batch-2 article
 |---|--------|------|-------|
 | 1 | done    | 2026-06-11T0120-single-point-of-failure.md | TSMC (TSM) — Taiwan concentration / single point of failure |
 | 2 | done    | 2026-06-11T0145-the-one-machine.md    | ASML — EUV lithography monopoly + China export controls |
-| 3 | pending | TBD-the-custom-job.md                 | Broadcom (AVGO) — custom AI silicon / hyperscaler ASIC backlog |
+| 3 | done    | 2026-06-11T0210-the-custom-job.md     | Broadcom (AVGO) — custom AI silicon / hyperscaler ASIC backlog |
 | 4 | pending | TBD-the-house-always-wins.md          | Robinhood (HOOD) — PFOF, options/crypto churn, gamified retail |
 | 5 | pending | TBD-the-tower-of-babel.md             | Bitcoin / digital-asset treasury companies (DATs), mNAV premium |
 | 6 | pending | TBD-the-empty-floor.md                | Commercial real estate / office debt / regional banks |

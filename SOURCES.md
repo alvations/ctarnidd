@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Broadcom / custom AI silicon (article: "The Custom Job" — 2026-06-11T0210-the-custom-job.md)
+
+- ✅ [Broadcom's AI Revenue Rockets 106% to $8.4 Billion as Custom Silicon Dominates — FinancialContent](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-24-broadcoms-ai-revenue-rockets-106-to-84-billion-as-custom-silicon-dominates-the-infrastructure-build-out)
+- ✅ [Broadcom Q2 FY2026 10-Q (RPO $164.6B) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001730168/000173016826000054/avgo-20260503.htm)
+- ✅ [Broadcom's AI Chip Revenue Just Doubled… CEO Says $100 Billion Is Coming in 2027 — TIKR](https://www.tikr.com/blog/broadcoms-ai-chip-revenue-just-doubled-year-over-year-and-the-ceo-says-100-billion-is-coming-in-2027)
+- ✅ [Broadcom's Long Term AI Chip Deals With Hyperscalers Deepen Revenue Visibility — Sahm Capital](https://www.sahmcapital.com/news/content/broadcoms-long-term-ai-chip-deals-with-hyperscalers-deepen-revenue-visibility-2026-05-04)
+- ✅ [Broadcom vs Marvell: Custom AI Silicon Battle 2026 — HeyGoTrade](https://www.heygotrade.com/en/blog/broadcom-vs-marvell-custom-ai-silicon-battle-2026/)
+- ✅ [NVIDIA vs. Broadcom: Which AI Chip Stock Is the Better Buy Now? — Yahoo Finance](https://finance.yahoo.com/news/nvidia-vs-broadcom-ai-chip-151700936.html)
+- ✅ [Broadcom (AVGO) Market Cap & Net Worth — StockAnalysis](https://stockanalysis.com/stocks/avgo/market-cap/)
+- ✅ [Broadcom posts $22.2B Q2 revenue on AI demand — StockTitan](https://www.stocktitan.net/sec-filings/AVGO/10-q-broadcom-inc-quarterly-earnings-report-5543554f0cb8.html)
+- ✅ [Broadcom AI Revenue Surges 106%: Custom Chip Strategy 2026 — Tech-Insider](https://tech-insider.org/broadcom-ai-revenue-custom-chips-2026/)
+- 📎 [Broadcom Stock (AVGO): Complete Investment Analysis — Techi](https://www.techi.com/broadcom-stock/)
+- 📎 [Broadcom's AI Backlog Starts to Matter More Than Short-Term Margin Optics — Investing.com](https://www.investing.com/analysis/broadcoms-ai-backlog-starts-to-matter-more-than-shortterm-margin-optics-200673252)
+
+---
+
 ## Topic: ASML / EUV monopoly (article: "The One Machine" — 2026-06-11T0145-the-one-machine.md)
 
 - ✅ [ASML Q1 2026 results — Form 6-K press release — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/937966/000162828026025147/pressreleasefinancialresul.htm)

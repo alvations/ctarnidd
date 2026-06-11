@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Custom Job](2026-06-11T0210-the-custom-job.md) · _2026-06-11_
+
+Broadcom is the "anti-Nvidia" — it co-designs custom AI chips (XPUs) for hyperscalers who want to escape
+Nvidia. AI revenue is tripling ($8.4B→$10.8B→~$16B across FY26 quarters), the backlog runs to $73B / $164.6B
+RPO, and the market pays a *premium* to Nvidia (~28× vs ~25× forward) at a ~$1.87T cap. But the whole business
+rests on ~3 customers (one program slip "moves the entire AI growth line"), the custom chips still route through
+every TSMC/ASML/HBM chokepoint, and it's a debt-laden VMware roll-up. The cure for concentration is more
+concentration. Fact-checked; see `audit/`.
+
+[![AVGO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAVGO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AVGO&color=cc092f&cacheSeconds=300)](https://finance.yahoo.com/quote/AVGO)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=0866ff&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+
 ### [The One Machine](2026-06-11T0145-the-one-machine.md) · _2026-06-11_
 
 Beneath TSMC sits ASML — the sole maker on Earth of the EUV machine every advanced chip needs (Nikon and Canon
