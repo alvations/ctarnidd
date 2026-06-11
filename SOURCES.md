@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Paramount–Warner Bros / media consolidation (article: "The Final Cut" — 2026-06-11T0645-the-final-cut.md)
+
+- ✅ [Paramount to Acquire Warner Bros. Discovery — Paramount / PR Newswire](https://www.paramount.com/press/paramount-to-acquire-warner-bros-discovery-to-form-next-generation-global-media-and-entertainment-company)
+- ✅ [Warner Bros. Discovery 8-K (deal terms) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001437107/000143710726000018/exhibit991.htm)
+- ✅ [Proposed acquisition of Warner Bros. Discovery by Paramount Skydance — Wikipedia](https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance)
+- ✅ [Warner Bros Discovery shareholders approve Paramount Skydance deal — Fox Business](https://www.foxbusiness.com/media/warner-bros-discovery-shareholders-approve-paramount-skydance-deal)
+- ✅ [Netflix to Buy Warner Bros. and HBO Max in $82.7 Billion Deal — Variety](https://variety.com/2025/tv/news/netflix-to-acquire-warner-bros-82-7-billion-deal-1236601034/)
+- ✅ [Netflix to buy Warner Bros. film and streaming assets in $72 billion deal — CNBC](https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html)
+- ✅ [Netflix plans $25 billion share buyback after failed Warner Bros. Discovery bid — American Bazaar](https://americanbazaaronline.com/2026/04/23/netflix-plans-25b-share-buyback-after-failed-warner-bros-bid-479560/)
+- ✅ [AOL–Time Warner: the worst merger in stock market history — Market Insiders](https://marketinsiders.in/2025/08/19/aol-time-warner-the-worst-merger-in-stock-market-history/)
+- 📎 [HISTORY's Moment in Media: AOL Time Warner Merger — MediaVillage](https://www.mediavillage.com/article/historys-moment-in-media-aol-time-warner-merger/)
+
+---
+
 ## Topic: Meta / AI superintelligence capex (article: "Whatever It Takes" — 2026-06-11T0620-whatever-it-takes.md)
 
 - ✅ [Meta just bumped its 2026 capex forecast up to as much as $145 billion—and investors flinched — Fortune](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/)

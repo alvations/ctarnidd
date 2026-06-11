@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Final Cut](2026-06-11T0645-the-final-cut.md) · _2026-06-11_
+
+Paramount (the Ellisons' Skydance) is buying Warner Bros. Discovery — $31/share, ~$110B enterprise value,
+$47B of new shares, topping a Netflix bid — and the market is calling it a bold play for the streaming future.
+It's better read as the consolidation of a dying past: cord-cutting is unwinding the cable bundle that funded a
+century of storytelling, and combining two melting ice cubes (WBD is itself a failed 2022 merger, in the cursed
+AOL–Time Warner → AT&T → Discovery lineage) doesn't make ice. The streaming war is already lost to Netflix; the
+billionaires win the trophy IP while shareholders carry the decline. Roll credits. Fact-checked; see `audit/`.
+
+[![WBD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWBD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WBD&color=0050ff&cacheSeconds=300)](https://finance.yahoo.com/quote/WBD)
+[![PSKY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPSKY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PSKY&color=0064ff&cacheSeconds=300)](https://finance.yahoo.com/quote/PSKY)
+[![NFLX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNFLX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NFLX&color=e50914&cacheSeconds=300)](https://finance.yahoo.com/quote/NFLX)
+[![DIS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDIS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DIS&color=113ccf&cacheSeconds=300)](https://finance.yahoo.com/quote/DIS)
+
 ### [Whatever It Takes](2026-06-11T0620-whatever-it-takes.md) · _2026-06-11_
 
 Mark Zuckerberg has decided superintelligence is imminent and that Meta will spend *whatever it takes* to build
