@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Empty Floor](2026-06-11T0325-the-empty-floor.md) · _2026-06-11_
+
+The office building is finance's most honest indicator: you can mark a loan at par, but you can't fill the
+desks. Hybrid work permanently emptied ~a fifth of US office space; office CMBS delinquency hit a record 12.34%
+(Jan 2026, worse than 2008); and a ~$2 trillion CRE maturity wall (2025–27) is forcing maturity defaults — more
+than half of 2026's office loans aren't expected to refinance. Four years of "extend and pretend" deferred the
+loss onto regional banks (900+ at >300% CRE/capital); a rate cut eases financing but can't refill floors. The
+bill comes due in a currency the pretense never had: a date certain. Fact-checked; see `audit/`.
+
+[![KRE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKRE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KRE&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/KRE)
+[![BXP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBXP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BXP&color=1a3c6e&cacheSeconds=300)](https://finance.yahoo.com/quote/BXP)
+[![SLG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSLG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SLG&color=00857a&cacheSeconds=300)](https://finance.yahoo.com/quote/SLG)
+[![VNO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVNO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VNO&color=8a1538&cacheSeconds=300)](https://finance.yahoo.com/quote/VNO)
+
 ### [The Tower of Babel](2026-06-11T0300-the-tower-of-babel.md) · _2026-06-11_
 
 A digital-asset treasury company holds crypto and, at the peak, traded at up to 25× the value of the coins it

@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Commercial real estate / regional banks (article: "The Empty Floor" — 2026-06-11T0325-the-empty-floor.md)
+
+- ✅ [Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial Crisis Peak — Wolf Street](https://wolfstreet.com/2026/02/03/office-cmbs-delinquency-rate-spikes-to-record-12-3-much-worse-than-financial-crisis-meltdown-peak/)
+- ✅ [Office Loans Delinquency Hits Record High — CRE Daily](https://www.credaily.com/briefs/office-loans-delinquency-hits-record-high/)
+- ✅ [Banks Face a $2 Trillion CRE Debt Maturity Wall — BRG ThinkSet](https://www.thinkbrg.com/thinkset/ts-delponti-banks-cre-debt-maturity-wall/)
+- ✅ [CMBS Office Distress Hits 2026 Maturity Wall — CRE Daily](https://www.credaily.com/briefs/cmbs-office-distress-hits-2026-maturity-wall/)
+- ✅ [Commercial real estate market defies rising delinquencies — Asset Securitization Report / American Banker](https://asreport.americanbanker.com/news/commercial-real-estate-market-defies-rising-delinquencies)
+- ✅ [Commercial Real Estate's Slow-Motion Reckoning: Office Distress, Regional Banks — VaaSBlock](https://www.vaasblock.com/news/commercial-real-estate-office-distress-regional-banks-2026/)
+- ✅ [Commercial real estate lending trends in 2026 — Agora](https://agorareal.com/blog/commercial-real-estate-lending-trends/)
+- ✅ [Unpacking the $2 trillion wall of maturities — Principal Real Estate](https://brandassets.principal.com/m/4f0a2e32cd4949ac/original/Principal-Real-Estate-Wall-of-Maturities.pdf)
+- ✅ [Office CMBS Delinquencies Reach New All-Time High to Start 2026 — Connect CRE](https://www.connectcre.com/stories/office-cmbs-delinquencies-reach-new-all-time-high-to-start-2026/)
+- 📎 [Delinquency Rate on CRE Loans, All Commercial Banks (DRCRELEXFACBS) — FRED / St. Louis Fed](https://fred.stlouisfed.org/series/DRCRELEXFACBS)
+- 📎 [2026 CMBS Delinquency Rates — Multi-Housing News](https://www.multihousingnews.com/cmbs-delinquency-rates/)
+
+---
+
 ## Topic: Digital-asset treasury companies / mNAV (article: "The Tower of Babel" — 2026-06-11T0300-the-tower-of-babel.md)
 
 - ✅ [Digital Asset Treasuries Are Collapsing: Lost Confidence Triggers Market Sell-Off — BeInCrypto](https://beincrypto.com/digital-asset-treasuries-are-collapsing-lost-confidence-triggers-market-sell-off/)
