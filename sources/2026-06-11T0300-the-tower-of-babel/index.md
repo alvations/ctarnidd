@@ -1,0 +1,7 @@
+# Sources read — "The Tower of Babel" (digital-asset treasury companies / DATs)
+
+Read 2026-06-11. Content consulted, preserved for traceability. Cumulative ledger in `../../SOURCES.md`.
+
+- `2026-06-11-search-01-mnav-collapse.md` — mNAV (multiple on NAV) once >25 converging toward 1.0; many DATs now below 1.0 (forced-sell fear); Strategy spawned 89 imitators; Metaplanet +237% premium → 10% discount (July); ~195 treasury companies, only a handful above NAV; "premium era is over"; land-grab → survival-of-the-fittest 2026; failed DATs become acquisition targets; Standard Chartered warns of mNAV collapse.
+- `2026-06-11-search-02-population-mechanism.md` — 173-195 public BTC-treasury companies (trackers vary); mNAV = EV / crypto NAV; above 1.0 → raise + buy (flywheel), below → harder/dilutive; top holders MSTR 845,256 BTC, Twenty One (XXI) 43,500, Metaplanet 40,177, MARA 35,303, Bullish 24,300; discount = risk of forced sale / poor mgmt; ETH & SOL treasuries proliferating.
+- `2026-06-11-search-03-verify.md` — VERIFY: count ~190 (this search) vs 195 (search-1) → softened article to "190 to 195 / nearly two hundred"; Metaplanet dipped below 1.0, now ~1.11-1.21x (directional swing premium→discount confirmed; exact 237%/10% from ainvest, kept as sourced+directionally verified); most DATs in mNAV band ~0.8-1.7 (only a handful above NAV) — added to article; Standard Chartered + Breed VC "death spiral" warnings; 89 imitators confirmed.

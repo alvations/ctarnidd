@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Tower of Babel](2026-06-11T0300-the-tower-of-babel.md) · _2026-06-11_
+
+A digital-asset treasury company holds crypto and, at the peak, traded at up to 25× the value of the coins it
+held — because the "mNAV flywheel" let it issue overpriced stock, buy more coins, and lift bitcoin-per-share.
+Then nearly two hundred copycats built the same tower. Now the flywheel is running in reverse: mNAVs collapsing
+toward and below 1.0 (Metaplanet from +237% to a discount), issuance shutting off, leveraged copies facing
+forced sales — a correlated cascade. They're leveraged closed-end funds, and a century says the premium never
+lasts. Fact-checked; see `audit/`.
+
+[![MSTR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSTR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSTR&color=f7931a&cacheSeconds=300)](https://finance.yahoo.com/quote/MSTR)
+[![MARA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMARA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MARA&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/MARA)
+[![BTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+[![ETH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dethereum%26vs_currencies%3Dusd&query=%24.ethereum.usd&prefix=%24&label=ETH&color=627eea&cacheSeconds=300)](https://www.coingecko.com/en/coins/ethereum)
+
 ### [The House Always Wins](2026-06-11T0235-the-house-always-wins.md) · _2026-06-11_
 
 Robinhood is the casino house of modern markets: it earns on customer *activity*, not customer *returns* — PFOF

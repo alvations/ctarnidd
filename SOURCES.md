@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Digital-asset treasury companies / mNAV (article: "The Tower of Babel" — 2026-06-11T0300-the-tower-of-babel.md)
+
+- ✅ [Digital Asset Treasuries Are Collapsing: Lost Confidence Triggers Market Sell-Off — BeInCrypto](https://beincrypto.com/digital-asset-treasuries-are-collapsing-lost-confidence-triggers-market-sell-off/)
+- ✅ [Digital Asset Treasuries Face mNAV Collapse, Standard Chartered Warns — Cointelegraph](https://cointelegraph.com/news/digital-asset-treasuries-mnav-collapse-standard-chartered)
+- ✅ [The Fragile Future of Digital Asset Treasuries: Survival or Collapse? — AInvest](https://www.ainvest.com/news/fragile-future-digital-asset-treasuries-survival-collapse-2512/)
+- ✅ [Investors scramble to pick winners among smouldering crypto treasury firms. 'Premium era is over' — DL News](https://www.dlnews.com/articles/markets/investors-scramble-to-pick-winners-amoung-smouldering-crypto-treasuries/)
+- ✅ [How DATs Die — NYDIG](https://www.nydig.com/research/how-dats-die)
+- ✅ [Bitcoin Treasury Companies BTC Holdings Tracker — BitcoinMiningStock](https://bitcoinminingstock.io/bitcoin-treasuries)
+- ✅ [What Is MNAV? The Investor's Guide To Valuing Bitcoin Treasuries — Bitcoin Magazine](https://bitcoinmagazine.com/glossary/what-is-mnav)
+- ✅ [What mNAV Really Tells You About Bitcoin Treasury Companies — CoinDesk](https://www.coindesk.com/business/2025/11/30/what-mnav-really-tells-you-about-bitcoin-treasury-companies-and-where-it-falls-short)
+- ✅ [Metaplanet Paused Buys as MNAV Discount Opened — Bitbo](https://bitbo.io/news/metaplanet-mnav-discount-pause/)
+- ✅ [Digital Asset Treasury companies and mNAV premiums (part 2) — Yet Another Value Blog](https://www.yetanothervalueblog.com/p/digital-asset-treasury-companies-f3b)
+- 📎 [Standard Chartered Sounds Alarm on Looming Crypto Cleanup — Cointribune](https://www.cointribune.com/en/standard-chartered-sounds-alarm-on-looming-crypto-cleanup)
+- 📎 [Bitcoin treasury companies in crisis: valuations collapse and survival at risk — Atlas21](https://atlas21.com/bitcoin-treasury-companies-in-crisis-valuations-collapse-and-survival-at-risk/)
+
+---
+
 ## Topic: Robinhood / retail speculation (article: "The House Always Wins" — 2026-06-11T0235-the-house-always-wins.md)
 
 - ✅ [Robinhood Reports Fourth Quarter and Full Year 2025 Results — GlobeNewswire / Robinhood IR](https://www.globenewswire.com/news-release/2026/02/10/3235771/0/en/Robinhood-Reports-Fourth-Quarter-and-Full-Year-2025-Results.html)
