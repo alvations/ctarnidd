@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Kilowatt Kings](2026-06-10T2210-kilowatt-kings.md) · _2026-06-10_
+
+The electric utility — a bond with a smokestack, owned for a century for its boredom — has been re-rated into
+an AI growth stock. Constellation (~$98B, ~26× earnings) and Vistra (~$52B, ~18×, ~$19.6B net debt) trade on
+20-year hyperscaler PPAs and a data-center demand forecast. In January 2026, PJM — the largest US grid
+operator — *cut* its near-term peak forecast (summer-2027 to ~160GW from ~164GW) because data-center load
+lacked firm commitments, and VST/CEG/NRG fell together on the news. The risk isn't blackouts; it's
+de-rating. Fact-checked; see `audit/`.
+
+[![CEG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCEG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CEG&color=1a3c6e&cacheSeconds=300)](https://finance.yahoo.com/quote/CEG)
+[![VST](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVST%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VST&color=0072ce&cacheSeconds=300)](https://finance.yahoo.com/quote/VST)
+[![NRG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNRG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NRG&color=cf0a2c&cacheSeconds=300)](https://finance.yahoo.com/quote/NRG)
+[![TLN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTLN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TLN&color=00843d&cacheSeconds=300)](https://finance.yahoo.com/quote/TLN)
+
 ### [Other People's Money](2026-06-10T2150-other-peoples-money.md) · _2026-06-10_
 
 Circle (CRCL) is a money-market fund wearing a tech-stock multiple. 94% of its revenue is reserve income —

@@ -8,6 +8,25 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AI power / utilities (article: "Kilowatt Kings" — 2026-06-10T2210-kilowatt-kings.md)
+
+- ✅ [Key US Power Grid Cuts Demand Outlook on Overstated AI Boom — Bloomberg](https://www.bloomberg.com/news/articles/2026-01-14/biggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom)
+- ✅ [PJM 2026 Load Forecast Report (Jan 14, 2026) — PJM](https://www.pjm.com/-/media/DotCom/library/reports-notices/load-forecast/2026-load-report.pdf)
+- ✅ [PJM's Updated 20-Year Forecast Continues To See Significant Long-Term Load Growth — PJM Inside Lines](https://insidelines.pjm.com/pjms-updated-20-year-forecast-continues-to-see-significant-long-term-load-growth/)
+- ✅ [PJM trims near-term load forecast on stricter data center vetting — Utility Dive](https://www.utilitydive.com/news/pjm-interconnection-load-forecast-data-centers/809717/)
+- ✅ [PJM trims projections of AI-driven electricity demand — E&E News/POLITICO](https://www.eenews.net/articles/pjm-trims-projections-of-ai-driven-electricity-demand/)
+- ✅ [Constellation Energy (CEG) vs Vistra (VST): Which Utility Wins the AI Power Era? — HeyGoTrade](https://www.heygotrade.com/en/blog/ceg-vs-vst-ai-utility-stocks/)
+- ✅ [Vistra vs. Constellation: Which AI Power Stock Is the Better Buy — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/vistra-vs-constellation-ai-power-113004485.html)
+- ✅ [Constellation Energy vs. Vistra: Which Nuclear-Powered Utility Has More Upside — TIKR](https://www.tikr.com/blog/constellation-energy-vs-vistra-which-nuclear-powered-utility-has-more-upside)
+- ✅ [US Data Center Power Demand Projected to Double by 2027 — Goldman Sachs](https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027)
+- ✅ [AI Is Driving Up Power Costs and Upending Utilities Markets — Morningstar](https://www.morningstar.com/markets/ai-is-driving-up-power-costs-upending-utilities-markets-is-that-problem-tech-utilities-stocks)
+- ✅ [Utilities Lose Defensive Touch as AI Ignites Rally — Charles Schwab](https://www.schwab.com/learn/story/utilities-lose-defensive-touch-as-ai-ignites-rally)
+- 📎 [Better Utility Stock: Constellation Energy vs. Vistra — The Motley Fool](https://www.fool.com/investing/2026/02/11/better-utility-stock-constellation-energy-v-vistra/)
+- 📎 [PJM Dials Back Near-Term Load Outlook but Maintains Steep Long-Term Growth — POWER Magazine](https://www.powermag.com/pjm-dials-back-near-term-load-outlook-but-maintains-steep-long-term-growth-trajectory/)
+- 📎 [X-energy forms partnership with Talen Energy to assess Xe-100 deployment — ANS Nuclear Newswire](https://www.ans.org/news/article-7858/xenergy-forms-partnership-with-talen-energy-to-assess-xe100-deployment/)
+
+---
+
 ## Topic: Circle / USDC stablecoin (article: "Other People's Money" — 2026-06-10T2150-other-peoples-money.md)
 
 - ✅ [Circle Reports First Quarter 2026 Results — Circle](https://www.circle.com/pressroom/circle-reports-first-quarter-2026-results)
