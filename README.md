@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Half-Life](2026-06-11T0850-half-life.md) · _2026-06-11_
+
+AI's bottomless hunger for power has revived nuclear — and the market has bid Oklo, a company with *zero*
+revenue and a first reactor years away, to ~$13 billion (NuScale ~$5B). The demand is real (uranium at a
+14-year high; Cameco's earnings +87%), but the SMR stocks run on the AI clock (quarters) while reactors build
+on the nuclear clock (decades). NuScale's flagship already died on cost ($4.2B→$9.3B, cancelled 2023); the SPAC
+pedigree, dilution treadmill, and grid bottleneck widen the gap. The real cash lands on the fuel and the
+operators, not the pre-revenue moonshots. The narrative decays faster than the reactors get built. Fact-checked;
+see `audit/`.
+
+[![OKLO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FOKLO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=OKLO&color=2e7d32&cacheSeconds=300)](https://finance.yahoo.com/quote/OKLO)
+[![SMR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSMR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SMR%20(NuScale)&color=1565c0&cacheSeconds=300)](https://finance.yahoo.com/quote/SMR)
+[![CCJ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCCJ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CCJ%20(Cameco)&color=f9a825&cacheSeconds=300)](https://finance.yahoo.com/quote/CCJ)
+[![URA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FURA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=URA&color=689f38&cacheSeconds=300)](https://finance.yahoo.com/quote/URA)
+
 ### [Loosening the Bolts](2026-06-11T0825-loosening-the-bolts.md) · _2026-06-11_
 
 America's six biggest banks have added ~$600B in a year (to ~$2.37T) on Trump-era deregulation — eased capital

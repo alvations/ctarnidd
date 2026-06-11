@@ -1,0 +1,7 @@
+# Sources read — "Half-Life" (uranium / nuclear / SMR)
+
+Read 2026-06-11. Sourced from CNBC/Bloomberg top stories (nuclear stocks on AI power demand; Cameco; Oklo-Nvidia).
+Content consulted, preserved for traceability. Cumulative ledger in `../../SOURCES.md`.
+
+- `2026-06-11-search-01-smr-uranium.md` — Oklo mkt cap ~$12.9B, PRE-REVENUE: FY2025 zero revenue, op loss $139.3M, net loss $105.7M, $82.2M op-cash burn; 14 GW pipeline (Switch/Equinix/Meta), May 2026 NRC design-criteria approval, Oklo-Nvidia collab. NuScale (SMR) ~$5.3B, only NRC-certified design, $1B liquidity, revenue ~early 2030s. NANO Nuclear also pre-revenue. Uranium ~$86.5/lb (long-term peaked Dec 2025 at 14-yr high $86.50; 2025 spot avg $73.54). Cameco mkt cap ~$46.88B; data-center power 400 TWh (2024) → 1,600+ TWh (2034); "none has demonstrated commercial-scale operation; losses, dilution, first revenue years out." Contrast Constellation (real \$25.5B rev).
+- `2026-06-11-search-02-verify.md` — VERIFY: Oklo via SPAC (Altman chair until Apr 2025); FY2024 net loss $73.6M. NuScale Carbon Free Power Project (UAMPS, Idaho/INL) TERMINATED Nov 2023 — cost $4.2B (2018) → $6.1B (2020) → $9.3B (2023), scaled to 462 MW, insufficient subscription. Uranium long-term peaked Dec 2025 at 14-yr high $86.50; end-Q1 2026 long-term $90/lb (highest since 2008). Added NuScale cost-escalation detail; Cameco Q1'26 +87% (from search-01/banks-adjacent search). Title held.

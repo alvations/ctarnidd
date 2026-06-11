@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Uranium / nuclear / SMR (article: "Half-Life" — 2026-06-11T0850-half-life.md)
+
+- ✅ [NuScale (SMR) vs Oklo (OKLO): Which Small Modular Reactor Stock Wins? — HeyGoTrade](https://www.heygotrade.com/en/blog/nuscale-smr-vs-oklo-which-smr-stock-wins/)
+- ✅ [NuScale Power vs. Oklo: Which Nuclear Stock Is a Better Buy in 2026? — The Motley Fool](https://www.fool.com/coverage/better-buy/2026/05/27/nuscale-power-vs-oklo-which-nuclear-stock-is-a-better-buy-in-2026/)
+- ✅ [Uranium — Price — Trading Economics](https://tradingeconomics.com/commodity/uranium)
+- ✅ [The AI Data Center Buildout Is Accelerating, and Nuclear Could Be the Most Underowned Piece — 24/7 Wall St.](https://247wallst.com/investing/2026/05/22/the-ai-data-center-buildout-is-accelerating-and-nuclear-could-be-the-most-underowned-piece-of-the-puzzle/)
+- ✅ [Oklo Inc. 8-K (FY2025) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001849056/000110465925027276/tm2510004d1_ex99-1.htm)
+- ✅ [UAMPS and NuScale Power Terminate SMR Nuclear Project — POWER Magazine](https://www.powermag.com/uamps-and-nuscale-power-terminate-smr-nuclear-project/)
+- ✅ [NuScale, UAMPS terminate small modular reactor project in Idaho — Utility Dive](https://www.utilitydive.com/news/nuscale-uamps-terminate-small-modular-nuclear-reactor-smr-project-idaho/699281/)
+- ✅ [Uranium prices reflect strong outlook, raise supply questions — ANS Nuclear Newswire](https://www.ans.org/news/2026-05-04/article-8000/uranium-prices-reflect-strong-outlook-raise-supply-questions/)
+- ✅ [Nuclear stocks in focus as uranium holds near $86 on AI power demand — Investor Ideas](https://www.investorideas.com/news/2026/energy/05131-nuclear-stocks-ai-power-demand.asp)
+- 📎 [The Collapse of the UAMPS Deal Raises the Prospect of Bankruptcy for NuScale — Iceberg Research](https://iceberg-research.com/2023/11/16/the-collapse-of-the-uamps-deal-raises-the-prospect-of-bankruptcy-for-nuscale/)
+- 📎 [Cameco gains as uranium market sentiment improves — Quiver Quantitative](https://www.quiverquant.com/news/Cameco+gains+as+uranium+market+sentiment+improves+amid+higher+term-price+signals+and+supply-tightness+backdrop)
+
+---
+
 ## Topic: Big banks / deregulation (article: "Loosening the Bolts" — 2026-06-11T0825-loosening-the-bolts.md)
 
 - ✅ [JPMorgan, Citi, BofA and peers drive record $600 billion rally on Trump's deregulation — Cryptopolitan](https://www.cryptopolitan.com/us-banks-600-billion-rally-on-deregulation/)
