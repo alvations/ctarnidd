@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Challenger](2026-06-11T0035-the-challenger.md) · _2026-06-11_
+
+The safety-first AI lab — the careful one — confidentially filed for a ~$1 trillion IPO after a $65B Series H
+at a $965B valuation, overtaking OpenAI as the world's most valuable startup. But the ~$47B "revenue" is a
+run-rate annualized from a single month, disputed by OpenAI as ~$8B overstated (net ~$22B); the financing is
+circular (Amazon and Google invest billions, then are paid billions back as compute); and the company has
+only just reached its first profitable quarter. When even the cautious name sells at the top — "the one $1T
+IPO worth buying" — the caution is the tell. Fact-checked; see `audit/`.
+
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![AVGO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAVGO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AVGO&color=cc092f&cacheSeconds=300)](https://finance.yahoo.com/quote/AVGO)
+
 ### [The Server Room](2026-06-11T0015-the-server-room.md) · _2026-06-11_
 
 Super Micro (SMCI) was delisted in 2018 and paid the SEC $17.5M in 2020 for improper revenue recognition (CEO

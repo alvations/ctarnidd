@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Anthropic IPO (article: "The Challenger" — 2026-06-11T0035-the-challenger.md)
+
+- ✅ [Anthropic raises $65B in Series H at $965B post-money valuation — Anthropic](https://www.anthropic.com/news/series-h)
+- ✅ [Anthropic raises $65 billion, nears $1T valuation ahead of IPO — TechCrunch](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
+- ✅ [Anthropic tops OpenAI as most valuable AI startup, nears $1T — CNBC](https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html)
+- ✅ [Anthropic raises at $965B valuation, eclipsing OpenAI — Bloomberg](https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai)
+- ✅ [Anthropic confidentially files for IPO at $965B valuation — Fortune](https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/)
+- ✅ [Anthropic Files For IPO After Reaching $965B Valuation — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/anthropic-files-ipo-reaching-965-152836422.html)
+- ✅ [Anthropic tops OpenAI as most valuable AI startup, with $965B valuation — Axios](https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai)
+- ✅ [Anthropic Passed OpenAI in Revenue: $30B ARR April 2026 — The AI Corner](https://www.the-ai-corner.com/p/anthropic-30b-arr-passed-openai-revenue-2026)
+- ✅ [Anthropic Revenue Just Passed OpenAI. The Growth Rate Is the Real Story — Remio](https://www.remio.ai/post/anthropic-revenue-just-passed-openai-the-growth-rate-is-the-real-story)
+- ✅ [Anthropic revenue, valuation & funding — Sacra](https://sacra.com/c/anthropic/)
+- 📎 [Anthropic raises $65B in Series H — GIC Newsroom](https://www.gic.com.sg/newsroom/all/anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation/)
+- 📎 [Anthropic (Claude) May Be the Only $1 Trillion IPO Worth Buying — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/anthropic-claude-may-only-1-013100903.html)
+
+---
+
 ## Topic: Super Micro / SMCI accounting (article: "The Server Room" — 2026-06-11T0015-the-server-room.md)
 
 - ✅ [SEC Charges Super Micro and Former CFO… Widespread Accounting Violations — SEC.gov](https://www.sec.gov/newsroom/press-releases/2020-190)
