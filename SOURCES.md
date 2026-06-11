@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Micron / memory supercycle (article: "The Supercycle" — 2026-06-11T0915-the-supercycle.md)
+
+- ✅ [Micron hits $1 trillion market cap for the first time as stock surges 19% — CNBC](https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html)
+- ✅ [Micron Q2 2026: Record Revenue on AI Boom — Tech-Insider](https://tech-insider.org/micron-q2-2026-earnings-ai-memory-market/)
+- ✅ [Micron Hits $1 Trillion Market Cap: AI Memory Chip Boom Explained 2026 — VaaSBlock](https://www.vaasblock.com/news/micron-trillion-dollar-market-cap-ai-memory-chips-2026/)
+- ✅ [Micron Technology (MU) Deep Dive 2026: The AI Memory Supercycle and the Death of Cyclicality — FinancialContent](https://www.financialcontent.com/article/predictstreet-2026-1-2-micron-technology-mu-deep-dive-2026-the-ai-memory-supercycle-and-the-death-of-cyclicality)
+- ✅ [Harvard's chip expert has a warning for AI memory investors: 'This too will pass' — Fortune](https://fortune.com/2026/05/11/ai-memory-chips-semiconductor-stock-boom-price-hikes-dram-shortage-hbm/)
+- ✅ [A simple guide to semiconductor memory boom-bust cycles — StorageSearch](http://www.storagesearch.com/memory-boom-bust-cycles.html)
+- ✅ [Micron Q2 FY2026 earnings ($23.86B, triples) — IndexBox](https://www.indexbox.io/blog/micron-technology-q2-2026-earnings-revenue-triples-stock-faces-profit-taking/)
+- ✅ [Micron Technology FY2023 Q4 8-K (negative gross margin / net loss) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0000723125/000072312523000051/a2023q4ex991-pressrelease.htm)
+- ✅ [Micron Technology (MU) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/micron-technology/marketcap/)
+- 📎 [Micron: AI Bottlenecks End The Commodity Cycle — Seeking Alpha](https://seekingalpha.com/article/4903810-micron-ai-bottlenecks-end-the-commodity-cycle)
+- 📎 [Every Memory Cycle Ends the Same. Until It Doesn't. — Uncover Alpha](https://www.uncoveralpha.com/p/every-memory-cycle-ends-the-same)
+
+---
+
 ## Topic: Uranium / nuclear / SMR (article: "Half-Life" — 2026-06-11T0850-half-life.md)
 
 - ✅ [NuScale (SMR) vs Oklo (OKLO): Which Small Modular Reactor Stock Wins? — HeyGoTrade](https://www.heygotrade.com/en/blog/nuscale-smr-vs-oklo-which-smr-stock-wins/)

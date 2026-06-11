@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Supercycle](2026-06-11T0915-the-supercycle.md) · _2026-06-11_
+
+Micron just crossed a $1 trillion market cap on the AI memory boom — revenue +196%, gross margin 75%, its HBM
+capacity sold out — and the market has declared "the death of cyclicality" in the single most cyclical business
+in technology. But "this time is different" is the most expensive phrase in investing: fat peak margins are the
+*fuel* for the capex binge that ends every memory cycle (DRAM fell 51% then 65% in 1996–97; Micron's gross
+margin went *negative* and it lost ~$5.8B in the 2022–23 bust, two years ago); supplier discipline always
+breaks; and a cyclical looks cheapest at the very top, on peak earnings. As the Harvard chip expert told
+Fortune: "this too will pass." Fact-checked; see `audit/`.
+
+[![MU](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMU%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MU&color=0a4a7a&cacheSeconds=300)](https://finance.yahoo.com/quote/MU)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![WDC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWDC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WDC&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/WDC)
+[![SMH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSMH%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SMH&color=e07000&cacheSeconds=300)](https://finance.yahoo.com/quote/SMH)
+
 ### [Half-Life](2026-06-11T0850-half-life.md) · _2026-06-11_
 
 AI's bottomless hunger for power has revived nuclear — and the market has bid Oklo, a company with *zero*
