@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The House Always Wins](2026-06-11T0235-the-house-always-wins.md) · _2026-06-11_
+
+Robinhood is the casino house of modern markets: it earns on customer *activity*, not customer *returns* — PFOF
+paid by the market makers trading against its users, plus options, crypto, and 12 billion event-contract bets
+in 2025 (revenue +52% to $4.5B). It's the purest public proxy for market froth — soaring in the mania, and
+already showing the other face (crypto −38% in Q4'25). Even the "stable" 34% net-interest income is
+rate-cyclical; prediction markets face an "illegal gambling" suit; and HOOD already fell ~90% the last time the
+crowd went home. Fact-checked; see `audit/`.
+
+[![HOOD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHOOD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HOOD&color=00c805&cacheSeconds=300)](https://finance.yahoo.com/quote/HOOD)
+[![COIN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOIN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COIN&color=0a0b0d&cacheSeconds=300)](https://finance.yahoo.com/quote/COIN)
+[![SCHW](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSCHW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SCHW&color=00a0df&cacheSeconds=300)](https://finance.yahoo.com/quote/SCHW)
+[![BTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&prefix=%24&label=BTC&color=f7931a&cacheSeconds=300)](https://www.coingecko.com/en/coins/bitcoin)
+
 ### [The Custom Job](2026-06-11T0210-the-custom-job.md) · _2026-06-11_
 
 Broadcom is the "anti-Nvidia" — it co-designs custom AI chips (XPUs) for hyperscalers who want to escape

@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Robinhood / retail speculation (article: "The House Always Wins" — 2026-06-11T0235-the-house-always-wins.md)
+
+- ✅ [Robinhood Reports Fourth Quarter and Full Year 2025 Results — GlobeNewswire / Robinhood IR](https://www.globenewswire.com/news-release/2026/02/10/3235771/0/en/Robinhood-Reports-Fourth-Quarter-and-Full-Year-2025-Results.html)
+- ✅ [What is Robinhood? A 2026 Deep Dive into HOOD Stock, Prediction Markets — TradingKey](https://www.tradingkey.com/analysis/cryptocurrencies/more/261810422-crypto-us-stock-robinhood-hood-prediction-markets-ai-wall-street-tradingkey)
+- ✅ [The Gamification of Truth: Robinhood Hits 9 Billion Prediction Contracts — FinancialContent](https://markets.financialcontent.com/stocks/article/predictstreet-2026-1-22-the-gamification-of-truth-robinhood-hits-9-billion-prediction-contracts-as-event-trading-goes-mainstream)
+- ✅ [Attorney General James Sues Coinbase and Gemini for Running Illegal Gambling Platforms — NY AG](https://ag.ny.gov/press-release/2026/attorney-general-james-sues-coinbase-and-gemini-running-illegal-gambling)
+- ✅ [New York sues Coinbase, Gemini; calls prediction markets illegal gambling — CNBC](https://www.cnbc.com/2026/04/21/new-york-sues-coinbase-gemini-titan-calls-their-prediction-markets-illegal-gambling.html)
+- ✅ [Robinhood Markets (HOOD) Market Cap & Net Worth — StockAnalysis](https://stockanalysis.com/stocks/hood/market-cap/)
+- ✅ [HOOD Stock Forecast 2026 — TickerNerd](https://tickernerd.com/stock/hood-forecast/)
+- ✅ [Robinhood Stock Forecast 2026: $130 Hyper-Growth or Valuation Correction? — BingX](https://bingx.com/en/learn/article/robinhood-hood-stock-outlook-and-price-prediction-is-hood-a-good-investment)
+- ✅ [Prediction markets — Robinhood](https://robinhood.com/us/en/prediction-markets/)
+- 📎 [HOOD Stock Price, News & Analysis — StockTitan](https://www.stocktitan.net/overview/HOOD/)
+- 📎 [NY AG Letitia James sues prediction market providers — American Banker](https://www.americanbanker.com/news/ny-ag-letitia-james-sues-prediction-market-providers)
+
+---
+
 ## Topic: Broadcom / custom AI silicon (article: "The Custom Job" — 2026-06-11T0210-the-custom-job.md)
 
 - ✅ [Broadcom's AI Revenue Rockets 106% to $8.4 Billion as Custom Silicon Dominates — FinancialContent](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-24-broadcoms-ai-revenue-rockets-106-to-84-billion-as-custom-silicon-dominates-the-infrastructure-build-out)
