@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Data Mine](2026-06-11T1030-the-data-mine.md) · _2026-06-11_
+
+A generation wrote billions of posts for free, thinking it was a community; it turns out it was a mine. Reddit
+now sells its users' unpaid words as AI training data (Google ~$60M/yr, a portfolio that could reach ~$550M) and
+has been re-rated as an AI winner (Q1'26 revenue $663M, +69%, ~127M daily users, profitable). The trap: the same
+AI it sells the data to — Google's AI Overviews — is choking the search traffic that produces the *new* posts,
+so the mine is selling the ore that empties it. Recurring annuity or one-time harvest? And the diggers are
+starting to ask what their free labor is worth. Fact-checked; see `audit/`.
+
+[![RDDT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRDDT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RDDT&color=ff4500&cacheSeconds=300)](https://finance.yahoo.com/quote/RDDT)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![PINS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPINS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PINS&color=e60023&cacheSeconds=300)](https://finance.yahoo.com/quote/PINS)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=0866ff&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+
 ### [The Hands](2026-06-11T1005-the-hands.md) · _2026-06-11_
 
 The AI boom got a body. Figure AI is valued at ~$39B with revenue a rounding error (early BMW pilots only);

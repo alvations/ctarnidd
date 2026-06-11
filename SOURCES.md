@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Reddit / AI data licensing (article: "The Data Mine" — 2026-06-11T1030-the-data-mine.md) [TC/Verge]
+
+- ✅ [Google strikes $60 million deal with Reddit to train AI on human posts — CBS News](https://www.cbsnews.com/news/google-reddit-60-million-deal-ai-training/)
+- ✅ [RDDT Plunges On S&P 500 Exclusion: Wells Fargo Forecasts $550M AI Deal Jackpot — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/rddt-stock-plunges-hours-p-222934332.html)
+- ✅ [Reddit's AI Data Licensing With Google Recasts Growth And Valuation Story — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/reddit-ai-data-licensing-google-121250434.html)
+- ✅ [Reddit (RDDT) Q1 2026 earnings report — CNBC](https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html)
+- ✅ [Reddit Q1 2026 earnings beat: Ad revenue jumps 74% — Quartz](https://qz.com/reddit-q1-2026-earnings-ad-revenue-stock-050126)
+- ✅ [Reddit Is Winning the AI Game — Columbia Journalism Review](https://www.cjr.org/analysis/reddit-winning-ai-licensing-deals-openai-google-gemini-answers-rsl.php)
+- ✅ [Reddit says it's made $203M so far licensing its data — TechCrunch](https://techcrunch.com/2024/02/22/reddit-says-its-made-203m-so-far-licensing-its-data/)
+- ✅ [Reddit (RDDT) Stock: Monetizing AI Training Data and Community — HeyGoTrade](https://www.heygotrade.com/en/blog/reddit-rddt-stock-monetizing-ai-training-data-community/)
+- 📎 [Reddit's Profit Shift Highlights Growing AI And Data Licensing Role — Yahoo Finance](https://finance.yahoo.com/news/reddit-profit-shift-highlights-growing-201201673.html)
+
+---
+
 ## Topic: Humanoid robots (article: "The Hands" — 2026-06-11T1005-the-hands.md) [TechCrunch/CES]
 
 - ✅ [Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation — Figure AI](https://www.figure.ai/news/series-c)
