@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Single Point of Failure](2026-06-11T0120-single-point-of-failure.md) · _2026-06-11_
+
+Almost every advanced chip on Earth is made by one company — TSMC, >90% of leading-edge production, ~90% of it
+on one island ~100 miles from a nuclear-armed China that claims it (2027 watch). At ~$2.1T, the market prices
+the magnificent business (Q1 rev +35%, profit +58%) and rounds the tail risk to zero — a Taiwan conflict
+Bloomberg pegs at ~$10.6T / 9.6% of global GDP in year one. Arizona is a real escape hatch that doesn't open
+until the 2030s, and the risk propagates through every chip-dependent megacap and index. Fact-checked; see `audit/`.
+
+[![TSM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSM&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSM)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![AAPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAAPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AAPL&color=555555&cacheSeconds=300)](https://finance.yahoo.com/quote/AAPL)
+[![SOXX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSOXX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SOXX&color=1f6feb&cacheSeconds=300)](https://finance.yahoo.com/quote/SOXX)
+
 ### [The Autonomy Premium](2026-06-11T0055-the-autonomy-premium.md) · _2026-06-11_
 
 Tesla's ~$1.5T market cap at ~195–400× earnings is almost entirely the "autonomy premium" — and the car

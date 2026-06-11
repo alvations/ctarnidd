@@ -8,6 +8,24 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: TSMC / Taiwan concentration (article: "The Single Point of Failure" — 2026-06-11T0120-single-point-of-failure.md)
+
+- ✅ [The $10 Trillion Fight: Modeling a US-China War Over Taiwan — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-10/the-10-trillion-fight-modeling-a-us-china-war-over-taiwan)
+- ✅ [TSMC Q1 profit rises 58%, beats estimates as AI demand fuels record run — CNBC](https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html)
+- ✅ [TSMC Arizona Fab Posts $514M Year-One Profit — TechTimes](https://www.techtimes.com/articles/316921/20260520/tsmc-arizona-fab-posts-514m-year-one-profit-q1-2026-earnings-surpass-full-2025-figure.htm)
+- ✅ [TSMC's Arizona "Gigafab Cluster" Scales Up with $165 Billion Total Investment — FinancialContent](https://markets.financialcontent.com/stocks/article/tokenring-2026-1-23-tsmcs-arizona-gigafab-cluster-scales-up-with-165-billion-total-investment)
+- ✅ [The Taiwan Semiconductor Risk: The $10 Trillion Chokepoint — Longyield](https://longyield.substack.com/p/the-taiwan-semiconductor-risk-the)
+- ✅ [Taiwan war with China would ruin global economy, chip boss warns — NBC News](https://www.nbcnews.com/news/world/taiwan-war-china-us-ruin-global-economy-semiconductors-chips-rcna91321)
+- ✅ [Taiwan's "silicon shield" may depend on destroying its own industry if China invades — Milwaukee Independent](https://www.milwaukeeindependent.com/explainers/taiwans-silicon-shield-may-depend-destroying-semiconductor-industry-china-invades/)
+- ✅ [How Disruptive Would a Chinese Invasion of Taiwan Be? — AEI](https://www.aei.org/articles/how-disruptive-would-a-chinese-invasion-of-taiwan-be/)
+- ✅ [Taiwan Semiconductor: AI Growth Amid Geopolitical Risk — I/O Fund](https://io-fund.com/semiconductors/taiwan-semiconductor-ai-growth-geopolitical-risk)
+- ✅ [TSMC (TSM) Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/)
+- ✅ [TSMC Arizona — Wikipedia](https://en.wikipedia.org/wiki/TSMC_Arizona)
+- 📎 [Why Taiwan Fears 'America First' Risks Eroding Its 'Silicon Shield' — Stimson Center](https://www.stimson.org/2025/why-taiwan-fears-america-first-risks-eroding-its-silicon-shield/)
+- 📎 [The U.S. Remains Dependent on Taiwan for Semiconductor Chip Production — Foreign Policy](https://foreignpolicy.com/2025/10/10/tsmc-taiwan-semiconductor-arizona-tech/)
+
+---
+
 ## Topic: Tesla robotaxi / autonomy (article: "The Autonomy Premium" — 2026-06-11T0055-the-autonomy-premium.md)
 
 - ✅ [Waymo Hits 500,000 Weekly Rides and Over 4 Million Miles — The Driverless Digest](https://www.thedriverlessdigest.com/p/waymo-hits-500000-weekly-rides-and)
