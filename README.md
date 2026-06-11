@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Search and Destroy](2026-06-11T0800-search-and-destroy.md) · _2026-06-11_
+
+Alphabet fights a two-front war beneath serene numbers (+22% revenue, search still +19%). Front one: a federal
+court ruled Google an illegal monopolist, banned its exclusive default-search deals, and ordered it to share its
+crown-jewel data with rivals (the DOJ is appealing for a breakup). Front two: AI is dissolving search itself —
+~60% of queries are now zero-click, and Google's own AI Overviews (in ~58% of queries) suppress the click that
+pays. The innovator's dilemma at $4.5T scale: to beat the machine it must cannibalize its own ad profits; the AI
+threat that spared it from breakup is the one now draining the castle. Fact-checked; see `audit/`.
+
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![AAPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAAPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AAPL&color=555555&cacheSeconds=300)](https://finance.yahoo.com/quote/AAPL)
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=0866ff&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+
 ### [The Laggard](2026-06-11T0735-the-laggard.md) · _2026-06-11_
 
 The world's most valuable company (~$4.3T, ~30× earnings) is the AI laggard. At WWDC 2026 Apple admitted its

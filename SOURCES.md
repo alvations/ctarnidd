@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Alphabet / search antitrust + AI (article: "Search and Destroy" — 2026-06-11T0800-search-and-destroy.md)
+
+- ✅ [Alphabet Q1 2026 8-K (exhibit 99.1) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000043/googexhibit991q12026.htm)
+- ✅ [Federal court orders remedies in Google antitrust case, rejects DOJ call for breakup — DLA Piper](https://www.dlapiper.com/en/insights/publications/2025/09/federal-court-orders-remedies-in-google-antitrust-case)
+- ✅ [Google's Antitrust Ruling: What The Remedies Really Mean For Search, SEO, And AI Assistants — Search Engine Journal](https://www.searchenginejournal.com/googles-antitrust-ruling-what-the-remedies-mean-for-search-seo-and-ai-assistants/555086/)
+- ✅ [Google's 90% Search Monopoly Faces DOJ Breakup [2026] — Tech-Insider](https://tech-insider.org/google-antitrust-appeal-doj-search-monopoly-2026/)
+- ✅ [In a major antitrust ruling, a judge lets Google keep Chrome but levies other penalties — NPR](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling)
+- ✅ [Alphabet is doubling its capital expenditure to a staggering $180 billion in 2026 — Tom's Hardware](https://www.tomshardware.com/tech-industry/alphabet-is-doubling-its-capital-expenditure-to-a-staggering-usd180-billion-in-2026-earnings-suggest-that-the-companys-ai-investments-may-be-paying-off)
+- ✅ [Alphabet (Google) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/alphabet-google/marketcap/)
+- ✅ [Google zero-click searches reach 68% in early 2026: Study — Search Engine Land](https://searchengineland.com/google-zero-click-searches-2026-study-479717)
+- ✅ [Google's AI Search Overhaul: 60% of Queries Now End Without a Click — BigGo Finance](https://finance.biggo.com/news/202605221153_Google_AI_search_kills_open_web_60_percent_zero-click)
+- 📎 [Google Dodges Breakup In Landmark Antitrust Ruling — Tech Policy Press](https://www.techpolicy.press/google-dodges-breakup-in-landmark-antitrust-ruling-over-its-search-engine/)
+- 📎 [Alphabet hits $4 trillion market capitalization — CNBC](https://www.cnbc.com/2026/01/12/alphabet-4-trillion-market-cap.html)
+
+---
+
 ## Topic: Apple / AI laggard (article: "The Laggard" — 2026-06-11T0735-the-laggard.md)
 
 - ✅ [Apple (AAPL) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/apple/marketcap/)
