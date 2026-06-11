@@ -9,7 +9,7 @@ Takes), oil/Iran (Twenty Miles Wide).
 
 | # | status | slug | focus |
 |---|--------|------|-------|
-| 1 | pending | TBD-the-laggard.md                    | Apple (AAPL) — the AI laggard / WWDC 2026 Siri delay |
+| 1 | done    | 2026-06-11T0735-the-laggard.md        | Apple (AAPL) — the AI laggard / WWDC 2026 Siri delay |
 | 2 | pending | TBD-search-and-destroy.md             | Alphabet (GOOGL) — antitrust breakup + AI eating search |
 | 3 | pending | TBD-loosening-the-bolts.md            | Big banks (JPM/C/GS) — Trump deregulation rally + buybacks |
 | 4 | pending | TBD-half-life.md                     | Uranium / nuclear / SMR (CCJ, OKLO, SMR) — AI power bid |

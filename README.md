@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Laggard](2026-06-11T0735-the-laggard.md) · _2026-06-11_
+
+The world's most valuable company (~$4.3T, ~30× earnings) is the AI laggard. At WWDC 2026 Apple admitted its
+long-delayed Siri would run on archrival Google's Gemini (~$1B/year) on Nvidia chips, with full availability
+not until 2027 — the high priest of vertical integration renting the defining technology of the decade. It
+can't buy its way out (the frontier labs are taken; antitrust would block a megadeal). The healthy iPhone
+(+~20%) masks the gap, but if the AI *agent* becomes the platform, Apple owns the part that matters less — and
+the $20B Google search payment propping up its services is being cut by antitrust as its AI dependence deepens.
+Fact-checked; see `audit/`.
+
+[![AAPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAAPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AAPL&color=555555&cacheSeconds=300)](https://finance.yahoo.com/quote/AAPL)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+
 ### [The Lock-In](2026-06-11T0710-the-lock-in.md) · _2026-06-11_
 
 The pandemic's cheap money built the cage the housing market is now trapped in: ~80% of US mortgages sit below

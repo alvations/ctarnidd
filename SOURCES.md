@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Apple / AI laggard (article: "The Laggard" — 2026-06-11T0735-the-laggard.md)
+
+- ✅ [Apple (AAPL) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/apple/marketcap/)
+- ✅ [Apple picks Google's Gemini to run AI-powered Siri — CNBC](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
+- ✅ [Apple Rebuilds Siri on Google Gemini Models and Nvidia Blackwell GPUs — MLQ News](https://mlq.ai/news/apple-rebuilds-siri-on-google-gemini-models-and-nvidia-blackwell-gpus-in-landmark-wwdc-partnership/)
+- ✅ [Google Gemini-Powered Siri Coming Later This Year — MacRumors](https://www.macrumors.com/2026/04/22/google-gemini-powered-siri-2026/)
+- ✅ [Google Defends $20B Apple Search Deal in Major Antitrust Appeal — TUAW](https://www.tuaw.com/2026/05/24/google-defends-20b-apple-search-deal-in-major-antitrust-appeal)
+- ✅ [Apple WWDC 2026: AAPL Stock Slips As Lack Of Launch Deadline For Siri AI Spooks Investors — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/apple-wwdc-2026-aapl-stock-205316754.html)
+- ✅ [Apple Stock Slips After WWDC 2026: Wall Street Splits Between $400 Bull and $215 Floor — TechTimes](https://www.techtimes.com/articles/318097/20260609/apple-stock-slips-after-wwdc-2026-wall-street-splits-between-400-bull-case-215-floor.htm)
+- ✅ [Apple Is 'Famously Late To New Markets': Gene Munster on the most important WWDC in 43 years — Benzinga](https://www.benzinga.com/trading-ideas/long-ideas/26/06/53062702/apple-is-famously-late-to-new-markets-why-gene-munster-says-2026-is-the-most-important-wwdc-in-43-years)
+- 📎 [Apple shares slide after big Siri AI reveal — CNBC](https://www.cnbc.com/amp/2026/06/09/apple-stock-siri-ai-reaction.html)
+- 📎 [Google Gemini Partnership With Apple Will Go Beyond Siri Revamp — MacRumors](https://www.macrumors.com/2026/01/12/google-gemini-future-apple-intelligence-features/)
+
+---
+
 ## Topic: Homebuilders / housing lock-in (article: "The Lock-In" — 2026-06-11T0710-the-lock-in.md)
 
 - ✅ [Housing Market 2026: Frozen, Not Broken — Raymond James / Advisor Perspectives](https://www.advisorperspectives.com/commentaries/2026/05/26/housing-2026-frozen-not-broken)
