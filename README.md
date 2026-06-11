@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Creative Destruction](2026-06-11T0555-creative-destruction.md) · _2026-06-11_
+
+Adobe — the company that owns the verbs of digital creation (~$23.8B revenue, tens of millions of subscribers)
+— now trades at ~13× earnings, down ~30% YTD and ~half from its 2021 peak, because generative AI threatens its
+moat from below (Canva, 260M users) and above (OpenAI, Anthropic's Claude Design, Runway, Figma). Firefly is a
+moat-or-margin-leak bet, and margins are already eroding (37%→31%). Bargain or melting ice cube? Adobe is the
+first domino in the market's biggest open question: does AI strengthen the software incumbents, or destroy them?
+Fact-checked; see `audit/`.
+
+[![ADBE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FADBE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ADBE&color=fa0f00&cacheSeconds=300)](https://finance.yahoo.com/quote/ADBE)
+[![FIG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FFIG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=FIG%20(Figma)&color=0d99ff&cacheSeconds=300)](https://finance.yahoo.com/quote/FIG)
+[![CRM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRM&color=00a1e0&cacheSeconds=300)](https://finance.yahoo.com/quote/CRM)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=0078D4&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+
 ### [Twenty Miles Wide](2026-06-11T0530-twenty-miles-wide.md) · _2026-06-11_
 
 The security of the world economy passes daily through a strait ~21 miles wide — ~20% of the planet's oil and

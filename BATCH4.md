@@ -10,7 +10,7 @@ S&P concentration (Index of One), Treasury yields/inflation (The Vigilantes).
 | # | status | slug | focus |
 |---|--------|------|-------|
 | 1 | done    | 2026-06-11T0530-twenty-miles-wide.md  | Oil / Strait of Hormuz / Iran war premium (XOM, CVX, BKR) |
-| 2 | pending | TBD-creative-destruction.md           | Adobe (ADBE) — generative AI disrupting creative software |
+| 2 | done    | 2026-06-11T0555-creative-destruction.md | Adobe (ADBE) — generative AI disrupting creative software |
 | 3 | pending | TBD-whatever-it-takes.md              | Meta (META) — AI/superintelligence capex bet |
 | 4 | pending | TBD-the-final-cut.md                  | Paramount–Warner Bros ~$170B megadeal / media consolidation |
 | 5 | pending | TBD-the-lock-in.md                    | Homebuilders / housing — mortgage rate lock-in (LEN, DHI, PHM) |

@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Adobe / AI software disruption (article: "Creative Destruction" — 2026-06-11T0555-creative-destruction.md)
+
+- ✅ [Adobe (ADBE) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/adobe/marketcap/)
+- ✅ [Adobe (ADBE) Statistics & Valuation — StockAnalysis](https://stockanalysis.com/stocks/adbe/statistics/)
+- ✅ [Adobe Q2 Earnings June 11, Stock Down 30%: AI Eats or Feeds Creative Software — TechTimes](https://www.techtimes.com/articles/318155/20260610/adobe-q2-earnings-june-11-stock-down-30market-test-whether-ai-eats-feeds-creative-software.htm)
+- ✅ [Adobe earnings preview: Firefly must prove AI is a moat, not a margin leak — TECHi](https://www.techi.com/adobe-earnings-preview-firefly-ai-moat-margin-leak/)
+- ✅ [Adobe's Eroding Competitive Moat in the Age of AI Disruption — AInvest](https://www.ainvest.com/news/adobe-eroding-competitive-moat-age-ai-disruption-2510/)
+- ✅ [Is AI Going to Bring the Adobe Era to an End? — The Motley Fool](https://www.fool.com/investing/2026/06/05/is-ai-going-to-bring-the-adobe-era-to-an-end/)
+- ✅ [Figma Launches Native AI Design Agent as Revenue Surges 46% — The AI Insider](https://theaiinsider.tech/2026/05/21/figma-launches-native-ai-design-agent-as-revenue-surges-46-amid-intensifying-competition/)
+- ✅ [Adobe to pay Figma a $1B breakup fee after European regulators scuttle merger — Fortune](https://fortune.com/2023/12/18/adobe-figma-breakup-european-regulators-merger/)
+- ✅ [Adobe Drops $20 Billion Bid for Figma Citing Regulatory Opposition — Variety](https://variety.com/2023/digital/news/adobe-abandons-figma-deal-regulatory-opposition-1235843651/)
+- ✅ [Adobe Stock 2026 Outlook: Q2 Earnings June 11 and a $25B Buyback — TIKR](https://www.tikr.com/blog/adobe-stock-2026-outlook-q2-earnings-on-june-11-and-a-25-billion-buyback-in-place)
+- 📎 [Adobe Creative Cloud Statistics By Revenue, Usage and Facts — ElectroIQ](https://electroiq.com/stats/adobe-creative-cloud-statistics/)
+- 📎 [Adobe Faces AI Disruption Questions As New Tools Test Moat Concerns — Yahoo Finance](https://finance.yahoo.com/news/adobe-faces-ai-disruption-questions-151208596.html)
+
+---
+
 ## Topic: Oil / Strait of Hormuz (article: "Twenty Miles Wide" — 2026-06-11T0530-twenty-miles-wide.md)
 
 - ✅ [2026 Strait of Hormuz crisis — Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
