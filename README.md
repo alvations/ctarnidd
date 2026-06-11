@@ -5,6 +5,19 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The One Machine](2026-06-11T0145-the-one-machine.md) · _2026-06-11_
+
+Beneath TSMC sits ASML — the sole maker on Earth of the EUV machine every advanced chip needs (Nikon and Canon
+quit a decade ago), a ~$400M colossus with 53% gross margins and a €38.8B backlog. The most absolute monopoly
+in industry — and the most hostage: China collapsed to 19% of system sales (from 36%) as export controls bite
+and the MATCH Act threatens the rest; it sells to a cyclical oligopsony (TSMC ~40% of EUV) balking at High-NA's
+price; and the curbs are incubating China's own lithography — its only possible future rival. Fact-checked; see `audit/`.
+
+[![ASML](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FASML%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ASML&color=0b5cab&cacheSeconds=300)](https://finance.yahoo.com/quote/ASML)
+[![TSM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSM&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSM)
+[![INTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FINTC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=INTC&color=0071c5&cacheSeconds=300)](https://finance.yahoo.com/quote/INTC)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+
 ### [The Single Point of Failure](2026-06-11T0120-single-point-of-failure.md) · _2026-06-11_
 
 Almost every advanced chip on Earth is made by one company — TSMC, >90% of leading-edge production, ~90% of it

@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: ASML / EUV monopoly (article: "The One Machine" — 2026-06-11T0145-the-one-machine.md)
+
+- ✅ [ASML Q1 2026 results — Form 6-K press release — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/937966/000162828026025147/pressreleasefinancialresul.htm)
+- ✅ [ASML stock sinks amid tightening China restrictions despite strong earnings — CNBC](https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html)
+- ✅ [ASML Investment Case: EUV Monopoly & Semi Capex Cycle — HeyGoTrade](https://www.heygotrade.com/en/blog/asml-investment-case-euv-monopoly-semi-capex/)
+- ✅ [ASML Stock Raises 2026 Guidance After €8.8B Q1 Revenue Beat — TIKR](https://www.tikr.com/blog/asml-stock-raises-2026-guidance-after-e8-8b-q1-revenue-beat)
+- ✅ [ASML Shares Fall as US Proposes New China Export Restrictions — Global Banking & Finance](https://www.globalbankingandfinance.com/asml-shares-fall-us-congress-plan-restrict-china-exports/)
+- ✅ [ASML Just Got Hit by a New China Export Threat — The Motley Fool](https://www.fool.com/investing/2026/04/20/asml-just-got-hit-by-a-new-china-export-threat-is/)
+- ✅ [ASML's High-NA EUV for 2027–28: Which Giants Are Betting Big — TrendForce](https://www.trendforce.com/news/2026/02/16/news-asmls-high-na-euv-for-2027-28-which-giants-are-betting-big-intel-samsung-sk-hynix-or-tsmc/)
+- ✅ [Exclusive look at High-NA, ASML's new $400 million chipmaking colossus — CNBC](https://www.cnbc.com/2025/05/22/exclusive-look-at-high-na-asmls-new-400-million-chipmaking-colossus.html)
+- ✅ [ASML CEO says tighter curbs to push China toward creating competing tools — Global Times](https://www.globaltimes.cn/page/202605/1361571.shtml)
+- ✅ [ASML projects revenue by 2030 as EUV demand intensifies — Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/asml-projects-usd71-billion-in-revenue-by-2030-as-demand-for-euv-lithography-machines-intensifies-due-to-ai-boom-china-sales-lag-behind-while-company-cashes-in-on-high-end-twinscan-systems)
+- 📎 [ASML expects first High-NA EUV chips within months as TSMC delays adoption — AnySilicon](https://anysilicon.com/news/asml-expects-first-high-na-euv-chips-within-months-as-tsmc-delays-adoption-over-cost-concerns/)
+- 📎 [ASML becoming a tool in the trade war between U.S., China, Dutch gov't fears — NL Times](https://nltimes.nl/2025/05/16/asml-becoming-tool-trade-war-us-china-dutch-govt-fears)
+
+---
+
 ## Topic: TSMC / Taiwan concentration (article: "The Single Point of Failure" — 2026-06-11T0120-single-point-of-failure.md)
 
 - ✅ [The $10 Trillion Fight: Modeling a US-China War Over Taiwan — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-10/the-10-trillion-fight-modeling-a-us-china-war-over-taiwan)
