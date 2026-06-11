@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Meta / AI superintelligence capex (article: "Whatever It Takes" — 2026-06-11T0620-whatever-it-takes.md)
+
+- ✅ [Meta just bumped its 2026 capex forecast up to as much as $145 billion—and investors flinched — Fortune](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/)
+- ✅ [Meta Reports First Quarter 2026 Results — Meta IR](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/default.aspx)
+- ✅ [Zuckerberg Says Meta Cloud Business Is 'Definitely on the Table' as AI Capex Hits $145B — MLQ](https://mlq.ai/news/v2/zuckerberg-says-meta-cloud-business-is-definitely-on-the-table-as-ai-capex-hits-145-billion/)
+- ✅ [Meta Platforms (META) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/meta-platforms/marketcap/)
+- ✅ [Meta Reality Labs losses: $83.5 billion burned on AR/VR as AI spending surges — MEXC News](https://www.mexc.com/news/1063442)
+- ✅ [Meta's Reality Labs lost over $4 billion in first quarter — CNBC](https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html)
+- ✅ [Meta reports record $56.3B revenue but daily users decline for first time; capex $145B, 8,000 jobs cut — TNW](https://thenextweb.com/news/meta-q1-2026-user-decline-ai-capex)
+- ✅ [Meta AI Statistics 2026: Users, Capex, etc. — SQ Magazine](https://sqmagazine.co.uk/meta-ai-statistics/)
+- ✅ [Big Tech's $650B AI Capex Surge Reshaping the Economy — Tech-Insider](https://tech-insider.org/big-tech-650-billion-ai-infrastructure-capex-2026/)
+- 📎 [Meta stock slumps after raised capex guidance outweighs solid results — Investing.com](https://www.investing.com/news/earnings/meta-stock-slips-more-than-6-after-hours-on-raised-capital-expenditure-guidance-4646698)
+- 📎 [Meta's daily active user count declined in Q1 2026 — Social Media Today](https://www.socialmediatoday.com/news/metas-daily-active-user-count-declined-in-q1-2026/818904/)
+
+---
+
 ## Topic: Adobe / AI software disruption (article: "Creative Destruction" — 2026-06-11T0555-creative-destruction.md)
 
 - ✅ [Adobe (ADBE) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/adobe/marketcap/)

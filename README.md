@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Whatever It Takes](2026-06-11T0620-whatever-it-takes.md) · _2026-06-11_
+
+Mark Zuckerberg has decided superintelligence is imminent and that Meta will spend *whatever it takes* to build
+it first — $125–145B of capex in 2026 alone (from ~$72B in 2025), a new Superintelligence Labs, nine-figure
+poaching. The depreciation bill compounds into a mountain; it's all funded by one mature ad engine now showing
+hairline cracks (first-ever daily-user dip, 8,000 job cuts); it's a systemic node in the circular AI-capex
+machine; and Reality Labs (~$83.5B burned on the metaverse) is the same-shape bet the same man already lost —
+shielded from shareholders by his supervotes. Fact-checked; see `audit/`.
+
+[![META](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMETA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=META&color=0866ff&cacheSeconds=300)](https://finance.yahoo.com/quote/META)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![AVGO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAVGO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AVGO&color=cc092f&cacheSeconds=300)](https://finance.yahoo.com/quote/AVGO)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+
 ### [Creative Destruction](2026-06-11T0555-creative-destruction.md) · _2026-06-11_
 
 Adobe — the company that owns the verbs of digital creation (~$23.8B revenue, tens of millions of subscribers)
