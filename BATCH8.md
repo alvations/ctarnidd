@@ -9,7 +9,7 @@ commit is pushed.
 | # | status | slug | focus |
 |---|--------|------|-------|
 | 1 | done | 2026-06-12T1310-microsoft-openai.md     | Microsoft (MSFT) — the circular OpenAI/Azure entanglement [news] |
-| 2 | pending | TBD-netflix.md             | Netflix (NFLX) — won streaming, priced like it can't lose [news] |
+| 2 | done | 2026-06-12T1335-netflix.md             | Netflix (NFLX) — won streaming, stopped reporting subscribers [news] |
 | 3 | pending | TBD-costco.md              | Costco (COST) — best retailer, never-cheap ~50x multiple [news] |
 | 4 | pending | TBD-visa-mastercard.md     | Visa/Mastercard (V/MA) — stablecoins vs the payment toll booth [news] |
 | 5 | pending | TBD-spotify.md             | Spotify (SPOT) — finally profitable, but labels hold the leverage [news] |

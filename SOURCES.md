@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Netflix / streaming (article: "Netflix Stopped Reporting Subscribers Just as the Easy Growth Ran Out" — 2026-06-12T1335-netflix.md) [news]
+
+- ✅ [Netflix (NFLX) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html)
+- ✅ [Netflix Earnings Q1 2026 Revenue Up 16% — Variety](https://variety.com/2026/tv/news/netflix-earnings-q1-2026-1236723851/)
+- ✅ [Netflix Q1 profit jumps on $2.8B breakup fee (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/NFLX/10-q-netflix-inc-quarterly-earnings-report-6f0f12e2e192.html)
+- ✅ [Netflix Q1 2026 Earnings Results: EPS Beat — CoinDCX](https://coindcx.com/blog/us-stock/netflix-q1-2026-earnings-results/)
+- ✅ [Down 38% From All-Time Highs, Can Netflix Recover In 2026? — TIKR](https://www.tikr.com/blog/down-38-from-all-time-highs-can-netflix-nasdaq-stock-finally-recover-in-2026)
+- ✅ [Netflix Q1 2026: $12.25B Revenue and 325M Subscribers — Tech Insider](https://tech-insider.org/netflix-q1-2026-earnings-revenue-subscribers-wbd-termination-fee/)
+- ✅ [Netflix (NFLX) P/E Ratio: Current & Historical — Public.com](https://public.com/stocks/nflx/pe-ratio)
+- 📎 [Netflix's Competitive Position Amid Rising Churn and Intensifying Rivalry — AInvest](https://www.ainvest.com/news/netflix-competitive-position-streaming-industry-rising-subscriber-churn-intensifying-rivalry-2601/)
+
+---
+
 ## Topic: Microsoft / OpenAI (article: "Microsoft Booked a $5.9 Billion Gain on a Company That Loses Billions" — 2026-06-12T1310-microsoft-openai.md) [news]
 
 - ✅ [OpenAI shakes up partnership with Microsoft, capping revenue share — CNBC](https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html)

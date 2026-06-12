@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Netflix Stopped Reporting Subscribers Just as the Easy Growth Ran Out](2026-06-12T1335-netflix.md) · _2026-06-12_
+
+Netflix won the streaming wars — 325M+ subscribers, $50B+ revenue, 30%+ margins, $12.5B of free cash flow while
+rivals bleed. This isn't a bubble call (the stock's already off ~38% from its highs). It's a quieter tell: in
+2025, at the peak of the triumph, Netflix stopped publishing its quarterly subscriber count — the metric that
+powered the stock for two decades — exactly as the one-time password-crackdown harvest exhausted and its richest
+markets saturated. Growth is shifting from *expansion* (more subscribers) to *extraction* (price hikes, a subscale
+ad push against Google/Meta/Amazon), and the remaining subscriber growth lives in its lowest-revenue markets. A
+maturing business still wearing a growth company's clothes. Fact-checked; see `audit/`.
+
+[![NFLX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNFLX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NFLX&color=e50914&cacheSeconds=300)](https://finance.yahoo.com/quote/NFLX)
+[![DIS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDIS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DIS&color=113ccf&cacheSeconds=300)](https://finance.yahoo.com/quote/DIS)
+[![WBD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWBD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WBD&color=0046ff&cacheSeconds=300)](https://finance.yahoo.com/quote/WBD)
+[![CMCSA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCMCSA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CMCSA&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/CMCSA)
+
 ### [Microsoft Booked a $5.9 Billion Gain on a Company That Loses Billions](2026-06-12T1310-microsoft-openai.md) · _2026-06-12_
 
 Microsoft is the steadiest mega-cap in the market — so it's worth noticing the loop now running through its
