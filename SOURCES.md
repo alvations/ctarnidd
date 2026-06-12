@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Salesforce / AI agents vs per-seat SaaS (article: "Salesforce Is Selling the AI That Could Eat Its Own Per-Seat Business" — 2026-06-12T1655-salesforce.md) [WSB/tech]
+
+- ✅ [Salesforce Delivers Record First Quarter Fiscal 2027 Results — Salesforce IR](https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/)
+- ✅ [Salesforce Shares Lower Despite Record Q1 as Agentforce ARR Tops $1.2 Billion — AskTraders](https://www.asktraders.com/analysis/salesforce-shares-lower-despite-record-q1-results-as-agentforce-ai-arr-tops-1-2-billion/)
+- ✅ [CRM Drops 33% in 2026 Despite Earnings Beat as AI Fears Overshadow $1.2B Agentforce — FX Leaders](https://www.fxleaders.com/news/2026/05/28/crm-drops-33-in-2026-despite-earnings-beat-as-ai-fears-overshadow-1-2b-agentforce-growth/)
+- ✅ [Salesforce Now Has 3+ Pricing Models for Agentforce — SaaStr](https://www.saastr.com/salesforce-now-has-3-pricing-models-for-agentforce-and-maybe-right-now-thats-the-way-to-do-it/)
+- ✅ [AI Agents Are Killing Seat-Based SaaS Pricing — MPT Solutions](https://www.mpt.solutions/ai-agents-are-killing-seat-based-saas-pricing-heres-whats-replacing-it/)
+- ✅ [Salesforce Hits 2026's Worst Dow Jones Run as AI Agents Threaten Its Core Revenue Model — TechTimes](https://www.techtimes.com/articles/317274/20260527/salesforce-hits-2026s-worst-dow-jones-run-ai-agents-threaten-its-core-revenue-model.htm)
+- ✅ [The Great SaaS Unbundling: Atlassian seat decline / SaaSpocalypse — Taskade](https://www.taskade.com/blog/great-saas-unbundling)
+- 📎 [Salesforce Q1 FY2027: Agentforce Hit $1.2B While CRM Was Down 32% — Money365](https://www.money365.market/articles/salesforce-q1-fy2027-earnings)
+
+---
+
 ## Topic: Disney / media + streaming (article: "Disney's Streaming Turned a Profit Just as Its Cable Empire Melts" — 2026-06-12T1630-disney.md) [news]
 
 - ✅ [Disney Q2 2026 Revenue Rises 7%, Streaming Income Up 88% to $582 Million — Variety](https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/)

@@ -17,7 +17,7 @@ commit is pushed.
 | 7 | done | 2026-06-12T1540-chime.md               | Chime (CHYM) — "free" banking on a Durbin-exempt interchange loophole [CNET/fintech] |
 | 8 | done | 2026-06-12T1605-arm.md                 | Arm Holdings (ARM) — in every phone, priced like it's in everything [WSB] |
 | 9 | done | 2026-06-12T1630-disney.md              | Disney (DIS) — streaming profit replacing the melting cable empire [news] |
-| 10| pending | TBD-salesforce.md          | Salesforce (CRM) — selling AI agents that cannibalize its own seats [WSB/tech] |
+| 10| done | 2026-06-12T1655-salesforce.md          | Salesforce (CRM) — selling AI agents that cannibalize its own seats [WSB/tech] |
 
 ## Per-article workflow
 1. Research (2-3 web searches) → write (2,900+ prose words), editorial-only, date-stamped filename, 4 live badges.

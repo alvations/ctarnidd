@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Salesforce Is Selling the AI That Could Eat Its Own Per-Seat Business](2026-06-12T1655-salesforce.md) · _2026-06-12_
+
+For two decades software ran on per-seat pricing — you pay per human who logs in. Salesforce built a ~$40B empire
+on it. Now it's enthusiastically selling its customers the one thing designed to destroy it: AI agents that do
+the work of those humans. Every worker an Agentforce agent replaces is one fewer seat the customer licenses.
+Agentforce ARR ($1.2B, +205%) is real but tiny against the legacy base, and the race is whether the new AI
+revenue outruns the seat *erosion* it causes — Salesforce customers are already cutting ~10% of seats. The
+pricing keeps changing (consumption → $125/mo "digital worker"), Atlassian just posted its first-ever seat
+decline, and a ~$285B "SaaSpocalypse" repriced the whole sector. The seat machine that built Salesforce is being
+dismantled by Salesforce. Fact-checked; see `audit/`.
+
+[![CRM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRM&color=00a1e0&cacheSeconds=300)](https://finance.yahoo.com/quote/CRM)
+[![NOW](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNOW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NOW&color=62d84e&cacheSeconds=300)](https://finance.yahoo.com/quote/NOW)
+[![TEAM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTEAM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TEAM&color=0052cc&cacheSeconds=300)](https://finance.yahoo.com/quote/TEAM)
+[![HUBS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHUBS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HUBS&color=ff7a59&cacheSeconds=300)](https://finance.yahoo.com/quote/HUBS)
+
 ### [Disney's Streaming Turned a Profit Just as Its Cable Empire Melts](2026-06-12T1630-disney.md) · _2026-06-12_
 
 Disney delivered the milestone Wall Street demanded: streaming is finally profitable (operating income +88% to
