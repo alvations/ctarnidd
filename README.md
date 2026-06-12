@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Stablecoins Are Coming for the Most Profitable Toll Booth in Finance](2026-06-12T1425-visa-mastercard.md) · _2026-06-12_
+
+Visa and Mastercard run maybe the best business model in capitalism — a ~$20T+ two-sided network, 50–67% operating
+margins, a 60-year moat that has repelled every disruptor. PayPal, Apple Pay, crypto: all of them ended up running
+*on* the rails, not around them. Stablecoins are the first credible *bypass* — peer-to-peer dollar settlement that
+skips card interchange entirely, blessed by the 2025 GENIUS Act and pushed by the merchants (Walmart, Amazon) who
+have hated the ~2–3% toll for decades. The tell that the threat is real: Mastercard just spent up to $1.8B buying
+a stablecoin firm (BVNK) to own the bypass — defending the franchise by shrinking the toll. Erosion, not
+extinction — but for the first time, the toll road has a competitor. Fact-checked; see `audit/`.
+
+[![V](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FV%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=V&color=1a1f71&cacheSeconds=300)](https://finance.yahoo.com/quote/V)
+[![MA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MA&color=eb001b&cacheSeconds=300)](https://finance.yahoo.com/quote/MA)
+[![PYPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPYPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PYPL&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/PYPL)
+[![CRCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRCL&color=00d395&cacheSeconds=300)](https://finance.yahoo.com/quote/CRCL)
+
 ### [Costco Sells Groceries at Cost and Trades Like a Tech Stock](2026-06-12T1400-costco.md) · _2026-06-12_
 
 Costco is the best retailer in America — 148M cardholders, ~90%+ renewal, a membership fortress. It's also one of

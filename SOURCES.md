@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Visa/Mastercard vs stablecoins (article: "Stablecoins Are Coming for the Most Profitable Toll Booth..." — 2026-06-12T1425-visa-mastercard.md) [news]
+
+- ✅ [The Stablecoin Threat: Visa and Mastercard Facing a Double Whammy — AInvest](https://www.ainvest.com/news/stablecoin-threat-visa-mastercard-facing-regulatory-market-double-whammy-2506/)
+- ✅ [Visa and Mastercard report strong growth in Q1 2026 — FXC Intelligence](https://www.fxcintel.com/research/analysis/ct-visa-mastercard-q1-2026-earnings)
+- ✅ [Mastercard to acquire BVNK for up to $1.8 billion — Fortune](https://fortune.com/2026/03/17/mastercard-bvnk-acquisition-stablecoins-1-8-billion/)
+- ✅ [Mastercard agrees to buy BVNK for $1.8 billion — American Banker](https://www.americanbanker.com/payments/news/mastercard-agrees-to-buy-bvnk-for-1-8-billion)
+- ✅ [Bill Gurley says Visa and Mastercard are "heavily threatened" by stablecoins — Seeking Alpha](https://seekingalpha.com/news/4602946-bill-gurley-says-visa-mastercard-are-heavily-threatened-by-stablecoins)
+- ✅ [The Visa and Mastercard Duopoly: Why a Two-Sided Network Is the Ultimate Moat — PitchGrade](https://pitchgrade.com/research/visa-mastercard-moat)
+- ✅ [Mastercard Q1 2026 earnings: revenue hits $8.4B, EPS up 23% — TIKR](https://www.tikr.com/blog/mastercard-q1-2026-earnings-revenue-hits-8-4b-eps-up-23)
+- 📎 [Mastercard's BVNK Acquisition: What It Means for Payments — Datos Insights](https://datos-insights.com/blog/mastercard-bvnk-acquisition-stablecoin-payments/)
+
+---
+
 ## Topic: Costco / retail (article: "Costco Sells Groceries at Cost and Trades Like a Tech Stock" — 2026-06-12T1400-costco.md) [news]
 
 - ✅ [Costco Q3 2026 net sales up 11.6% to $69.2B — StockTitan](https://www.stocktitan.net/news/COST/costco-wholesale-corporation-reports-third-quarter-and-year-to-date-ya9rfbnhnzg9.html)
