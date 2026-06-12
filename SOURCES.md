@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Cloudflare / priced-for-perfection + falling gross margin (article: "Cloudflare Is Priced for Perfect Software Margins Just as Its Own Start to Slip" — 2026-06-12T2125-cloudflare.md) [WSB]
+
+- ✅ [Cloudflare Q1 2026 Form 8-K (press release exhibit, SEC)](https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000033/q126exhibit991.htm)
+- ✅ [Cloudflare Q1 2026 Form 8-K/A (SEC)](https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000035/q126exhibit991.htm)
+- ✅ [Cloudflare Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000038/cloud-20260331.htm)
+- ✅ [Cloudflare Q1 2026 revenue $639.8M, AI restructuring (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/NET/8-k-cloudflare-inc-reports-material-event-070b89301d60.html)
+- ✅ [Cloudflare Q1 2026 slides: 34% revenue growth, large customer base surges — Investing.com](https://www.investing.com/news/company-news/cloudflare-q1-2026-slides-34-revenue-growth-large-customer-base-surges-93CH-4671018)
+- ✅ [Cloudflare Q1 2026: 34% Revenue Growth But Announces 20% Workforce Reduction — TIKR](https://www.tikr.com/blog/cloudflare-q1-2026-34-revenue-growth-but-announces-20-workforce-reduction)
+
+Fact-check: rev $639.8M (+34%); GAAP gross margin 71.2% / non-GAAP 73% down from 77%; non-GAAP net income $94M vs
+GAAP operating LOSS ~$62M (>$150M gap, mostly SBC); FCF $84.1M (13%); $1M+ deals +73%; 20% layoff. ~28x sales.
+Corrections: gross-margin YoY restated precisely; GAAP operating loss figure added (strengthened thesis).
+
+---
+
 ## Topic: Walmart / retail-media re-rating (article: "Walmart Is Priced Like an Ad Company While Two-Thirds of Its Profit Is Still Retail" — 2026-06-12T2055-walmart.md) [news]
 
 - ✅ [Walmart reports first quarter results (FY27 Q1 8-K earnings release, SEC)](https://www.sec.gov/Archives/edgar/data/104169/000010416926000095/earningsreleasefy27q1.htm)

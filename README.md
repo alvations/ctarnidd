@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Cloudflare Is Priced for Perfect Software Margins Just as Its Own Start to Slip](2026-06-12T2125-cloudflare.md) · _2026-06-12_
+
+Cloudflare is a developer-beloved infrastructure company growing 34% to $639.8M a quarter, with surging
+seven-figure deals and real free cash flow — and one of the richest sales multiples in all of software, a price
+that only works if its gross margins are pristine and expanding. But they're moving the other way: GAAP gross
+margin fell to 71.2%, the adjusted measure to 73% from 77%, the tell that its newer AI-inference and compute
+growth carries structurally heavier unit economics than the legacy CDN business. Meanwhile the $94M of non-GAAP
+net income sits atop a ~$62M GAAP operating loss, the AI ambition marches onto the hyperscalers' capital-heavy
+turf, and the company just cut 20% of staff to force the economics. A wonderful company priced for perfection at
+the moment the first imperfections appear. Fact-checked; see `audit/`.
+
+[![NET](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNET%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NET&color=f38020&cacheSeconds=300)](https://finance.yahoo.com/quote/NET)
+[![FSLY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FFSLY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=FSLY&color=ff282d&cacheSeconds=300)](https://finance.yahoo.com/quote/FSLY)
+[![AKAM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAKAM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AKAM&color=0099cc&cacheSeconds=300)](https://finance.yahoo.com/quote/AKAM)
+[![DDOG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDDOG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DDOG&color=632ca6&cacheSeconds=300)](https://finance.yahoo.com/quote/DDOG)
+
 ### [Walmart Is Priced Like an Ad Company While Two-Thirds of Its Profit Is Still Retail](2026-06-12T2055-walmart.md) · _2026-06-12_
 
 The market has re-narrated Walmart from low-margin grocer to high-margin platform, awarding it a technology-like
