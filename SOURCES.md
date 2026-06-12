@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Spotify / music streaming (article: "Spotify Finally Makes Real Money, and the Labels Take Most of It" — 2026-06-12T1450-spotify.md) [news]
+
+- ✅ [Spotify Q1 2026 revenue €4.53B, margins rise (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/SPOT/6-k-spotify-technology-s-a-current-report-foreign-issuer-2cb5cf1afd06.html)
+- ✅ [Spotify subscriber base grew by 3m to 293m in Q1 — Music Business Worldwide](https://www.musicbusinessworldwide.com/spotify-subscriber-base-grew-by-3m-to-293m-in-q1-company-posted-837m-operating-profit-for-the-quarter/)
+- ✅ [Spotify Q1 2026 Earnings: Revenue Rises 8%, Premium Subs Decline in North America — Variety](https://variety.com/2026/music/news/spotify-q1-2026-earnings-revenue-total-premium-subscribers-1236731842/)
+- ✅ [How Spotify Makes Money: Premium Margins, Ad Revenue, Podcast Pivot — PitchGrade](https://pitchgrade.com/research/how-spotify-makes-money)
+- ✅ [Spotify Blasts MLC's Audiobook Royalties Lawsuit As 'Nonsensical' — Billboard](https://www.billboard.com/pro/spotify-blasts-mlc-audiobook-royalties-lawsuit/)
+- ✅ [NMPA says Spotify's Q1 growth due to 'undercutting of songwriters' via audiobook bundling — Music Business Worldwide](https://www.musicbusinessworldwide.com/nmpa-says-spotifys-q1-growth-due-to-undercutting-of-songwriters-via-audiobook-bundling/)
+- 📎 [Spotify (SPOT): Q1 2026 Earnings Show Progress Toward Sustainable Profitability — Tickeron](https://tickeron.com/blogs/spotify-spot-q1-2026-earnings-show-progress-toward-sustainable-profitability-12872/)
+
+---
+
 ## Topic: Visa/Mastercard vs stablecoins (article: "Stablecoins Are Coming for the Most Profitable Toll Booth..." — 2026-06-12T1425-visa-mastercard.md) [news]
 
 - ✅ [The Stablecoin Threat: Visa and Mastercard Facing a Double Whammy — AInvest](https://www.ainvest.com/news/stablecoin-threat-visa-mastercard-facing-regulatory-market-double-whammy-2506/)

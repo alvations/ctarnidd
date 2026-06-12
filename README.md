@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Spotify Finally Makes Real Money, and the Labels Take Most of It](2026-06-12T1450-spotify.md) · _2026-06-12_
+
+After fifteen years as the company that grew forever and never earned a profit, Spotify finally turned the
+corner — record margins, €715M of quarterly operating income, €3.2B of trailing free cash flow. The turnaround is
+real. But the number that caps it hasn't moved: ~70% of Spotify's music revenue goes straight to the record
+labels and publishers who own the songs. Spotify doesn't own the music — it rents it, on 1–3-year contracts, from
+suppliers (Universal, Sony, Warner) who can squeeze it at every renewal. Its celebrated margin gains come from
+price hikes and a mix-shift into non-music (audiobooks, ads), not from winning the structural royalty war it has
+never durably won — and the audiobook escape route already triggered a ~€410M royalty fight. A wonderful
+distributor of a product it will never own. Fact-checked; see `audit/`.
+
+[![SPOT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPOT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPOT&color=1db954&cacheSeconds=300)](https://finance.yahoo.com/quote/SPOT)
+[![WMG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWMG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WMG&color=00b1b3&cacheSeconds=300)](https://finance.yahoo.com/quote/WMG)
+[![SONY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSONY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SONY&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/SONY)
+[![AAPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAAPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AAPL&color=999999&cacheSeconds=300)](https://finance.yahoo.com/quote/AAPL)
+
 ### [Stablecoins Are Coming for the Most Profitable Toll Booth in Finance](2026-06-12T1425-visa-mastercard.md) · _2026-06-12_
 
 Visa and Mastercard run maybe the best business model in capitalism — a ~$20T+ two-sided network, 50–67% operating
