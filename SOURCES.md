@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Snowflake / data cloud vs Databricks (article: "Snowflake Is Priced as an AI Winner While Databricks Wins the AI Budget" — 2026-06-12T1755-snowflake.md) [news]
+
+- ✅ [Snowflake Reports Q1 Fiscal 2027 Results — BusinessWire](https://www.businesswire.com/news/home/20260527027931/en/Snowflake-Reports-Financial-Results-for-the-First-Quarter-of-Fiscal-2027)
+- ✅ [Snowflake (SNOW) lifts Q1 revenue to $1.39B as net loss shrinks (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/SNOW/10-q-snowflake-inc-quarterly-earnings-report-8028e58290c8.html)
+- ✅ [Snowflake, Databricks and the model makers: battle for the AI back end — SiliconANGLE](https://siliconangle.com/2026/06/07/snowflake-databricks-model-makers-battle-agentic-client-ai-back-end/)
+- ✅ [Databricks Eyes $175B Valuation on $5.4B ARR [2026] — Tech Insider](https://tech-insider.org/databricks-valuation-175-billion-2026/)
+- ✅ [Can Snowflake's Premium Valuation Survive a Shifting Cloud Landscape? — 24/7 Wall St](https://247wallst.com/investing/2026/05/28/can-snowflakes-premium-valuation-survive-a-shifting-cloud-landscape/)
+- ✅ [Snowflake's AI Data Cloud Strategy Is Working — But Valuation and Competition Raise the Bar — MLQ](https://mlq.ai/news/snowflakes-ai-data-cloud-strategy-is-working-but-valuation-and-competition-raise-the-bar/)
+- ✅ [Snowflake Stock Surges 36% After Q1 2027 Earnings Beat — TIKR](https://www.tikr.com/blog/snowflake-stock-surges-36-after-q1-2027-earnings-beat-heres-what-it-means-for-snow)
+- 📎 [Snowflake (NYSE:SNOW) Exceeds Q1 CY2026 Expectations, Stock Jumps 29.1% — Yahoo Finance/StockStory](https://finance.yahoo.com/markets/stocks/articles/snowflake-nyse-snow-exceeds-q1-202323489.html)
+
+---
+
 ## Topic: Marvell / custom AI silicon (article: "Marvell Trades Richer Than Broadcom to Be the Runner-Up..." — 2026-06-12T1725-marvell.md) [YF/WSB]
 
 - ✅ [Marvell Q1 FY2027 results (IR) — Marvell](https://investor.marvell.com/news-events/press-releases/detail/95/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2026-financial-results)

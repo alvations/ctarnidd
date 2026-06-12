@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Snowflake Is Priced as an AI Winner While Databricks Wins the AI Budget](2026-06-12T1755-snowflake.md) · _2026-06-12_
+
+Snowflake had a triumphant quarter — product revenue +34%, 70% of customers using AI features, the stock up ~30% —
+and got crowned a "picks and shovels" winner of the AI era. Three facts the party skipped: it still loses $1.3B a
+year on $4.7B of revenue, a decade after IPO; its key growth metric (net revenue retention) has quietly fallen
+from 170%+ to ~125% as the consumption dial gets turned down; and the company actually *winning* the AI-data
+battle is Databricks — the private rival valued at 2× Snowflake, free-cash-flow positive, with 10× the AI revenue,
+taking ~70% of new AI budgets in head-to-heads. Being in the AI business isn't the same as winning it. Fact-checked;
+see `audit/`.
+
+[![SNOW](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSNOW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SNOW&color=29b5e8&cacheSeconds=300)](https://finance.yahoo.com/quote/SNOW)
+[![ORCL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FORCL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ORCL&color=f80000&cacheSeconds=300)](https://finance.yahoo.com/quote/ORCL)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![MDB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMDB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MDB&color=00ed64&cacheSeconds=300)](https://finance.yahoo.com/quote/MDB)
+
 ### [Marvell Trades Richer Than Broadcom to Be the Runner-Up in Custom AI Chips](2026-06-12T1725-marvell.md) · _2026-06-12_
 
 The hyperscalers design their own AI chips to escape Nvidia, and they hire two firms at scale to help: Broadcom,
