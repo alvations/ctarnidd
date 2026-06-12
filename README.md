@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Signal From Space](2026-06-11T1325-signal-from-space.md) · _2026-06-11_
+
+AST SpaceMobile beamed broadband from orbit straight to an ordinary, unmodified smartphone — 98.9 Mbps over the
+open ocean, with AT&T and Verizon as partners. The engineering is a genuine miracle. The market values it at
+$26–36B — on ~$15M of quarterly revenue and a $191M quarterly loss. That's not a price for a business; it's a
+price for a prophecy: that the demonstration becomes a constellation, the constellation beats SpaceX's Starlink,
+and the whole thing gets funded without diluting holders to nothing (shares are already up 437% in five years).
+The purest "someday" trade left in the market — infinite TAM, magnificent demo, deployment barely begun.
+Fact-checked; see `audit/`.
+
+[![ASTS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FASTS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ASTS&color=1a1a4e&cacheSeconds=300)](https://finance.yahoo.com/quote/ASTS)
+[![RKLB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRKLB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RKLB&color=0a2342&cacheSeconds=300)](https://finance.yahoo.com/quote/RKLB)
+[![T](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=T&color=00a8e0&cacheSeconds=300)](https://finance.yahoo.com/quote/T)
+[![VZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VZ&color=cd040b&cacheSeconds=300)](https://finance.yahoo.com/quote/VZ)
+
 ### [The Decay](2026-06-11T1300-the-decay.md) · _2026-06-11_
 
 A stock rose 48% in a year; the 2x ETF tracking it handed losses to the people who bought it. Not a glitch —

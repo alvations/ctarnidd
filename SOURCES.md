@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AST SpaceMobile / space stocks (article: "Signal From Space" — 2026-06-11T1325-signal-from-space.md) [WSB]
+
+- ✅ [AST SpaceMobile (ASTS) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/11/ast-spacemobile-asts-q1-2026-earnings-transcript/)
+- ✅ [AST SpaceMobile details Q1 2026 loss, cash of $3.5B and satellite rollout — StockTitan](https://www.stocktitan.net/sec-filings/ASTS/8-k-ast-space-mobile-inc-reports-material-event-75ced08d18a6.html)
+- ✅ [AST SpaceMobile Q1 2026 8-K (ex99_2) — SEC](https://www.sec.gov/Archives/edgar/data/0001780312/000119312526216946/asts-ex99_2.htm)
+- ✅ [AST SpaceMobile (ASTS) Valuation Check After Reaffirmed 2026 Guidance — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-valuation-check-001853675.html)
+- ✅ [AST targets ~45 BlueBird satellites by end of 2026, reiterates $150M+ — Seeking Alpha](https://seekingalpha.com/news/4590967-ast-spacemobile-targets-45-bluebird-satellites-in-orbit-by-end-of-2026-while-reiterating-150m)
+- ✅ [AST SpaceMobile — Stock Analysis — Simply Wall St](https://simplywall.st/stocks/us/telecom/nasdaq-asts/ast-spacemobile)
+- ✅ [AST SpaceMobile vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026? — Motley Fool](https://www.fool.com/coverage/better-buy/2026/05/26/ast-spacemobile-vs-rocket-lab-which-space-stock-is-a-better-buy-in-2026/)
+- 📎 [SpaceX Competitors: Investing in Rocket Lab, AST SpaceMobile & Alphabet — Equiti](https://www.equiti.com/sc-en/news/trading-ideas/similar-stocks-are-chasing-the-same-future-as-spacex/)
+
+---
+
 ## Topic: Leveraged single-stock ETFs (article: "The Decay" — 2026-06-11T1300-the-decay.md) [WSB]
 
 - ✅ [NVDL ETF Explained: Leveraged Nvidia, Decay Risk, and Who Should Actually Own It — etf.com](https://www.etf.com/sections/news/nvdl-etf-explained-leveraged-nvidia-decay-risk-and-who-should-actually-own-it)

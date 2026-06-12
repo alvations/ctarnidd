@@ -15,7 +15,7 @@ forensic-financial house voice. Deduped against the 44 published articles. Same 
 | 7 | done | 2026-06-11T1210-the-rake.md        | Coinbase (COIN) — the crypto casino's stock [CNET] |
 | 8 | done | 2026-06-11T1235-the-pin.md                        | AI hardware/product graveyard: Humane/Rabbit/io [Verge/Gizmodo] |
 | 9 | done | 2026-06-11T1300-the-decay.md                      | Leveraged single-stock ETFs (NVDL/MSTU/TSLL) volatility decay [WSB] |
-| 10| pending | TBD-signal-from-space.md             | AST SpaceMobile / Rocket Lab — space stocks [WSB] |
+| 10| done | 2026-06-11T1325-signal-from-space.md             | AST SpaceMobile / Rocket Lab — space stocks [WSB] |
 
 ## Per-article workflow
 1. Research (2–3 web searches) → write (3,000+ prose words), editorial-only, date-stamped filename, 4 live badges.
