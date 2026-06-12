@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Carvana / used cars + subprime auto (article: "Carvana Came Back From the Dead..." — 2026-06-12T1010-carvana.md) [WSB]
+
+- ✅ [Carvana (CVNA) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/04/29/carvana-cvna-earnings-q1-2026.html)
+- ✅ [Carvana posts record Q1 2026 revenue and profit (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/CVNA/8-k-carvana-co-reports-material-event-88d25f59144b.html)
+- ✅ [Carvana Q1 2026 revenue $6.4B, profit $405M (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/CVNA/10-q-carvana-co-quarterly-earnings-report-3ecce9d1c9cb.html)
+- ✅ [Carvana Faces "Interest Cliff" in Mid-2026 — AInvest](https://www.ainvest.com/news/carvana-faces-interest-cliff-mid-2026-profitability-gains-debt-pressure-2604/)
+- ✅ [Carvana gains another $4B in financing through Ally — Auto Remarketing](https://www.autoremarketing.com/ar/retail/carvana-gains-another-4b-in-financing-through-ally/)
+- ✅ [Carvana: A Father-Son Accounting Grift For The Ages — Hindenburg Research (allegations, disputed)](https://hindenburgresearch.com/carvana/)
+- ✅ [Carvana Q1 2026 Earnings Show Record Profit (insider trade data) — InsiderFinance](https://www.insiderfinance.io/news/carvana-q1-2026-earnings-show-record-profit)
+- 📎 [Carvana Auto Receivables Trust 2026-P1 (10-D) — SEC](https://www.sec.gov/Archives/edgar/data/0001976111/000197611126000010/crvna2026-p1servicerrepo.htm)
+
+---
+
 ## Topic: Vertiv / data-center cooling (article: "Vertiv Sells the Picks and Shovels..." — 2026-06-12T0945-vertiv-cooling.md) [WSB/infra]
 
 - ✅ [Vertiv Q1 2026 earnings 8-K — SEC](https://www.sec.gov/Archives/edgar/data/0001674101/000162828026026379/q12026exhibit991vrt04222026.htm)

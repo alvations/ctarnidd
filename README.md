@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Carvana Came Back From the Dead. Its Balance Sheet Didn't.](2026-06-12T1010-carvana.md) · _2026-06-12_
+
+In 2022 Carvana was a corpse — stock down ~99% (from ~$370 to under $4), bankruptcy looming. Then it rose more
+than a hundredfold to an ~$87B market cap on record revenue ($6.43B, +52%) and real profit ($405M). The
+operational comeback is genuine. But the resurrection fixed the *price*, not the *machine*: ~$5.1B of junk-rated
+debt with a mid-2026 interest cliff; a profit engine that leans on selling subprime auto loans into
+securitizations and to Ally (a $4B lifeline facing an Oct 2026 renewal cliff); record ~6.9% subprime
+delinquencies; a founding family that keeps selling (268 insider sales, 0 buys in six months); and detailed
+short-seller allegations (labeled, disputed). Every risk that nearly killed it is smaller — and still there.
+Fact-checked; see `audit/`.
+
+[![CVNA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCVNA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CVNA&color=00b9e8&cacheSeconds=300)](https://finance.yahoo.com/quote/CVNA)
+[![ALLY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FALLY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ALLY&color=611f69&cacheSeconds=300)](https://finance.yahoo.com/quote/ALLY)
+[![KMX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKMX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KMX&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/KMX)
+[![CACC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCACC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CACC&color=c8102e&cacheSeconds=300)](https://finance.yahoo.com/quote/CACC)
+
 ### [Vertiv Sells the Picks and Shovels of the AI Boom. It's Priced Like the Gold.](2026-06-12T0945-vertiv-cooling.md) · _2026-06-12_
 
 The oldest wisdom in a gold rush is to sell picks and shovels — it's supposed to be the *safe*, lower-multiple
