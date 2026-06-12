@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Intel / foundry (article: "Washington Bet Billions on Intel's Comeback. Its Customers Haven't." — 2026-06-12T1215-intel-foundry.md) [WSB]
+
+- ✅ [Intel Foundry Services "Unsuccessful" at Attracting External Customers: 10-Q — TechPowerUp](https://www.techpowerup.com/339338/intel-foundry-services-unsuccessful-at-attracting-external-customers-10-q-filing)
+- ✅ [Intel Q1 2026 Earnings: $13.6B Revenue, DCAI Up 22% — Tech Insider](https://tech-insider.org/intel-q1-2026-earnings-13-6-billion-revenue-data-center-surge/)
+- ✅ [Intel's Real 2026 Test: Can Foundry Stop Burning Cash Before 18A Needs Proof? — TECHi](https://www.techi.com/intel-foundry-18a-cash-burn-2026/)
+- ✅ [US government to take 10% stake in Intel with CHIPS funding — Manufacturing Dive](https://www.manufacturingdive.com/news/us-government-10-percent-stake-intel-chips-funding-8-9-billion/758518/)
+- ✅ [Nvidia's Huang calls $5 billion Intel stake an 'incredible investment' — CNBC](https://www.cnbc.com/2025/09/18/nvidias-huang-calls-5-billion-intel-stake-an-incredible-investment.html)
+- ✅ [Nvidia backs Intel with $5 billion investment, but stops short of foundry deal — Ctech](https://www.calcalistech.com/ctechnews/article/sjswqvfolx)
+- ✅ [US government stake in Intel has jumped to $36 billion after share rally — Bloomberg](https://www.bloomberg.com/news/articles/2026-04-24/us-government-stake-in-intel-has-jumped-300-to-36-billion)
+- 📎 [Intel CEO embraces 18A for external customers; 18A-P inbound interest — Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/intel-ceo-recognizes-its-18a-node-for-external-customers-as-18a-p-gets-inbound-interest-company-cites-increasing-yields)
+
+---
+
 ## Topic: Boeing / aerospace (article: "Boeing Says the Worst Is Over. Its Balance Sheet Says Wait." — 2026-06-12T1150-boeing.md) [news]
 
 - ✅ [Boeing (NYSE: BA) grows Q1 2026 revenue to $22.2B but stays in loss (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/BA/8-k-boeing-co-reports-material-event-674e1339cc6f.html)

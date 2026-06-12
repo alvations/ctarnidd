@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Washington Bet Billions on Intel's Comeback. Its Customers Haven't.](2026-06-12T1215-intel-foundry.md) · _2026-06-12_
+
+Intel's stock has tripled on the most impressive guest list in corporate America: the U.S. government took ~10%
+(a stake now worth ~$36B), Nvidia put in $5B, and Microsoft, Amazon, and reportedly Apple signed foundry
+agreements. The market reads it as proof the TSMC-rival turnaround is working. But the one number that measures
+whether the foundry has *customers* says otherwise: external foundry revenue is ~$174M a quarter (much of it just
+Altera, a spun-off former subsidiary), the foundry loses ~$2.4B a quarter, and Intel's own 10-Q admits it's been
+"unsuccessful to date" winning external customers at scale. The backers each have a strategic, non-commercial
+motive — Nvidia's $5B explicitly excluded foundry work. Prestige isn't a revenue line. Fact-checked; see `audit/`.
+
+[![INTC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FINTC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=INTC&color=0071c5&cacheSeconds=300)](https://finance.yahoo.com/quote/INTC)
+[![TSM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSM&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSM)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![AMD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMD&color=ed1c24&cacheSeconds=300)](https://finance.yahoo.com/quote/AMD)
+
 ### [Boeing Says the Worst Is Over. Its Balance Sheet Says Wait.](2026-06-12T1150-boeing.md) · _2026-06-12_
 
 After years of catastrophe, Boeing has a recovery story — and parts of it are real: revenue +14% to $22.2B, 143

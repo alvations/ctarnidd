@@ -16,7 +16,7 @@ passes AND the post-fact-check commit is pushed.
 | 6 | done | 2026-06-12T1100-bnpl.md                | BNPL (AFRM/Klarna) — phantom consumer debt nobody can see [Engadget/CNET] |
 | 7 | done | 2026-06-12T1125-hims-glp1.md           | Hims & Hers (HIMS) — billion-dollar biz on a closing GLP-1 loophole [Verge/CNET] |
 | 8 | done | 2026-06-12T1150-boeing.md              | Boeing (BA) — "worst is over" vs the balance sheet [news] |
-| 9 | pending | TBD-intel-foundry.md       | Intel (INTC) — Washington's foundry bet the customers won't make [WSB] |
+| 9 | done | 2026-06-12T1215-intel-foundry.md       | Intel (INTC) — Washington's foundry bet the customers won't make [WSB] |
 | 10| pending | TBD-prediction-markets.md  | DraftKings/Kalshi — Wall St turned everything into a bet [WSB] |
 
 ## Special (user-requested, outside the 10)
