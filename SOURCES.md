@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Boeing / aerospace (article: "Boeing Says the Worst Is Over. Its Balance Sheet Says Wait." — 2026-06-12T1150-boeing.md) [news]
+
+- ✅ [Boeing (NYSE: BA) grows Q1 2026 revenue to $22.2B but stays in loss (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/BA/8-k-boeing-co-reports-material-event-674e1339cc6f.html)
+- ✅ [Boeing (BA) Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/06/02/boeing-ba-q1-2026-earnings-call-transcript/)
+- ✅ [Boeing Q1 2026 revenue rises, loss narrows (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/BA/10-q-boeing-co-quarterly-earnings-report-79404377486a.html)
+- ✅ [Boeing 777X Deliveries Delayed Again, Certification Drags Into 2027 — One Mile at a Time](https://onemileatatime.com/news/boeing-777x-delay/)
+- ✅ [Boeing balance sheet remains stretched, despite capital raise: Wells Fargo — Investing.com](https://ca.investing.com/news/stock-market-news/boeing-balance-sheet-remains-stretched-despite-capital-raise-wells-fargo-3646888)
+- ✅ [Boeing's defense arm surges while company stays unprofitable — Defence Blog](https://defence-blog.com/boeings-defense-arm-surges-while-company-stays-unprofitable/)
+- ✅ [Boeing 1Q2026 Earnings: Defense business booming due to Iran War — Leeham News](https://leehamnews.com/2026/04/22/boeing-1q2026-earnings-defense-business-is-booming-due-to-iran-war/)
+- 📎 [Boeing Q1 earnings: CEO sees a path to $3B free cash flow in 2026 — CryptoRank](https://cryptorank.io/news/feed/8cb95-boeing-q1-earnings-ceo-sees-a-path-to-3-billion-free-cash-flow-in-2026)
+
+---
+
 ## Topic: Hims & Hers / GLP-1 compounding (article: "Hims & Hers Built a Billion-Dollar Business on a Loophole..." — 2026-06-12T1125-hims-glp1.md) [Verge/CNET]
 
 - ✅ [Hims & Hers Q1 2026 results: revenue $608M amid GLP-1 shift — Grafa](https://grafa.com/en/news/united-states/hims-hers-hims-q1-2026-earnings-glp1-pivot)

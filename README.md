@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Boeing Says the Worst Is Over. Its Balance Sheet Says Wait.](2026-06-12T1150-boeing.md) · _2026-06-12_
+
+After years of catastrophe, Boeing has a recovery story — and parts of it are real: revenue +14% to $22.2B, 143
+deliveries, the MAX line ramping, a record $695B backlog, and S&P off CreditWatch. The market has decided the
+worst is over. The balance sheet disagrees: ~$50B of debt against *negative* shareholders' equity (it owes more
+than it owns), free cash flow still −$1.45B, a Moody's rating one notch above junk, $8B of 2026 maturities, and a
+flagship 777X now seven years late with ~$15.9B of charges and 30 finished jets parked in the rain. The duopoly
+means Boeing survives; that's not the same as "the recovery is on track now" — and there's no equity left to
+cushion a stumble. Fact-checked; see `audit/`.
+
+[![BA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BA&color=0039a6&cacheSeconds=300)](https://finance.yahoo.com/quote/BA)
+[![GE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GE&color=1a1a6c&cacheSeconds=300)](https://finance.yahoo.com/quote/GE)
+[![RTX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRTX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RTX&color=d6001c&cacheSeconds=300)](https://finance.yahoo.com/quote/RTX)
+[![EADSY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEADSY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EADSY&color=00205b&cacheSeconds=300)](https://finance.yahoo.com/quote/EADSY)
+
 ### [Hims & Hers Built a Billion-Dollar Business on a Loophole. The FDA Just Closed It.](2026-06-12T1125-hims-glp1.md) · _2026-06-12_
 
 For two years Hims had one of the best businesses in healthcare — and it existed on a technicality. When Wegovy
