@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: DoorDash / food delivery economics (article: "DoorDash Moves $31 Billion of Food a Quarter and Keeps Almost None of It" — 2026-06-12T1955-doordash.md) [CNET/news]
+
+- ✅ [DoorDash Q1 2026 Form 8-K press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000036/proddashex991-pressrelease.htm)
+- ✅ [DoorDash Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000037/dash-20260331.htm)
+- ✅ [DoorDash Releases First Quarter 2026 Financial Results — BusinessWire](https://www.businesswire.com/news/home/20260506963250/en/DoorDash-Releases-First-Quarter-2026-Financial-Results)
+- ✅ [DoorDash posts $4.0B Q1 revenue and $184M net income — StockTitan](https://www.stocktitan.net/sec-filings/DASH/10-q-door-dash-inc-quarterly-earnings-report-08d7260ab854.html)
+- ✅ [DoorDash Q1 2026 revenue rises 33% to $4.0B (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/DASH/8-k-door-dash-inc-reports-material-event-904631efb7bc.html)
+- 📎 [DoorDash (DASH) Q1 2026 earnings review — Finsee](https://finsee.ai/earnings/dash/2026/q1/en/)
+
+Fact-check: net income $184M DOWN from $193M; FCF $420M DOWN from $494M; adj EBITDA $754M (+28%); GOV $31.6B
+(record), 2.4% adj-EBITDA take. Article correction: FCF prior-year "much higher figure" → exact "$494M."
+
+---
+
 ## Topic: Shopify / e-commerce platform (article: "Shopify Is a 100x Bet on Consumer Spending..." — 2026-06-12T1925-shopify.md) [WSB]
 
 - ✅ [Shopify Q1 2026 revenue rises 34% to $3.17B (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/SHOP/8-k-shopify-inc-reports-material-event-c489d9aecc72.html)

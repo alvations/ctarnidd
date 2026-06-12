@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [DoorDash Moves $31 Billion of Food a Quarter and Keeps Almost None of It](2026-06-12T1955-doordash.md) · _2026-06-12_
+
+DoorDash is the champion of American food delivery, and by the number it asks you to watch it is thriving: revenue
++33%, orders +27%, adjusted EBITDA +28% to $754M, a global empire expanding through Deliveroo and Wolt. But
+adjusted EBITDA is the metric thin-margin businesses prefer. Underneath it, DoorDash moved $31.6B of food and
+turned it into just $184M of net income — a sliver that *declined* from a year ago, while free cash flow fell too.
+The company keeps about half a percent of the food it moves, and even that is shrinking, as acquisitions flatter
+the growth and depress the profit, the largest cost rests on a gig-labor model regulators are dismantling, and a
+duopoly with Uber Eats taxes the margin permanently. A wonderful operator of a business that, for all its scale,
+has not proven it can keep much of the river it moves. Fact-checked; see `audit/`.
+
+[![DASH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDASH%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DASH&color=ff3008&cacheSeconds=300)](https://finance.yahoo.com/quote/DASH)
+[![UBER](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FUBER%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=UBER&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/UBER)
+[![CART](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCART%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CART&color=43b02a&cacheSeconds=300)](https://finance.yahoo.com/quote/CART)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+
 ### [Shopify Is a 100x Bet on Consumer Spending That Can't Afford a Recession](2026-06-12T1925-shopify.md) · _2026-06-12_
 
 Shopify is the arms dealer of e-commerce — it sells the platform and payment rails, takes a cut of everything, and
