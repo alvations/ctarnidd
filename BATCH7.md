@@ -10,7 +10,7 @@ passes AND the post-fact-check commit is pushed.
 |---|--------|------|-------|
 | 1 | done | 2026-06-12T0830-amazon-aws.md          | Amazon (AMZN) — AI capex squeezing the AWS profit engine [news/earnings] |
 | 2 | done | 2026-06-12T0855-unitedhealth.md        | UnitedHealth (UNH) — MLR blowout, MA cuts, DOJ; Wall St's most feared stock [news] |
-| 3 | pending | TBD-alibaba-china.md       | Alibaba (BABA) — AI rally vs the permanent China discount [news] |
+| 3 | done | 2026-06-12T0920-alibaba-china.md       | Alibaba (BABA) — AI rally vs the permanent China discount [news] |
 | 4 | pending | TBD-vertiv-cooling.md      | Vertiv (VRT) — data-center cooling pick-and-shovel priced like the gold [WSB/infra] |
 | 5 | pending | TBD-carvana.md             | Carvana (CVNA) — back from the dead, balance sheet still buried [WSB] |
 | 6 | pending | TBD-bnpl.md                | BNPL (AFRM/Klarna) — phantom consumer debt nobody can see [Engadget/CNET] |

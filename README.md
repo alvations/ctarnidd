@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Alibaba Is Up 70% on AI. Investors Still Don't Own What They Think They Own.](2026-06-12T0920-alibaba-china.md) · _2026-06-12_
+
+Alibaba's AI comeback is real — cloud growing ~38%, Qwen everywhere, $15B in profit, $41B net cash, ~22x
+earnings, a screaming discount to US peers. Wall Street calls that discount temporary. The filings disagree. When
+you buy "Alibaba" in New York you own a Cayman shell wired to the Chinese businesses by VIE contracts that have
+never been tested in a Chinese court. The 2020–22 crackdown that erased ~$1T and killed the Ant IPO was the proof
+of what the discount prices, and the Xi–Jack Ma handshake the bulls cite as the all-clear is the risk itself:
+value as a function of party-state favor. The discount isn't a glitch to arbitrage; it's the price of a
+structural truth. Fact-checked; see `audit/`.
+
+[![BABA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBABA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BABA&color=ff6a00&cacheSeconds=300)](https://finance.yahoo.com/quote/BABA)
+[![PDD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPDD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PDD&color=e02e24&cacheSeconds=300)](https://finance.yahoo.com/quote/PDD)
+[![JD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FJD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=JD&color=d50000&cacheSeconds=300)](https://finance.yahoo.com/quote/JD)
+[![KWEB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKWEB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KWEB&color=c00000&cacheSeconds=300)](https://finance.yahoo.com/quote/KWEB)
+
 ### [How UnitedHealth Went From Wall Street's Safest Bet to Its Most Feared Stock](2026-06-12T0855-unitedhealth.md) · _2026-06-12_
 
 For two decades UnitedHealth was the closest thing the market had to a sure thing. In a little over a year it

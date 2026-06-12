@@ -133,8 +133,10 @@ There is one more thread, and it is the operational one, because even the pure b
 the rally underplays. Alibaba's AI and cloud re-acceleration is real — but it is being purchased at a steep and
 rising cost to profitability. The company's capital expenditure has surged, with fiscal 2026 capex reaching
 roughly RMB126 billion, up from about RMB84 billion the prior year, and management has signaled it will likely
-overshoot even its multi-year spending plan as data-center needs explode. In at least one recent quarter, the
-cloud unit's operating earnings were reported to have collapsed toward zero as the AI investment ramped.
+overshoot even its already-enormous multi-year AI commitment (north of $50 billion over three years) as
+data-center needs explode. The bottom-line cost has been severe: group non-GAAP net income fell roughly 62% for
+the fiscal year as the spending ramped, and in the March 2026 quarter adjusted net income collapsed almost
+entirely — the company posted its first operating loss since the COVID era — even as the top line accelerated.
 
 This is the same dynamic playing out at every hyperscaler — spend enormously now to capture AI demand later — but
 it carries a particular irony at Alibaba, because the cheap multiple that anchors the bull case is partly a

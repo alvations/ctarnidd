@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Alibaba / China discount (article: "Alibaba Is Up 70% on AI..." — 2026-06-12T0920-alibaba-china.md) [news]
+
+- ✅ [Alibaba Group Announces March Quarter 2026 and FY2026 Results — Morningstar/BusinessWire](https://www.morningstar.com/news/business-wire/20260512841182/alibaba-group-announces-march-quarter-2026-and-fiscal-year-2026-results)
+- ✅ [Alibaba FY 2026 profit falls as AI cloud surges (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/BABA/6-k-alibaba-group-holding-ltd-current-report-foreign-issuer-164c9931befd.html)
+- ✅ [Alibaba Cloud Surges 38% as AI Spend Erases Profits — AI Weekly](https://aiweekly.co/alerts/alibaba-cloud-surges-38-as-ai-spend-erases-profits)
+- ✅ [Alibaba (BABA) Stock in 2026: China's AI Champion, Cloud Acceleration — Phemex](https://phemex.com/academy/alibaba-baba-stock-2026)
+- ✅ [Alibaba (NYSE: BABA) outlines 2026 AI growth, VIE structure and China risks (20-F) — StockTitan](https://www.stocktitan.net/sec-filings/BABA/20-f-alibaba-group-holding-ltd-files-annual-report-foreign-issuer-7c97b60e0e74.html)
+- ✅ [Behind the Veil: Risks of Chinese Companies and the VIE Structure — CII](https://www.cii.org/Files/publications/Behind-the-Veil-Risks-of-Chinese-Companies-and-the-VIE-Structure-Aug-2025.pdf)
+- ✅ [China ADR Risk Premium: BABA vs PDD vs JD in 2026 — HeyGoTrade](https://www.heygotrade.com/en/blog/china-adr-risk-premium-baba-pdd-jd-2026/)
+- 📎 [Alibaba FY2026 Q4 earnings: heavy AI/cloud spending squeezes margins — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-down-005133822.html)
+
+---
+
 ## Topic: UnitedHealth / managed care (article: "How UnitedHealth Went From Wall Street's Safest Bet..." — 2026-06-12T0855-unitedhealth.md) [news]
 
 - ✅ [UnitedHealth Q1 2026 earnings release 8-K — SEC](https://www.sec.gov/Archives/edgar/data/731766/000073176626000121/uhgearningsreleaseq12026.htm)
