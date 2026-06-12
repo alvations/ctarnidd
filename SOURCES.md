@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Hims & Hers / GLP-1 compounding (article: "Hims & Hers Built a Billion-Dollar Business on a Loophole..." — 2026-06-12T1125-hims-glp1.md) [Verge/CNET]
+
+- ✅ [Hims & Hers Q1 2026 results: revenue $608M amid GLP-1 shift — Grafa](https://grafa.com/en/news/united-states/hims-hers-hims-q1-2026-earnings-glp1-pivot)
+- ✅ [Hims & Hers posts $92M loss in Q1 as it shifts to branded GLP-1 medications — Fierce Healthcare](https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications)
+- ✅ [Hims & Hers Q1 2026 earnings: net loss, weak guidance — Yahoo Finance](https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-q1-2026-earnings-113325367.html)
+- ✅ [Novo Nordisk sues Hims & Hers over compounded obesity drugs — CNBC](https://www.cnbc.com/2026/02/09/novo-nordisk-sues-hims-hers-compounded-obesity-drugs.html)
+- ✅ [HIMS down 29.2% after semaglutide lawsuit and DOJ referral — Yahoo Finance](https://finance.yahoo.com/news/hims-hers-health-hims-down-002608455.html)
+- ✅ [The End of the Gray Market: GLP-1 Compounding Enforcement in 2026 — Holt Law](https://djholtlaw.com/the-end-of-the-gray-market-a-strategic-legal-and-regulatory-analysis-of-glp-1-compounding-enforcement-in-2026/)
+- ✅ [RFK Jr.'s peptide policy could boost Hims & Hers as its GLP-1 business evolves — CNBC](https://www.cnbc.com/2026/04/16/rfk-jr-peptides-hims-hers-glp-1.html)
+- 📎 [Oral Semaglutide and the GLP-1 Compounding Reckoning (DOJ referrals, Novo v. Hims) — Buchanan Ingersoll & Rooney](https://www.bipc.com/oral-semaglutide-and-the-glp-1-compounding-reckoning)
+
+---
+
 ## Topic: BNPL / phantom debt (article: "Buy Now, Pay Later Is Booming..." — 2026-06-12T1100-bnpl.md) [Engadget/CNET]
 
 - ✅ [Affirm (NASDAQ: AFRM) delivers 35% GMV growth and FQ3 2026 profit — StockTitan](https://www.stocktitan.net/sec-filings/AFRM/8-k-affirm-holdings-inc-reports-material-event-9ba73cefcecb.html)

@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Hims & Hers Built a Billion-Dollar Business on a Loophole. The FDA Just Closed It.](2026-06-12T1125-hims-glp1.md) · _2026-06-12_
+
+For two years Hims had one of the best businesses in healthcare — and it existed on a technicality. When Wegovy
+and Zepbound were in FDA-declared shortage, compounding pharmacies could legally sell cheap copies, and Hims
+built a booming, high-margin GLP-1 operation doing exactly that. Then the shortage ended, the copies became
+illegal, the "personalization loophole" (add some B12) failed, HHS referred the company to the DOJ, and Novo
+Nordisk sued for patent infringement. Forced to pivot to reselling *branded* drugs at thin margins, Hims swung
+to a $92M loss, watched gross margin fall from 73% to 65%, and grew revenue just 4%. The platform survives; the
+high-margin engine was never its to keep. Fact-checked; see `audit/`.
+
+[![HIMS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHIMS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HIMS&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/HIMS)
+[![NVO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVO&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/NVO)
+[![LLY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLLY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LLY&color=e1241b&cacheSeconds=300)](https://finance.yahoo.com/quote/LLY)
+[![TDOC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTDOC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TDOC&color=5b2d90&cacheSeconds=300)](https://finance.yahoo.com/quote/TDOC)
+
 ### [Buy Now, Pay Later Is Booming. So Is the Debt Nobody Can See.](2026-06-12T1100-bnpl.md) · _2026-06-12_
 
 The official numbers say the U.S. consumer is holding up. They miss one fast-growing category by design: buy now,

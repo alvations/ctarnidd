@@ -14,7 +14,7 @@ passes AND the post-fact-check commit is pushed.
 | 4 | done | 2026-06-12T0945-vertiv-cooling.md      | Vertiv (VRT) — data-center cooling pick-and-shovel priced like the gold [WSB/infra] |
 | 5 | done | 2026-06-12T1010-carvana.md             | Carvana (CVNA) — back from the dead, balance sheet still buried [WSB] |
 | 6 | done | 2026-06-12T1100-bnpl.md                | BNPL (AFRM/Klarna) — phantom consumer debt nobody can see [Engadget/CNET] |
-| 7 | pending | TBD-hims-glp1.md           | Hims & Hers (HIMS) — billion-dollar biz on a closing GLP-1 loophole [Verge/CNET] |
+| 7 | done | 2026-06-12T1125-hims-glp1.md           | Hims & Hers (HIMS) — billion-dollar biz on a closing GLP-1 loophole [Verge/CNET] |
 | 8 | pending | TBD-boeing.md              | Boeing (BA) — "worst is over" vs the balance sheet [news] |
 | 9 | pending | TBD-intel-foundry.md       | Intel (INTC) — Washington's foundry bet the customers won't make [WSB] |
 | 10| pending | TBD-prediction-markets.md  | DraftKings/Kalshi — Wall St turned everything into a bet [WSB] |
