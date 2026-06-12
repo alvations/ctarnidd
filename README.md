@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Disney's Streaming Turned a Profit Just as Its Cable Empire Melts](2026-06-12T1630-disney.md) · _2026-06-12_
+
+Disney delivered the milestone Wall Street demanded: streaming is finally profitable (operating income +88% to
+$582M, margins into double digits). The stock popped, the turnaround looked complete. But look at what the
+streaming profit is *replacing*. For decades Disney's most profitable business was the cable bundle — the
+forced-subsidy machine where 100M households paid ~$10/month for ESPN, most of them subsidizing the few who
+watch. That empire is melting as cord-cutting drops pay-TV below 50% penetration, and the celebrated streaming
+profits (at a fraction of peak linear margins) are replacing it, not adding to it. The parks are the real engine;
+the media business is a graceful, profitable retreat dressed as a triumph. (Like Netflix, Disney also stopped
+reporting subscribers.) Fact-checked; see `audit/`.
+
+[![DIS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDIS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DIS&color=113ccf&cacheSeconds=300)](https://finance.yahoo.com/quote/DIS)
+[![NFLX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNFLX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NFLX&color=e50914&cacheSeconds=300)](https://finance.yahoo.com/quote/NFLX)
+[![WBD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWBD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WBD&color=0046ff&cacheSeconds=300)](https://finance.yahoo.com/quote/WBD)
+[![CMCSA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCMCSA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CMCSA&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/CMCSA)
+
 ### [Arm Is in Every Phone and Priced Like It's in Everything Else](2026-06-12T1605-arm.md) · _2026-06-12_
 
 Arm collects a royalty on nearly every smartphone chip on Earth — a toll on global computing at ~95% margins,

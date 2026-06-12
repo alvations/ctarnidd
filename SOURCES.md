@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Disney / media + streaming (article: "Disney's Streaming Turned a Profit Just as Its Cable Empire Melts" — 2026-06-12T1630-disney.md) [news]
+
+- ✅ [Disney Q2 2026 Revenue Rises 7%, Streaming Income Up 88% to $582 Million — Variety](https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/)
+- ✅ [Disney (DIS) grows Q2 2026 revenue, boosts streaming margins and EPS outlook (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/DIS/8-k-walt-disney-co-reports-material-event-0097bd347113.html)
+- ✅ [Disney (DIS) Heads Into Q2 FY2026 With Streaming Profit in Focus — Alphastreet](https://news.alphastreet.com/disney-dis-heads-into-q2-fy2026-with-streaming-profit-in-focus/amp/)
+- ✅ [Disney CFO Explains Why The Company Is Sticking With Linear TV — Deadline](https://deadline.com/2026/05/disney-sticking-with-linear-tv-networks-abc-espn-1236883089/)
+- ✅ [How Hollywood Is Managing Cable TV's Rapid Decline — TheWrap](https://www.thewrap.com/linear-cable-tv-decline-explained-analysis/)
+- ✅ [U.S. Cable TV Subscribers 2026: Ongoing Decline & Cord-Cutting Trends — CableCompare](https://www.cablecompare.com/blog/us-cable-subscriber-statistics)
+- 📎 [Will Disney Split ESPN and ABC From Its Streaming Businesses? CFO Says Don't Bet On It — Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/will-disney-sell-abc-espn-not-soon-1236587777/)
+
+---
+
 ## Topic: Arm Holdings / chip IP (article: "Arm Is in Every Phone and Priced Like It's in Everything Else" — 2026-06-12T1605-arm.md) [WSB]
 
 - ✅ [Arm (NASDAQ: ARM) delivers record FY 2026 results and launches AGI data center CPU (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/ARM/6-k-arm-holdings-plc-uk-current-report-foreign-issuer-7e9ca9ac7dda.html)
