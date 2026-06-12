@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [How UnitedHealth Went From Wall Street's Safest Bet to Its Most Feared Stock](2026-06-12T0855-unitedhealth.md) · _2026-06-12_
+
+For two decades UnitedHealth was the closest thing the market had to a sure thing. In a little over a year it
+lost ~half its value (>$600 → ~$310; ~$160B+ of market cap), replaced its CEO, suspended its own guidance, and
+disclosed DOJ criminal *and* civil probes into its Medicare billing. The engine: the medical cost ratio sat at a
+rock-steady ~82% for years, then blew out ~600bp to ~88–89%. And the usual fix — aggressive diagnosis coding via
+Optum's clinics and data — is the exact practice the DOJ is investigating. The moat and the alleged crime are the
+same thing. Still hugely profitable ($111.7B/qtr); a broken narrative, not a broken company. Fact-checked; see
+`audit/`.
+
+[![UNH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FUNH%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=UNH&color=002677&cacheSeconds=300)](https://finance.yahoo.com/quote/UNH)
+[![CI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CI&color=f47b20&cacheSeconds=300)](https://finance.yahoo.com/quote/CI)
+[![HUM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHUM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HUM&color=00843d&cacheSeconds=300)](https://finance.yahoo.com/quote/HUM)
+[![CVS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCVS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CVS&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/CVS)
+
 ### [Amazon Is Spending $200 Billion on AI. Its Free Cash Flow Just Fell 95%.](2026-06-12T0830-amazon-aws.md) · _2026-06-12_
 
 For twenty years Amazon could spend furiously and still mint cash. That broke: trailing free cash flow collapsed

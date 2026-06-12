@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: UnitedHealth / managed care (article: "How UnitedHealth Went From Wall Street's Safest Bet..." — 2026-06-12T0855-unitedhealth.md) [news]
+
+- ✅ [UnitedHealth Q1 2026 earnings release 8-K — SEC](https://www.sec.gov/Archives/edgar/data/731766/000073176626000121/uhgearningsreleaseq12026.htm)
+- ✅ [Why UnitedHealth Stock Sank 35% in 2025 — TIKR](https://www.tikr.com/blog/why-unitedhealth-stock-sank-35-in-2025)
+- ✅ [UnitedHealth (UNH) Market capitalization — companiesmarketcap](https://companiesmarketcap.com/united-health/marketcap/)
+- ✅ [UnitedHealth facing DOJ investigation over Medicare billing — CNBC](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
+- ✅ [UnitedHealth confirms federal investigation into its Medicare practices — CNN](https://www.cnn.com/2025/07/24/business/unitedhealth-investigation-doj)
+- ✅ [DOJ's criminal probe into UnitedHealth extends to Optum Rx, physician reimbursement — Fierce Healthcare](https://www.fiercehealthcare.com/payers/wsj-report-doj-interviewing-former-employees-about-medicare-billing-practices-unitedhealth)
+- ✅ [Killing of Brian Thompson — Wikipedia](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson)
+- 📎 [UnitedHealth Stock Is Up 47% From Its March 2026 Lows — TIKR](https://www.tikr.com/blog/unitedhealth-stock-is-up-47-from-its-march-2026-lows-heres-what-the-recovery-is-worth)
+
+---
+
 ## Topic: Amazon / AWS AI capex (article: "Amazon Is Spending $200 Billion on AI..." — 2026-06-12T0830-amazon-aws.md) [news]
 
 - ✅ [AWS earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html)
