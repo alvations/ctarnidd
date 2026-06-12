@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Prediction markets / Kalshi (article: "Kalshi Is Worth $22 Billion on a Legal Theory..." — 2026-06-12T1240-prediction-markets.md) [WSB]
+
+- ✅ [DraftKings Faces Growing Pressure As Prediction Markets Reshape Betting Outlook — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/draftkings-faces-growing-pressure-prediction-220719901.html)
+- ✅ [Kalshi — Wikipedia ($22B valuation)](https://en.wikipedia.org/wiki/Kalshi)
+- ✅ [Federal Appeals Court: CFTC Jurisdiction Over Sports Event Contracts Likely Exclusive — Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/04/federal-appeals-court-cftc-jurisdiction-over-sports-event-contracts)
+- ✅ [A Divided Third Circuit Holds That the CFTC Has Exclusive Jurisdiction — Paul, Weiss](https://www.paulweiss.com/insights/client-memos/a-divided-third-circuit-holds-that-the-cftc-has-exclusive-jurisdiction-over-sports-related-event-contracts)
+- ✅ [Kalshi's fight over prediction markets moves toward the Supreme Court — Fortune](https://fortune.com/2026/04/20/kalshi-supreme-court-sports-betting-prediction-markets/)
+- ✅ [Minnesota becomes first state to outlaw prediction markets, immediately sued by federal regulators — Minnesota Reformer](https://minnesotareformer.com/2026/05/19/minnesota-becomes-first-state-to-outlaw-prediction-markets-immediately-sued-by-federal-regulators/)
+- ✅ [Kalshi Sues Minnesota Over First-in-Nation Prediction Market Felony Ban — Bettors Insider](https://bettorsinsider.com/sports-betting/2026/05/29/kalshi-sues-minnesota-to-block-nations-first-prediction-market-felony-ban/)
+- ✅ [Kalshi Prediction Markets Challenge 25% of DraftKings' Sportsbook Revenue (FT analysis) — KuCoin](https://www.kucoin.com/news/flash/kalshi-prediction-markets-challenge-25-of-draftkings-sportsbook-revenue)
+- 📎 [Kalshi vs DraftKings vs Polymarket: Full 2026 Comparison — StockAlarm](https://pro.stockalarm.io/blog/draftkings-vs-kalshi-vs-polymarket)
+
+---
+
 ## Topic: Intel / foundry (article: "Washington Bet Billions on Intel's Comeback. Its Customers Haven't." — 2026-06-12T1215-intel-foundry.md) [WSB]
 
 - ✅ [Intel Foundry Services "Unsuccessful" at Attracting External Customers: 10-Q — TechPowerUp](https://www.techpowerup.com/339338/intel-foundry-services-unsuccessful-at-attracting-external-customers-10-q-filing)

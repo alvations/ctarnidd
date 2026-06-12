@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Kalshi Is Worth $22 Billion on a Legal Theory the Courts Haven't Settled.](2026-06-12T1240-prediction-markets.md) · _2026-06-12_
+
+Kalshi found a door around the entire state-by-state sports-betting system: by routing what is functionally a
+sports bet through the federal derivatives framework (CFTC "event contracts"), it offers betting nationwide —
+even in states where it's banned — without the licenses or taxes DraftKings pays. It's now worth ~$22B, sports is
+>90% of its volume, and it's quietly eating into the sportsbooks (better payouts, expanding into props). But the
+whole valuation rests on one contested proposition — that federal commodities law preempts state gambling law —
+which split the circuits (a divided Third Circuit sided with Kalshi; Massachusetts didn't), drew a first-in-nation
+felony ban from Minnesota, and is probably headed to the Supreme Court. A $22B company built on a question no
+court has finally answered. Fact-checked; see `audit/`.
+
+[![DKNG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDKNG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DKNG&color=53d337&cacheSeconds=300)](https://finance.yahoo.com/quote/DKNG)
+[![FLUT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FFLUT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=FLUT&color=1d3c34&cacheSeconds=300)](https://finance.yahoo.com/quote/FLUT)
+[![CME](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCME%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CME&color=00529b&cacheSeconds=300)](https://finance.yahoo.com/quote/CME)
+[![PENN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPENN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PENN&color=002b5c&cacheSeconds=300)](https://finance.yahoo.com/quote/PENN)
+
 ### [Washington Bet Billions on Intel's Comeback. Its Customers Haven't.](2026-06-12T1215-intel-foundry.md) · _2026-06-12_
 
 Intel's stock has tripled on the most impressive guest list in corporate America: the U.S. government took ~10%

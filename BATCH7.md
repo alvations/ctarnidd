@@ -17,7 +17,7 @@ passes AND the post-fact-check commit is pushed.
 | 7 | done | 2026-06-12T1125-hims-glp1.md           | Hims & Hers (HIMS) — billion-dollar biz on a closing GLP-1 loophole [Verge/CNET] |
 | 8 | done | 2026-06-12T1150-boeing.md              | Boeing (BA) — "worst is over" vs the balance sheet [news] |
 | 9 | done | 2026-06-12T1215-intel-foundry.md       | Intel (INTC) — Washington's foundry bet the customers won't make [WSB] |
-| 10| pending | TBD-prediction-markets.md  | DraftKings/Kalshi — Wall St turned everything into a bet [WSB] |
+| 10| done | 2026-06-12T1240-prediction-markets.md  | DraftKings/Kalshi — Wall St turned everything into a bet [WSB] |
 
 ## Special (user-requested, outside the 10)
 | S1 | done | 2026-06-12T1035-virgin-galactic-spacex.md | Virgin Galactic failure as a lens on how SpaceX could "fizzle" at its $1.75T IPO [news] |

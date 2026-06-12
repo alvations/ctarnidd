@@ -38,8 +38,9 @@ others in this series.
 
 First, take the competitive threat seriously, because it is not hypothetical — it is already showing up in the
 numbers, and it is the reason this matters to public-market investors who own the sportsbooks. By one Financial
-Times estimate, Kalshi's annualized sports revenue is running near $1.3 billion, a figure that approaches roughly
-a quarter of DraftKings' entire sportsbook revenue. Sports-related contracts now account for more than 90% of
+Times estimate, Kalshi's annualized sports business has grown to a scale that approaches roughly a quarter of
+DraftKings' entire sportsbook revenue — a remarkable figure for a company that, a couple of years ago, barely
+registered in sports at all. Sports-related contracts now account for more than 90% of
 activity on the Kalshi platform — meaning that whatever Kalshi's founders may say about forecasting elections or
 economic data, the business is, overwhelmingly, sports betting by another name.
 
