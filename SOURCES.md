@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Palo Alto Networks / cybersecurity (article: "Palo Alto's Dazzling Security Growth Is Bought..." — 2026-06-12T1825-palo-alto.md) [news]
+
+- ✅ [Palo Alto Networks Q3 2026 revenue jumps 31% (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/PANW/8-k-palo-alto-networks-inc-reports-material-event-59898cb1c33a.html)
+- ✅ [Palo Alto Networks (PANW) Q3 earnings 2026 — CNBC](https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html)
+- ✅ [PANW reports Q3 FY2026 revenue $3.00B; NGS ARR $8.1B — TradingView](https://www.tradingview.com/news/tradingview:1016dc06b5f5c:0-palo-alto-networks-reports-q3-fy2026-revenue-3-00b-next-gen-security-arr-8-1b/)
+- ✅ [The Platformization Pivot: Why CEO Nikesh Arora is Betting on PANW's Future — FinancialContent](https://markets.financialcontent.com/stocks/article/finterra-2026-3-31-the-platformization-pivot-why-ceo-nikesh-arora-is-betting-10m-on-palo-alto-networks-future)
+- ✅ [Palo Alto Networks: Platformization Pays Off — But Are Declining Gross Margins a Red Flag? — Substack](https://sergeycyw.substack.com/p/palo-alto-networks-platformization)
+- ✅ [Down 26% From All-Time Highs, Is Palo Alto Networks Stock A Good Buy In 2026? — TIKR](https://www.tikr.com/blog/down-18-from-all-time-highs-is-palo-alto-networks-nasdaq-panw-stock-a-good-buy-in-2026)
+- 📎 [Palo Alto Network Stock Hits Record Q3 Revenue of $3B (platformization 60% NGS ARR) — TIKR](https://www.tikr.com/blog/palo-alto-network-stock-hits-record-q3-revenue-of-3b-as-platformization-drives-60-ngs-arr-growth-heres-what-investors-need-to-know)
+
+---
+
 ## Topic: Snowflake / data cloud vs Databricks (article: "Snowflake Is Priced as an AI Winner While Databricks Wins the AI Budget" — 2026-06-12T1755-snowflake.md) [news]
 
 - ✅ [Snowflake Reports Q1 Fiscal 2027 Results — BusinessWire](https://www.businesswire.com/news/home/20260527027931/en/Snowflake-Reports-Financial-Results-for-the-First-Quarter-of-Fiscal-2027)

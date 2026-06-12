@@ -9,7 +9,7 @@ the 75 published — all fresh tickers. Crash-safe: never `done` until guard pas
 |---|--------|------|-------|
 | 1 | done | 2026-06-12T1725-marvell.md            | Marvell (MRVL) — #2 custom AI silicon, perpetual runner-up to Broadcom [YF/WSB] |
 | 2 | done | 2026-06-12T1755-snowflake.md          | Snowflake (SNOW) — priced as AI winner while Databricks wins the AI budget [news] |
-| 3 | pending | TBD-palo-alto.md          | Palo Alto Networks (PANW) — cyber "platformization" at a rich multiple [news] |
+| 3 | done | 2026-06-12T1825-palo-alto.md          | Palo Alto Networks (PANW) — platformization growth bought w/ free deals + M&A [news] |
 | 4 | pending | TBD-uber.md               | Uber (UBER) — finally profitable, Waymo/autonomy is the bypass [WSB] |
 | 5 | pending | TBD-shopify.md            | Shopify (SHOP) — e-commerce arms dealer priced for perfection [WSB] |
 | 6 | pending | TBD-doordash.md           | DoorDash (DASH) — delivery profit vs labor cost/regulation [CNET/news] |

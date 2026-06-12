@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Palo Alto's Dazzling Security Growth Is Bought With Free Deals and Acquisitions](2026-06-12T1825-palo-alto.md) · _2026-06-12_
+
+Palo Alto, the cybersecurity giant, just posted spectacular numbers: revenue +31%, "next-gen security" ARR +60%
+to $8.1B, an $18B backlog, and the market pays ~50× earnings for the "platformization" story. But look at how the
+growth is made. Roughly half the 60% ARR jump came from two big acquisitions (CyberArk + Chronosphere); organic
+ARR grew ~28%. And much of *that* is bought with platformization giveaways — reportedly free product periods and
+deep discounts to lure customers onto the full platform. The receipt shows up in one number: the gross margin,
+quietly falling for two years. ARR and RPO are the easiest metrics to inflate; revenue grew 24%, less than half
+the headline. Growth more purchased than earned, priced as the cleanest compounding in software. Fact-checked;
+see `audit/`.
+
+[![PANW](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPANW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PANW&color=fa582d&cacheSeconds=300)](https://finance.yahoo.com/quote/PANW)
+[![CRWD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWD&color=e01e2b&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWD)
+[![ZS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FZS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ZS&color=0067d5&cacheSeconds=300)](https://finance.yahoo.com/quote/ZS)
+[![FTNT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FFTNT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=FTNT&color=ee3124&cacheSeconds=300)](https://finance.yahoo.com/quote/FTNT)
+
 ### [Snowflake Is Priced as an AI Winner While Databricks Wins the AI Budget](2026-06-12T1755-snowflake.md) · _2026-06-12_
 
 Snowflake had a triumphant quarter — product revenue +34%, 70% of customers using AI features, the stock up ~30% —
