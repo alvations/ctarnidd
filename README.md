@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Block Reports Record Profit Margins and a $309 Million Loss in the Same Quarter](2026-06-12T2025-block.md) · _2026-06-12_
+
+Jack Dorsey's Block led its quarter with the numbers it wants you to watch: adjusted operating income up 56% to a
+record $728M, a record 25% margin, adjusted EPS up 52%. On the same income statement, prepared the way everyone
+else must, it reported a $172M operating loss and a $309M net loss — bridged by $852M of "restructuring and
+other" charges and a $173M loss on the bitcoin it holds on its balance sheet. A company is rarely both
+record-profitable and loss-making in one quarter. Underneath: Cash App (+38% gross profit) carries the story while
+Square decelerates to +9%; a bitcoin treasury bolts a founder's conviction — and its price swings — directly onto
+the earnings; and the profit exists mainly after the accountants are told which $900M not to count. A real,
+improving fintech whose valuation needs the adjusted number to be the true one. Fact-checked; see `audit/`.
+
+[![XYZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXYZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XYZ&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/XYZ)
+[![PYPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPYPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PYPL&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/PYPL)
+[![HOOD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHOOD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HOOD&color=00c805&cacheSeconds=300)](https://finance.yahoo.com/quote/HOOD)
+[![COIN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOIN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COIN&color=0052ff&cacheSeconds=300)](https://finance.yahoo.com/quote/COIN)
+
 ### [DoorDash Moves $31 Billion of Food a Quarter and Keeps Almost None of It](2026-06-12T1955-doordash.md) · _2026-06-12_
 
 DoorDash is the champion of American food delivery, and by the number it asks you to watch it is thriving: revenue

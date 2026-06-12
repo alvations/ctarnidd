@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Block / fintech adjusted-vs-GAAP + bitcoin (article: "Block Reports Record Profit Margins and a $309 Million Loss in the Same Quarter" — 2026-06-12T2025-block.md) [WSB]
+
+- ✅ [Block Q1 2026 Form 8-K press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001512673/000119312526212032/d132441dex991.htm)
+- ✅ [Block posts Q1 loss on restructuring, credit hits (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/XYZ/10-q-block-inc-quarterly-earnings-report-e5533e74dbf0.html)
+- ✅ [Block posts 27% Q1 gross profit growth, lifts 2026 (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/XYZ/8-k-block-inc-reports-material-event-e61e67c1e641.html)
+- ✅ [Block boosts 2026 outlook, cuts workforce 40%+ (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/XYZ/8-k-block-inc-reports-material-event-0d8318aad5f8.html)
+- ✅ [Dorsey's Block raises full-year guidance after 'strong' Q1, records $173M bitcoin remeasurement loss — The Block](https://www.theblock.co/post/400500/dorseys-block-raises-full-year-guidance-after-strong-q1-records-173-million-bitcoin-remeasurement-loss)
+- ✅ [Block Inc.'s Bitcoin bet backfires? Q1 loss hits $309M despite 27% YoY profit — AMBCrypto](https://ambcrypto.com/block-inc-s-bitcoin-bet-backfires-q1-loss-hits-309-mln-despite-27-yoy-profit/)
+- 📎 [Block (XYZ) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/08/block-xyz-q1-2026-earnings-transcript/)
+
+Fact-check: adj OI $728M (+56%, record 25% margin) / adj EPS $0.85 (+52%) vs GAAP $172M operating loss + $309M net
+loss; $852M restructuring (Feb 40%+ layoff, >10k→~6k) + $173M bitcoin remeasurement loss. Cash App GP +38%, Square
++9%. 28,355 BTC ~$2.2B; bitcoin rev −31%. No corrections.
+
+---
+
 ## Topic: DoorDash / food delivery economics (article: "DoorDash Moves $31 Billion of Food a Quarter and Keeps Almost None of It" — 2026-06-12T1955-doordash.md) [CNET/news]
 
 - ✅ [DoorDash Q1 2026 Form 8-K press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000036/proddashex991-pressrelease.htm)
