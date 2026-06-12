@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Vertiv Sells the Picks and Shovels of the AI Boom. It's Priced Like the Gold.](2026-06-12T0945-vertiv-cooling.md) · _2026-06-12_
+
+The oldest wisdom in a gold rush is to sell picks and shovels — it's supposed to be the *safe*, lower-multiple
+trade. Vertiv supplies the power and cooling for AI data centers, and its numbers are spectacular and real: a
+$15B backlog (+109%), orders up 252% in a quarter, EPS up 83%. But the stock trades near 50× forward earnings,
+more than double its industrial peers — so the safety that justifies a picks-and-shovels play is gone. And ~75%
+of revenue comes from a handful of hyperscalers making one correlated capex bet, so the "diversified diggers"
+story is illusory: the backlog *is* the hyperscaler capex a slowdown would cut. A superb company; a dangerous
+price. Fact-checked; see `audit/`.
+
+[![VRT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVRT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VRT&color=00aa4f&cacheSeconds=300)](https://finance.yahoo.com/quote/VRT)
+[![ETN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FETN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ETN&color=003c71&cacheSeconds=300)](https://finance.yahoo.com/quote/ETN)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![DLR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDLR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DLR&color=0072ce&cacheSeconds=300)](https://finance.yahoo.com/quote/DLR)
+
 ### [Alibaba Is Up 70% on AI. Investors Still Don't Own What They Think They Own.](2026-06-12T0920-alibaba-china.md) · _2026-06-12_
 
 Alibaba's AI comeback is real — cloud growing ~38%, Qwen everywhere, $15B in profit, $41B net cash, ~22x

@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Vertiv / data-center cooling (article: "Vertiv Sells the Picks and Shovels..." — 2026-06-12T0945-vertiv-cooling.md) [WSB/infra]
+
+- ✅ [Vertiv Q1 2026 earnings 8-K — SEC](https://www.sec.gov/Archives/edgar/data/0001674101/000162828026026379/q12026exhibit991vrt04222026.htm)
+- ✅ [Vertiv (VRT) Q1 2026 earnings summary — Quartr](https://quartr.com/events/vertiv-holdings-co-vrt-q1-2026_ozNHO05t)
+- ✅ [Data Center Demand Drove Vertiv's Earnings up 83% — Motley Fool](https://www.fool.com/investing/2026/05/01/data-center-demand-drove-vertivs-earnings-up-83-bu/)
+- ✅ [Think It's Too Late to Buy Vertiv? The $15 Billion Backlog — 24/7 Wall St](https://247wallst.com/investing/2026/04/10/think-its-too-late-to-buy-vertiv-heres-why-the-15-billion-backlog-says-otherwise/)
+- ✅ [Vertiv (VRT) Stock: Buy the Data Center Cooling Pure-Play? — HeyGoTrade](https://www.heygotrade.com/en/blog/vertiv-vrt-data-center-cooling-ai-2026/)
+- ✅ [Vertiv: The $15B Backlog, Liquid Cooling Dominance, and the AI Trade — Seeking Alpha](https://seekingalpha.com/article/4890719-vertiv-holdings-the-15-billion-backlog-liquid-cooling-dominance-and-the-ai-infrastructure-trade-wall-street-is-still-underpricing)
+- 📎 [VRTL: Vertiv's Q1 Earnings Put the AI Infrastructure Bull Case in Numbers — GraniteShares](https://graniteshares.substack.com/p/vrtl-vertivs-q1-earnings-put-the)
+
+---
+
 ## Topic: Alibaba / China discount (article: "Alibaba Is Up 70% on AI..." — 2026-06-12T0920-alibaba-china.md) [news]
 
 - ✅ [Alibaba Group Announces March Quarter 2026 and FY2026 Results — Morningstar/BusinessWire](https://www.morningstar.com/news/business-wire/20260512841182/alibaba-group-announces-march-quarter-2026-and-fiscal-year-2026-results)
