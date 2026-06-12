@@ -10,7 +10,7 @@ commit is pushed.
 |---|--------|------|-------|
 | 1 | done | 2026-06-12T1310-microsoft-openai.md     | Microsoft (MSFT) — the circular OpenAI/Azure entanglement [news] |
 | 2 | done | 2026-06-12T1335-netflix.md             | Netflix (NFLX) — won streaming, stopped reporting subscribers [news] |
-| 3 | pending | TBD-costco.md              | Costco (COST) — best retailer, never-cheap ~50x multiple [news] |
+| 3 | done | 2026-06-12T1400-costco.md              | Costco (COST) — best retailer, never-cheap ~50x multiple [news] |
 | 4 | pending | TBD-visa-mastercard.md     | Visa/Mastercard (V/MA) — stablecoins vs the payment toll booth [news] |
 | 5 | pending | TBD-spotify.md             | Spotify (SPOT) — finally profitable, but labels hold the leverage [news] |
 | 6 | pending | TBD-ge-aerospace.md        | GE Aerospace (GE) — priced for an engine that never needs repair [news] |

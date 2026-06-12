@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Costco Sells Groceries at Cost and Trades Like a Tech Stock](2026-06-12T1400-costco.md) · _2026-06-12_
+
+Costco is the best retailer in America — 148M cardholders, ~90%+ renewal, a membership fortress. It's also one of
+the market's strangest valuations. Its merchandise gross margin is ~11%, and after paying for warehouses and
+workers, selling you groceries produces almost no profit; the company's earnings come overwhelmingly from
+membership fees (~75–80% margin). It's a subscription business wearing a retailer's apron — and the market values
+this high-single-digit-growth warehouse club at ~50× earnings, more than double the S&P, a tech multiple with a
+~2% earnings yield and no margin of safety. A wonderful business at a price that has already banked decades of its
+wonderfulness — the Nifty Fifty lesson, rerun. Fact-checked; see `audit/`.
+
+[![COST](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOST%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COST&color=e31837&cacheSeconds=300)](https://finance.yahoo.com/quote/COST)
+[![WMT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWMT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WMT&color=0071ce&cacheSeconds=300)](https://finance.yahoo.com/quote/WMT)
+[![TGT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTGT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TGT&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TGT)
+[![BJ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBJ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BJ&color=ed1c24&cacheSeconds=300)](https://finance.yahoo.com/quote/BJ)
+
 ### [Netflix Stopped Reporting Subscribers Just as the Easy Growth Ran Out](2026-06-12T1335-netflix.md) · _2026-06-12_
 
 Netflix won the streaming wars — 325M+ subscribers, $50B+ revenue, 30%+ margins, $12.5B of free cash flow while

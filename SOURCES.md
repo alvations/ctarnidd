@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Costco / retail (article: "Costco Sells Groceries at Cost and Trades Like a Tech Stock" — 2026-06-12T1400-costco.md) [news]
+
+- ✅ [Costco Q3 2026 net sales up 11.6% to $69.2B — StockTitan](https://www.stocktitan.net/news/COST/costco-wholesale-corporation-reports-third-quarter-and-year-to-date-ya9rfbnhnzg9.html)
+- ✅ [Costco (COST) Q3 2026 earnings — CNBC](https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html)
+- ✅ [Costco Q3 2026 earnings beat on record gas sales, e-commerce — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/costco-q3-2026-earnings-beat-112218957.html)
+- ✅ [Why Costco's Membership Model Faces a Valuation Reckoning — TipRanks](https://www.tipranks.com/news/why-costcos-cost-membership-model-faces-a-valuation-reckoning)
+- ✅ [Costco's Earnings Beat vs. Valuation Concerns in 2026 — AInvest](https://www.ainvest.com/news/costco-earnings-beat-valuation-concerns-2026-assessing-premium-justification-2512/)
+- ✅ [Costco: The $70B Quarter, 92.2% Renewal Rate — Longyield](https://longyield.substack.com/p/costco-the-70b-quarter-922-renewal)
+- ✅ [Costco's Premium Valuation Makes More Sense Than You Think — Trefis](https://www.trefis.com/stock/cost/articles/600748/costcos-premium-valuation-makes-more-sense-than-you-think/2026-05-29)
+- 📎 [Costco (NASDAQ: COST) posts strong Q3 2026 results (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/COST/8-k-costco-wholesale-corp-new-reports-material-event-713ba2ee21b6.html)
+
+---
+
 ## Topic: Netflix / streaming (article: "Netflix Stopped Reporting Subscribers Just as the Easy Growth Ran Out" — 2026-06-12T1335-netflix.md) [news]
 
 - ✅ [Netflix (NFLX) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html)
