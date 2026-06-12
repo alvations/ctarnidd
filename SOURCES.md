@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: GE Aerospace / engines (article: "GE Aerospace Is Priced at 40x for a Cycle That Always Lands" — 2026-06-12T1515-ge-aerospace.md) [news]
+
+- ✅ [GE 1Q 2026 earnings release (8-K) — SEC](https://www.sec.gov/Archives/edgar/data/40545/000004054526000026/ge1q2026earningsrelease.htm)
+- ✅ [GE Aerospace Reports Strong Q1 2026 Earnings — GuruFocus](https://www.gurufocus.com/news/8807368/ge-aerospace-ge-reports-strong-q1-2026-earnings-with-increased-orders-and-revenue)
+- ✅ [GE Aerospace posts strong Q1 beat but margins narrow — MSN](https://www.msn.com/en-us/news/other/ge-aerospace-posts-strong-q1-beat-but-margins-narrow/gm-GMLE515228)
+- ✅ [GE Aerospace Forward PE Ratio: 37.25 | Modestly Overvalued — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/GE)
+- ✅ [GE Aerospace Price Prediction 2026: Can the $190B Backlog Defy Valuation Fears? — BingX](https://bingx.com/en/learn/article/ge-aerospace-ge-stock-outlook-and-price-prediction-is-ge-a-good-investment)
+- ✅ [GE Aerospace Q1 2026: Revenue Up 29%, Second Half Is Where It Gets Interesting — TIKR](https://www.tikr.com/blog/ge-aerospace-q1-2026-revenue-up-29-but-the-second-half-is-where-it-gets-interesting)
+- 📎 [GE Aerospace Q1 2026 Earnings: Conflict in the Middle East Overshadows Strong Start — Leeham News](https://leehamnews.com/2026/04/21/ge-aerospace-q1-2026-earnings-conflict-in-the-middle-east-overshadows-strong-start-to-2026/)
+
+---
+
 ## Topic: Spotify / music streaming (article: "Spotify Finally Makes Real Money, and the Labels Take Most of It" — 2026-06-12T1450-spotify.md) [news]
 
 - ✅ [Spotify Q1 2026 revenue €4.53B, margins rise (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/SPOT/6-k-spotify-technology-s-a-current-report-foreign-issuer-2cb5cf1afd06.html)

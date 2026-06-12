@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [GE Aerospace Is Priced at 40x for a Cycle That Always Lands](2026-06-12T1515-ge-aerospace.md) · _2026-06-12_
+
+GE Aerospace is the jewel that emerged from GE's breakup — a best-in-class engine maker with a gorgeous
+razor-and-blades model: sell engines near cost, then earn high margins servicing them for thirty years, on a
+$170B+ backlog. The business is magnificent. The stock trades at ~40× earnings, 20%+ above its already-rich
+aerospace peers — pricing the super-cycle as if cycles were abolished. But aviation is deeply cyclical, the
+margin actually *fell* 200bp this quarter because the booming new-engine deliveries are the low-margin part
+(profit comes later), and GE's delivery growth is hostage to Boeing's fragile 737 MAX/777X production. A superb,
+cyclical business priced for permanent clear skies. Fact-checked; see `audit/`.
+
+[![GE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GE&color=1a1a6c&cacheSeconds=300)](https://finance.yahoo.com/quote/GE)
+[![RTX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRTX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RTX&color=d6001c&cacheSeconds=300)](https://finance.yahoo.com/quote/RTX)
+[![BA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BA&color=0039a6&cacheSeconds=300)](https://finance.yahoo.com/quote/BA)
+[![HON](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHON%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HON&color=e2231a&cacheSeconds=300)](https://finance.yahoo.com/quote/HON)
+
 ### [Spotify Finally Makes Real Money, and the Labels Take Most of It](2026-06-12T1450-spotify.md) · _2026-06-12_
 
 After fifteen years as the company that grew forever and never earned a profit, Spotify finally turned the

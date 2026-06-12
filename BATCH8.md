@@ -13,7 +13,7 @@ commit is pushed.
 | 3 | done | 2026-06-12T1400-costco.md              | Costco (COST) — best retailer, never-cheap ~50x multiple [news] |
 | 4 | done | 2026-06-12T1425-visa-mastercard.md     | Visa/Mastercard (V/MA) — stablecoins vs the payment toll booth [news] |
 | 5 | done | 2026-06-12T1450-spotify.md             | Spotify (SPOT) — finally profitable, but labels hold the leverage [news] |
-| 6 | pending | TBD-ge-aerospace.md        | GE Aerospace (GE) — priced for an engine that never needs repair [news] |
+| 6 | done | 2026-06-12T1515-ge-aerospace.md        | GE Aerospace (GE) — cyclical priced as if the cycle were abolished [news] |
 | 7 | pending | TBD-chime.md               | Chime (CHYM) — "free" banking on interchange dependence [CNET/fintech] |
 | 8 | pending | TBD-arm.md                 | Arm Holdings (ARM) — in every phone, priced like it's in everything [WSB] |
 | 9 | pending | TBD-disney.md              | Disney (DIS) — streaming profit vs the cable empire burning [news] |
