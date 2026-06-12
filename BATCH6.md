@@ -14,7 +14,7 @@ forensic-financial house voice. Deduped against the 44 published articles. Same 
 | 6 | done | 2026-06-11T1145-the-other-chip.md                 | AMD MI400 — perpetual #2 to Nvidia [WSB] |
 | 7 | done | 2026-06-11T1210-the-rake.md        | Coinbase (COIN) — the crypto casino's stock [CNET] |
 | 8 | done | 2026-06-11T1235-the-pin.md                        | AI hardware/product graveyard: Humane/Rabbit/io [Verge/Gizmodo] |
-| 9 | pending | TBD-the-decay.md                      | Leveraged single-stock ETFs (NVDL/MSTU/TSLL) volatility decay [WSB] |
+| 9 | done | 2026-06-11T1300-the-decay.md                      | Leveraged single-stock ETFs (NVDL/MSTU/TSLL) volatility decay [WSB] |
 | 10| pending | TBD-signal-from-space.md             | AST SpaceMobile / Rocket Lab — space stocks [WSB] |
 
 ## Per-article workflow

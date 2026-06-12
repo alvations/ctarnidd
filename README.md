@@ -5,6 +5,20 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Decay](2026-06-11T1300-the-decay.md) · _2026-06-11_
+
+A stock rose 48% in a year; the 2x ETF tracking it handed losses to the people who bought it. Not a glitch —
+volatility decay, the math of daily-reset leverage that forces the fund to buy high and sell low every single
+day. NVDL bled ~$2.4B of outflows while Nvidia *soared*; MSTU (2x MicroStrategy) fell over 90%. Regulators say
+hold these for no more than a day; the issuers brand them by ticker — NVDL, TSLL, MSTU — to summon long-term
+conviction, the exact behavior the structure punishes. The house wins both doors: bull fund and bear fund both
+decay, both pay ~1% fees. 400 funds, $37.5B, stalled — churning, not growing. Fact-checked; see `audit/`.
+
+[![NVDL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDL&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDL)
+[![TSLL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSLL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSLL&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSLL)
+[![MSTU](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSTU%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSTU&color=f7931a&cacheSeconds=300)](https://finance.yahoo.com/quote/MSTU)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+
 ### [The Pin](2026-06-11T1235-the-pin.md) · _2026-06-11_
 
 Humane raised $230M to build an AI pin, shipped fewer than 10,000, was returned more often than sold, and sold

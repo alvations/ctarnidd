@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Leveraged single-stock ETFs (article: "The Decay" — 2026-06-11T1300-the-decay.md) [WSB]
+
+- ✅ [NVDL ETF Explained: Leveraged Nvidia, Decay Risk, and Who Should Actually Own It — etf.com](https://www.etf.com/sections/news/nvdl-etf-explained-leveraged-nvidia-decay-risk-and-who-should-actually-own-it)
+- ✅ [Single-Stock ETFs Boom, But Assets Stall — etf.com](https://www.etf.com/sections/features/single-stock-etfs-boom-assets-stall)
+- ✅ [NVDL Returned 172% in One Year — etf.com](https://www.etf.com/sections/news/nvdl-returned-172-one-year-new-era-leveraged-etfs-working)
+- ✅ [Leveraged Single Stock ETFs: Understanding Volatility Decay — BHSEC Law](https://bhseclaw.com/blog/leveraged-single-stock-etfs-volatility-decay/)
+- ✅ [Updated Investor Bulletin: Leveraged and Inverse ETFs — Investor.gov / SEC](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec)
+- ✅ [Statement on Single-Stock ETFs (Crenshaw, 2022) — SEC](https://www.sec.gov/newsroom/speeches-statements/crenshaw-single-stock-etfs-20220711)
+- ✅ [Daily TSLA Bull and Bear Leveraged Single-Stock ETFs — Direxion](https://www.direxion.com/product/daily-tsla-bull-and-bear-leveraged-single-stock-etfs)
+- ✅ [NVDL: Large Outflows Detected at ETF — Nasdaq](https://www.nasdaq.com/articles/nvdl-large-outflows-detected-etf-1)
+- 📎 [Is the Explosion of Single-Stock ETFs an Opportunity or a Danger? — Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/NVDL-Q/pressreleases/1070454/is-the-explosion-of-single-stock-etfs-an-opportunity-or-a-danger/)
+
+---
+
 ## Topic: AI hardware graveyard (article: "The Pin" — 2026-06-11T1235-the-pin.md) [Verge/Gizmodo]
 
 - ✅ [Humane's AI Pin is dead, as HP buys startup's assets for $116M — TechCrunch](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/)
