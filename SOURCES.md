@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Arm Holdings / chip IP (article: "Arm Is in Every Phone and Priced Like It's in Everything Else" — 2026-06-12T1605-arm.md) [WSB]
+
+- ✅ [Arm (NASDAQ: ARM) delivers record FY 2026 results and launches AGI data center CPU (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/ARM/6-k-arm-holdings-plc-uk-current-report-foreign-issuer-7e9ca9ac7dda.html)
+- ✅ [Arm Holdings Unveils Record-Breaking Q4 and Full-Year 2026 Results — MLQ](https://mlq.ai/news/arm-holdings-unveils-record-breaking-q4-and-full-year-2026-financial-results/)
+- ✅ [How to Value ARM: A Royalty Business Trading Like a Growth Stock — TIKR](https://www.tikr.com/blog/how-to-value-arm-a-royalty-business-trading-like-a-growth-stock)
+- ✅ [ARM HOLDINGS Forward PE Ratio: 190.54 — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/ARM)
+- ✅ [Qualcomm Achieves Complete Victory Over Arm in Litigation — Yahoo Finance / Qualcomm](https://finance.yahoo.com/news/qualcomm-achieves-complete-victory-over-011200178.html)
+- ✅ [Arm is releasing the first in-house chip in its 35-year history — TechCrunch](https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/)
+- ✅ [Arm moves beyond IP with AGI CPU silicon — 136-core data center chip, Meta lead partner — Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/arm-launches-its-first-data-center-cpu)
+- 📎 [ByteDance and Oracle are using Arm's in-house AGI CPU — The Next Web](https://thenextweb.com/news/arm-agi-cpu-bytedance-oracle-data-centre)
+
+---
+
 ## Topic: Chime / neobank (article: "Chime's Free Banking Runs on a Loophole, Not a Moat" — 2026-06-12T1540-chime.md) [CNET/fintech]
 
 - ✅ [Chime (CHYM) Reports Q1 2026 Revenue of $647M, First GAAP Profitable Quarter — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/chime-chym-reports-q1-2026-112352459.html)

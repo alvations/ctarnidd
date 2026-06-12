@@ -15,7 +15,7 @@ commit is pushed.
 | 5 | done | 2026-06-12T1450-spotify.md             | Spotify (SPOT) — finally profitable, but labels hold the leverage [news] |
 | 6 | done | 2026-06-12T1515-ge-aerospace.md        | GE Aerospace (GE) — cyclical priced as if the cycle were abolished [news] |
 | 7 | done | 2026-06-12T1540-chime.md               | Chime (CHYM) — "free" banking on a Durbin-exempt interchange loophole [CNET/fintech] |
-| 8 | pending | TBD-arm.md                 | Arm Holdings (ARM) — in every phone, priced like it's in everything [WSB] |
+| 8 | done | 2026-06-12T1605-arm.md                 | Arm Holdings (ARM) — in every phone, priced like it's in everything [WSB] |
 | 9 | pending | TBD-disney.md              | Disney (DIS) — streaming profit vs the cable empire burning [news] |
 | 10| pending | TBD-salesforce.md          | Salesforce (CRM) — selling AI agents that cannibalize its own seats [WSB/tech] |
 

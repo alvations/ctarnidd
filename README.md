@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Arm Is in Every Phone and Priced Like It's in Everything Else](2026-06-12T1605-arm.md) · _2026-06-12_
+
+Arm collects a royalty on nearly every smartphone chip on Earth — a toll on global computing at ~95% margins,
+now riding the AI wave into the data center (FY26 revenue $4.92B, data-center royalty more than doubled). A
+wonderful business. But the stock trades at well over 100× forward earnings — at times near 180× — on royalty
+growth of ~20%. The certain part (smartphones) is mature; the explosive part the multiple really prices (AI/data
+center) is contested. And Arm just abandoned the neutrality that was its moat: it launched its own AGI CPU,
+competing with the very customers (Qualcomm, Nvidia, the hyperscalers) whose royalties are its lifeblood — having
+already sued Qualcomm and *lost*. Meanwhile RISC-V is the free, royalty-skipping bypass being paved alongside the
+toll road. Fact-checked; see `audit/`.
+
+[![ARM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FARM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ARM&color=0091bd&cacheSeconds=300)](https://finance.yahoo.com/quote/ARM)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![QCOM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQCOM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QCOM&color=3253dc&cacheSeconds=300)](https://finance.yahoo.com/quote/QCOM)
+[![SFTBY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSFTBY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SFTBY&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/SFTBY)
+
 ### [Chime's Free Banking Runs on a Loophole, Not a Moat](2026-06-12T1540-chime.md) · _2026-06-12_
 
 One year after its IPO, Chime — the largest US neobank, 10M+ members — just turned its first profit. The product
