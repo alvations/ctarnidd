@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Marvell / custom AI silicon (article: "Marvell Trades Richer Than Broadcom to Be the Runner-Up..." — 2026-06-12T1725-marvell.md) [YF/WSB]
+
+- ✅ [Marvell Q1 FY2027 results (IR) — Marvell](https://investor.marvell.com/news-events/press-releases/detail/95/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2026-financial-results)
+- ✅ [Marvell Q1 2027 earnings summary — Quartr](https://quartr.com/events/marvell-technology-inc-mrvl-q1-2027_3YyakIp1)
+- ✅ [Marvell posts record Q1 FY27 revenue, lifts outlook (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/MRVL/8-k-marvell-technology-inc-reports-material-event-c6f040475efc.html)
+- ✅ [Marvell vs. Broadcom: Which Custom AI Chip Stock Has More Upside in 2026? — Motley Fool](https://www.fool.com/investing/2026/03/30/marvell-vs-broadcom-which-custom-artificial-intell/)
+- ✅ [Broadcom vs Marvell: Custom AI Silicon Battle 2026 — HeyGoTrade](https://www.heygotrade.com/en/blog/broadcom-vs-marvell-custom-ai-silicon-battle-2026/)
+- ✅ [Marvell Q1 Revenue Reaches Record $2.42B, Data Center 'On Fire' — KuCoin](https://www.kucoin.com/news/flash/marvell-q1-revenue-hits-record-2-42b-data-center-business-on-fire)
+- ✅ [The AI Chip Design Partner Duopoly: Broadcom & Marvell — Hashrate Index](https://hashrateindex.com/blog/design-partners-ai-asic-market-part-2/)
+- 📎 [MRVL Q1 Deep Dive: Data Center Growth and AI Demand Drive Outlook Upgrade — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/mrvl-q1-deep-dive-data-093427192.html)
+
+---
+
 ## Topic: Salesforce / AI agents vs per-seat SaaS (article: "Salesforce Is Selling the AI That Could Eat Its Own Per-Seat Business" — 2026-06-12T1655-salesforce.md) [WSB/tech]
 
 - ✅ [Salesforce Delivers Record First Quarter Fiscal 2027 Results — Salesforce IR](https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/)

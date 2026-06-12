@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Marvell Trades Richer Than Broadcom to Be the Runner-Up in Custom AI Chips](2026-06-12T1725-marvell.md) · _2026-06-12_
+
+The hyperscalers design their own AI chips to escape Nvidia, and they hire two firms at scale to help: Broadcom,
+the leader with 70%+ of the custom-silicon market, and Marvell, the runner-up targeting ~20%. Marvell is a genuinely
+great, fast-growing business — data-center revenue more than doubled, Nvidia just put in $2B. But here's the odd
+part: despite less than a third of the leader's share, Marvell trades at a *higher* earnings multiple than
+Broadcom — the market charging a premium for second place. And the custom-silicon business is fragile in ways the
+premium ignores: revenue concentrated in a few hyperscaler programs the customers are learning to build
+themselves, a shared TSMC chokepoint, and a capex cycle that will eventually turn. Paying up for the runner-up.
+Fact-checked; see `audit/`.
+
+[![MRVL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMRVL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MRVL&color=0098db&cacheSeconds=300)](https://finance.yahoo.com/quote/MRVL)
+[![AVGO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAVGO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AVGO&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/AVGO)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![TSM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSM&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSM)
+
 ### [Salesforce Is Selling the AI That Could Eat Its Own Per-Seat Business](2026-06-12T1655-salesforce.md) · _2026-06-12_
 
 For two decades software ran on per-seat pricing — you pay per human who logs in. Salesforce built a ~$40B empire
