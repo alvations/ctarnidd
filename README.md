@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Uber Finally Turned a Profit, Just as the Cars Learned to Drive Themselves](2026-06-12T1855-uber.md) · _2026-06-12_
+
+Uber spent 15 years proving it could make money, and it finally has — $2.3B of quarterly free cash flow, bookings
++21%, 50M subscribers, the stock re-rated into a cash machine. But the victory arrives as the ground shifts. Uber
+owns neither cars nor drivers; its moat is the marketplace that matches them. Autonomy replaces the infinite,
+powerless, capital-free pool of human drivers with a handful of powerful AV operators who own their fleets — and
+can choose to sell rides through their *own* apps. Tesla already does; Waymo hedges with Waymo One. Uber insists
+it's the indispensable demand layer, yet is pouring $10B+ into owning robotaxi supply itself — a hedge that admits
+the partnership model is fragile. The profit is real; whether the moat survives self-driving is wide open, and the
+price assumes it's settled. Fact-checked; see `audit/`.
+
+[![UBER](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FUBER%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=UBER&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/UBER)
+[![LYFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLYFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LYFT&color=ea0b8c&cacheSeconds=300)](https://finance.yahoo.com/quote/LYFT)
+[![TSLA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTSLA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TSLA&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TSLA)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+
 ### [Palo Alto's Dazzling Security Growth Is Bought With Free Deals and Acquisitions](2026-06-12T1825-palo-alto.md) · _2026-06-12_
 
 Palo Alto, the cybersecurity giant, just posted spectacular numbers: revenue +31%, "next-gen security" ARR +60%

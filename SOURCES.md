@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Uber / ride-hailing + autonomy (article: "Uber Finally Turned a Profit, Just as the Cars Learned to Drive Themselves" — 2026-06-12T1855-uber.md) [WSB]
+
+- ✅ [Uber Q1 2026 revenue rises to $13.2B, profits grow (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/UBER/8-k-uber-technologies-inc-reports-material-event-750108a38376.html)
+- ✅ [Uber (UBER) 2026 Q1 earnings — CNBC](https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html)
+- ✅ [Uber Q1 2026: bookings surge, autonomous trips grow 10x, Uber One 50M — The Next Web](https://thenextweb.com/news/uber-q1-2026-earnings-autonomous-demand-acceleration)
+- ✅ [Skeptics Fear Autonomous Vehicles Will Destroy Uber. Here's Why They May Be Wrong. — Motley Fool](https://www.fool.com/investing/2026/03/20/skeptics-fear-autonomous-vehicles-will-destroy-ube/)
+- ✅ [Uber turns on Waymo as it pours $10B+ into owning robotaxi alternatives — Electrek](https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/)
+- ✅ [Uber and Waymo roll out robotaxis in Atlanta as competition heats up with Tesla — Fortune](https://fortune.com/2025/06/24/uber-waymo-robotaxi-tesla-musk-atlanta/)
+- ✅ [Tesla Robotaxi app — Gizmodo](https://gizmodo.com/download/tesla-robotaxi)
+- 📎 [Uber Q1 2026 Earnings: Revenue Beats, Non-GAAP EPS Up 44% — TIKR](https://www.tikr.com/blog/uber-q1-2026-earnings-revenue-beats-non-gaap-eps-up-44-whats-next)
+
+---
+
 ## Topic: Palo Alto Networks / cybersecurity (article: "Palo Alto's Dazzling Security Growth Is Bought..." — 2026-06-12T1825-palo-alto.md) [news]
 
 - ✅ [Palo Alto Networks Q3 2026 revenue jumps 31% (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/PANW/8-k-palo-alto-networks-inc-reports-material-event-59898cb1c33a.html)
