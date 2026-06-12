@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Amazon / AWS AI capex (article: "Amazon Is Spending $200 Billion on AI..." — 2026-06-12T0830-amazon-aws.md) [news]
+
+- ✅ [AWS earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html)
+- ✅ [Amazon Q1 2026 earnings beat as AWS growth hits 15-quarter high — Quartz](https://qz.com/amazon-q1-2026-earnings-aws-cloud-growth-042926)
+- ✅ [Amazon's Free Cash Flow Just Collapsed From $26B to $1.2B — Yahoo Finance / 247WallSt](https://finance.yahoo.com/markets/stocks/articles/amazon-free-cash-flow-just-142921343.html)
+- ✅ [Amazon Q1 2026 slides: AWS surges 28%, record margins offset by capex — Investing.com](https://www.investing.com/news/company-news/amazon-q1-2026-slides-aws-surges-28-record-margins-offset-by-capex-93CH-4647447)
+- ✅ [Amazon Q1 FY2026: AWS Hits Escape Velocity While CapEx Overwhelms FCF — MLQ](https://mlq.ai/research/amazon-q1-fy2026-aws-hits-escape-velocity-while-capex-overwhelms-free-cash-flow/)
+- ✅ [Amazon beat Q1 2026 on every line; the chip business inside AWS — TIKR](https://www.tikr.com/blog/amazon-beat-q1-2026-earnings-on-every-line-the-bigger-story-is-the-chip-business-inside-aws)
+- ✅ [Amazon Q1 revenue $181.5B; $16.8B Anthropic gain inflates net income as FCF collapses 95% — TNW](https://thenextweb.com/news/amazon-q1-2026-anthropic-aws-earnings)
+- 📎 [Cloud Computing Market Share 2026: AWS, Azure, Google Cloud — Programming Helper](https://www.programming-helper.com/tech/cloud-computing-market-share-2026-aws-azure-google-cloud-analysis)
+
+---
+
 ## Topic: AST SpaceMobile / space stocks (article: "Signal From Space" — 2026-06-11T1325-signal-from-space.md) [WSB]
 
 - ✅ [AST SpaceMobile (ASTS) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/11/ast-spacemobile-asts-q1-2026-earnings-transcript/)
