@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Virgin Galactic vs SpaceX (SPECIAL) (article: "Virgin Galactic Shows How a Space Dream Dies..." — 2026-06-12T1035-virgin-galactic-spacex.md) [news]
+
+- ✅ [SpaceX blasts off with a record-breaking $75 billion IPO — NPR](https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk)
+- ✅ [SpaceX raises $75 billion in record-setting IPO ahead of Nasdaq debut — CNBC](https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html)
+- ✅ [SpaceX's record IPO has Wall Street torn — Fortune](https://fortune.com/2026/06/11/spacex-ipo-largest-history-wall-street-analysts-split-valuation-debate/)
+- ✅ [Starlink just quietly became SpaceX's only profitable business (69%) — Briefs.co](https://www.briefs.co/news/starlink-just-quietly-became-spacexs-only-profitable-business/)
+- ✅ [SpaceX Starship — Wikipedia (development cost/history)](https://en.wikipedia.org/wiki/SpaceX_Starship)
+- ✅ [Musk's $1.8 trillion SpaceX IPO could be 'highly undesirable' for some — Al Jazeera](https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some)
+- ✅ [Why Virgin Galactic Stock Crashed Today — Motley Fool](https://www.fool.com/investing/2025/12/09/why-virgin-galactic-stock-crashed-today/)
+- ✅ [Virgin Galactic Shares Slide After Debt Redemption Plan Involving New Stock Issuance — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-shares-slide-debt-133902682.html)
+- 📎 [SpaceX is heavily reliant on Starlink for growth and profit ahead of Nasdaq listing — CNBC](https://www.cnbc.com/2026/05/21/spacex-starlink-growth-profit-nasdaq-ipo.html)
+
+---
+
 ## Topic: Carvana / used cars + subprime auto (article: "Carvana Came Back From the Dead..." — 2026-06-12T1010-carvana.md) [WSB]
 
 - ✅ [Carvana (CVNA) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/04/29/carvana-cvna-earnings-q1-2026.html)

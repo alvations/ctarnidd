@@ -19,6 +19,9 @@ passes AND the post-fact-check commit is pushed.
 | 9 | pending | TBD-intel-foundry.md       | Intel (INTC) — Washington's foundry bet the customers won't make [WSB] |
 | 10| pending | TBD-prediction-markets.md  | DraftKings/Kalshi — Wall St turned everything into a bet [WSB] |
 
+## Special (user-requested, outside the 10)
+| S1 | done | 2026-06-12T1035-virgin-galactic-spacex.md | Virgin Galactic failure as a lens on how SpaceX could "fizzle" at its $1.75T IPO [news] |
+
 ## Per-article workflow
 1. Research (2-3 web searches) → write (2,900+ prose words), editorial-only, date-stamped filename, 4 live badges.
 2. `bash scripts/guard_article.sh <file>` MUST pass. Drafts usually need 1-3 extra sections.

@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Virgin Galactic Shows How a Space Dream Dies. SpaceX Just IPO'd at $1.75 Trillion.](2026-06-12T1035-virgin-galactic-spacex.md) · _2026-06-12_
+
+Space companies don't usually die in fireballs — they die in spreadsheets, as the promise slips, the cash burns,
+and the share count climbs. Virgin Galactic is the textbook case: it sold mass space tourism, raised billions,
+and now books under $2M of annual revenue, halts its own flights, and dilutes shareholders under a going-concern
+warning. On the day this was written, SpaceX completed the largest IPO in history — $75B raised at $1.75T (~90×
+its $18.7B revenue). SpaceX is a vastly better, real, profitable, dominant company — *not* Virgin Galactic. But
+that price prices the *future* — Starship (its Delta-class), Starlink-as-utility (69% of revenue), Mars — as
+near-certain, the same structure of bet that hurt VG holders, in an industry whose dreams always run late.
+Fact-checked; see `audit/`.
+
+[![SPCX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPCX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPCX&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/SPCX)
+[![SPCE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSPCE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SPCE&color=e10600&cacheSeconds=300)](https://finance.yahoo.com/quote/SPCE)
+[![RKLB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRKLB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RKLB&color=0a2342&cacheSeconds=300)](https://finance.yahoo.com/quote/RKLB)
+[![ASTS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FASTS%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ASTS&color=1a1a4e&cacheSeconds=300)](https://finance.yahoo.com/quote/ASTS)
+
 ### [Carvana Came Back From the Dead. Its Balance Sheet Didn't.](2026-06-12T1010-carvana.md) · _2026-06-12_
 
 In 2022 Carvana was a corpse — stock down ~99% (from ~$370 to under $4), bankruptcy looming. Then it rose more
