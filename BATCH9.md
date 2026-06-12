@@ -14,7 +14,7 @@ the 75 published — all fresh tickers. Crash-safe: never `done` until guard pas
 | 5 | done | 2026-06-12T1925-shopify.md            | Shopify (SHOP) — ~100x bet on consumer spending, no room for a recession [WSB] |
 | 6 | done | 2026-06-12T1955-doordash.md          | DoorDash (DASH) — moves $31B of food, keeps ~0.6%; profit+FCF falling [CNET/news] |
 | 7 | done | 2026-06-12T2025-block.md             | Block (XYZ) — record adj margins + a $309M GAAP loss; bitcoin distraction [WSB] |
-| 8 | pending | TBD-walmart.md            | Walmart (WMT) — retail giant rerated as an ad-tech play at a tech multiple [news] |
+| 8 | done | 2026-06-12T2055-walmart.md           | Walmart (WMT) — tech multiple on a fast-growing ad third; 2/3 still retail [news] |
 | 9 | pending | TBD-cloudflare.md         | Cloudflare (NET) — internet infra at ~25-30x sales, priced for flawless growth [WSB] |
 | 10| pending | TBD-private-credit.md     | Blackstone/Apollo — private credit goes retail, the illiquidity mismatch [news] |
 

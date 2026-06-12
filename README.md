@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Walmart Is Priced Like an Ad Company While Two-Thirds of Its Profit Is Still Retail](2026-06-12T2055-walmart.md) · _2026-06-12_
+
+The market has re-narrated Walmart from low-margin grocer to high-margin platform, awarding it a technology-like
+multiple on the strength of a fast-growing advertising network (ad revenue +30%+ globally, Walmart Connect US
++44%) and a swelling membership business. The story is real — those high-margin streams now contribute about a
+third of operating income. But a third is not the whole: the other two-thirds is still the thin-margin, ~4%-comp
+business of selling groceries, and the consolidated company grew adjusted operating income just ~5% in constant
+currency. Retail media is a ceilinged margin layer riding on store traffic, not an infinite-TAM ad platform; the
+re-rating — not earnings — did the heavy lifting, and re-ratings don't repeat. A wonderful company priced as
+though the fast-growing third were all of Walmart. Fact-checked; see `audit/`.
+
+[![WMT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWMT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WMT&color=0071ce&cacheSeconds=300)](https://finance.yahoo.com/quote/WMT)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![TGT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTGT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TGT&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/TGT)
+[![COST](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOST%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COST&color=e32636&cacheSeconds=300)](https://finance.yahoo.com/quote/COST)
+
 ### [Block Reports Record Profit Margins and a $309 Million Loss in the Same Quarter](2026-06-12T2025-block.md) · _2026-06-12_
 
 Jack Dorsey's Block led its quarter with the numbers it wants you to watch: adjusted operating income up 56% to a

@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Walmart / retail-media re-rating (article: "Walmart Is Priced Like an Ad Company While Two-Thirds of Its Profit Is Still Retail" — 2026-06-12T2055-walmart.md) [news]
+
+- ✅ [Walmart reports first quarter results (FY27 Q1 8-K earnings release, SEC)](https://www.sec.gov/Archives/edgar/data/104169/000010416926000095/earningsreleasefy27q1.htm)
+- ✅ [Walmart Releases Q1 FY27 Earnings — Walmart Corporate](https://corporate.walmart.com/news/2026/05/21/walmart-releases-q1-fy27-earnings)
+- ✅ [Walmart Q1 FY27 results and FY27 outlook held steady (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/WMT/8-k-walmart-inc-reports-material-event-9bc88358c87c.html)
+- ✅ [Walmart (WMT) earnings Q1 2027 — CNBC](https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html)
+- ✅ [Walmart online sales in Q1 grow more than 20% for fifth straight quarter — DigitalCommerce360](https://www.digitalcommerce360.com/article/walmart-online-sales/)
+- ✅ [Walmart Revenue Hits $177.75B but the Operating Margin Story Is Complicated — TIKR](https://www.tikr.com/blog/walmart-revenue-hits-177-75b-in-q1-fy2027-but-the-operating-margin-story-is-complicated)
+- 📎 [US' Walmart's Q1 revenue rises 7.3% on e-commerce strength — Fibre2Fashion](https://www.fibre2fashion.com/news/retail-industry/us-walmart-s-q1-revenue-rises-7-3-on-e-commerce-strength-310494-newsdetails.htm)
+
+Fact-check: revenue $177.75B (+7.3%); US comps +4.1%; adj operating income +5.1% cc to $7.5B; advertising +30%+
+globally / Walmart Connect US +44% ex-VIZIO; membership fee revenue +17%; online +26%; ad+membership ≈ 1/3 of
+operating income. No corrections; ad rate stated conservatively; no exact P/E asserted.
+
+---
+
 ## Topic: Block / fintech adjusted-vs-GAAP + bitcoin (article: "Block Reports Record Profit Margins and a $309 Million Loss in the Same Quarter" — 2026-06-12T2025-block.md) [WSB]
 
 - ✅ [Block Q1 2026 Form 8-K press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001512673/000119312526212032/d132441dex991.htm)
