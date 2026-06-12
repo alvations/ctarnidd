@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: AI hardware graveyard (article: "The Pin" — 2026-06-11T1235-the-pin.md) [Verge/Gizmodo]
+
+- ✅ [Humane's AI Pin is dead, as HP buys startup's assets for $116M — TechCrunch](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/)
+- ✅ [HP acquiring parts of AI Pin startup Humane for $116 million — Fortune](https://fortune.com/2025/02/19/hp-humane-deal-ai-pin-shutting-down/)
+- ✅ [Humane shuts down, sells to HP for $116M after burning $230M — Tech Startups](https://techstartups.com/2025/02/19/humane-ai-pin-startup-shuts-down-sells-to-hp-for-116m-after-burning-through-230m-in-investor-cash/)
+- ✅ [With the Humane AI Pin now dead, what does the Rabbit R1 need to do? — TechRadar](https://www.techradar.com/computing/artificial-intelligence/with-the-humane-ai-pin-now-dead-what-does-the-rabbit-r1-need-to-do-to-survive)
+- ✅ [Exclusive: OpenAI aims to debut first device in 2026 — Axios](https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive)
+- ✅ [OpenAI Consumer Device: Jony Ive's Screenless AI Hardware Arrives H2 2026 — Introl](https://introl.com/blog/openai-consumer-device-jony-ive-hardware-2026)
+- ✅ [As confusion reigns over Jony Ive's iO device, I remain an AI hardware skeptic — 9to5Mac](https://9to5mac.com/2026/01/23/as-confusion-reigns-over-jony-ives-io-device-i-remain-an-ai-hardware-skeptic/)
+- 📎 [AI Product Failures 2026: Sora, Humane & Rabbit R1 — Digital Applied](https://www.digitalapplied.com/blog/ai-product-failures-2026-sora-humane-rabbit-lessons) (secondary; Rabbit active-user figure)
+
+---
+
 ## Topic: Coinbase / crypto exchange (article: "The Rake" — 2026-06-11T1210-the-rake.md) [CNET]
 
 - ✅ [Coinbase Q1 2026 Revenue Falls 31% to $1.41 Billion — Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-q1-2026-revenue-falls-210348048.html)

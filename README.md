@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [The Pin](2026-06-11T1235-the-pin.md) · _2026-06-11_
+
+Humane raised $230M to build an AI pin, shipped fewer than 10,000, was returned more often than sold, and sold
+its corpse to HP for $116M. Rabbit sold 100,000 boxes and ~95% of buyers abandoned them (the OS was modified
+Android underneath). Every AI gadget dies of the same iron law: it does a subset of what the smartphone already
+does, on a device you buy, charge, and carry separately — and the assistant that justified it has now moved into
+the phone for free. With both corpses warm, OpenAI paid $6.5B for Jony Ive's startup and reportedly committed
+Foxconn to 40–50M units: the most credible version of a bet with, so far, a 0% success rate. Fact-checked; see
+`audit/`.
+
+[![AAPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAAPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AAPL&color=999999&cacheSeconds=300)](https://finance.yahoo.com/quote/AAPL)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=00a4ef&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+
 ### [The Rake](2026-06-11T1210-the-rake.md) · _2026-06-11_
 
 The pitch for owning a crypto exchange is that you're buying the casino, and the house always wins. Then Q1 2026
