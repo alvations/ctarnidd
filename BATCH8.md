@@ -8,7 +8,7 @@ commit is pushed.
 
 | # | status | slug | focus |
 |---|--------|------|-------|
-| 1 | pending | TBD-microsoft-openai.md     | Microsoft (MSFT) — the circular OpenAI/Azure entanglement [news] |
+| 1 | done | 2026-06-12T1310-microsoft-openai.md     | Microsoft (MSFT) — the circular OpenAI/Azure entanglement [news] |
 | 2 | pending | TBD-netflix.md             | Netflix (NFLX) — won streaming, priced like it can't lose [news] |
 | 3 | pending | TBD-costco.md              | Costco (COST) — best retailer, never-cheap ~50x multiple [news] |
 | 4 | pending | TBD-visa-mastercard.md     | Visa/Mastercard (V/MA) — stablecoins vs the payment toll booth [news] |

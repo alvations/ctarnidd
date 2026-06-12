@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Microsoft / OpenAI (article: "Microsoft Booked a $5.9 Billion Gain on a Company That Loses Billions" — 2026-06-12T1310-microsoft-openai.md) [news]
+
+- ✅ [OpenAI shakes up partnership with Microsoft, capping revenue share — CNBC](https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html)
+- ✅ [What Microsoft's 10-Q Says About OpenAI — om.co](https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/)
+- ✅ [Microsoft (MSFT) Q3 earnings report 2026 — CNBC](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html)
+- ✅ [Microsoft Q3 FY26 Earnings: Azure 40%, Stock Falls on Capex — CoinDCX](https://coindcx.com/blog/us-stock/microsoft-q3-fy26-earnings-results/)
+- ✅ [Microsoft's OpenAI investment led to $3.1 billion drop in net income — CNBC](https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html)
+- ✅ [Microsoft Q3 FY2026: The $190B Capex Plan That Repriced AI — Global Data Center Hub](https://www.globaldatacenterhub.com/p/microsoft-q3-fy2026-the-190b-capex)
+- ✅ [Microsoft (MSFT) Q3 FY2026: Azure 40%, AI Business $37B Run Rate — Alphastreet](https://news.alphastreet.com/microsoft-msft-q3-fy2026-azure-hits-40-growth-as-ai-business-reaches-37-billion-run-rate/)
+- 📎 [Microsoft FY26 Q3 Investor Relations press release & webcast — Microsoft](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast)
+
+---
+
 ## Topic: Prediction markets / Kalshi (article: "Kalshi Is Worth $22 Billion on a Legal Theory..." — 2026-06-12T1240-prediction-markets.md) [WSB]
 
 - ✅ [DraftKings Faces Growing Pressure As Prediction Markets Reshape Betting Outlook — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/draftkings-faces-growing-pressure-prediction-220719901.html)

@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Microsoft Booked a $5.9 Billion Gain on a Company That Loses Billions](2026-06-12T1310-microsoft-openai.md) · _2026-06-12_
+
+Microsoft is the steadiest mega-cap in the market — so it's worth noticing the loop now running through its
+earnings. It funds OpenAI ($13B committed), OpenAI commits $250B to Azure, that spending books as Azure revenue
+(the +39% growth that anchors the bull case), and OpenAI's rising *paper* valuation flows back as a $5.9B
+non-cash equity-method gain — on a company losing tens of billions, a swing from a $3.1B loss a year earlier.
+Part of the growth is recirculated Microsoft money; part of the profit is a mark-to-model valuation gain counted
+as clean earnings; and $190B of capex has quietly compressed gross margin to its narrowest since 2022. A fortress
+with a loop running through one wing. Fact-checked; see `audit/`.
+
+[![MSFT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSFT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSFT&color=00a4ef&cacheSeconds=300)](https://finance.yahoo.com/quote/MSFT)
+[![NVDA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNVDA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NVDA&color=76b900&cacheSeconds=300)](https://finance.yahoo.com/quote/NVDA)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![GOOGL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FGOOGL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=GOOGL&color=4285f4&cacheSeconds=300)](https://finance.yahoo.com/quote/GOOGL)
+
 ### [Kalshi Is Worth $22 Billion on a Legal Theory the Courts Haven't Settled.](2026-06-12T1240-prediction-markets.md) · _2026-06-12_
 
 Kalshi found a door around the entire state-by-state sports-betting system: by routing what is functionally a
