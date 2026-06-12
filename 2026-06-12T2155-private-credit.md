@@ -108,8 +108,16 @@ It would be easy to dismiss the 2026 stress as a problem of the weaker or more c
 notable thing is that it reached the flagships. Blackstone's BCRED — the roughly $82 billion Blackstone Private
 Credit Fund, the largest and most prestigious vehicle in the category, run by the most powerful alternative-asset
 manager in the world — saw investors request a record 7.9% of assets, about $3.8 billion, in a single period.
-Blackstone chose to meet 100% of those requests, which is a genuine show of strength and a reassuring signal: the
-flagship honored its promise, and the system did not break.
+Blackstone chose to meet 100% of those requests — but it is how it met them that matters: the firm took the
+extraordinary step of injecting roughly $400 million of its own and its senior executives' capital into the fund to
+satisfy the requests in full. That is a genuine show of strength and commitment, and the flagship did honor its
+promise. But pause on what it reveals. A genuinely liquid fund does not need its sponsor to put in hundreds of
+millions of dollars of house money to pay out redemptions; the assets simply convert to cash. That Blackstone — the
+largest, strongest manager in the business — chose to backstop its premier fund with its own capital rather than
+sell loans tells you that selling the loans at acceptable prices was not a real option, which is precisely the
+illiquidity the structure is supposed to paper over. The promise was honored not by the liquidity of the portfolio
+but by the goodwill and balance sheet of the sponsor, and goodwill is not a feature investors can count on every
+firm, in every fund, in every stress, to extend.
 
 But read the same fact from the other side. If the single strongest, largest, best-resourced fund in the entire
 asset class saw a record redemption request approaching the level of its own gate, then the gate is not a

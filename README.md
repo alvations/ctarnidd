@@ -5,6 +5,23 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Private Credit Sold Retail Quarterly Liquidity on Loans That Won't Mature for Years](2026-06-12T2155-private-credit.md) · _2026-06-12_
+
+Private credit — direct lending by Blackstone, Apollo, Blue Owl and their peers — was an institutional asset built
+on accepting years of lock-up. Then the managers opened it to retail through "semi-liquid" funds promising
+quarterly redemptions, even though the loans inside still mature in three to seven years. That maturity mismatch is
+the whole problem, and in Q1 2026 it was stress-tested: non-traded BDC redemption requests ran 9–10% against 5%
+gates; investors sought a record 7.9% (~$3.8B) from Blackstone's flagship BCRED — met only after the firm injected
+~$400M of its own capital; some Blue Owl vehicles saw 40%+ requests; BlackRock gated its HPS fund. The marks are
+set by the managers themselves, the gate is the real product, and the retail saver sold a yield discovered that
+"semi-liquid" means illiquid exactly when it matters. The system didn't break — but the mismatch doesn't have to
+break to hurt those standing on it. Fact-checked; see `audit/`.
+
+[![BX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BX&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/BX)
+[![APO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAPO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=APO&color=1a4480&cacheSeconds=300)](https://finance.yahoo.com/quote/APO)
+[![OWL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FOWL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=OWL&color=00a3a1&cacheSeconds=300)](https://finance.yahoo.com/quote/OWL)
+[![ARCC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FARCC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ARCC&color=003366&cacheSeconds=300)](https://finance.yahoo.com/quote/ARCC)
+
 ### [Cloudflare Is Priced for Perfect Software Margins Just as Its Own Start to Slip](2026-06-12T2125-cloudflare.md) · _2026-06-12_
 
 Cloudflare is a developer-beloved infrastructure company growing 34% to $639.8M a quarter, with surging

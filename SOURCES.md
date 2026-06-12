@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Private credit / retail illiquidity mismatch (article: "Private Credit Sold Retail Quarterly Liquidity on Loans That Won't Mature for Years" — 2026-06-12T2155-private-credit.md) [news]
+
+- ✅ [Report on Vulnerabilities in Private Credit, 6 May 2026 — Financial Stability Board](https://www.fsb.org/uploads/P060526.pdf)
+- ✅ [Investors poured billions into private credit. Now many want their money back — CNBC](https://www.cnbc.com/2026/03/05/private-credit-blackstone-blue-owl-kkr-carlyle-retail-wealth-investors-liquid.html)
+- ✅ [Private credit's 'off-ramp' emerges as investors look to cash out and default fears grow — CNBC](https://www.cnbc.com/2026/03/17/private-credit-liquidity-jitters-crisis-investors-redemptions-withdrawals-defaults-risk-debt.html)
+- ✅ [The $265 billion private credit meltdown — Fortune](https://fortune.com/2026/03/14/private-credit-meltdown-how-wall-streets-blackstone-kkr-apollo-ares-blue-owl-investment-craze-panic/)
+- ✅ [Private Credit Redemptions, Defaults, and Wrappers, Oh My! — CAIA](https://caia.org/blog/2026/04/20/private-credit-redemptions-defaults-and-wrappers-oh-my)
+- ✅ [Redemption Curbs Test Liquidity Model of Private Credit — Markets Group](https://www.marketsgroup.org/news/redemption-curbs-tests-liquidity-model-of-private-credit)
+- 📎 [Private credit risks: Liquidity, redemptions and market stress explained — U.S. Bank](https://www.usbank.com/investing/financial-perspectives/market-news/private-credit.html)
+
+Fact-check: loans 3–7yr vs quarterly redemptions (mismatch); Q1 2026 non-traded BDC requests ~9–10% vs 5% gates;
+BCRED record 7.9%/~$3.8B met 100% via ~$400M sponsor+exec capital injection; Blue Owl 40.7% (tech)/21.9% (credit
+income); BlackRock gated ~$26B HPS at ~9.3%; BDC ~16.7% software exposure. Strengthening detail (BCRED $400M)
+added; no corrections. NOT a collapse prediction.
+
+---
+
 ## Topic: Cloudflare / priced-for-perfection + falling gross margin (article: "Cloudflare Is Priced for Perfect Software Margins Just as Its Own Start to Slip" — 2026-06-12T2125-cloudflare.md) [WSB]
 
 - ✅ [Cloudflare Q1 2026 Form 8-K (press release exhibit, SEC)](https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000033/q126exhibit991.htm)
