@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Chime / neobank (article: "Chime's Free Banking Runs on a Loophole, Not a Moat" — 2026-06-12T1540-chime.md) [CNET/fintech]
+
+- ✅ [Chime (CHYM) Reports Q1 2026 Revenue of $647M, First GAAP Profitable Quarter — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/chime-chym-reports-q1-2026-112352459.html)
+- ✅ [Chime posts Q1 profit, boosts 2026 outlook (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/CHYM/8-k-chime-financial-inc-reports-material-event-d05790c501a2.html)
+- ✅ [Chime Turns a Profit as Members Hit 10.2 Million — PYMNTS](https://www.pymnts.com/earnings/2026/chime-leans-on-ai-pushes-upmarket-in-first-profitable-quarter/)
+- ✅ [Chime revenue, valuation & funding — Sacra](https://sacra.com/c/chime/)
+- ✅ [Chime's S-1 Breakdown: Strategic Finance View Point — Strategic Finance Careers](https://www.strategicfinancecareers.com/blog/chimes-s1-breakdown)
+- ✅ [Chime IPO: launch date, valuation & trading details — Capital.com](https://capital.com/en-int/learn/ipo/chime-ipo)
+- ✅ [Chime Finally Turns Profitable—But Risks Remain — Investing.com](https://m.investing.com/analysis/chime-finally-turns-profitablebut-risks-remain-200680329)
+- 📎 [How Chime Makes Money — App Economy Insights](https://www.appeconomyinsights.com/p/chime-how-they-make-money)
+
+---
+
 ## Topic: GE Aerospace / engines (article: "GE Aerospace Is Priced at 40x for a Cycle That Always Lands" — 2026-06-12T1515-ge-aerospace.md) [news]
 
 - ✅ [GE 1Q 2026 earnings release (8-K) — SEC](https://www.sec.gov/Archives/edgar/data/40545/000004054526000026/ge1q2026earningsrelease.htm)

@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Chime's Free Banking Runs on a Loophole, Not a Moat](2026-06-12T1540-chime.md) · _2026-06-12_
+
+One year after its IPO, Chime — the largest US neobank, 10M+ members — just turned its first profit. The product
+is genuinely good: no fees, no overdraft, early paychecks, all free. But "free" banking is never free, and the
+engine underneath is the least-advertised fact about the company: ~76% of revenue is debit-card interchange, and
+Chime collects it at an above-market rate only because it routes transactions through tiny partner banks (Bancorp,
+Stride) *exempt* from the Durbin caps the big banks must obey. That's not a moat — it's a loophole, copyable by
+any neobank and closable by a Congress the merchants are already lobbying. Its escape route (earned-wage access)
+leads into another regulatory thicket. A beloved, profitable company renting its economics from a rule.
+Fact-checked; see `audit/`.
+
+[![CHYM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCHYM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CHYM&color=1ec677&cacheSeconds=300)](https://finance.yahoo.com/quote/CHYM)
+[![XYZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXYZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XYZ&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/XYZ)
+[![SOFI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSOFI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SOFI&color=00c2ff&cacheSeconds=300)](https://finance.yahoo.com/quote/SOFI)
+[![JPM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FJPM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=JPM&color=5c2d2d&cacheSeconds=300)](https://finance.yahoo.com/quote/JPM)
+
 ### [GE Aerospace Is Priced at 40x for a Cycle That Always Lands](2026-06-12T1515-ge-aerospace.md) · _2026-06-12_
 
 GE Aerospace is the jewel that emerged from GE's breakup — a best-in-class engine maker with a gorgeous
