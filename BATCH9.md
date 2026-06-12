@@ -11,7 +11,7 @@ the 75 published — all fresh tickers. Crash-safe: never `done` until guard pas
 | 2 | done | 2026-06-12T1755-snowflake.md          | Snowflake (SNOW) — priced as AI winner while Databricks wins the AI budget [news] |
 | 3 | done | 2026-06-12T1825-palo-alto.md          | Palo Alto Networks (PANW) — platformization growth bought w/ free deals + M&A [news] |
 | 4 | done | 2026-06-12T1855-uber.md               | Uber (UBER) — profitable, but AV disintermediation is the open question [WSB] |
-| 5 | pending | TBD-shopify.md            | Shopify (SHOP) — e-commerce arms dealer priced for perfection [WSB] |
+| 5 | done | 2026-06-12T1925-shopify.md            | Shopify (SHOP) — ~100x bet on consumer spending, no room for a recession [WSB] |
 | 6 | pending | TBD-doordash.md           | DoorDash (DASH) — delivery profit vs labor cost/regulation [CNET/news] |
 | 7 | pending | TBD-block.md              | Block (XYZ) — Square + Cash App + the bitcoin distraction [WSB] |
 | 8 | pending | TBD-walmart.md            | Walmart (WMT) — retail giant rerated as an ad-tech play at a tech multiple [news] |

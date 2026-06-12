@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Shopify Is a 100x Bet on Consumer Spending That Can't Afford a Recession](2026-06-12T1925-shopify.md) · _2026-06-12_
+
+Shopify is the arms dealer of e-commerce — it sells the platform and payment rails, takes a cut of everything, and
+does it beautifully: revenue +34%, $100B+ of merchant sales, a rising take rate, real free cash flow. The market
+pays ~100× earnings and ~9× sales — about three times Amazon's multiple. But strip the platform romance away and
+Shopify's revenue is a derivative of a derivative: a cut of its merchants' sales, which are a cut of *consumer
+spending*, concentrated among the small, tariff-exposed, thin-margin sellers who fail first in a downturn. The
+take-rate engine has a ceiling; the profit leans on stock comp. A wonderful business whose valuation has quietly
+assumed the consumer will never have a bad year. Fact-checked; see `audit/`.
+
+[![SHOP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSHOP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SHOP&color=95bf47&cacheSeconds=300)](https://finance.yahoo.com/quote/SHOP)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+[![ETSY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FETSY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ETSY&color=f56400&cacheSeconds=300)](https://finance.yahoo.com/quote/ETSY)
+[![WIX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWIX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WIX&color=0c6efc&cacheSeconds=300)](https://finance.yahoo.com/quote/WIX)
+
 ### [Uber Finally Turned a Profit, Just as the Cars Learned to Drive Themselves](2026-06-12T1855-uber.md) · _2026-06-12_
 
 Uber spent 15 years proving it could make money, and it finally has — $2.3B of quarterly free cash flow, bookings

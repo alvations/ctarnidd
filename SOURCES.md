@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Shopify / e-commerce platform (article: "Shopify Is a 100x Bet on Consumer Spending..." — 2026-06-12T1925-shopify.md) [WSB]
+
+- ✅ [Shopify Q1 2026 revenue rises 34% to $3.17B (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/SHOP/8-k-shopify-inc-reports-material-event-c489d9aecc72.html)
+- ✅ [Shopify Q1 2026 slides: revenue surges 34%, stock falls on concerns — Investing.com](https://www.investing.com/news/company-news/shopify-q1-2026-slides-revenue-surges-34-stock-falls-on-concerns-93CH-4659839)
+- ✅ [Can Shopify's Strong Execution Outweigh Valuation Concerns in H2 2026? — Yahoo Finance/Zacks](https://finance.yahoo.com/markets/stocks/articles/shopifys-strong-execution-outweigh-valuation-150700710.html)
+- ✅ [Shopify vs Amazon: One Beat Earnings by 60% at a Third of the Multiple — 24/7 Wall St](https://247wallst.com/investing/2026/05/19/shopify-vs-amazon-one-just-beat-earnings-by-60-at-a-third-of-the-multiple-the-choice-is-clear/)
+- ✅ [Shopify (SHOP) Stock-Based Compensation (Annual) — AlphaQuery](https://www.alphaquery.com/stock/SHOP/fundamentals/annual/stock-based-compensation)
+- ✅ [Shopify Q1 2026 Earnings Show Mixed Results — InsiderFinance](https://www.insiderfinance.io/news/shopify-q1-2026-earnings-mixed-results)
+- 📎 [Shopify Q1 2026 revenue climbs 34% to $3.17B (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/SHOP/10-q-shopify-inc-quarterly-earnings-report-19b9ac9d1226.html)
+
+---
+
 ## Topic: Uber / ride-hailing + autonomy (article: "Uber Finally Turned a Profit, Just as the Cars Learned to Drive Themselves" — 2026-06-12T1855-uber.md) [WSB]
 
 - ✅ [Uber Q1 2026 revenue rises to $13.2B, profits grow (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/UBER/8-k-uber-technologies-inc-reports-material-event-750108a38376.html)
