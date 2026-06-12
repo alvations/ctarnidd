@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: BNPL / phantom debt (article: "Buy Now, Pay Later Is Booming..." — 2026-06-12T1100-bnpl.md) [Engadget/CNET]
+
+- ✅ [Affirm (NASDAQ: AFRM) delivers 35% GMV growth and FQ3 2026 profit — StockTitan](https://www.stocktitan.net/sec-filings/AFRM/8-k-affirm-holdings-inc-reports-material-event-9ba73cefcecb.html)
+- ✅ [Affirm Q3 Earnings Beat on Strong GMV Growth — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/affirm-q3-earnings-beat-strong-153700902.html)
+- ✅ [Klarna's Rising Credit Losses Amid BNPL Sector Concerns — GuruFocus](https://www.gurufocus.com/news/2886562/klarnas-rising-credit-losses-amid-bnpl-sector-concerns)
+- ✅ [Klarna Group plc (KLAR) — Yahoo Finance](https://finance.yahoo.com/quote/KLAR/)
+- ✅ [Buy Now, Pay Later: Recent Developments and Implications — Richmond Fed](https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-05)
+- ✅ [Borrowers with poor credit ratings make up majority of BNPL borrowers — Consumer Finance Monitor](https://www.consumerfinancemonitor.com/2025/01/15/borrowers-with-poor-credit-ratings-make-up-majority-of-bnpl-borrowers/)
+- ✅ [Some BNPL lenders are holding back customer payment data from credit bureaus — Fox Business](https://www.foxbusiness.com/economy/some-buy-now-pay-later-lenders-holding-back-customer-payment-data-from-credit-bureaus)
+- ✅ [Klarna and Afterpay Opt Not to Send BNPL Data to Credit Bureaus — PaymentsJournal](https://www.paymentsjournal.com/klarna-and-afterpay-opt-not-to-send-bnpl-data-to-credit-bureaus/)
+- 📎 [Collateralized DoorDash Obligations: Klarna class action — Legalish](https://www.legalish.me/collateralized-doordash-obligations-klarna-class-action-predatory-lending-trump-cfpb/)
+
+---
+
 ## Topic: Virgin Galactic vs SpaceX (SPECIAL) (article: "Virgin Galactic Shows How a Space Dream Dies..." — 2026-06-12T1035-virgin-galactic-spacex.md) [news]
 
 - ✅ [SpaceX blasts off with a record-breaking $75 billion IPO — NPR](https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk)

@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Buy Now, Pay Later Is Booming. So Is the Debt Nobody Can See.](2026-06-12T1100-bnpl.md) · _2026-06-12_
+
+The official numbers say the U.S. consumer is holding up. They miss one fast-growing category by design: buy now,
+pay later — a ~$70B/yr business mostly *not* reported to the credit bureaus. "Phantom debt." Lenders can't see
+it, regulators can't measure it, and ~63% of borrowers carry more than one BNPL loan at once. Roughly two-thirds
+of originations go to subprime borrowers stacking these loans on cards already ~60–66% maxed out — increasingly
+to finance groceries and DoorDash orders. The reassuring sub-2% delinquency rate is just the tip of the iceberg
+that was built to be unmeasurable. Affirm (profitable, reporting to FICO) ≠ the subprime pay-in-4 end; Klarna's
+losses climb as its stock sits −62% post-IPO. Fact-checked; see `audit/`.
+
+[![AFRM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAFRM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AFRM&color=4a4af4&cacheSeconds=300)](https://finance.yahoo.com/quote/AFRM)
+[![KLAR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKLAR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KLAR&color=ffb3c7&cacheSeconds=300)](https://finance.yahoo.com/quote/KLAR)
+[![SYF](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSYF%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SYF&color=ffd100&cacheSeconds=300)](https://finance.yahoo.com/quote/SYF)
+[![PYPL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPYPL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PYPL&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/PYPL)
+
 ### [Virgin Galactic Shows How a Space Dream Dies. SpaceX Just IPO'd at $1.75 Trillion.](2026-06-12T1035-virgin-galactic-spacex.md) · _2026-06-12_
 
 Space companies don't usually die in fireballs — they die in spreadsheets, as the promise slips, the cash burns,
