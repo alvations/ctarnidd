@@ -9,11 +9,10 @@ Takes), oil/Iran (Twenty Miles Wide).
 
 | # | status | slug | focus |
 |---|--------|------|-------|
-| 1 | done    | 2026-06-11T0735-the-laggard.md        | Apple (AAPL) — the AI laggard / WWDC 2026 Siri delay |
-| 2 | done    | 2026-06-11T0800-search-and-destroy.md | Alphabet (GOOGL) — antitrust breakup + AI eating search |
-| 3 | done    | 2026-06-11T0825-loosening-the-bolts.md | Big banks (JPM/C/GS) — Trump deregulation rally + buybacks |
-| 4 | done    | 2026-06-11T0850-half-life.md          | Uranium / nuclear / SMR (CCJ, OKLO, SMR) — AI power bid |
-| 5 | done    | 2026-06-11T0915-the-supercycle.md     | Micron (MU) — HBM/memory "supercycle" vs the brutal cycle |
+| 1 | done    | 2026-06-11T0800-search-and-destroy.md | Alphabet (GOOGL) — antitrust breakup + AI eating search |
+| 2 | done    | 2026-06-11T0825-loosening-the-bolts.md | Big banks (JPM/C/GS) — Trump deregulation rally + buybacks |
+| 3 | done    | 2026-06-11T0850-half-life.md          | Uranium / nuclear / SMR (CCJ, OKLO, SMR) — AI power bid |
+| 4 | done    | 2026-06-11T0915-the-supercycle.md     | Micron (MU) — HBM/memory "supercycle" vs the brutal cycle |
 
 ## Per-article workflow (the "round")
 1. Research (2–3 web searches) → write (3,000+ prose words), editorial-only, date-stamped filename, 4 live badges.
