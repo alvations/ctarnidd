@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: ServiceNow / AI story vs AI revenue (article: "ServiceNow's AI Is Under a Tenth of the Business and the Whole of the Story" — 2026-06-12T2225-servicenow.md) [news]
+
+- ✅ [ServiceNow Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000054/erq1fy26.htm)
+- ✅ [ServiceNow Reports First Quarter 2026 Financial Results — ServiceNow IR](https://investor.servicenow.com/news/news-details/2026/ServiceNow-Reports-First-Quarter-2026-Financial-Results/default.aspx)
+- ✅ [ServiceNow Q1 FY2026 Results Raise Full-Year Subscription Outlook — Futurum](https://futurumgroup.com/insights/servicenow-q1-fy-2026-results-raise-full-year-subscription-outlook/)
+- ✅ [ServiceNow (NOW) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/22/servicenow-now-q1-2026-earnings-transcript/)
+- ✅ [ServiceNow (NOW) PE Ratio — Current & Historical — FinanceCharts](https://www.financecharts.com/stocks/NOW/value/pe-ratio)
+- ✅ [ServiceNow (NOW) — Market capitalization — CompaniesMarketCap](https://companiesmarketcap.com/servicenow/marketcap/)
+
+Fact-check: subscription rev $3.671B (+22%); cRPO $12.64B (+22.5%); FY26 guide $15.735–15.775B; Now Assist AI ACV
+raised $1B→~$1.5B (bookings, more than doubled), >$1M-ACV customers +130%; fwd P/E ~24 (de-rated). Correction: "$1B
+/ 6% of revenue" → "~$1.5B AI ACV = under a tenth of bookings, less in recognized revenue" (ACV≠revenue); title +
+~8 refs rewritten.
+
+---
+
 ## Topic: Private credit / retail illiquidity mismatch (article: "Private Credit Sold Retail Quarterly Liquidity on Loans That Won't Mature for Years" — 2026-06-12T2155-private-credit.md) [news]
 
 - ✅ [Report on Vulnerabilities in Private Credit, 6 May 2026 — Financial Stability Board](https://www.fsb.org/uploads/P060526.pdf)

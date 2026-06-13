@@ -7,7 +7,7 @@ AND post-fact-check commit pushed.
 
 | # | status | slug | focus |
 |---|--------|------|-------|
-| 1 | pending | TBD-servicenow.md       | ServiceNow (NOW) — priced as the AI-platform winner; agentic AI vs the seat model [news] |
+| 1 | done | 2026-06-12T2225-servicenow.md       | ServiceNow (NOW) — AI ACV ~$1.5B vs $15.75B rev; story >> revenue; seat dilemma [news] |
 | 2 | pending | TBD-airbnb.md           | Airbnb (ABNB) — decelerating core; spending the windfall hunting the next leg [WSB] |
 | 3 | pending | TBD-chipotle.md         | Chipotle (CMG) — tech multiple on a burrito chain as same-store traffic turns negative [news] |
 | 4 | pending | TBD-nike.md             | Nike (NKE) — the "turnaround" is a rebuild, not a rebound [WSB] |

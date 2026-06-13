@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [ServiceNow's AI Is Under a Tenth of the Business and the Whole of the Story](2026-06-12T2225-servicenow.md) · _2026-06-12_
+
+ServiceNow is an excellent enterprise-software platform — subscription revenue +22% to $3.67B, a $12.6B contracted
+backlog, deep switching costs — and in 2026 it's been recast as an agentic-AI winner, which is where the premium
+comes from. But Now Assist, the entire AI story, is tracking toward ~$1.5B of *annual contract value* (a bookings
+measure, raised from $1B as it more than doubled) against a ~$15.75B subscription base — under a tenth on bookings,
+less in recognized revenue. Meanwhile the AI it's selling automates the human seats its model bills for (the
+classic innovator's dilemma), its consumption-pricing answer is credible but unproven, and growth is gently
+decelerating. Not a nosebleed — the stock has already de-rated to a ~24x forward multiple — but the AI story still
+runs well ahead of the AI revenue. Fact-checked; see `audit/`.
+
+[![NOW](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNOW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NOW&color=62d84e&cacheSeconds=300)](https://finance.yahoo.com/quote/NOW)
+[![CRM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRM&color=00a1e0&cacheSeconds=300)](https://finance.yahoo.com/quote/CRM)
+[![WDAY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWDAY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WDAY&color=0875e1&cacheSeconds=300)](https://finance.yahoo.com/quote/WDAY)
+[![SAP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSAP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SAP&color=0faaff&cacheSeconds=300)](https://finance.yahoo.com/quote/SAP)
+
 ### [Private Credit Sold Retail Quarterly Liquidity on Loans That Won't Mature for Years](2026-06-12T2155-private-credit.md) · _2026-06-12_
 
 Private credit — direct lending by Blackstone, Apollo, Blue Owl and their peers — was an institutional asset built
