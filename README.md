@@ -5,6 +5,23 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Intuit's TurboTax Cash Cow Rests on a Friction Washington Just Spared It](2026-06-13T0255-intuit.md) · _2026-06-13_
+
+Intuit is priced as a premium AI compounder, and most of the business earns it — revenue +10% to $8.6B, $4B
+operating income, raised guidance, QuickBooks ~16%, a real AI-expert strategy. But its most profitable franchise,
+TurboTax, monetizes a peculiarly American friction: that filing taxes is a paid chore the government could prepare
+itself. For two seasons the IRS tried to remove it with free Direct File; this year Washington killed the program
+(Treasury: "the private sector can do a better job"), and TurboTax was spared. That's a near-term win — but the
+episode shows the moat is a political truce, not a wall: it flipped from "expanding" to "eliminated" in two years,
+160 lawmakers are pushing to revive it, and the FTC has already sanctioned Intuit over "free" marketing. TurboTax is
+also the slowest-growing major segment, and AI cuts both ways. A great company whose cash cow rents its safety from
+an argument the country keeps having. Fact-checked; see `audit/`.
+
+[![INTU](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FINTU%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=INTU&color=365ebf&cacheSeconds=300)](https://finance.yahoo.com/quote/INTU)
+[![HRB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FHRB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=HRB&color=00a04a&cacheSeconds=300)](https://finance.yahoo.com/quote/HRB)
+[![ADP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FADP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ADP&color=cc0000&cacheSeconds=300)](https://finance.yahoo.com/quote/ADP)
+[![PAYX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPAYX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PAYX&color=0067b1&cacheSeconds=300)](https://finance.yahoo.com/quote/PAYX)
+
 ### [Realty Income's Growth Runs on a Spread That Higher Rates Have Quietly Compressed](2026-06-13T0225-realty-income.md) · _2026-06-13_
 
 "The Monthly Dividend Company" is a genuinely high-quality net-lease REIT — 98.9% occupancy, 30+ years of dividend

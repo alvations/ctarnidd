@@ -16,7 +16,7 @@ AND post-fact-check commit pushed.
 | 7 | done | 2026-06-13T0125-roblox.md           | Roblox (RBLX) — record bookings $1.73B, loss widened to $248M, safety cut guidance [WSB] |
 | 8 | done | 2026-06-13T0155-cheniere.md         | Cheniere (LNG) — record margins on a spread the supply wave will compress [news] |
 | 9 | done | 2026-06-13T0225-realty-income.md    | Realty Income (O) — safe dividend, ~3% growth; spread squeezed; Apollo pivot tell [WSB] |
-| 10| pending | TBD-intuit.md           | Intuit (INTU) — TurboTax priced as an AI compounder while free IRS Direct File looms [news] |
+| 10| done | 2026-06-13T0255-intuit.md           | Intuit (INTU) — TurboTax moat is a political truce; Direct File killed; AI compounder [news] |
 
 ## Per-article workflow
 1. Research (2-3 web searches) → write (2,900+ prose words), editorial-only, date-stamped filename, 4 live badges.

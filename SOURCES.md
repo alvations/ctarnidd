@@ -8,6 +8,23 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Intuit / TurboTax moat is a political truce (article: "Intuit's TurboTax Cash Cow Rests on a Friction Washington Just Spared It" — 2026-06-13T0255-intuit.md) [news]
+
+- ✅ [Intuit Reports Strong Q3 Results and Raises Full-Year Guidance — Intuit IR](https://investors.intuit.com/news-events/press-releases/detail/1312/intuit-reports-strong-third-quarter-results-and-raises-full-year-revenue-guidance)
+- ✅ [Intuit Q3 FY2026 Form 8-K / earnings press release (SEC)](https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000024/fy26q3earningspressrelease.htm)
+- ✅ [Intuit Reports Strong Q3 Results (BusinessWire)](https://www.businesswire.com/news/home/20260520628538/en/Intuit-Reports-Strong-Third-Quarter-Results-and-Raises-Full-Year-Revenue-Guidance)
+- ✅ [Intuit outlines $21.341B-$21.374B FY2026 revenue as it cuts workforce 17% — Seeking Alpha](https://seekingalpha.com/news/4595530-intuit-outlines-21_341b-21_374b-fy2026-revenue-as-it-cuts-workforce-17-percent)
+- ✅ [IRS tells states Direct File 'will not be available' in 2026 — Federal News Network](https://federalnewsnetwork.com/it-modernization/2025/11/irs-direct-file-will-not-be-available-in-2026-agency-tells-states/)
+- ✅ [IRS Officially Kills Direct File — Money.com](https://money.com/irs-direct-file-end-2026/)
+- 📎 [Democrats to introduce bill to resurrect IRS Direct File — Sen. Warren newsroom](https://www.warren.senate.gov/newsroom/news-coverage/democrats-to-introduce-bill-aimed-at-resurrecting-irs-direct-file)
+
+Fact-check: Q3 FY26 rev $8.6B (+10%), op income $4B, FY guide $21.341-21.374B (+13-14%), TurboTax +7% (slowest major
+segment), GBS ~16%, TurboTax Live +38%, 17% layoff; IRS Direct File ELIMINATED for 2026 (Treasury "private sector
+can do a better job"; 160 Dems pushing revival); FTC sanctioned "free" marketing. Thesis flipped from "free file
+looms" → "moat is a political truce, just spared." No corrections.
+
+---
+
 ## Topic: Realty Income / spread-driven REIT growth squeezed by rates (article: "Realty Income's Growth Runs on a Spread That Higher Rates Have Quietly Compressed" — 2026-06-13T0225-realty-income.md) [WSB]
 
 - ✅ [Realty Income lifts 2026 AFFO view after $2.8B invested (O) — StockTitan](https://www.stocktitan.net/news/O/realty-income-announces-operating-results-for-the-three-months-ended-5ckbieytefnp.html)
