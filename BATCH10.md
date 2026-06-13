@@ -15,7 +15,7 @@ AND post-fact-check commit pushed.
 | 6 | done | 2026-06-13T0055-philip-morris.md    | Philip Morris (PM) — sin-stock-to-growth rerating; 57% still cigarettes; ZYN/FDA [news] |
 | 7 | done | 2026-06-13T0125-roblox.md           | Roblox (RBLX) — record bookings $1.73B, loss widened to $248M, safety cut guidance [WSB] |
 | 8 | done | 2026-06-13T0155-cheniere.md         | Cheniere (LNG) — record margins on a spread the supply wave will compress [news] |
-| 9 | pending | TBD-realty-income.md    | Realty Income (O) — the monthly-dividend REIT on a spread rates compressed [WSB] |
+| 9 | done | 2026-06-13T0225-realty-income.md    | Realty Income (O) — safe dividend, ~3% growth; spread squeezed; Apollo pivot tell [WSB] |
 | 10| pending | TBD-intuit.md           | Intuit (INTU) — TurboTax priced as an AI compounder while free IRS Direct File looms [news] |
 
 ## Per-article workflow

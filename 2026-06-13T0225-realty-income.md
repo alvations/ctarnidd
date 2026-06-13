@@ -123,8 +123,12 @@ reputation promises.
 
 ## The Apollo pivot is the tell
 
-The most telling development in the quarter was strategic: Realty Income closed a $1.0 billion strategic investment
-from Apollo into a joint venture and continued to expand what it calls private-capital partnerships. This is the
+The most telling development in the quarter was strategic: Realty Income closed a $1.0 billion equity investment
+from Apollo into a joint venture holding a granular portfolio of roughly 500 single-tenant retail properties, held
+off its own balance sheet, and continued to expand what it calls private-capital partnerships. Tellingly, the deal
+includes a call option that effectively caps the cost of Apollo's equity at about 6.875% — set against the 7.1%
+yield at which Realty Income is buying properties, that is a spread of barely two-tenths of a percentage point, a
+vivid illustration of just how thin the financing arbitrage has become. This is the
 company building an asset-management business — managing third-party private capital invested in net-lease real
 estate, and earning fees for doing so — alongside its traditional balance-sheet ownership. On its face it is a
 sensible diversification, and it is. But read in the context of everything above, it is also a tell.

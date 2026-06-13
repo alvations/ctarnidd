@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Realty Income's Growth Runs on a Spread That Higher Rates Have Quietly Compressed](2026-06-13T0225-realty-income.md) · _2026-06-13_
+
+"The Monthly Dividend Company" is a genuinely high-quality net-lease REIT — 98.9% occupancy, 30+ years of dividend
+increases, AFFO/share +6.6%, raised guidance. The dividend is safe. But Realty Income's *growth* engine isn't the
+rent on its buildings (leases escalate ~1%); it's the spread between its cost of capital and the yield on the
+properties it buys — and higher rates squeezed that spread from both ends, throttling per-share growth to just ~3%,
+a fraction of its cheap-money past. Its size makes needle-moving growth harder, risk-free T-bills now compete for
+the income investor, and its pivot to private-capital partnerships (a $1B Apollo JV, off balance sheet, at a capped
+~6.875% cost of equity against 7.1% buy yields — a ~0.2% spread) is the clearest tell that the old engine is
+constrained. A safe, slowly growing dividend on a model rates have quietly throttled. Fact-checked; see `audit/`.
+
+[![O](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=O&color=ec1c24&cacheSeconds=300)](https://finance.yahoo.com/quote/O)
+[![NNN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNNN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NNN&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/NNN)
+[![WPC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWPC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WPC&color=00529b&cacheSeconds=300)](https://finance.yahoo.com/quote/WPC)
+[![ADC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FADC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ADC&color=e31837&cacheSeconds=300)](https://finance.yahoo.com/quote/ADC)
+
 ### [Cheniere Earns Record LNG Margins Just as the World Builds the Supply to Compress Them](2026-06-13T0155-cheniere.md) · _2026-06-13_
 
 Cheniere is the premier US LNG exporter, with a fortress of 20-year take-or-pay contracts and a superb Q1 — adjusted

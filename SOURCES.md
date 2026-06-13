@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Realty Income / spread-driven REIT growth squeezed by rates (article: "Realty Income's Growth Runs on a Spread That Higher Rates Have Quietly Compressed" — 2026-06-13T0225-realty-income.md) [WSB]
+
+- ✅ [Realty Income lifts 2026 AFFO view after $2.8B invested (O) — StockTitan](https://www.stocktitan.net/news/O/realty-income-announces-operating-results-for-the-three-months-ended-5ckbieytefnp.html)
+- ✅ [Realty Income Q1 2026 Form 8-K (SEC)](https://www.sec.gov/Archives/edgar/data/0000726728/000072672826000028/o-991q12026.htm)
+- ✅ [Realty Income Q1 2026 supplement (SEC)](https://www.sec.gov/Archives/edgar/data/0000726728/000072672826000028/realtyincomeq12026supple.htm)
+- ✅ [Realty Income (O) Q1 2026 Earnings Transcript — Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/O/pressreleases/1756808/realty-income-o-q1-2026-earnings-transcript/)
+- ✅ [Earnings call transcript: Realty Income Q1 2026 revenue beats — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-realty-incomes-q1-2026-revenue-beats-expectations-93CH-4665980)
+- 📎 [Realty Income's Apollo-Backed Capital Pivot Faces Its First Earnings Verdict — ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/ueberblick/realty-income-s-apollo-backed-capital-pivot-faces-its-first-earnings/69268888)
+
+Fact-check: AFFO/share $1.13 (+6.6%); FY AFFO guide $4.41-4.44 (~3-3.7%); occupancy 98.9%; invested $2.8B at 7.1%
+yield; FY investment guide $9.5B; Apollo $1B equity JV (~500 properties, off B/S) with call capping cost of equity
+~6.875% vs 7.1% yield = ~0.2% spread. Sharpened with the Apollo spread detail; fixed ADC badge href. No corrections.
+
+---
+
 ## Topic: Cheniere / contracted floor vs cyclical LNG spread (article: "Cheniere Earns Record LNG Margins Just as the World Builds the Supply to Compress Them" — 2026-06-13T0155-cheniere.md) [news]
 
 - ✅ [Cheniere Reports First Quarter 2026 Results and Raises Full Year Guidance — Cheniere IR](https://lngir.cheniere.com/news-events/press-releases/detail/339/cheniere-reports-first-quarter-2026-results-and-raises-full)
