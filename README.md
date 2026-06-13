@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Chipotle Is Priced for Growth While Its Same-Store Sales Have Stopped Growing](2026-06-12T2325-chipotle.md) · _2026-06-12_
+
+Chipotle earned a technology-like valuation by making each restaurant busier every year — but that engine has
+stalled. In Q1 2026 same-store sales rose just 0.5% (barely breaking a three-quarter losing streak), adjusted EPS
+*fell* 17%, restaurant margin compressed 250bps on beef and freight, and management guided to roughly flat comps
+for the year. Revenue still grew 7.4%, but almost all of that is now new-restaurant construction, not the
+same-store magic the premium is paying for. The price lever is tapped out against a stretched, value-seeking
+customer; a crowded new field of fast-casual rivals competes for the same lunch; and the digital and throughput
+levers are largely spent. A best-in-class operator with a long runway — still priced as a relentless compounder
+while the compounding sits at zero. Fact-checked; see `audit/`.
+
+[![CMG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCMG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CMG&color=a81612&cacheSeconds=300)](https://finance.yahoo.com/quote/CMG)
+[![CAVA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCAVA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CAVA&color=e8472b&cacheSeconds=300)](https://finance.yahoo.com/quote/CAVA)
+[![MCD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMCD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MCD&color=ffc72c&cacheSeconds=300)](https://finance.yahoo.com/quote/MCD)
+[![SG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SG&color=2e7d32&cacheSeconds=300)](https://finance.yahoo.com/quote/SG)
+
 ### [Airbnb's Nights Grew 9% While Its Revenue Grew 18%, and the Gap Is the Tell](2026-06-12T2255-airbnb.md) · _2026-06-12_
 
 Airbnb had a strong quarter — revenue +18% to $2.7B, GBV +19%, $1.7B free cash flow, 35%+ EBITDA margin guide,

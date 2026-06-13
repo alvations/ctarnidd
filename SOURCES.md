@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Chipotle / premium multiple on flat comps (article: "Chipotle Is Priced for Growth While Its Same-Store Sales Have Stopped Growing" — 2026-06-12T2325-chipotle.md) [news]
+
+- ✅ [Chipotle Q1 2026 Form 8-K (SEC)](https://www.sec.gov/Archives/edgar/data/0001058090/000105809026000027/cmg-20260429xex991.htm)
+- ✅ [CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS — Chipotle IR](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+- ✅ [Chipotle Mexican Grill (CMG) Q1 2026 earnings — CNBC](https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html)
+- ✅ [Earnings fall as Chipotle grows Q1 2026 sales 7.4% (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/CMG/8-k-chipotle-mexican-grill-inc-reports-material-event-0329d0cbf37f.html)
+- ✅ [Chipotle (CMG) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/29/chipotle-cmg-q1-2026-earnings-transcript/)
+- 📎 [Chipotle's Q1 2026 Earnings Test: three-quarter comp losing streak — Alphastreet](https://news.alphastreet.com/chipotles-q1-2026-earnings-test-can-traffic-recovery-break-a-three-quarter-comp-sales-losing-streak/)
+
+Fact-check: revenue $3.1B (+7.4%); comps +0.5% (transactions +60bps, check −10bps), broke 3-quarter losing streak;
+adj EPS $0.24 (−17%); restaurant margin 23.7% (−250bps, beef/freight); digital 38.6%; FY comps ~flat, pricing 1-2%.
+No exact P/E asserted (qualitative premium). No corrections.
+
+---
+
 ## Topic: Airbnb / volume-vs-price maturation (article: "Airbnb's Nights Grew 9% While Its Revenue Grew 18%, and the Gap Is the Tell" — 2026-06-12T2255-airbnb.md) [WSB]
 
 - ✅ [Airbnb Q1 2026 Form 8-K / shareholder letter (SEC)](https://www.sec.gov/Archives/edgar/data/0001559720/000119312526211816/d23351dex991.htm)
