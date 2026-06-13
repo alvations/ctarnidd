@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Nike's Turnaround Is Still Falling — Revenue Down, Margins Down, China Down 20%](2026-06-12T2355-nike.md) · _2026-06-12_
+
+The market has decided Nike's worst is behind it and prices the stock for a rebound. The Q3 FY2026 numbers describe
+a company still going down: revenue −3% currency-neutral ($11.3B), gross margin −130bps to 40.2% (tariffs +
+clearance), EPS down 35%, Greater China warned to fall ~20%, Q4 guided down again — and management's own word for
+the recovery was that it's "taking longer than anticipated." A turnaround is not a rebound: the wounds were
+self-inflicted (the DTC over-pivot, the neglected product pipeline) and heal slowly, China's decline is structural,
+the inventory cleanup isn't finished, and rivals (On, Hoka, New Balance, Adidas) hold the ground Nike vacated.
+Nike will probably come back — but the stock is priced as though it already has. Fact-checked; see `audit/`.
+
+[![NKE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FNKE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=NKE&color=111111&cacheSeconds=300)](https://finance.yahoo.com/quote/NKE)
+[![ONON](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FONON%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ONON&color=db3b2a&cacheSeconds=300)](https://finance.yahoo.com/quote/ONON)
+[![DECK](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDECK%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DECK&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/DECK)
+[![ADDYY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FADDYY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ADDYY&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/ADDYY)
+
 ### [Chipotle Is Priced for Growth While Its Same-Store Sales Have Stopped Growing](2026-06-12T2325-chipotle.md) · _2026-06-12_
 
 Chipotle earned a technology-like valuation by making each restaurant busier every year — but that engine has

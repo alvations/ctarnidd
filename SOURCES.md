@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Nike / turnaround-not-rebound (article: "Nike's Turnaround Is Still Falling — Revenue Down, Margins Down, China Down 20%" — 2026-06-12T2355-nike.md) [WSB]
+
+- ✅ [Nike Q3 FY2026 Form 8-K (SEC)](https://www.sec.gov/Archives/edgar/data/320187/000032018726000026/q3fy26exhibit991er.htm)
+- ✅ [Nike Q3 FY2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/320187/000032018726000037/nke-20260228.htm)
+- ✅ [Nike (NKE) earnings Q3 2026 — CNBC](https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html)
+- ✅ [Nike NKE Q3 2026 Earnings: Wall Street Beat, Declines in China — WWD](https://wwd.com/footwear-news/shoe-industry-news/nike-nke-q3-2026-earnings-china-declines-1238694938/)
+- ✅ [Nike tumbles as results show soft China sales, gross margin pressure — Investing.com](https://www.investing.com/news/earnings/nike-slips-after-hours-as-results-show-soft-china-sales-gross-margin-pressure-4591149)
+- 📎 [Nike Q3 revenues hold, turnaround gains ground — Sporting Goods Intelligence](https://www.sgieurope.com/financial-results/nike-q3-revenues-hold-turnaround-gains-ground/120352.article)
+
+Fact-check: revenue $11.3B (flat reported / −3% cn); gross margin 40.2% (−130bps, tariffs + promotions); Greater
+China guided ~−20% (into FY27); EPS $0.35 (−35% YoY); inventory $7.5B (~flat, units up); Q4 guide −2-4%; mgmt
+"taking longer than anticipated." No corrections.
+
+---
+
 ## Topic: Chipotle / premium multiple on flat comps (article: "Chipotle Is Priced for Growth While Its Same-Store Sales Have Stopped Growing" — 2026-06-12T2325-chipotle.md) [news]
 
 - ✅ [Chipotle Q1 2026 Form 8-K (SEC)](https://www.sec.gov/Archives/edgar/data/0001058090/000105809026000027/cmg-20260429xex991.htm)
