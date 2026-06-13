@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Cheniere Earns Record LNG Margins Just as the World Builds the Supply to Compress Them](2026-06-13T0155-cheniere.md) · _2026-06-13_
+
+Cheniere is the premier US LNG exporter, with a fortress of 20-year take-or-pay contracts and a superb Q1 — adjusted
+EBITDA $2.33B (+25%), a record 187 cargoes, expansions ahead of schedule, raised guidance. The market prices it
+like a serene contracted utility. But two things sit beneath the polish: a $3.5B GAAP net loss (from $5.4B of
+non-cash derivative marks — a reminder the headline numbers are model-driven and commodity-exposed), and record
+margins that lean substantially on an unusually wide global gas spread. That spread is exactly what the largest LNG
+supply build in history — Qatar, the US Gulf Coast, Cheniere's own expansions — is positioned to compress. The
+contracted floor deserves its premium; the cyclical merchant margin on top does not deserve to be valued as if it
+were the floor. Fact-checked; see `audit/`.
+
+[![LNG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLNG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LNG&color=003a70&cacheSeconds=300)](https://finance.yahoo.com/quote/LNG)
+[![VG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FVG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=VG&color=1b75bb&cacheSeconds=300)](https://finance.yahoo.com/quote/VG)
+[![SHEL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSHEL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SHEL&color=ed1c24&cacheSeconds=300)](https://finance.yahoo.com/quote/SHEL)
+[![EQT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEQT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EQT&color=ff6a00&cacheSeconds=300)](https://finance.yahoo.com/quote/EQT)
+
 ### [Roblox's Bookings Hit a Record While Its Losses Widen and Safety Bites Growth](2026-06-13T0125-roblox.md) · _2026-06-13_
 
 Roblox leads with the metrics that flatter — record bookings of $1.73B (+43%), revenue +39%, $596M free cash flow,

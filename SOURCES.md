@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Cheniere / contracted floor vs cyclical LNG spread (article: "Cheniere Earns Record LNG Margins Just as the World Builds the Supply to Compress Them" — 2026-06-13T0155-cheniere.md) [news]
+
+- ✅ [Cheniere Reports First Quarter 2026 Results and Raises Full Year Guidance — Cheniere IR](https://lngir.cheniere.com/news-events/press-releases/detail/339/cheniere-reports-first-quarter-2026-results-and-raises-full)
+- ✅ [Cheniere (NYSE: LNG) boosts 2026 outlook despite large Q1 net loss (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/LNG/8-k-cheniere-energy-inc-reports-material-event-f8798a5062f6.html)
+- ✅ [Cheniere (LNG) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/07/cheniere-lng-q1-2026-earnings-transcript/)
+- ✅ [Earnings call transcript: Cheniere Energy Q1 2026 — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-cheniere-energy-q1-2026-sees-unexpected-eps-loss-93CH-4687122)
+- 📎 [Cheniere Energy Earnings Q1 2026 — Panabee](https://www.panabee.com/news/cheniere-energy-earnings-q1-2026)
+
+Fact-check: revenue $5.87B (+8%); adj EBITDA $2.33B (+25%); net loss $3.5B from $5.4B non-cash derivative marks; adj
+net income $1.01B; DCF $1.67B; record 187 cargoes (+11%); FY guide raised (adj EBITDA $7.25-7.75B, +$500M mid).
+No corrections.
+
+---
+
 ## Topic: Roblox / bookings-mask-losses + child safety (article: "Roblox's Bookings Hit a Record While Its Losses Widen and Safety Bites Growth" — 2026-06-13T0125-roblox.md) [WSB]
 
 - ✅ [Roblox Q1 2026 Form 8-K / shareholder letter (SEC)](https://www.sec.gov/Archives/edgar/data/0001315098/000162828026028882/ex991-q12026earningsshar.htm)
