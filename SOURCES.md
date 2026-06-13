@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Roblox / bookings-mask-losses + child safety (article: "Roblox's Bookings Hit a Record While Its Losses Widen and Safety Bites Growth" — 2026-06-13T0125-roblox.md) [WSB]
+
+- ✅ [Roblox Q1 2026 Form 8-K / shareholder letter (SEC)](https://www.sec.gov/Archives/edgar/data/0001315098/000162828026028882/ex991-q12026earningsshar.htm)
+- ✅ [Roblox Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001315098/000162828026028904/rblx-20260331.htm)
+- ✅ [Roblox Q1 2026: 39% revenue growth, guidance cut (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/RBLX/8-k-roblox-corp-reports-material-event-0de99499c617.html)
+- ✅ [Roblox (RBLX) Q1 2026 earnings beat on smaller-than-expected loss — Shacknews](https://www.shacknews.com/article/148948/roblox-rblx-q1-2026-earnings-results)
+- 📎 [Roblox (RBLX) Beats Expectations With $1.4B Q1 2026 Revenue and Record Bookings — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-beats-expectations-1-113142093.html)
+
+Fact-check: bookings $1.73B (+43%, record); revenue $1.4B (+39%); net loss $248M (widened from $216M); FCF $596M;
+DAU 132M (+35% YoY); DevEx $423M (+50%); FY bookings guide cut to 8-12% on safety/age-check; $57M youth-safety
+settlement. Correction: removed "DAUs fell/wobbled" framing (DAUs +35% YoY; 132M vs 144M is seasonal); reframed
+around the bookings-guidance cut.
+
+---
+
 ## Topic: Philip Morris / sin-stock-to-growth re-rating (article: "Philip Morris Is Priced as a Growth Stock on Nicotine Pouches Regulators Are Circling" — 2026-06-13T0055-philip-morris.md) [news]
 
 - ✅ [PMI Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001413329/000162828026026385/earningsreleasepm-ex991xq1.htm)
