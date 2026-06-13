@@ -28,7 +28,8 @@ won that bet more decisively than almost anyone expected. IQOS, its heated-tobac
 in many markets and become the leading nicotine brand where it competes; ZYN built and dominates the U.S.
 nicotine-pouch market; and together the smoke-free portfolio now generates 43% of net revenue and is growing far
 faster than the legacy cigarette business is shrinking. Adjusted earnings per share rose 16% in the quarter, the
-company raised its full-year guidance, and it continues to generate the prodigious cash flow that funds a large
+company nudged up its full-year EPS outlook (a revision it attributed to currency rather than operations), and it
+continues to generate the prodigious cash flow that funds a large
 and growing dividend. This is a genuinely impressive corporate transformation, executed with patience and capital
 discipline over many years, and a less-harmful one for public health than the cigarettes it is replacing. Nothing here disputes that.
 
@@ -89,12 +90,13 @@ that total smoke-free shipment volumes fell more than 20%, including a roughly 2
 two facts sit awkwardly together: a growth engine cannot indefinitely post surging revenue while its shipment
 volumes drop by a fifth, and the divergence demands explanation.
 
-The most likely explanation is inventory and timing rather than collapsing demand — shipment figures can swing
-sharply when wholesalers and retailers build or draw down stock, and ZYN in particular has seen its supply and
-trade inventory whipsaw as the company raced to expand capacity after earlier shortages, so a quarter of
-destocking after a period of building can depress shipments even as underlying consumption keeps rising. That is
-the charitable and probably correct reading, and an investor should not leap from a shipment decline to a demand
-collapse. But the episode makes a narrower point that stands regardless of the cause: the smoke-free numbers are
+The explanation is inventory normalization rather than collapsing demand, and the company was clear about it: it
+had carried roughly 25 million cans of surplus ZYN inventory in the downstream supply chain at the end of 2025,
+which largely cleared in the first quarter, depressing shipments relative to what consumers actually bought.
+Crucially, ZYN consumer offtake — the measure of what people actually purchased at the register, per Nielsen
+estimates — grew about 10% in the quarter, even amid an uneven competitive landscape. So underlying demand kept
+rising while shipments fell, exactly the signature of a destocking quarter, and an investor should not leap from
+the shipment decline to a demand collapse. That charitable reading is the correct one. But the episode makes a narrower point that stands regardless of the cause: the smoke-free numbers are
 noisier and harder to read than the clean-growth narrative implies, and a stock priced for smooth, perpetual
 smoke-free compounding is exposed whenever the actual figures — shipments, inventory, in-market sales — diverge from
 the story, whether the cause is timing or something more. The market is pricing a clean line; the data, this
@@ -132,8 +134,8 @@ consumer goods — the debate is the price and the regulatory exposure, not the 
 real, large, and growing franchise that has demonstrably moved millions of smokers onto a lower-risk product and
 become the leading nicotine brand in many markets; ZYN created and dominates a category that barely existed a few
 years ago. Smoke-free at 43% of revenue and growing strongly, against a combustible business that throws off
-enormous cash to fund the transition, is a powerful combination, and the 16% adjusted earnings growth and raised
-guidance are real. The smoke-free shift is also genuinely better for public health than cigarettes, which both
+enormous cash to fund the transition, is a powerful combination, and the 16% adjusted earnings growth is real, with
+ZYN consumer offtake still growing about 10% even as reported shipments fell on inventory normalization. The smoke-free shift is also genuinely better for public health than cigarettes, which both
 supports the social license of the business and aligns it with the regulatory goal of reducing smoking — a nuance
 that could make regulators partners as often as adversaries. The ZYN shipment dip is very likely inventory noise,
 not demand weakness, and underlying pouch consumption has been robust. And Philip Morris generates the kind of

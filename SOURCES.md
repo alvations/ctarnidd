@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Philip Morris / sin-stock-to-growth re-rating (article: "Philip Morris Is Priced as a Growth Stock on Nicotine Pouches Regulators Are Circling" — 2026-06-13T0055-philip-morris.md) [news]
+
+- ✅ [PMI Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001413329/000162828026026385/earningsreleasepm-ex991xq1.htm)
+- ✅ [PMI Reports 2026 First-Quarter Results (currency-only EPS update) — PMI / BusinessWire](https://www.businesswire.com/news/home/20260421778089/en/Philip-Morris-International-Reports-2026-First-Quarter-Results-and-Updates-2026-Full-Year-Adjusted-Diluted-EPS-Forecast-for-Currency-Only)
+- ✅ [Philip Morris Q1 2026 earnings jump on smoke-free (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/PM/8-k-philip-morris-international-inc-reports-material-event-e070ff618d80.html)
+- ✅ [Philip Morris Q1 2026 slides: smoke-free growth drives EPS beat — Investing.com](https://www.investing.com/news/company-news/philip-morris-q1-2026-slides-smokefree-growth-drives-eps-beat-93CH-4629874)
+- ✅ [Will Philip Morris Overcome FDA Worries About Nicotine Pouch Use? — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-overcome-fda-150146735.html)
+- 📎 [PM Q1 EPS soars, but currency masks U.S. ZYN destocking & organic growth — SignalBloom](https://www.signalbloom.ai/news/PM/philip-morris-q1-eps-soars-but-currency-masks-us-zyn-collapse-weak-organic-growth)
+
+Fact-check: revenue $10.15B (+9.1%); adj EPS $1.96 (+16%); smoke-free 43% of net rev; IQOS #1 brand; ZYN shipments
+−23.5% on inventory normalization (~25M surplus cans) but consumer offtake +10% (Nielsen); FY EPS update "for
+currency only." Corrections: ZYN dip framed as inventory not demand (offtake +10%); "raised guidance" → currency-only.
+
+---
+
 ## Topic: Coca-Cola / price-led growth + GLP-1 (article: "Coca-Cola Sells Barely More Soda Each Year and Charges Steadily More for It" — 2026-06-13T0025-coca-cola.md) [news]
 
 - ✅ [Coca-Cola Reports First Quarter 2026 Results and Updates Full Year Guidance — KO IR](https://investors.coca-colacompany.com/news-events/press-releases/detail/1158/coca-cola-reports-first-quarter-2026-results-and-updates-full-year-guidance)

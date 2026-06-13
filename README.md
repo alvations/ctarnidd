@@ -5,6 +5,23 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Philip Morris Is Priced as a Growth Stock on Nicotine Pouches Regulators Are Circling](2026-06-13T0055-philip-morris.md) · _2026-06-13_
+
+Philip Morris pulled off one of the great re-ratings — from cheap "sin stock" to consumer-growth compounder — on
+the back of its smoke-free transformation: IQOS (now the #1 nicotine brand in many markets) and ZYN, with
+smoke-free at 43% of revenue and adjusted EPS +16%. The transformation is real and largely earned. But the premium
+now prices a clean, perpetual smoke-free story onto a business still 57% combustible cigarettes, whose pouch and
+heated-tobacco growth engines sit squarely in the path of regulators (FDA, flavors, taxes) who spent a century
+constraining the products they replaced. This quarter's smoke-free shipments fell ~21% (ZYN −23.5%) on inventory
+normalization — consumer offtake actually grew ~10%, so it's noise, not collapse — but it shows the data is
+jaggeder than the narrative. A superb business, priced as though the hard part were already over. Fact-checked;
+see `audit/`.
+
+[![PM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PM&color=d6001c&cacheSeconds=300)](https://finance.yahoo.com/quote/PM)
+[![MO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MO&color=003087&cacheSeconds=300)](https://finance.yahoo.com/quote/MO)
+[![BTI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBTI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BTI&color=00543d&cacheSeconds=300)](https://finance.yahoo.com/quote/BTI)
+[![TPB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTPB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TPB&color=c8102e&cacheSeconds=300)](https://finance.yahoo.com/quote/TPB)
+
 ### [Coca-Cola Sells Barely More Soda Each Year and Charges Steadily More for It](2026-06-13T0025-coca-cola.md) · _2026-06-13_
 
 Coca-Cola's Q1 looked strong — organic revenue +10%, a beat, raised EPS guidance — but the number of drinks people
