@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Airbnb / volume-vs-price maturation (article: "Airbnb's Nights Grew 9% While Its Revenue Grew 18%, and the Gap Is the Tell" — 2026-06-12T2255-airbnb.md) [WSB]
+
+- ✅ [Airbnb Q1 2026 Form 8-K / shareholder letter (SEC)](https://www.sec.gov/Archives/edgar/data/0001559720/000119312526211816/d23351dex991.htm)
+- ✅ [Airbnb Q1 2026 financial results — Airbnb Newsroom](https://news.airbnb.com/airbnb-q1-2026-financial-results/)
+- ✅ [Airbnb (ABNB) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/05/07/airbnb-abnb-earnings-q1-2026.html)
+- ✅ [Airbnb lifts 2026 outlook after 18% Q1 revenue growth and $1.7B FCF (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/ABNB/8-k-airbnb-inc-reports-material-event-fa489e87ecd6.html)
+- ✅ [Airbnb (ABNB) Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/07/airbnb-abnb-q1-2026-earnings-call-transcript/)
+- 📎 [Airbnb Q1 2026 earnings: revenue beat, profit miss — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/airbnb-q1-2026-earnings-revenue-144323957.html)
+
+Fact-check: revenue +18% to $2.7B; GBV +19% to $29.2B; nights & seats booked +9% to 156.2M; net income $160M (6%,
+profit miss); FCF $1.7B (seasonally inflated); FY guide RAISED to low-to-mid teens / EBITDA margin ≥35%. No
+corrections; Q1 FCF seasonality + net-income miss noted in audit.
+
+---
+
 ## Topic: ServiceNow / AI story vs AI revenue (article: "ServiceNow's AI Is Under a Tenth of the Business and the Whole of the Story" — 2026-06-12T2225-servicenow.md) [news]
 
 - ✅ [ServiceNow Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000054/erq1fy26.htm)

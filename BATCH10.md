@@ -8,7 +8,7 @@ AND post-fact-check commit pushed.
 | # | status | slug | focus |
 |---|--------|------|-------|
 | 1 | done | 2026-06-12T2225-servicenow.md       | ServiceNow (NOW) — AI ACV ~$1.5B vs $15.75B rev; story >> revenue; seat dilemma [news] |
-| 2 | pending | TBD-airbnb.md           | Airbnb (ABNB) — decelerating core; spending the windfall hunting the next leg [WSB] |
+| 2 | done | 2026-06-12T2255-airbnb.md           | Airbnb (ABNB) — nights +9% vs revenue +18%; price carries it; reinvestment bet [WSB] |
 | 3 | pending | TBD-chipotle.md         | Chipotle (CMG) — tech multiple on a burrito chain as same-store traffic turns negative [news] |
 | 4 | pending | TBD-nike.md             | Nike (NKE) — the "turnaround" is a rebuild, not a rebound [WSB] |
 | 5 | pending | TBD-coca-cola.md        | Coca-Cola (KO) — growth is all price; flat volumes + the GLP-1 warning [news] |

@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Airbnb's Nights Grew 9% While Its Revenue Grew 18%, and the Gap Is the Tell](2026-06-12T2255-airbnb.md) · _2026-06-12_
+
+Airbnb had a strong quarter — revenue +18% to $2.7B, GBV +19%, $1.7B free cash flow, 35%+ EBITDA margin guide,
+raised outlook. But the number of nights and experiences people actually booked grew just 9% (to 156.2M). Revenue
+grew twice as fast because price and fees did the rest — the signature of a marketplace whose core volume is
+maturing into single digits while take-rate carries the headline. The fee engine has an affordability ceiling
+(it's now often cheaper to book a hotel), regulation is closing Airbnb's highest-value cities (NYC gutted,
+Barcelona phasing out) while growth migrates to lower-monetization emerging markets, and the company is spending
+its windfall to rebuild Experiences and Services — a second act that flopped the first time. A wonderful,
+cash-rich brand quietly telling you the core needs a successor. Fact-checked; see `audit/`.
+
+[![ABNB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FABNB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ABNB&color=ff5a5f&cacheSeconds=300)](https://finance.yahoo.com/quote/ABNB)
+[![BKNG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FBKNG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=BKNG&color=003580&cacheSeconds=300)](https://finance.yahoo.com/quote/BKNG)
+[![EXPE](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEXPE%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EXPE&color=fbcc33&cacheSeconds=300)](https://finance.yahoo.com/quote/EXPE)
+[![MAR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMAR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MAR&color=a0103d&cacheSeconds=300)](https://finance.yahoo.com/quote/MAR)
+
 ### [ServiceNow's AI Is Under a Tenth of the Business and the Whole of the Story](2026-06-12T2225-servicenow.md) · _2026-06-12_
 
 ServiceNow is an excellent enterprise-software platform — subscription revenue +22% to $3.67B, a $12.6B contracted
