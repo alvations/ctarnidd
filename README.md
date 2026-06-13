@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Coca-Cola Sells Barely More Soda Each Year and Charges Steadily More for It](2026-06-13T0025-coca-cola.md) · _2026-06-13_
+
+Coca-Cola's Q1 looked strong — organic revenue +10%, a beat, raised EPS guidance — but the number of drinks people
+actually consumed (unit case volume) rose just 3%. The headline was flattered by six extra selling days and
+concentrate-shipment timing; strip those out and organic growth matches the full-year guide of only 4-5%, most of
+it price, not volume. That's the durable pattern: KO grows mainly by charging more for roughly the same flow of
+drinks. The price lever now meets a stretched, K-shaped consumer (premium and value packs are the tell), and GLP-1
+weight-loss drugs press on the weaker lever — volume — with a "shift, don't abandon" defense resting on KO's own
+research. A magnificent, bond-like compounder whose serene premium assumes a steadiness the 3% doesn't quite
+promise. Fact-checked; see `audit/`.
+
+[![KO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KO&color=f40009&cacheSeconds=300)](https://finance.yahoo.com/quote/KO)
+[![PEP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPEP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PEP&color=004b93&cacheSeconds=300)](https://finance.yahoo.com/quote/PEP)
+[![KDP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKDP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KDP&color=a6093d&cacheSeconds=300)](https://finance.yahoo.com/quote/KDP)
+[![MNST](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMNST%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MNST&color=7ab800&cacheSeconds=300)](https://finance.yahoo.com/quote/MNST)
+
 ### [Nike's Turnaround Is Still Falling — Revenue Down, Margins Down, China Down 20%](2026-06-12T2355-nike.md) · _2026-06-12_
 
 The market has decided Nike's worst is behind it and prices the stock for a rebound. The Q3 FY2026 numbers describe

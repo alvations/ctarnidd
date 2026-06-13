@@ -11,7 +11,7 @@ AND post-fact-check commit pushed.
 | 2 | done | 2026-06-12T2255-airbnb.md           | Airbnb (ABNB) — nights +9% vs revenue +18%; price carries it; reinvestment bet [WSB] |
 | 3 | done | 2026-06-12T2325-chipotle.md         | Chipotle (CMG) — tech multiple; comps +0.5% (~flat), EPS -17%, margin -250bps [news] |
 | 4 | done | 2026-06-12T2355-nike.md             | Nike (NKE) — rebuild not rebound; rev -3% cn, GM -130bps, China -20% [WSB] |
-| 5 | pending | TBD-coca-cola.md        | Coca-Cola (KO) — growth is all price; flat volumes + the GLP-1 warning [news] |
+| 5 | done | 2026-06-13T0025-coca-cola.md        | Coca-Cola (KO) — volume +3%, growth is price; organic +10% timing-flattered; GLP-1 [news] |
 | 6 | pending | TBD-philip-morris.md    | Philip Morris (PM) — rerated on Zyn, a nicotine product regulators are circling [news] |
 | 7 | pending | TBD-roblox.md           | Roblox (RBLX) — a billion in bookings and still loses on every metric that counts [WSB] |
 | 8 | pending | TBD-cheniere.md         | Cheniere (LNG) — priced for permanent LNG demand on long contracts [news] |

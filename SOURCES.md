@@ -8,6 +8,21 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Coca-Cola / price-led growth + GLP-1 (article: "Coca-Cola Sells Barely More Soda Each Year and Charges Steadily More for It" — 2026-06-13T0025-coca-cola.md) [news]
+
+- ✅ [Coca-Cola Reports First Quarter 2026 Results and Updates Full Year Guidance — KO IR](https://investors.coca-colacompany.com/news-events/press-releases/detail/1158/coca-cola-reports-first-quarter-2026-results-and-updates-full-year-guidance)
+- ✅ [Coca-Cola Q1 revenue rises, updates 2026 view (KO) — StockTitan](https://www.stocktitan.net/news/KO/coca-cola-reports-first-quarter-2026-results-and-updates-full-year-7ssxy2uikvdb.html)
+- ✅ [Coca-Cola (KO) Q1 2026 earnings — CNBC](https://www.cnbc.com/2026/04/28/coca-cola-ko-q1-2026-earnings.html)
+- ✅ [Earnings call transcript: Coca-Cola Q1 2026 beats expectations — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-cocacola-q1-2026-beats-expectations-stock-surges-93CH-4641885)
+- ✅ [Coca-Cola responds to K-shaped economy with premium, value split — BeverageDaily](https://www.beveragedaily.com/Article/2026/04/29/coca-cola-responds-to-k-shaped-economy-with-premium-value-split/)
+- 📎 [Coca-Cola (KO) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/28/coca-cola-ko-q1-2026-earnings-transcript/)
+
+Fact-check: organic +10% = concentrate sales +8% (6 extra days + shipment timing) + price/mix +2%; unit case volume
++3%; ex-timing organic in line with FY guide +4-5% (comparable cc EPS +6-7%); GLP-1 shift-to-low/no-cal + mini
+cans; K-shaped premium/value. No corrections; "6 extra days" detail added for precision.
+
+---
+
 ## Topic: Nike / turnaround-not-rebound (article: "Nike's Turnaround Is Still Falling — Revenue Down, Margins Down, China Down 20%" — 2026-06-12T2355-nike.md) [WSB]
 
 - ✅ [Nike Q3 FY2026 Form 8-K (SEC)](https://www.sec.gov/Archives/edgar/data/320187/000032018726000026/q3fy26exhibit991er.htm)
