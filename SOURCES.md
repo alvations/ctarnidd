@@ -8,6 +8,22 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Wingstop / comp reversal + deflating premium (article: "Wingstop's Same-Store Sales Fell 9% and Its Software-Era Multiple Is Still Deflating" — 2026-06-14T0930-wingstop.md) [restaurants]
+
+- ✅ [Wingstop Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001636222/000163622226000015/a991wingearningsrelease.htm)
+- ✅ [Wingstop Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001636222/000163622226000017/wing-20260328.htm)
+- ✅ [Wingstop posts Q1 2026 growth despite 8.7% comp decline (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/WING/8-k-wingstop-inc-reports-material-event-bbdd3422e711.html)
+- ✅ [Wingstop (WING) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/29/wingstop-wing-q1-2026-earnings-transcript/)
+- ✅ [Wingstop (WING) Stock Valuation — Simply Wall St](https://simplywall.st/stocks/us/consumer-services/nasdaq-wing/wingstop/news/wingstop-wing-stock-valuation-after-expansion-push-and-ongoi/amp)
+- 📎 [WINGSTOP PE Ratio (TTM): 30.64 — GuruFocus](https://www.gurufocus.com/term/pettm/WING)
+
+Fact-check: domestic same-store sales -8.7% (vs +0.5%); rev $183.7M (+7.4%); system sales $1.4B (+5.9%); 97 net
+openings; adj EBITDA $65.4M (+9.9%); adj EPS $1.18; H2 recovery guide. Valuation: stock -15% to ~$145, fwd P/E ~30x
+(TTM ~37.5x, 66% below own median), sector ~17-21x. Correction: "trades like software / 70-80x" was the peak —
+de-rated to ~30x fwd; retitled + reframed to "software-era multiple still deflating, ~2x sector."
+
+---
+
 ## Topic: e.l.f. Beauty / bought growth masks organic stall (article: "e.l.f. Beauty's Sales Jumped 35%, but Strip Out the Acquisition and Growth Was 1%" — 2026-06-14T0900-elf-beauty.md) [consumer]
 
 - ✅ [e.l.f. Beauty Q4 FY2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001600033/000160003326000018/q42026er-991.htm)

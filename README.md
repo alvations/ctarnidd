@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Wingstop's Same-Store Sales Fell 9% and Its Software-Era Multiple Is Still Deflating](2026-06-14T0930-wingstop.md) · _2026-06-14_
+
+Wingstop's asset-light franchisor model is one of the best in restaurants, and for years the market paid a
+software-like multiple — near 100x at the peak — for its rare mix of rapid unit growth and double-digit same-store
+sales. Then Q1 2026 put the comp engine into reverse: domestic same-store sales fell 8.7% (from +0.5%). Revenue
+(+7.4%) and EBITDA (+9.9%) still grew, but only on 97 new openings and royalties on a bigger system — the existing
+restaurants did nearly nine percent less business. The stock has since fallen ~15% and the multiple has deflated to
+~30x forward earnings, still about double the restaurant sector and possibly not done. Management blames weather and
+gas prices and promises an H2 recovery; the premium leans on that promise. A wonderful franchise whose comp engine
+just showed it can run backwards. Fact-checked; see `audit/`.
+
+[![WING](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWING%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WING&color=00873c&cacheSeconds=300)](https://finance.yahoo.com/quote/WING)
+[![DPZ](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDPZ%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DPZ&color=006491&cacheSeconds=300)](https://finance.yahoo.com/quote/DPZ)
+[![YUM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FYUM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=YUM&color=a50034&cacheSeconds=300)](https://finance.yahoo.com/quote/YUM)
+[![QSR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FQSR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=QSR&color=512314&cacheSeconds=300)](https://finance.yahoo.com/quote/QSR)
+
 ### [e.l.f. Beauty's Sales Jumped 35%, but Strip Out the Acquisition and Growth Was 1%](2026-06-14T0900-elf-beauty.md) · _2026-06-14_
 
 e.l.f. was the hypergrowth darling of mass cosmetics — years of 20%+ organic growth from cheap, fast, social-native
