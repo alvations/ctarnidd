@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Albemarle / leveraged bet on the lithium price (article: "Albemarle's Earnings Swing From $1 Billion to $4 Billion on a Lithium Price It Can't Control" — 2026-06-14T1100-albemarle.md) [materials]
+
+- ✅ [Albemarle Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000915913/000091591326000070/a1q26earningsreleaseex991.htm)
+- ✅ [Albemarle Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0000915913/000091591326000072/alb-20260331.htm)
+- ✅ [Albemarle Q1 2026 slides: lithium recovery drives 148% EBITDA surge — Investing.com](https://www.investing.com/news/company-news/albemarle-q1-2026-slides-lithium-recovery-drives-148-ebitda-surge-93CH-4668743)
+- ✅ [Albemarle posts strong Q1 2026 on lithium and cuts $1.3B debt (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/ALB/8-k-albemarle-corp-reports-material-event-5b1602686828.html)
+- 📎 [Albemarle Earnings and Lithium Prices: Q1 2026 Recovery Explained — Discovery Alert](https://discoveryalert.com.au/albemarle-earnings-lithium-prices-q1-2026-recovery-cycle/)
+
+Fact-check: Q1 sales $1.4B (+33%); adj EBITDA $664M (+148%); adj EPS $2.95 (vs ~$1.19); Energy Storage sales +70% to
+$891M / EBITDA +196%; realized ~$17/kg; 2026 outlook adj EBITDA $0.9-1.0B at $10/kg / $2.4-2.6B at $20/kg / $4.2-4.4B
+at $30/kg; $1.3B debt cut (Eurecat + Ketjen). Premise reframed pre-draft (lithium recovered, not crashing). No corrections.
+
+---
+
 ## Topic: Enphase / earnings built on policy subsidies (article: "Enphase's Revenue Fell 21% and Its Margins Run on Subsidies Washington Is Repealing" — 2026-06-14T1030-enphase.md) [clean energy]
 
 - ✅ [Enphase Q1 2026 Form 8-K / press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001463101/000146310126000046/a2026q1exx991pressrelease.htm)

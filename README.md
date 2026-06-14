@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Albemarle's Earnings Swing From $1 Billion to $4 Billion on a Lithium Price It Can't Control](2026-06-14T1100-albemarle.md) · _2026-06-14_
+
+Albemarle, the world's largest lithium producer, just posted a strong recovery quarter — sales +33% to $1.4B,
+adjusted EBITDA +148% to $664M, EPS $2.95 against a ~$1.19 estimate, $1.3B of debt cut — and the market called it
+lithium's turn. But its own 2026 guidance is the real story: adjusted EBITDA of $0.9-1.0B at a $10/kg lithium price
+versus $4.2-4.4B at $30/kg. The entire earnings power of the company swings four-to-five-fold on a single volatile
+commodity price it cannot control or forecast — one that crashed ~80% from its 2022 peak. One quarter is a bounce,
+not a turn; the structural oversupply that caused the crash hasn't gone away; and the company's own rush to sell
+assets and cut debt is the clearest signal of how it really views the cycle. A world-class, low-cost leader that
+is, beneath it all, a leveraged bet on a price. Fact-checked; see `audit/`.
+
+[![ALB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FALB%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ALB&color=0a4595&cacheSeconds=300)](https://finance.yahoo.com/quote/ALB)
+[![SQM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSQM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SQM&color=e30613&cacheSeconds=300)](https://finance.yahoo.com/quote/SQM)
+[![LAC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FLAC%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=LAC&color=2e7d32&cacheSeconds=300)](https://finance.yahoo.com/quote/LAC)
+[![PLL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPLL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PLL&color=8a6d3b&cacheSeconds=300)](https://finance.yahoo.com/quote/PLL)
+
 ### [Enphase's Revenue Fell 21% and Its Margins Run on Subsidies Washington Is Repealing](2026-06-14T1030-enphase.md) · _2026-06-14_
 
 Enphase makes the best microinverters in residential solar and was once a clean-energy compounder. Q1 2026 was a

@@ -13,7 +13,7 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 | 3  | done | 2026-06-14T0930-wingstop.md       | Wingstop (WING) — comps -8.7%; software-era multiple deflating to ~30x fwd [restaurants] |
 | 4  | done | 2026-06-14T1000-dexcom.md         | DexCom (DXCM) — growth slowed to 12%; Abbott + GLP-1 two-edged [medtech] |
 | 5  | done | 2026-06-14T1030-enphase.md        | Enphase (ENPH) — rev -21%, demand cliff; earnings run on IRA subsidies being repealed [clean energy] |
-| 6  | pending | TBD-albemarle.md      | Albemarle (ALB) — lithium king through a brutal oversupply price crash [materials] |
+| 6  | done | 2026-06-14T1100-albemarle.md      | Albemarle (ALB) — EBITDA swings $1B-$4B on the lithium price; bounce not a turn [materials] |
 | 7  | pending | TBD-axon.md           | Axon (AXON) — taser/body-cam recurring revenue priced for perfection [public-safety tech] |
 | 8  | pending | TBD-celsius.md        | Celsius (CELH) — energy-drink hypergrowth decelerating post-PepsiCo deal [beverages] |
 | 9  | pending | TBD-wayfair.md        | Wayfair (W) — a never-profitable furniture e-tailer on a consumer cliff [e-commerce] |
