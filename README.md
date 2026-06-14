@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [e.l.f. Beauty's Sales Jumped 35%, but Strip Out the Acquisition and Growth Was 1%](2026-06-14T0900-elf-beauty.md) · _2026-06-14_
+
+e.l.f. was the hypergrowth darling of mass cosmetics — years of 20%+ organic growth from cheap, fast, social-native
+product. Its Q4 net sales rose 35%… but ~34 of those points were the Rhode (Hailey Bieber) acquisition it bought
+($113M), and organic growth, stripped of the deal, was about 1%. A company the market still prices as a growth
+machine grew its underlying business by one percent. Meanwhile the low-cost model that is the whole brand — six-
+dollar dupes — runs on Chinese manufacturing now carrying a ~55% average tariff, so tariffs squeeze either the
+price advantage or the margin; and FY2027 guidance came in below expectations. The brand, runway, and Rhode are
+genuinely good — but the premium prices a hypergrowth rate the core has, for now, stopped producing. Fact-checked;
+see `audit/`.
+
+[![ELF](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FELF%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ELF&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/ELF)
+[![EL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EL&color=003a70&cacheSeconds=300)](https://finance.yahoo.com/quote/EL)
+[![COTY](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCOTY%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=COTY&color=e4002b&cacheSeconds=300)](https://finance.yahoo.com/quote/COTY)
+[![ULTA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FULTA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ULTA&color=ff6900&cacheSeconds=300)](https://finance.yahoo.com/quote/ULTA)
+
 ### [Old Dominion Trades at 45 Times Earnings While Its Freight Volumes Keep Falling](2026-06-14T0830-old-dominion.md) · _2026-06-14_
 
 Old Dominion is the best-run trucking company in America — the lowest operating ratio in less-than-truckload, a

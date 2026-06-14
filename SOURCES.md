@@ -8,6 +8,18 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: e.l.f. Beauty / bought growth masks organic stall (article: "e.l.f. Beauty's Sales Jumped 35%, but Strip Out the Acquisition and Growth Was 1%" — 2026-06-14T0900-elf-beauty.md) [consumer]
+
+- ✅ [e.l.f. Beauty Q4 FY2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001600033/000160003326000018/q42026er-991.htm)
+- ✅ [e.l.f. Beauty FY2026 Form 10-K (SEC)](https://www.sec.gov/Archives/edgar/data/0001600033/000160003326000020/elf-20260331.htm)
+- ✅ [E.l.f. Beauty (ELF) earnings Q4 2026 — CNBC](https://www.cnbc.com/2026/05/20/elf-beauty-elf-earnings-q4-2026.html)
+- ✅ [e.l.f. Beauty (ELF) Q4 2026 Earnings Transcript — Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/ELF/pressreleases/2049769/elf-beauty-elf-q4-2026-earnings-transcript/)
+
+Fact-check: net sales +35% to $449.3M; Rhode $113M (~34pp) → organic ~1%; avg tariff ~55% FY26 (35% FY27 assumption);
+GM +140bps to 73%; $57.6M Rhode earnout adj; FY27 guide $1.84-1.87B / EPS $3.27-3.32 (below estimates). No corrections.
+
+---
+
 ## Topic: Old Dominion / cyclical priced as secular (article: "Old Dominion Trades at 45 Times Earnings While Its Freight Volumes Keep Falling" — 2026-06-14T0830-old-dominion.md) [industrials]
 
 - ✅ [Old Dominion Reports First Quarter 2026 Earnings — ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/342/old-dominion-freight-line-reports-first-quarter-2026)

@@ -9,7 +9,7 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 | # | status | slug | focus |
 |---|--------|------|-------|
 | 1  | done | 2026-06-14T0830-old-dominion.md   | Old Dominion (ODFL) — ~45x on a freight cyclical at a trough; volumes -7.7% [industrials] |
-| 2  | pending | TBD-elf-beauty.md     | e.l.f. Beauty (ELF) — hypergrowth cosmetics decelerating into a rich multiple [consumer] |
+| 2  | done | 2026-06-14T0900-elf-beauty.md     | e.l.f. Beauty (ELF) — +35% sales but ~1% organic; Rhode carries it; China tariffs [consumer] |
 | 3  | pending | TBD-wingstop.md       | Wingstop (WING) — a wings franchise at a software multiple as comps cool [restaurants] |
 | 4  | pending | TBD-dexcom.md         | DexCom (DXCM) — CGM growth vs Abbott + the GLP-1 question [medtech] |
 | 5  | pending | TBD-enphase.md        | Enphase (ENPH) — solar microinverter demand fell off a cliff; policy risk [clean energy] |
