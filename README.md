@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Enphase's Revenue Fell 21% and Its Margins Run on Subsidies Washington Is Repealing](2026-06-14T1030-enphase.md) · _2026-06-14_
+
+Enphase makes the best microinverters in residential solar and was once a clean-energy compounder. Q1 2026 was a
+policy-driven downturn: revenue −21% to $282.9M, adjusted EPS −31%, battery shipments −39%, and reported GAAP gross
+margin caved to 35.5% — dragged by a loss on selling the manufacturing tax credits it banks on (underlying non-GAAP
+margin was a healthier 43.9%). The double dependence is the story: demand rests on the residential solar tax credit
+(expired) and margins rest on IRA manufacturing credits (value falling) — both being repealed by Washington. Channel
+inventory is bloated (more destocking ahead), financing costs are high, and rival SolarEdge already showed how
+violent a solar-hardware bust can be. A genuinely excellent, well-capitalized company ($83M FCF even in the trough)
+whose recent fortune ran on subsidies now being switched off. Fact-checked; see `audit/`.
+
+[![ENPH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FENPH%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ENPH&color=f7941e&cacheSeconds=300)](https://finance.yahoo.com/quote/ENPH)
+[![SEDG](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSEDG%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SEDG&color=ee2737&cacheSeconds=300)](https://finance.yahoo.com/quote/SEDG)
+[![RUN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRUN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RUN&color=00b4e6&cacheSeconds=300)](https://finance.yahoo.com/quote/RUN)
+[![FSLR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FFSLR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=FSLR&color=0b3d91&cacheSeconds=300)](https://finance.yahoo.com/quote/FSLR)
+
 ### [DexCom's Glucose-Monitor Growth Slowed to 12% as Abbott Gains and GLP-1 Cuts Both Ways](2026-06-14T1000-dexcom.md) · _2026-06-14_
 
 DexCom helped invent the continuous glucose monitor and grew like a tech company for a decade, earning a premium

@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Enphase / earnings built on policy subsidies (article: "Enphase's Revenue Fell 21% and Its Margins Run on Subsidies Washington Is Repealing" — 2026-06-14T1030-enphase.md) [clean energy]
+
+- ✅ [Enphase Q1 2026 Form 8-K / press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001463101/000146310126000046/a2026q1exx991pressrelease.htm)
+- ✅ [Enphase Q1 2026 revenue falls 21%, posts loss (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/ENPH/10-q-enphase-energy-inc-quarterly-earnings-report-12d87f0ffc25.html)
+- ✅ [Enphase Q1 revenue falls to $282.9M, non-GAAP EPS $0.47 — StockTitan](https://www.stocktitan.net/news/ENPH/enphase-energy-reports-financial-results-for-the-first-quarter-of-w64000lkqy0a.html)
+- ✅ [Enphase (ENPH) Reports Q1 Revenue Decline Amid Weak Solar Demand — GuruFocus](https://www.gurufocus.com/news/8826153/enphase-energy-enph-reports-q1-revenue-decline-amid-weak-solar-demand)
+- 📎 [Enphase (ENPH) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/28/enphase-enph-q1-2026-earnings-transcript/)
+
+Fact-check: revenue $282.9M (-21%, NOT -28.6%); adj EPS $0.47 (-31%); GAAP net loss $7.4M; FCF $83M; IQ Battery MWh
+-39%, microinverters -8%; GAAP gross margin 35.5% (loss on $235M 45X credit sale) vs non-GAAP 43.9%; channel
+inventory bloated; Q2 guide $280-310M. Corrections: -21% (not -28.6%); GAAP-vs-non-GAAP margin clarified; FCF added.
+
+---
+
 ## Topic: DexCom / CGM deceleration + GLP-1 two-edged (article: "DexCom's Glucose-Monitor Growth Slowed to 12% as Abbott Gains and GLP-1 Cuts Both Ways" — 2026-06-14T1000-dexcom.md) [medtech]
 
 - ✅ [DexCom Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001093557/000109355726000072/dxcm3312026-exhibit991.htm)
