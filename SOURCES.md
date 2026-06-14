@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Celsius / bought growth masks flagship deceleration (article: "Celsius's Revenue Grew 138%, but Its Flagship Energy Drink Grew Just 6%" — 2026-06-14T1200-celsius.md) [beverages]
+
+- ✅ [Celsius Holdings Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001341766/000134176626000035/ex9911q2026.htm)
+- ✅ [Celsius Holdings Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001341766/000134176626000039/celh-20260331.htm)
+- ✅ [Celsius Q1 2026 slides: acquisition-fueled growth pushes share to 21% — Investing.com](https://www.investing.com/news/company-news/celsius-q1-2026-slides-acquisitionfueled-growth-pushes-share-to-21-93CH-4681980)
+- ✅ [Celsius Holdings posts 138% Q1 2026 revenue growth (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/CELH/8-k-celsius-holdings-inc-reports-material-event-800fa8ff515c.html)
+- 📎 [Celsius Holdings Beat Q1 2026 Estimates With $783M in Revenue — TIKR](https://www.tikr.com/blog/celsius-holdings-beat-q1-2026-estimates-with-783m-in-revenue-heres-where-celh-could-go-in-2026)
+
+Fact-check: rev $782.6M (+138% from $329.3M); Alani Nu ~$368M; flagship CELSIUS brand +6%; Rockstar -13%; Alani Nu
+retail +100%; PepsiCo 59% of revenue / 45.5% receivables; ~20.9% category share; gross margin 48.3% (-400bps); net
+income $110.1M; adj EBITDA $195.5M. No corrections.
+
+---
+
 ## Topic: Axon / priced for perfection (article: "Axon Is Nearly Flawless and Priced at 57x Earnings to Never Stop Being So" — 2026-06-14T1130-axon.md) [public-safety tech]
 
 - ✅ [Axon reports Q1 2026 revenue of $807 million, up 34% — Axon IR](https://investor.axon.com/2026-05-06-Axon-reports-Q1-2026-revenue-of-807-million,-up-34-year-over-year)

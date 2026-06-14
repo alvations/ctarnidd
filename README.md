@@ -5,6 +5,21 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Celsius's Revenue Grew 138%, but Its Flagship Energy Drink Grew Just 6%](2026-06-14T1200-celsius.md) · _2026-06-14_
+
+Celsius was the hypergrowth energy-drink darling, and Q1 2026 revenue +138% to $782.6M looks like more of the same.
+But almost all of it was acquired — Alani Nu (~$368M) and Rockstar — while the flagship CELSIUS brand grew just 6%.
+The market still prices a hypergrowth phenomenon; the core brand grew single digits. Underneath: a towering 59%
+dependence on PepsiCo (which has already crashed the stock once by destocking), gross margin down 400bps to 48.3%
+as the lower-margin acquired brands dilute the mix, a declining Rockstar (−13%), and a maturing, crowded category.
+Alani Nu (+100%) is a genuinely great deal and the company is solidly profitable — but the hypergrowth now lives in
+M&A, not the flagship, and the multiple hasn't noticed. Fact-checked; see `audit/`.
+
+[![CELH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCELH%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CELH&color=00a3e0&cacheSeconds=300)](https://finance.yahoo.com/quote/CELH)
+[![MNST](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMNST%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MNST&color=7ab800&cacheSeconds=300)](https://finance.yahoo.com/quote/MNST)
+[![KDP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FKDP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=KDP&color=a6093d&cacheSeconds=300)](https://finance.yahoo.com/quote/KDP)
+[![PEP](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPEP%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PEP&color=004b93&cacheSeconds=300)](https://finance.yahoo.com/quote/PEP)
+
 ### [Axon Is Nearly Flawless and Priced at 57x Earnings to Never Stop Being So](2026-06-14T1130-axon.md) · _2026-06-14_
 
 Axon is one of the finest growth companies in the market — a near-monopoly in US law-enforcement tech (Taser, body
