@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Axon Is Nearly Flawless and Priced at 57x Earnings to Never Stop Being So](2026-06-14T1130-axon.md) · _2026-06-14_
+
+Axon is one of the finest growth companies in the market — a near-monopoly in US law-enforcement tech (Taser, body
+cameras, the evidence cloud, and now AI), with Q1 2026 revenue +34% to $807M (its ninth straight quarter above
+30%), ARR +35% to $1.5B, 125% net revenue retention, a $14.3B contracted backlog, and AI revenue up over 700%. The
+business is close to flawless, which is exactly the catch: at ~57x forward earnings, the stock prices that
+flawlessness as permanent. The customer is the government budget (cyclical, political); the dazzling new markets
+(AI, counter-drone, enterprise) are early and valued as already won; heavy stock comp flatters the earnings; and a
+near-monopoly invites the scrutiny that can cap pricing power. A genuinely elite company whose only real flaw is the
+price — where, at 57x, very good would be a disappointment. Fact-checked; see `audit/`.
+
+[![AXON](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAXON%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AXON&color=000000&cacheSeconds=300)](https://finance.yahoo.com/quote/AXON)
+[![MSI](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FMSI%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=MSI&color=0066cc&cacheSeconds=300)](https://finance.yahoo.com/quote/MSI)
+[![PLTR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPLTR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PLTR&color=101820&cacheSeconds=300)](https://finance.yahoo.com/quote/PLTR)
+[![CRWD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FCRWD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=CRWD&color=e01a22&cacheSeconds=300)](https://finance.yahoo.com/quote/CRWD)
+
 ### [Albemarle's Earnings Swing From $1 Billion to $4 Billion on a Lithium Price It Can't Control](2026-06-14T1100-albemarle.md) · _2026-06-14_
 
 Albemarle, the world's largest lithium producer, just posted a strong recovery quarter — sales +33% to $1.4B,

@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Axon / priced for perfection (article: "Axon Is Nearly Flawless and Priced at 57x Earnings to Never Stop Being So" — 2026-06-14T1130-axon.md) [public-safety tech]
+
+- ✅ [Axon reports Q1 2026 revenue of $807 million, up 34% — Axon IR](https://investor.axon.com/2026-05-06-Axon-reports-Q1-2026-revenue-of-807-million,-up-34-year-over-year)
+- ✅ [Axon Q1 2026 slides: AI revenue surges 700%, guidance raised — Investing.com](https://www.investing.com/news/company-news/axon-q1-2026-slides-ai-revenue-surges-700-guidance-raised-93CH-4666034)
+- ✅ [Axon Enterprise (AXON) Q1 2026 earnings summary — Quartr](https://quartr.com/events/axon-enterprise-inc-axon-q1-2026_3sK5dT3x)
+- ✅ [Axon reports Q1 2026 revenue of $807 million — PR Newswire](https://www.prnewswire.com/news-releases/axon-reports-q1-2026-revenue-of-807-million-up-34-year-over-year-302764625.html)
+- 📎 [Axon... Analysts Target $708 (valuation/multiple) — TIKR](https://www.tikr.com/blog/axon-enterprise-beats-q4-eps-by-34-as-analysts-target-708-with-80-upside)
+
+Fact-check: rev $807.3M (+34%, 9th straight qtr >30%); ARR $1.5B (+35%); NRR 125%; bookings $14.3B (+44%); AI rev
++700%; net income $169.3M; adj EBITDA $202M (25%); FY guide raised 30-32%; ~57x fwd P/E (vs 80-100x historical). No
+corrections. Bear case is almost entirely valuation.
+
+---
+
 ## Topic: Albemarle / leveraged bet on the lithium price (article: "Albemarle's Earnings Swing From $1 Billion to $4 Billion on a Lithium Price It Can't Control" — 2026-06-14T1100-albemarle.md) [materials]
 
 - ✅ [Albemarle Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000915913/000091591326000070/a1q26earningsreleaseex991.htm)
