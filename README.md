@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [DexCom's Glucose-Monitor Growth Slowed to 12% as Abbott Gains and GLP-1 Cuts Both Ways](2026-06-14T1000-dexcom.md) · _2026-06-14_
+
+DexCom helped invent the continuous glucose monitor and grew like a tech company for a decade, earning a premium
+medtech multiple. Q1 2026 was good — revenue +15% to $1.19B, gross margin up to 63.5% from 57.5%, raised margin
+guidance. But organic growth has stepped down to ~12% (FY guide 11-13%), a clear move off its hypergrowth past as
+the high-value US insulin market matures; Abbott's Libre keeps pressing for share in exactly the lower-value type-2
+and basal segments DexCom needs next; and the biggest long-term variable — what GLP-1 drugs do to diabetes — cuts
+both ways, a near-term tailwind (Stelo, metabolic awareness) but a possible long-term drain on the high-value
+insulin-progression pool. A genuinely excellent device leader whose decelerating, contested, GLP-1-exposed growth
+the market is still pricing optimistically. Fact-checked; see `audit/`.
+
+[![DXCM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDXCM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DXCM&color=00a3e0&cacheSeconds=300)](https://finance.yahoo.com/quote/DXCM)
+[![ABT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FABT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ABT&color=00857c&cacheSeconds=300)](https://finance.yahoo.com/quote/ABT)
+[![PODD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPODD%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PODD&color=ff6a13&cacheSeconds=300)](https://finance.yahoo.com/quote/PODD)
+[![TNDM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FTNDM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=TNDM&color=6c3c97&cacheSeconds=300)](https://finance.yahoo.com/quote/TNDM)
+
 ### [Wingstop's Same-Store Sales Fell 9% and Its Software-Era Multiple Is Still Deflating](2026-06-14T0930-wingstop.md) · _2026-06-14_
 
 Wingstop's asset-light franchisor model is one of the best in restaurants, and for years the market paid a

@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: DexCom / CGM deceleration + GLP-1 two-edged (article: "DexCom's Glucose-Monitor Growth Slowed to 12% as Abbott Gains and GLP-1 Cuts Both Ways" — 2026-06-14T1000-dexcom.md) [medtech]
+
+- ✅ [DexCom Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001093557/000109355726000072/dxcm3312026-exhibit991.htm)
+- ✅ [DexCom Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001093557/000109355726000073/dxcm-20260331.htm)
+- ✅ [DexCom Reports Q1 2026 Revenue of $1.19B with 15% Growth — Insider Monkey](https://www.insidermonkey.com/blog/dexcom-dxcm-reports-q1-2026-revenue-of-1-19b-with-15-growth-1755468/)
+- ✅ [DexCom (DXCM) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/30/dexcom-dxcm-q1-2026-earnings-transcript/)
+- 📎 [Dexcom Q1 2026 earnings beat with 15% revenue growth — ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/ueberblick/dexcom-stock-us2521311074-q1-2026-earnings-beat-with-15-percent/69325686)
+
+Fact-check: revenue $1.19B (+15%/+12% organic); US +11%, intl +26%; gross margin 63.5% (+600bps); EPS $0.52 (from
+$0.27); net income +89%; FY guide $5.16-5.25B (11-13%, confirms low-teens deceleration); raised op+EBITDA margin
+targets. No exact P/E (qualitative premium). GLP-1 framed two-sided. No corrections.
+
+---
+
 ## Topic: Wingstop / comp reversal + deflating premium (article: "Wingstop's Same-Store Sales Fell 9% and Its Software-Era Multiple Is Still Deflating" — 2026-06-14T0930-wingstop.md) [restaurants]
 
 - ✅ [Wingstop Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001636222/000163622226000015/a991wingearningsrelease.htm)
