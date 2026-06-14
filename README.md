@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Old Dominion Trades at 45 Times Earnings While Its Freight Volumes Keep Falling](2026-06-14T0830-old-dominion.md) · _2026-06-14_
+
+Old Dominion is the best-run trucking company in America — the lowest operating ratio in less-than-truckload, a
+debt-free balance sheet, a record of taking share every cycle. It's also a cyclical, and it's in a freight
+recession: Q1 2026 revenue −2.9%, EPS −4.2%, tonnage −7.7%, shipments −7.9%, operating ratio worse. Yet the stock
+is up 63% in six months at ~45x earnings — a software multiple on a hauler of pallets whose volumes are shrinking.
+That's a peak multiple at a cyclical trough: the recovery is fully priced before the results show it, pricing
+discipline can't replace lost volume, and even Simply Wall St calls the valuation "ahead of fundamentals." A
+wonderful operator whose quality the market has mistaken for immunity from its own cycle. Fact-checked; see
+`audit/`.
+
+[![ODFL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FODFL%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=ODFL&color=00529b&cacheSeconds=300)](https://finance.yahoo.com/quote/ODFL)
+[![SAIA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FSAIA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=SAIA&color=e31837&cacheSeconds=300)](https://finance.yahoo.com/quote/SAIA)
+[![XPO](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FXPO%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=XPO&color=e2231a&cacheSeconds=300)](https://finance.yahoo.com/quote/XPO)
+[![JBHT](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FJBHT%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=JBHT&color=f7901e&cacheSeconds=300)](https://finance.yahoo.com/quote/JBHT)
+
 ### [Intuit's TurboTax Cash Cow Rests on a Friction Washington Just Spared It](2026-06-13T0255-intuit.md) · _2026-06-13_
 
 Intuit is priced as a premium AI compounder, and most of the business earns it — revenue +10% to $8.6B, $4B

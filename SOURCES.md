@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Old Dominion / cyclical priced as secular (article: "Old Dominion Trades at 45 Times Earnings While Its Freight Volumes Keep Falling" — 2026-06-14T0830-old-dominion.md) [industrials]
+
+- ✅ [Old Dominion Reports First Quarter 2026 Earnings — ODFL IR](https://ir.odfl.com/news-events/press-releases/detail/342/old-dominion-freight-line-reports-first-quarter-2026)
+- ✅ [Old Dominion Q1 revenue dips 3%, profit down 6% (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/ODFL/10-q-old-dominion-freight-line-inc-quarterly-earnings-report-76d9ed367bba.html)
+- ✅ [ODFL posts Q1 2026 EPS of $1.14 on lower revenue (8-K) — StockTitan](https://www.stocktitan.net/sec-filings/ODFL/8-k-old-dominion-freight-line-inc-reports-material-event-6da8a836cd97.html)
+- ✅ [Old Dominion (ODFL) Valuation Check — Simply Wall St](https://simplywall.st/stocks/us/transportation/nasdaq-odfl/old-dominion-freight-line/news/old-dominion-freight-line-odfl-valuation-check-after-earning)
+- ✅ [ODFL Reports Improving Q1 Demand Despite Top-Line Decline — Transport Topics](https://www.ttnews.com/articles/odfl-earnings-Q1-2026)
+- 📎 [Old Dominion (ODFL) Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/29/old-dominion-odfl-q1-2026-earnings-transcript/)
+
+Fact-check: rev $1.33B (-2.9%); EPS $1.14 (-4.2%); tonnage -7.7%; OR 76.2% (+80bps); rev/shipment ex-fuel +4.7%;
+stock +63%/6mo; P/E ~45x (44.35); "valuation ahead of fundamentals." No corrections.
+
+---
+
 ## Topic: Intuit / TurboTax moat is a political truce (article: "Intuit's TurboTax Cash Cow Rests on a Friction Washington Just Spared It" — 2026-06-13T0255-intuit.md) [news]
 
 - ✅ [Intuit Reports Strong Q3 Results and Raises Full-Year Guidance — Intuit IR](https://investors.intuit.com/news-events/press-releases/detail/1312/intuit-reports-strong-third-quarter-results-and-raises-full-year-revenue-guidance)

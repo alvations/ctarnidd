@@ -8,7 +8,7 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 
 | # | status | slug | focus |
 |---|--------|------|-------|
-| 1  | pending | TBD-old-dominion.md   | Old Dominion (ODFL) — premium multiple on a freight cyclical in a freight recession [industrials] |
+| 1  | done | 2026-06-14T0830-old-dominion.md   | Old Dominion (ODFL) — ~45x on a freight cyclical at a trough; volumes -7.7% [industrials] |
 | 2  | pending | TBD-elf-beauty.md     | e.l.f. Beauty (ELF) — hypergrowth cosmetics decelerating into a rich multiple [consumer] |
 | 3  | pending | TBD-wingstop.md       | Wingstop (WING) — a wings franchise at a software multiple as comps cool [restaurants] |
 | 4  | pending | TBD-dexcom.md         | DexCom (DXCM) — CGM growth vs Abbott + the GLP-1 question [medtech] |
