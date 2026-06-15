@@ -28,6 +28,17 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 | 18 | pending | TBD-exact-sciences.md | Exact Sciences (EXAS) — Cologuard's growth vs persistent losses + new rivals [diagnostics] |
 | 19 | pending | TBD-sweetgreen.md     | Sweetgreen (SG) — premium-salad growth story still losing money on every bowl [restaurants] |
 | 20 | pending | TBD-planet-fitness.md | Planet Fitness (PLNT) — the $10 gym franchise priced for flawless expansion [consumer/fitness] |
+| 21 | pending | TBD-builders-firstsource.md | Builders FirstSource (BLDR) — building-products roll-up on a frozen housing market [building products] |
+| 22 | pending | TBD-sarepta.md        | Sarepta (SRPT) — gene-therapy growth shadowed by patient-safety deaths [biotech] |
+| 23 | pending | TBD-carmax.md         | CarMax (KMX) — used-car retailer squeezed by affordability and rates [auto retail] |
+| 24 | pending | TBD-lamb-weston.md    | Lamb Weston (LW) — frozen-fry giant facing a capacity glut + GLP-1 [packaged food] |
+| 25 | pending | TBD-cf-industries.md  | CF Industries (CF) — nitrogen fertilizer earnings ride the natural-gas spread [agriculture/materials] |
+| 26 | pending | TBD-etsy.md           | Etsy (ETSY) — a handmade marketplace whose buyers keep leaving [e-commerce] |
+| 27 | pending | TBD-paycom.md         | Paycom (PAYC) — HCM software whose own automation eats the seats it bills [software] |
+| 28 | pending | TBD-five-below.md     | Five Below (FIVE) — discount-retail growth story meeting the tariff + value-consumer squeeze [retail] |
+
+## Extension (2026-06-15): user re-issued "do 20 more, varied sectors, S&P 1000/1500" while Batch 11 had 12 pending.
+Folded into this manifest: 12 carryover (rows 9-20) + 8 new (rows 21-28) = 20 pending = the requested "20 more."
 
 ## Per-article workflow
 1. Research (2-3 web searches) → write (2,900+ prose words), editorial-only, date-stamped filename, 4 live badges.
