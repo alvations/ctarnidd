@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Wayfair's Best Quarter in Years Still Ended in a $105 Million Loss](2026-06-14T1230-wayfair.md) · _2026-06-14_
+
+Wayfair, the largest online furniture retailer, has staged a real cost-driven turnaround: Q1 2026 revenue +7.4% to
+$2.9B and adjusted EBITDA at a 5.2% margin, its best first quarter in five years. But the bottom line of its best
+quarter in years was still a $105 million net loss — and after more than a decade public, through booms and busts,
+it has almost never earned a consistent GAAP profit. Active customers grew just 1.4% (the flywheel has stalled; the
+growth is spend-per-customer); it carries ~$3B of debt whose interest helps keep GAAP negative; and its big-ticket,
+housing-linked category sits squarely on a frozen housing market and a stretched consumer. The market keeps pricing
+the profitable platform Wayfair might become; the statements keep describing the thin-margin, cyclical, money-losing
+retailer it has always been. Fact-checked; see `audit/`.
+
+[![W](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FW%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=W&color=7b189f&cacheSeconds=300)](https://finance.yahoo.com/quote/W)
+[![RH](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FRH%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=RH&color=1a1a1a&cacheSeconds=300)](https://finance.yahoo.com/quote/RH)
+[![WSM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FWSM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=WSM&color=5b6770&cacheSeconds=300)](https://finance.yahoo.com/quote/WSM)
+[![AMZN](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FAMZN%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=AMZN&color=ff9900&cacheSeconds=300)](https://finance.yahoo.com/quote/AMZN)
+
 ### [Celsius's Revenue Grew 138%, but Its Flagship Energy Drink Grew Just 6%](2026-06-14T1200-celsius.md) · _2026-06-14_
 
 Celsius was the hypergrowth energy-drink darling, and Q1 2026 revenue +138% to $782.6M looks like more of the same.

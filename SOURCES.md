@@ -8,6 +8,19 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Wayfair / perennial losses on a consumer cliff (article: "Wayfair's Best Quarter in Years Still Ended in a $105 Million Loss" — 2026-06-14T1230-wayfair.md) [e-commerce]
+
+- ✅ [Wayfair Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001616707/000161670726000110/a2026-04x30ex991.htm)
+- ✅ [Wayfair Q1 2026 Form 10-Q (SEC)](https://www.sec.gov/Archives/edgar/data/0001616707/000161670726000113/w-20260331.htm)
+- ✅ [Wayfair posts Q1 2026 revenue $2.93B, gross profit $880M, adj EPS $0.26 — TradingView](https://www.tradingview.com/news/tradingview:dad7e5bbd93a9:0-wayfair-posts-q1-2026-revenue-2-93b-gross-profit-880m-and-adjusted-diluted-eps-0-26/)
+- ✅ [Wayfair grows Q1 2026 sales but posts net loss (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/W/10-q-wayfair-inc-quarterly-earnings-report-1163473d7e92.html)
+- 📎 [Wayfair (W) Q1 2026 earnings summary — Quartr](https://quartr.com/events/wayfair-inc-w-q1-2026_3P7a2DQX)
+
+Fact-check: rev $2.9B (+7.4%); 21.4M active customers (+1.4%); net loss $105M; adj EBITDA $151M (5.2%, best Q1 in 5
+yrs); gross profit $880M (30%); cash $1.1B / liquidity $1.5B; long-term debt $2.93B (~$3B). No corrections.
+
+---
+
 ## Topic: Celsius / bought growth masks flagship deceleration (article: "Celsius's Revenue Grew 138%, but Its Flagship Energy Drink Grew Just 6%" — 2026-06-14T1200-celsius.md) [beverages]
 
 - ✅ [Celsius Holdings Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001341766/000134176626000035/ex9911q2026.htm)
