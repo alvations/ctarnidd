@@ -8,6 +8,20 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Iron Mountain / re-rated as a data-center play (article: "Iron Mountain Is Priced as a Data-Center Play While Data Centers Are 13% of Revenue" — 2026-06-14T1300-iron-mountain.md) [REIT]
+
+- ✅ [Iron Mountain Reports First Quarter 2026 Results — IRM IR](https://investors.ironmountain.com/news/news-details/2026/Iron-Mountain-Reports-First-Quarter-2026-Results/default.aspx)
+- ✅ [Iron Mountain Q1 2026 Form 8-K / earnings press release (SEC)](https://www.sec.gov/Archives/edgar/data/0001020569/000102056926000036/q12026earningspressrelea.htm)
+- ✅ [Iron Mountain Q1 2026 slides: record results drive guidance raise — Investing.com](https://www.investing.com/news/company-news/iron-mountain-q1-2026-slides-record-results-drive-guidance-raise-93CH-4659848)
+- ✅ [Iron Mountain Inc (IRM) Q1 2026 Earnings Call Highlights — GuruFocus](https://www.gurufocus.com/news/8836238/iron-mountain-inc-irm-q1-2026-earnings-call-highlights-strong-growth-across-key-segments)
+- 📎 [Iron Mountain posts strong Q1 2026 growth (10-Q) — StockTitan](https://www.stocktitan.net/sec-filings/IRM/10-q-iron-mountain-inc-quarterly-earnings-report-e496a099bdf0.html)
+
+Fact-check: rev $1.94B (+22%); organic +17.2% (best in 25+ yrs); data center $255M (+47%, ~13% of total); ALM $232M
+(+92%); AFFO $426M / $1.43/sh (+22%); adj EBITDA $707.9M (+22%); raised guide; leverage 4.8x; long-term debt $17.10B.
+No corrections.
+
+---
+
 ## Topic: Wayfair / perennial losses on a consumer cliff (article: "Wayfair's Best Quarter in Years Still Ended in a $105 Million Loss" — 2026-06-14T1230-wayfair.md) [e-commerce]
 
 - ✅ [Wayfair Q1 2026 Form 8-K / earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001616707/000161670726000110/a2026-04x30ex991.htm)

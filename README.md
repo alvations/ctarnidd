@@ -5,6 +5,22 @@ date-stamped (`YYYY-MM-DDThhmm-<slug>.md`) to record when each was published.
 
 ## Articles
 
+### [Iron Mountain Is Priced as a Data-Center Play While Data Centers Are 13% of Revenue](2026-06-14T1300-iron-mountain.md) · _2026-06-14_
+
+Iron Mountain — the company that stores boxes of paper in warehouses — re-narrated itself as an AI/data-center play
+and got re-rated from a sleepy yield stock to a growth name. Q1 2026 fed the story: revenue +22% to $1.94B, organic
++17% (best in 25 years), data centers +47%, AFFO/share $1.43, raised guidance, leverage at its best since 2014. But
+data centers generated only ~$255M of that $1.94B — about 13%. The other 87% is still the records storage, services,
+and (cyclical) IT-recycling businesses the AI narrative forgets. The core is sticky but secularly fading; growing
+the data center into the company the valuation imagines means a capital-intensive, leveraged race ($17B debt)
+against far better-funded rivals (Equinix, Digital Realty), in tension with the dividend a REIT must pay. A genuine,
+impressive reinvention — but the re-rating has run ahead of the mix. Fact-checked; see `audit/`.
+
+[![IRM](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FIRM%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=IRM&color=14377d&cacheSeconds=300)](https://finance.yahoo.com/quote/IRM)
+[![DLR](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FDLR%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=DLR&color=0073b1&cacheSeconds=300)](https://finance.yahoo.com/quote/DLR)
+[![EQIX](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FEQIX%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=EQIX&color=ed1c24&cacheSeconds=300)](https://finance.yahoo.com/quote/EQIX)
+[![PSA](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquery1.finance.yahoo.com%2Fv8%2Ffinance%2Fchart%2FPSA%3Finterval%3D1d%26range%3D1d&query=%24.chart.result%5B0%5D.meta.regularMarketPrice&prefix=%24&label=PSA&color=00543d&cacheSeconds=300)](https://finance.yahoo.com/quote/PSA)
+
 ### [Wayfair's Best Quarter in Years Still Ended in a $105 Million Loss](2026-06-14T1230-wayfair.md) · _2026-06-14_
 
 Wayfair, the largest online furniture retailer, has staged a real cost-driven turnaround: Q1 2026 revenue +7.4% to

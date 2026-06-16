@@ -17,7 +17,7 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 | 7  | done | 2026-06-14T1130-axon.md           | Axon (AXON) — near-flawless growth at ~57x fwd; priced for perpetual perfection [public-safety tech] |
 | 8  | done | 2026-06-14T1200-celsius.md        | Celsius (CELH) — rev +138% but flagship +6%; Alani Nu carries it; Pepsi 59% [beverages] |
 | 9  | done | 2026-06-14T1230-wayfair.md        | Wayfair (W) — best quarter in 5 yrs still a $105M loss; flat customers; $3B debt [e-commerce] |
-| 10 | pending | TBD-iron-mountain.md  | Iron Mountain (IRM) — paper-storage REIT re-rated as a data-center AI play [REIT] |
+| 10 | done | 2026-06-14T1300-iron-mountain.md  | Iron Mountain (IRM) — re-rated as a data-center play; DC only ~13% of revenue [REIT] |
 | 11 | pending | TBD-toast.md          | Toast (TOST) — restaurant fintech on a take-rate + hardware subsidy [fintech] |
 | 12 | pending | TBD-twilio.md         | Twilio (TWLO) — the messaging API commodity dressed as an AI platform [software] |
 | 13 | pending | TBD-crocs.md          | Crocs (CROX) — cheap for a reason; the HeyDude drag + fad risk [footwear] |
