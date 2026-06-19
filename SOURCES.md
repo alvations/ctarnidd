@@ -8,6 +8,166 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: TJX / off-price beat-and-raise with margin near an all-time ceiling, guidance-implied deceleration at a mid-30s multiple (article: "TJX beats, raises, and still leaves no margin for error at 34 times earnings" — 2026-06-20T1300-tjx.md) [retail]
+
+- [SEC 8-K / Exhibit 99.1 — Q1 FY27 earnings press release](https://www.sec.gov/Archives/edgar/data/0000109198/000010919826000023/tjxq1fy27earningspressrele.htm)
+- [TJX IR — Q1 FY27 results release](https://investor.tjx.com/news-releases/news-release-details/tjx-reports-q1-fy27-results-comp-sales-6-pretax-profit-margin)
+- [BusinessWire — TJX Q1 FY27 results](https://www.businesswire.com/news/home/20260519184496/en/TJX-Reports-Q1-FY27-Results-Comp-Sales-up-6-Pretax-Profit-Margin-of-12.0-and-Diluted-EPS-of-%241.19-up-29-Vs.-Last-Year-All-Well-Above-Plan-Increases-Full-Year-FY27-Comp-Sales-Growth-Pretax-Profit-Margin-EPS-and-Share-Buyback-Guidance)
+- [Yahoo Finance — TJX Q1 FY27 results coverage](https://finance.yahoo.com/markets/stocks/articles/tjx-reports-q1-fy27-results-113000647.html)
+- [TJX IR — Q4 & Full Year FY26 results](https://investor.tjx.com/news-releases/news-release-details/tjx-companies-inc-reports-q4-and-full-year-fy26-results-q4-comp)
+- [TJX IR — Q3 FY26 results (12.7% margin)](https://investor.tjx.com/news-releases/news-release-details/tjx-companies-inc-reports-q3-fy26-results-comp-sales-growth-5)
+- [GuruFocus — TJX forward P/E ratio](https://www.gurufocus.com/term/forward-pe-ratio/TJX)
+- [valueinvesting.io — TJX forward P/E](https://valueinvesting.io/TJX/metric/forward-pe)
+- [Retail Dive — off-price retailers neutralize tariff impact](https://www.retaildive.com/news/off-price-retailers-tjx-ross-burlington-neutralize-tariff-impact/806861/)
+- [StockTitan — TJX 10-Q Q1 FY27 summary](https://www.stocktitan.net/sec-filings/TJX/10-q-tjx-companies-inc-de-quarterly-earnings-report-d378d645b63e.html)
+
+Fact-check: Q1 FY27 (reported May 19–20, 2026) net sales $14.3B (+9%); consolidated comps +6% (Marmaxx +6%, HomeGoods +9%, Canada +7%, International +4%); pretax margin 12.0% (+1.7pp vs 10.3%); net income $1.3B; diluted EPS $1.19 (+29% vs $0.92). Raised FY27 guidance: comps +3%–4% (initial +2%–3%), pretax margin 11.9%–12.0%, EPS $5.08–$5.15, buyback $2.75–$3.0B. FY26 comps +5%, adjusted EPS $4.73 (+11%); Q3 FY26 pretax margin 12.7%. Forward P/E ~31.6–34.7x across providers (article frames as "mid-30s"); cyclical-retail median ~14.86 ("more than double"). All confirmed vs SEC 8-K, IR, BusinessWire; no invented figures, multiples labeled as a provider-dependent range; original "margin compression / normalized comps" premise corrected to the actual margin-expansion beat.
+
+---
+
+## Topic: Sony / record fiscal-2025 profit masking a post-peak PS5 console curve, sensor cyclicality and a ¥208B write-off year, financial-arm spin reshaping the denominator (article: "Sony's record ¥1.45 trillion profit hides a console past its peak and a ¥208 billion write-off year" — 2026-06-20T1230-sony.md) [media]
+
+- [Sony FY2025 slides: record operating income masks restructuring charges (Investing.com)](https://www.investing.com/news/company-news/sony-fy2025-slides-record-operating-income-masks-restructuring-charges-93CH-4671486)
+- [SONY's Q4 Earnings Plunge Y/Y Despite Healthy Revenues, G&NS Weakens (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/sonys-q4-earnings-plunge-y-141600175.html)
+- [Sony Posts Higher FY2025 Operating Profit as It Spins Off Financial Unit and Absorbs EV Exit Losses (Globe and Mail)](https://www.theglobeandmail.com/investing/markets/stocks/SONY/pressreleases/1825292/sony-posts-higher-fy2025-operating-profit-as-it-spins-off-financial-unit-and-absorbs-ev-exit-losses/)
+- [Sony Q4 Earnings: Revenue Growth Masks Profit Pressure as 2026 Guidance Signals Headwinds (AInvest)](https://www.ainvest.com/news/sony-q4-earnings-revenue-growth-masks-profit-pressure-2026-guidance-signals-headwinds-2605/)
+- [PlayStation Reports Record Profits for 2025, Despite Second Bungie Impairment Loss (This Week in Video Games)](https://thisweekinvideogames.com/news/playstation-reports-record-profits-for-fy2025-despite-second-bungie-impairment-loss/)
+- [Sony records a $766 million impairment loss against Bungie (PC Gamer)](https://www.pcgamer.com/gaming-industry/sony-records-a-usd766-million-impairment-loss-against-bungie-for-the-2025-financial-year-a-1-2-punch-of-destiny-2-and-marathon-failing-to-meet-its-expectations/)
+- [Sony (NYSE: SONY) sets ¥500B buyback and cancels 184M shares (StockTitan)](https://www.stocktitan.net/sec-filings/SONY/6-k-sony-group-corp-current-report-foreign-issuer-178ed99c5a89.html)
+- [Sony Group Corp — Form 6-K — FY2025 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000313838/000110465925048173/tm2514462d5_6k.htm)
+
+Fact-check: FY2025 (ended March 31, 2026; reported May 8, 2026) sales ¥12,479.6B (+4%); operating income ¥1,447.5B (record, +13%); net income ¥1,030.9B. PS5 closing-quarter shipments 2.8M (vs 9.5M prior quarter), lifetime 93.7M. Impairments ~¥208B aggregate (Bungie ¥120.1B, EV-exit ¥44.9B, Pixomondo ¥27.1B). G&NS OI ¥463.3B (record, +12%); PSN MAU 132M (Dec 2025). Financial Services partial spin October 2025, reclassified discontinued. FY2026 guidance: sales ¥12,300B (−1.4%), OI ¥1,600B (+10.5%) — margin expansion dressed as growth. Buyback raised to ¥500B; mid-range-plan capital envelope ¥5.7T from ¥4.8T. All load-bearing figures verified across two passes; no corrections required; thesis labeled interpretation.
+
+---
+
+## Topic: Home Depot / bought-growth (GMS/SRS) masking a near-flat organic comp while EPS falls, debt-funded Pro push, premium multiple pricing a housing thaw (article: "Home Depot grows sales 4.8% but earnings fall, comps barely move, and the stock still prices a housing thaw" — 2026-06-20T1200-home-depot.md) [retail]
+
+- [Home Depot IR — Q1 FY2026 earnings release](https://corporate.homedepot.com/news/earnings/home-depot-announces-first-quarter-2026-earnings)
+- [PRNewswire — Q1 FY2026 results, reaffirms guidance](https://www.prnewswire.com/news-releases/the-home-depot-announces-first-quarter-fiscal-2026-results-reaffirms-fiscal-2026-guidance-302775361.html)
+- [SEC 8-K exhibit 99.1 (05/03/2026 period)](https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000101/hd_exhibit991x05032026.htm)
+- [CNBC — Home Depot HD Q1 2026 earnings](https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html)
+- [StockTitan — HD Q1 2026 10-Q, sales grow EPS/ROIC decline](https://www.stocktitan.net/sec-filings/HD/10-q-home-depot-inc-quarterly-earnings-report-7e8a90885680.html)
+- [TIKR — HD Q1 2026 revenue $41.8B, margin compression](https://www.tikr.com/blog/home-depot-q1-2026-revenue-hits-41-8b-as-margin-compression-continues)
+- [stockanalysis.com — HD statistics & valuation](https://stockanalysis.com/stocks/hd/statistics/)
+- [PRNewswire — SRS/GMS $5.5B deal completion](https://www.prnewswire.com/news-releases/the-home-depot-and-its-subsidiary-srs-distribution-complete-acquisition-of-gms-302546545.html)
+- [PRNewswire — Home Depot to acquire SRS Distribution (+$50B Pro TAM)](https://www.prnewswire.com/news-releases/the-home-depot-announces-agreement-to-acquire-srs-distribution-a-leading-specialty-trade-distributor-across-multiple-verticals-expands-offering-and-capabilities-for-pro-customers-increases-total-addressable-pro-market-by-approx-302101932.html)
+- [Yahoo Finance — Home Depot tops Q1 estimates on steady demand](https://finance.yahoo.com/markets/stocks/articles/home-depot-tops-first-quarter-160400348.html)
+
+Fact-check: Q1 FY2026 (reported May 19, 2026) total sales $41.8B (+4.8%); comps +0.6% (U.S. +0.4%, ~55bps FX help); net earnings $3.3B; GAAP diluted EPS $3.30 vs $3.45 (DOWN); adjusted EPS $3.43 vs $3.56 (DOWN); GMS added ~$1.3B net sales (completed Sept 2025; gross margin −75bps mainly GMS); GMS deal ~$5.5B EV / ~$4.3B equity at $110/share via SRS; long-term debt ~$44.8B; FY net interest expense ~$2.3B; operating margin ~12% vs ~13%. CEO Decker: demand "relatively similar to fiscal 2025." Forward P/E softened to "north of 22"/"22–24x" (sources ~22.85 fwd, ~24.17 trailing). All numbers trace to sources; margin compression ranged; no invented figures.
+
+---
+
+## Topic: Ulta Beauty / a genuine Q1 beat undercut by reaffirmed full-year guidance at less than half the pace, ticket-led comp, margin off its 2022 peak (article: "Ulta Beauty Beat With 5.3% Comps — Then Guided the Rest of the Year to Half That" — 2026-06-20T1130-ulta-beauty.md) [retail]
+
+- [CNBC — Ulta Beauty (ULTA) Q1 earnings 2026](https://www.cnbc.com/amp/2026/06/02/ulta-beauty-ulta-q1-earnings-2026.html)
+- [Business Wire — Ulta Beauty Announces First Quarter Fiscal 2026 Results and Updates Fiscal 2026 Guidance](https://www.businesswire.com/news/home/20260602303814/en/Ulta-Beauty-Announces-First-Quarter-Fiscal-2026-Results-and-Updates-Fiscal-2026-Guidance)
+- [Ulta Beauty IR — First Quarter Fiscal 2026 Results press release](https://www.ulta.com/investor/news-events/press-releases/detail/229/ulta-beauty-announces-first-quarter-fiscal-2026-results-and)
+- [SEC EDGAR — Ulta Beauty Form 8-K (FY2026 Q1 exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/0001403568/000110465926069464/ulta-20260602xex99d1.htm)
+- [StockTitan — Ulta Beauty Q1 2026 EPS up 15.5% to $7.74](https://www.stocktitan.net/news/ULTA/ulta-beauty-announces-first-quarter-fiscal-2026-results-and-updates-m98b3ldmorld.html)
+- [Globe and Mail — Ulta Beauty Lifts FY26 View as Q1 Earnings Beat, Comps Rise 5.3%](https://www.theglobeandmail.com/investing/markets/stocks/ULTA/pressreleases/2286824/ulta-beauty-lifts-fy26-view-as-q1-earnings-beat-comps-rise-53/)
+- [Investing.com — Earnings call transcript: Ulta Beauty Q1 2026 beats expectations](https://www.investing.com/news/transcripts/earnings-call-transcript-ulta-beauty-q1-2026-beats-expectations-stock-volatile-93CH-4723086)
+- [Ulta Beauty IR — Fourth Quarter and Fiscal 2025 Results and Fiscal 2026 Guidance](https://www.ulta.com/investor/news-events/press-releases/detail/224/ulta-beauty-announces-fourth-quarter-and-fiscal-2025)
+
+Fact-check: Q1 FY2026 (reported June 2, 2026; period ended May 2, 2026) net sales +11.1% to ~$3.16B; comps +5.3% (ticket +3.7%, transactions +1.6%); operating income +11.6% to $448.3M (14.2% of sales); diluted EPS $7.74 (+15.5%); gross margin 40.1% vs 39.1%. FY2026 guidance reaffirmed comps +2.5%–3.5% (unchanged — less than half the quarter); net sales +6%–7%; operating-income growth 6.5%–9% (low end raised); EPS $28.36–$28.80 (raised). FY2025 comps +5.4%, operating income ~$1.5B (~12.4% of sales). Operating margin "roughly 16%" full-year peak (2022 era) "toward 12%" kept deliberately approximate (one source's 18.7% appears quarterly). Stock ~$509 late May 2026, trailing P/E low-to-mid 20s. Confirmed across CNBC, Business Wire/IR, Globe and Mail, StockTitan, Investing.com.
+
+---
+
+## Topic: Toyota / record revenue masking a 21.5% operating-income fall, first North American regional loss in 16 years, tariff + reversed-yen squeeze (NOT a record-profit story) (article: "Toyota posts record revenue and a North American loss — the math that record obscures" — 2026-06-20T1100-toyota.md) [autos]
+
+- [TMC Announces April Through March 2026 Financial Results — Toyota USA Newsroom](https://pressroom.toyota.com/tmc-announces-april-through-march-2026-financial-results/)
+- [FINANCIAL SUMMARY FY2026 (global.toyota)](https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf)
+- [FY2026 Financial Results presentation, May 8, 2026 (global.toyota)](https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_presentation_2_en.pdf)
+- [US tariffs erase all of Toyota's North America profits in FY2026 — WardsAuto](https://www.wardsauto.com/news/us-tariffs-erase-all-of-toyotas-north-america-profits-in-fy2026/819825/)
+- [Toyota FY2026 slides: tariffs drive profit decline despite volume gains — Investing.com](https://www.investing.com/news/company-news/toyota-fy2026-slides-tariffs-drive-profit-decline-despite-volume-gains-93CH-4671170)
+- [Rapidly Changing Business Environment: FY2026 Financial Results Q&A — Toyota Times](https://toyotatimes.jp/en/toyota_news/financial_results_2026/004.html)
+- [Toyota's Tariffs Cost It ¥1.38 Trillion in FY2026 — Is TM Stock a Buy at $188? — TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261876474-ArslanAli)
+- [Toyota boosts guidance / nearly $10B in duties for fiscal year — Yahoo Finance](https://finance.yahoo.com/news/toyota-boosts-guidance-despite-3b-tariff-hit-sees-nearly-10b-in-duties-for-fiscal-year-155423846.html)
+
+Fact-check: FY2026 (ended March 31, 2026; reported May 8, 2026) net revenue 50.684T yen (+5.5%, record) — but operating income 3.8T yen (DOWN ~21.5% from ~4.795T); net income attributable 3.848T yen vs 4.765T (−19.2%, ≈$25.7B vs $31.7B). North America operating loss ≈¥298.6B ≈$1.9B — first regional loss in 16 years (prior 2008–09); NA sales +8.5% to 2.934M units. U.S. tariff hit to consolidated operating income 1.38T yen; unfavorable FX −~$13.5B. FY2027 guidance: operating income cut to 3.0T yen (−~20%, 150 yen/USD assumption); BEV sales projected to double to 598,000 units. TM ADR ~$188. Daihatsu/Toyota Industries/Hino governance items framed as disclosed/adjudicated, not new accusations; dollar conversions labeled "roughly"; no invented numbers.
+
+---
+
+## Topic: FedEx / DRIVE & Network 2.0 cost-cut adjusted-EPS optics over a freight-recession demand stall, USPS loss and Amazon insourcing, debt-funded Freight spin (article: "FedEx's $5.25 adjusted EPS is a cost-cut mirage over a stalling freight economy" — 2026-06-20T1030-fedex.md) [transportation]
+
+- [FedEx Reports Strong Third Quarter Results — FedEx IR (Q3 FY2026)](https://investors.fedex.com/news-and-events/investor-news/investor-news-details/2026/FedEx-Reports-Strong-Third-Quarter-Results/default.aspx)
+- [FedEx (FDX) Q3 2026 earnings — CNBC](https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html)
+- [FedEx cuts full-year revenue forecast as it struggles to replace USPS contract loss — Reuters via Investing.com](https://www.investing.com/news/stock-market-news/fedex-cuts-fullyear-revenue-forecast-as-it-struggles-to-replace-usps-contract-loss-3940405)
+- [FedEx Freight Q3 revenue drops 4.7% amid strategic shift — IndexBox/FreightWaves](https://www.indexbox.io/blog/fedex-freight-q3-revenue-drops-47-amid-strategic-shift-to-higher-value-shipments/)
+- [FedEx Freight Spinoff: FDXF Valuation and the Remaining FedEx Stub — StockSpinoffs](https://www.stockspinoffs.com/2026/06/04/fedex-freight-spinoff-fdxf/)
+- [FedEx Completes Spin-Off of FedEx Freight — FedEx Newsroom](https://newsroom.fedex.com/newsroom/global-english/fedex-completes-spin-off-of-fedex-freight)
+- [FedEx Q3 FY26 Earnings Release (PDF) — q4cdn](https://s21.q4cdn.com/665674268/files/doc_financials/2026/q3/FedEx-Q3-FY26-Earnings-Release.pdf)
+- [FedEx Reports Fourth Quarter FY2025 Results — FedEx IR](https://investors.fedex.com/news-and-events/investor-news/investor-news-details/2025/FedEx-Reports-Fourth-Quarter-Diluted-EPS-of-6-88-and-Adjusted-Diluted-EPS-of-6-07/default.aspx)
+
+Fact-check: Q3 FY2026 (reported March 19, 2026; quarter ended Feb 28, 2026) revenue $24.0B (+8.3%); GAAP diluted EPS $4.41, adjusted $5.25 (up from $4.51 — wedge is the thesis); GAAP operating margin 5.6% / adjusted 6.7%. FedEx Freight: revenue ~$1.99B (−4.7%), tonnage −4.8%, shipments −5.7%. FY26 guidance: revenue +6.0%–6.5%; adjusted EPS $19.30–$20.10 vs GAAP $16.05–$16.85; capex ≤$4.1B (record-low ~4.6%). DRIVE $4.0B structural cuts vs FY23. USPS ~$2B/yr air contract expired Sept 29, 2024 (UPS won). Amazon ~6.1B packages 2024. FDXF spin completed June 1, 2026 (1:2 ratio, FedEx retained 19.9%, ~$4.1B debt-funded cash to parent). Correction: dek's original "28%" EPS jump fixed to "roughly 16%" ($4.51→$5.25). Forward FDXF multiples labeled sell-side.
+
+---
+
+## Topic: Union Pacific / pricing-and-mix revenue growth atop falling carloads, operating-ratio discipline as denominator illusion, $85B Norfolk Southern merger overhang into 2027 (article: "Union Pacific Grew Revenue 3% While Carloads Fell — and Now Bets the Story on an $85 Billion Merger" — 2026-06-20T1000-union-pacific.md) [transportation]
+
+- [Union Pacific Reports First Quarter 2026 Results — UP IR](https://www.up.com/press-releases/financial/1q26-earnings-announcement-260423)
+- [Union Pacific Q1 2026 — Form 8-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000154/a2026-04x238xkex991earning.htm)
+- [Union Pacific Reports Q1 2026: Net Income $1.7B, Diluted EPS $2.87, Operating Ratio 60.5% — TradingView](https://www.tradingview.com/news/tradingview:e45d8a0407ec6:0-union-pacific-reports-q1-2026-net-income-1-7b-diluted-eps-2-87-operating-ratio-60-5/)
+- [Union Pacific Q1 2026 slides: record earnings, operational gains shine — Investing.com](https://www.investing.com/news/company-news/union-pacific-q1-2026-slides-record-earnings-operational-gains-shine-93CH-4633349)
+- [Union Pacific (UNP) Q1 2026 earnings rise with record revenue, better efficiency — StockTitan](https://www.stocktitan.net/sec-filings/UNP/8-k-union-pacific-corp-reports-material-event-cb14d826e2e6.html)
+- [Creating America's First Transcontinental Railroad: STB Accepts UP-NS Merger Application — UP](https://www.up.com/press-releases/growth/stb-accepts-merger-application)
+- [Regulator accepts UP and NS merger application but requires more clarity — Railway Gazette](https://www.railwaygazette.com/usa/2026/05/29/regulator-accepts-union-pacific-and-norfolk-southern-merger-application-but-requires-more-clarity/)
+- [STB rejects UP–NS transcontinental merger application as incomplete; what comes next? — Hogan Lovells](https://www.hoganlovells.com/en/publications/stb-rejects-union-pacific-norfolk-southern-transcontinental-railroad-merger-application-as-incomplete-what-comes-next)
+- [Union Pacific argues for its $85B acquisition of Norfolk Southern in new railroad merger application — AP via GPB](https://www.gpb.org/news/2026/04/30/union-pacific-argues-for-its-85b-acquisition-of-norfolk-southern-in-new-railroad)
+- [Union Pacific CEO responds to Trump idea for U.S. stake in railroad mega merger — Fortune](https://fortune.com/2026/06/04/union-pacific-ceo-trump-wanting-15-stake-71-billion-norfolk-southern-merger/)
+
+Fact-check: Q1 2026 (reported April 23, 2026) operating revenue $6.2B (+3%); reported operating ratio 60.5% (−20bps), adjusted 59.9% (−80bps); net income $1.7B (+~5%); reported diluted EPS $2.87, adjusted $2.93 (excludes $36M/$0.06 merger costs; growth vs $2.70 softened to "high-single-digit"). Total carloads −1% (bulk +~12%, industrial +~4%, intermodal −~9%); freight revenue +4%, ex-fuel-surcharge +3%; operational records (dwell, velocity, train length). NSC merger ~$85B (announced July 29, 2025; first transcontinental); both shareholders approved >99%; application filed Dec 19, 2025, rejected incomplete Jan 16, amended April 30, STB accepted May 28, 2026 but on hold pending supplemental info due July 27, 2026; 12-month window; close ~mid-2027; ~$3.5B projected shipper savings (company estimate); $2.5B breakup fee to NSC. Synergies labeled prospective; no regulatory outcome asserted.
+
+---
+
+## Topic: SAP / constant-currency cloud headline vs 6% reported growth, 13-point FX crutch, RISE migration re-papering ECC base as net-new cloud, mid-re-rating ADR (article: "SAP's 27% Cloud Headline Hides 6% Reported Growth and a 13-Point Currency Crutch" — 2026-06-20T0930-sap.md) [software]
+
+- [SAP Announces Q1 2026 Results — SAP News Center](https://news.sap.com/2026/04/sap-announces-q1-2026-results/)
+- [SAP Quarterly Statement Q1 2026 — PR Newswire](https://www.prnewswire.com/news-releases/sap-quarterly-statement-q1-2026-302752280.html)
+- [SAP SE Form 6-K FY2026 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001000184/000110465926049650/tm2612672d1_ex99-1.htm)
+- [SAP Q1 2026 Earnings Show Strong Cloud Growth but Slower Signals Ahead — SAPinsider](https://sapinsider.org/articles/sap-q1-2026-earnings-cloud-growth-ai/)
+- [SAP Q1 FY2026 Earnings Show Cloud ERP Suite Acceleration — Futurum](https://futurumgroup.com/insights/sap-q1-fy-2026-earnings-show-cloud-erp-suite-acceleration/)
+- [Earnings call transcript: SAP Q1 2026 sees mixed results; stock dips — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-sap-q1-2026-sees-mixed-results-stock-dips-93CH-4634393)
+- [SAP SE (SAP) Q1 2026 Earnings Call Highlights — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/sap-se-sap-q1-2026-071506114.html)
+- [SAP Quarterly Statement Q1 2026 PDF — SAP IR](https://www.sap.com/docs/download/investors/2026/sap-2026-q1-statement.pdf)
+- [SAP Stock Price & Forecast — eToro](https://www.etoro.com/markets/sap)
+- [SAP Fundamental Analysis & Valuation — ChartMill](https://www.chartmill.com/stock/quote/SAP/fundamental-analysis)
+
+Fact-check: Q1 2026 (reported April 23, 2026) total revenue €9.555B (+6% reported / +12% cc); cloud revenue €5.962B (+19% reported / +27% cc — the 13-point wedge); Cloud ERP Suite €5.214B (+23% / +30% cc); current cloud backlog €21.9B (+20% / +25% cc); IFRS operating profit €2.741B (+17%); non-IFRS €2.867B (margin 30.0%, +2.9pp; ~4% IFRS-to-non-IFRS gap). CFO Asam guided "slight deceleration in current cloud backlog growth over the coming quarters"; CEO Klein: enterprise-AI adoption "still in its early stages." ADR near 52-week low, low-to-mid $170s, down ~41% over six months (analyst avg target ~$228.50); forward P/E low-to-mid 20s. No material corrections; ADR price and P/E stated as ranges. Confirmed vs primary release and SEC 6-K.
+
+---
+
+## Topic: Eaton / record data-center order book re-rating a 114-year-old cyclical electrical-equipment maker to a secular AI-electrification multiple, with a trimmed margin guide as the crack (article: "Eaton trades near 30x on a data-center backlog the cycle has not yet paid out" — 2026-06-20T0900-eaton.md) [industrials]
+
+- [Eaton — Reports Record First Quarter 2026 Results (company release)](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-first-quarter-2026-results.html)
+- [Business Wire — Eaton Reports Record First Quarter 2026 Results](https://www.businesswire.com/news/home/20260504450402/en/Eaton-Reports-Record-First-Quarter-2026-Results-with-Accelerating-Growth-in-Sales-Orders-and-Backlog-and-Raises-2026-Organic-Growth-Guidance-to-10-from-8-at-the-Midpoint)
+- [The Motley Fool — Eaton (ETN) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/05/eaton-etn-q1-2026-earnings-call-transcript/)
+- [Investing.com — Eaton Q1 2026 results beat expectations, stock falls](https://www.investing.com/news/transcripts/earnings-call-transcript-eaton-q1-2026-results-beat-expectations-stock-falls-93CH-4660223)
+- [GuruFocus — ETN Forward PE Ratio](https://www.gurufocus.com/term/forward-pe-ratio/ETN)
+- [FinanceCharts — Eaton (ETN) PE Ratio](https://www.financecharts.com/stocks/ETN/value/pe-ratio)
+- [Yahoo Finance — A Look At Eaton (ETN) Valuation After Raised 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/look-eaton-etn-valuation-raised-181549695.html)
+- [Tickeron — Eaton (ETN) Q1 2026 Earnings Recap](https://tickeron.com/earnings/ETN/)
+
+Fact-check: Q1 2026 (reported May 4, 2026) sales $7.5B (record, +17%); organic growth 10% (acquisitions +4pts, FX +3pts); segment profit record $1.7B, margin 22.7% (−~120bps); adjusted EPS $2.81 (Q1 record). Data-center orders +~240%; total Electrical backlog +~48%; Electrical Americas orders +42% organic. 2026 organic-growth guide raised to 9%–11% (10% midpoint) from 8%; adjusted EPS guide $13.05–$13.50 (incl. Boyd Thermal dilution); segment-margin guide trimmed ~50bps for input costs / Americas ramp (the conceded crack). Forward P/E ~30.8–31.8 (mid-June 2026); industrial-products median ~21. A pre-raise TIKR-cited guide (7%–9% organic, EPS $11.57–$12.07) was set aside for the primary post-raise figures; multiple stated as "low 30s"; 240%/48% labeled reported and decelerating-by-arithmetic. No invented numbers.
+
+---
+
+## Topic: Caterpillar / record price near $975 at 42x, a single-segment (data-center reciprocating-engine) re-rating, dealer-inventory build and Resource Industries decline as cyclical tells (priced as secular, not a capex-rollover story) (article: "Caterpillar near $975 at 42x earnings, pricing a data-center engine boom as if the machinery cycle had been repealed" — 2026-06-20T0830-caterpillar.md) [industrials]
+
+- [Caterpillar Reports First-Quarter 2026 Results (PRNewswire)](https://www.prnewswire.com/news-releases/caterpillar-reports-first-quarter-2026-results-302758655.html)
+- [CATERPILLAR INC — Form 8-K, Q1 2026 earnings exhibit (SEC)](https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000017/ex991toformcat1q2026earnin.htm)
+- [Caterpillar Inc. 1Q 2026 Earnings Release PDF (caterpillar.com)](https://www.caterpillar.com/content/dam/caterpillarDotCom/releases/1q26/1q26-caterpillar-inc-financial-results.pdf)
+- [Caterpillar Q1 2026 earnings: revenue up 22%, tariffs hit margins (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/caterpillar-q1-2026-earnings-revenue-112145516.html)
+- [Caterpillar Q1 sales rise 22%, EPS $5.47 (StockTitan)](https://www.stocktitan.net/news/CAT/caterpillar-reports-first-quarter-2026-b3olhhzx7fqv.html)
+- [Caterpillar Q1 2026 slides: earnings surge 30% despite tariff headwinds (Investing.com)](https://www.investing.com/news/company-news/caterpillar-q1-2026-slides-earnings-surge-30-despite-tariff-headwinds-93CH-4650221)
+- [CAT Q1 Deep Dive: Data Center Demand and Capacity Expansion (StockStory)](https://stockstory.org/us/stocks/nyse/cat/news/earnings-call/cat-q1-deep-dive-data-center-demand-and-capacity-expansion-drive-strong-results)
+- [Caterpillar Stock Is Up 32% in 2026 — $935 Valuation (TIKR)](https://www.tikr.com/blog/caterpillar-stock-is-up-32-in-2026-heres-what-a-935-valuation-says-now)
+- [Caterpillar Stock Hits All-time High (Trading Economics)](https://tradingeconomics.com/cat:us/news/522249)
+- [Caterpillar (CAT) Stock Price & Overview (StockAnalysis)](https://stockanalysis.com/stocks/cat/)
+
+Fact-check: Q1 2026 (reported April 30, 2026) revenue $17.4B (+22% from $14.3B); adjusted EPS $5.54 vs $4.25; operating margin 17.7% vs 18.1% (adjusted 18.0% vs 18.3%); record backlog $63B (+$28B/+79%). Construction profit $1.535B (+50%, margin 21.4%) flattered by ~$1.5B dealer-inventory build; Power & Energy profit $1.450B (+13%, power generation +48%); Resource Industries profit $378M (−39%, margin 10.0%, −700bps) — the cyclical canary. Q1 tariff cost ~$600M; full-year tariff guide $2.2–$2.4B (revised down from $2.6B). Large reciprocating-engine capacity target ~3x 2024, deployment 2027–2029. Stock all-time high $975.64 (June 17, 2026); trailing P/E >42x, forward ~34.5x; market cap ~$430B; TTM EPS $18.81. Original "capex rolling over / falling backlog" premise reversed; market-data figures point-in-time/approximate; no other figures changed.
+
+---
+
 ## Topic: Chewy / margin-and-monetization growth on a near-flat customer base, guidance cut (article: "Chewy's growth slides to 7.7% as guidance cut sends shares to a new floor" — 2026-06-18T1800-chewy.md) [e-commerce]
 
 - [Chewy Q1 FY2026 Form 8-K / Exhibit 99.1 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001766502/000162828026042058/chwyq12026exhibit991.htm)
