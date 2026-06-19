@@ -8,6 +8,190 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Planet Fitness / denominator illusion as member adds fall (article: "Planet Fitness cut 2026 growth in half after its strongest sign-up season delivered 36% fewer new members" — 2026-06-15T1300-planet-fitness.md) [consumer/fitness]
+
+- [Investing.com — Q1 2026 earnings beat forecasts, stock falls](https://www.investing.com/news/transcripts/earnings-call-transcript-planet-fitness-q1-2026-earnings-beat-forecasts-stock-falls-93CH-4668443)
+- [StockTitan — PLNT Q1 2026 revenue up 21.9% (8-K filing)](https://www.stocktitan.net/sec-filings/PLNT/8-k-planet-fitness-inc-reports-material-event-de40debe7fbf.html)
+- [StockTitan — PLNT posts 22% revenue growth in Q1 2026 (10-Q)](https://www.stocktitan.net/sec-filings/PLNT/10-q-planet-fitness-inc-quarterly-earnings-report-fa852b24b4ad.html)
+- [Motley Fool — PLNT Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/planet-fitness-plnt-q1-2026-earnings-transcript/)
+- [CNBC — Planet Fitness stock plunges 30% after company slashes guidance, cancels planned price hikes](https://www.cnbc.com/amp/2026/05/07/planet-fitness-stock.html)
+- [Benzinga — PLNT shares fall more than 30% following Q1 results, guidance cut](https://www.benzinga.com/trading-ideas/movers/26/05/52369343/planet-fitness-shares-fall-more-than-30-following-q1-results-guidance-cut)
+- [Yahoo Finance — Planet Fitness stock plunges after Q1 2026 guidance cut](https://finance.yahoo.com/markets/stocks/articles/planet-fitness-stock-plunges-q1-162603555.html)
+- [SEC 8-K — PLNT Q1 2026 press release exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0001637207/000163720726000028/plntq12026pressreleaseex991.htm)
+- [GuruFocus — PLNT PE Ratio (TTM)](https://www.gurufocus.com/term/pettm/PLNT)
+- [Subscription Insider — PLNT member growth held through 50% Classic price increase](https://www.subscriptioninsider.com/article-type/news/planet-fitness-says-member-growth-held-through-50-price-increase-for-new-classic-signups-guides-to-2026-growth)
+
+Fact-check: Q1 2026 (reported May 7, 2026) revenue $337.2M (+21.9%); EPS $0.74; adj EBITDA $139.9M; same-club +3.5% (~90% from rate); net new member adds down ~36% YoY; 2,909 clubs / ~21.5M members; guidance cut (system SCS ~1% from 4-5%, revenue ~7%, adj-EBITDA ~6%) and planned price increases canceled; stock fell ~30%; TTM P/E ~16.4 vs ~55 ten-year median. No material corrections.
+
+---
+
+## Topic: Sweetgreen / one-time gain masks a deepening operating loss (article: "Sweetgreen posts a $125.8M "profit" while same-store sales crater 12.8%" — 2026-06-15T1230-sweetgreen.md) [restaurants]
+
+- [Sweetgreen Q1 FY2026 8-K / earnings release (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001477815/000162828026032197/q126sweetgreenearningsrele.htm)
+- [StockTitan — Sweetgreen Q1 2026 financial results summary](https://www.stocktitan.net/news/SG/sweetgreen-inc-announces-first-quarter-2026-financial-e29i4ix92wfz.html)
+- [Businesswire — Sweetgreen Announces First Quarter 2026 Financial Results](https://www.businesswire.com/news/home/20260507512857/en/Sweetgreen-Inc.-Announces-First-Quarter-2026-Financial-Results)
+- [The Motley Fool — Sweetgreen (SG) Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/08/sweetgreen-sg-q1-2026-earnings-transcript/)
+- [Investing.com — Sweetgreen Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-sweetgreen-q1-2026-shows-eps-beat-stock-dips-93CH-4670846)
+- [ChartMill — Sweetgreen Q1 2026: Revenue Miss and Widening Losses](https://www.chartmill.com/news/SG/Chartmill-47918-Sweetgreen-SG-Q1-2026-Earnings-Revenue-Miss-and-Widening-Losses)
+- [Macrotrends — Sweetgreen stock price history (IPO and drawdown)](https://www.macrotrends.net/stocks/charts/SG/sweetgreen/stock-price-history)
+- [WallStreetZen — Sweetgreen stock price, market cap](https://www.wallstreetzen.com/stocks/us/nyse/sg)
+- [MarketBeat — Sweetgreen sets new 52-week low](https://www.marketbeat.com/instant-alerts/sweetgreen-nysesg-sets-new-52-week-low-should-you-sell-2025-10-13)
+
+Fact-check: Q1 FY2026 (period ended Mar 29, 2026) revenue $161.5M (-2.9%); comps -12.8% (traffic -11.2%); operating loss $(34.3)M; adjusted EBITDA $(8.1)M; net income $125.8M including a $160.6M one-time Spyce disposal gain; restaurant-level margin 10.0%; cash ~$156.8M; ~90% drawdown from the $53 IPO. No material corrections.
+
+---
+
+## Topic: Exact Sciences / Abbott $21B buyout retires the bear case (article: "Abbott's $21 billion Exact Sciences buyout cashed out a never-profitable growth story at $105" — 2026-06-15T1200-exact-sciences.md) [diagnostics]
+
+- [Abbott to acquire Exact Sciences — Nov 20, 2025 (Abbott mediaroom)](https://abbott.mediaroom.com/2025-11-20-Abbott-to-acquire-Exact-Sciences,-a-leader-in-large-and-fast-growing-cancer-screening-and-precision-oncology-diagnostics-segments)
+- [Abbott to acquire Exact Sciences (PR Newswire)](https://www.prnewswire.com/news-releases/abbott-to-acquire-exact-sciences-a-leader-in-large-and-fast-growing-cancer-screening-and-precision-oncology-diagnostics-segments-302621643.html)
+- [Abbott acquisition of Exact Sciences set to close March 23, 2026 (PR Newswire)](https://www.prnewswire.com/news-releases/abbott-acquisition-of-exact-sciences-set-to-close-on-march-23-2026-302719347.html)
+- [Abbott Reports First-Quarter 2026 Results; updates guidance for Exact Sciences acquisition (PR Newswire)](https://www.prnewswire.com/news-releases/abbott-reports-first-quarter-2026-results-updates-guidance-to-reflect-acquisition-of-exact-sciences-302744652.html)
+- [Abbott completes $21B acquisition of Exact Sciences, delisting EXAS (Investing.com)](https://www.investing.com/news/sec-filings/abbott-completes-21-billion-acquisition-of-exact-sciences-delisting-exas-from-nasdaq-93CH-4575370)
+- [Exact Sciences Record Q4 and Full Year 2025 Results (BioSpace)](https://www.biospace.com/press-releases/exact-sciences-announces-record-fourth-quarter-and-full-year-2025-results)
+- [EXACT SCIENCES CORP Form 8-K FY2025 (SEC)](https://www.sec.gov/Archives/edgar/data/0001124140/000119312525288896/d38144dex991.htm)
+- [Exact Sciences 10-K — Abbott buyout and 2025 growth (StockTitan)](https://www.stocktitan.net/sec-filings/EXAS/10-k-exact-sciences-corp-files-annual-report-c4f17a41ee00.html)
+- [FDA Approves Shield Blood Test for Colorectal Cancer Screening (Targeted Oncology)](https://www.targetedonc.com/view/fda-approves-shield-blood-test-for-colorectal-cancer-screening)
+- [Guardant posts data for colon cancer blood test amid push from rivals (MedTech Dive)](https://www.medtechdive.com/news/guardant-colon-cancer-blood-test-results/710529/)
+- [Guardant Shield now accessible through Quest Diagnostics network (Guardant IR)](https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Healths-Shield-Blood-based-Screening-Test-for-Colorectal-Cancer-Now-Accessible-Through-National-Test-Ordering-and-Collection-Network-of-Quest-Diagnostics/default.aspx)
+- [Colorectal cancer screening: ACS guideline update 2026 (CA: A Cancer Journal for Clinicians)](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.70083)
+- [EXAS jumps 18% on Abbott's $21B acquisition (TipRanks)](https://www.tipranks.com/news/ma-news-exact-sciences-stock-exas-jumps-18-on-abbotts-21b-acquisition)
+
+Fact-check: Abbott acquired Exact Sciences at $105.00/share cash (~$21B equity, ~$23B EV); announced Nov 20, 2025, closed and delisted EXAS on Mar 23, 2026. FY2025 total revenue $3.25B (+~18%), Screening $2.53B (+~20%), net loss ~$208M. Guardant Shield FDA-approved and on Quest's national network. The article leads badges with ABT (acquirer); a hallucinated $1.62B quarterly figure was rejected and SBC handled qualitatively.
+
+---
+
+## Topic: SoundHound AI / acquisition-fueled growth at ~16x sales (article: "SoundHound AI trades at 16 times sales on $44M a quarter and a widening GAAP loss" — 2026-06-15T1130-soundhound.md) [AI software]
+
+- [SoundHound IR — Record Q1 Revenue of $44.2M, Up 52%](https://investors.soundhound.com/news-releases/news-release-details/soundhound-ai-reports-record-q1-revenue-442-million-52)
+- [SEC Form 8-K — Q1 FY2026 earnings exhibit (soun-20260507)](https://www.sec.gov/Archives/edgar/data/0001840856/000184085626000012/soun-20260507ex991earnings.htm)
+- [GlobeNewswire — Record Q1 Revenue of $44.2M, Up 52%](https://www.globenewswire.com/news-release/2026/05/07/3290524/0/en/soundhound-ai-reports-record-q1-revenue-of-44-2-million-up-52.html)
+- [StockTitan — SOUN Q1 revenue hits record $44.2M](https://www.stocktitan.net/news/SOUN/sound-hound-ai-reports-record-q1-revenue-of-44-2-million-up-amjknmyfvcvs.html)
+- [Motley Fool — SOUN Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/soundhound-ai-soun-q1-2026-earnings-transcript/)
+- [SoundHound IR — Record Annual Revenue of $169M, Up Nearly 100%](https://investors.soundhound.com/news-releases/news-release-details/soundhound-ai-reports-record-annual-revenue-169-million-nearly)
+- [Investing.com — SoundHound to acquire LivePerson for $43M in stock](https://www.investing.com/news/company-news/soundhound-to-acquire-liveperson-for-43m-in-stock-deal-93CH-4626414)
+- [SEC Form 425 — LivePerson deal exhibit](https://www.sec.gov/Archives/edgar/data/0001840856/000121390026045991/ea028711701ex99-1.htm)
+- [TechCrunch — SoundHound acquires Amelia for $80M](https://techcrunch.com/2024/08/08/soundhound-acquires-amelia-ai-for-80m-after-it-raised-189m/)
+- [SEC 10-Q (Q2 FY2025) — balance sheet, goodwill/intangibles](https://www.sec.gov/Archives/edgar/data/0001840856/000162828025039596/soun-20250630.htm)
+- [MacroTrends — SOUN market cap](https://www.macrotrends.net/stocks/charts/SOUN/soundhound-ai/market-cap)
+- [companiesmarketcap — SOUN shares outstanding](https://companiesmarketcap.com/soundhound-ai/shares-outstanding/)
+- [stockanalysis.com — SOUN statistics & valuation](https://stockanalysis.com/stocks/soun/statistics/)
+- [Yahoo Finance — Buy, Hold, or Sell SoundHound at $7.35](https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-soundhound-ai-150135893.html)
+
+Fact-check: Q1 2026 (reported May 7, 2026) revenue $44.2M (+52%); GAAP gross margin 31% (non-GAAP ~50%); GAAP net loss $(25.0)M incl. ~$39M non-cash contingent-liability charge; FY2025 revenue $168.9M (+~99%); FY2026 guide $225-260M; pending all-stock LivePerson deal (~$43-45M equity, EV ~$250M); diluted shares ~338M→~426M; market cap ~$2.7-3.0B / ~16x sales / forward P/E >200. Cash softened to low-to-mid $200M range.
+
+---
+
+## Topic: Dutch Bros / new-unit growth priced like a software compounder (article: "Dutch Bros trades at 50 times earnings while two-thirds of its growth is freshly poured concrete" — 2026-06-15T1100-dutch-bros.md) [restaurants]
+
+- [SEC 8-K ex-99.1 — Dutch Bros Q1 2026 release](https://www.sec.gov/Archives/edgar/data/0001866581/000186658126000077/a2026-q1_ex991.htm)
+- [Motley Fool — Dutch Bros (BROS) Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/06/dutch-bros-bros-q1-2026-earnings-transcript/)
+- [Investing.com — Dutch Bros Q1 2026 slides: revenue surges 31%, margins compress](https://www.investing.com/news/company-news/dutch-bros-q1-2026-slides-revenue-surges-31-margins-compress-93CH-4666024)
+- [Investing.com — Earnings call transcript: Dutch Bros Q1 2026 beats forecasts, stock dips](https://www.investing.com/news/transcripts/earnings-call-transcript-dutch-bros-q1-2026-beats-forecasts-stock-dips-93CH-4674583)
+- [StockTitan — Dutch Bros Q1 revenue up 31%, raises 2026 view (8-K filing)](https://www.stocktitan.net/sec-filings/BROS/8-k-dutch-bros-inc-reports-material-event-5ce0b2ba42a7.html)
+- [MarketBeat — Dutch Bros Q1 2026 Earnings Report](https://www.marketbeat.com/earnings/reports/2026-5-6-dutch-bros-inc-stock/)
+- [AInvest — Is Dutch Bros (BROS) Undervalued or Overhyped?](https://www.ainvest.com/news/dutch-bros-bros-undervalued-overhyped-deep-dive-valuation-metrics-growth-potential-2511/)
+- [stockanalysis.com — Dutch Bros (BROS) Statistics & Valuation](https://stockanalysis.com/stocks/bros/statistics/)
+- [valueinvesting.io — BROS EV/EBITDA](https://valueinvesting.io/BROS/valuation/ev_ebitda-multiples)
+- [MSN/Reuters — Dutch Bros projects $2.05B–$2.08B 2026 revenue, ≥185 openings](https://www.msn.com/en-us/money/economy/dutch-bros-projects-2-05b-2-08b-2026-revenue-as-it-targets-at-least-185-system-shop-openings/ar-AA22yudw)
+
+Fact-check: Q1 2026 (reported May 6, 2026) revenue $464.4M (+31%); systemwide same-shop sales +8.3% (only ~1.5 pts price); GAAP net income $23.7M; adjusted EBITDA $79.4M (+26.2%); shop contribution margin ~28.3%; 41 new shops, 1,177 total; FY2026 guide revenue $2.05-2.08B and ≥185 openings; forward P/E ~52.5, EV/EBITDA ~35.7, ~$11.1B market cap; stock fell >6%. No material corrections.
+
+---
+
+## Topic: Cleveland-Cliffs / leveraged steel cyclical, price-taker (article: "Cleveland-Cliffs Beats Estimates and Still Loses $229 Million on a Steel Price It Can't Set" — 2026-06-15T1030-cleveland-cliffs.md) [materials]
+
+- [Cleveland-Cliffs Reports First-Quarter 2026 Results (company release)](https://www.clevelandcliffs.com/news/news-releases/detail/696/cleveland-cliffs-reports-first-quarter-2026-results)
+- [SEC Form 8-K — Q1 2026 exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0000764065/000076406526000067/clf-202603318xkex991.htm)
+- [Business Wire — Cleveland-Cliffs Reports First-Quarter 2026 Results](https://www.businesswire.com/news/home/20260420759625/en/Cleveland-Cliffs-Reports-First-Quarter-2026-Results)
+- [TradingView — CLF posts Q1 2026 revenue $4.9B, GAAP net loss $229M, Adjusted EBITDA $95M](https://www.tradingview.com/news/tradingview:a2df44d1601ff:0-cleveland-cliffs-posts-q1-2026-revenue-4-9b-gaap-net-loss-229m-adjusted-ebitda-95m/)
+- [Kavout — What Do Cleveland-Cliffs' Q1 2026 Results Really Tell Us](https://www.kavout.com/market-lens/what-do-cleveland-cliffs-q1-2026-results-really-tell-us)
+- [Meyka — CLF Earnings Beat: Cleveland-Cliffs Q1 2026 Results](https://meyka.com/blog/clf-earnings-beat-cleveland-cliffs-q1-2026-results-2104/)
+- [StockTitan — Cleveland-Cliffs Q1 2026 8-K filing](https://www.stocktitan.net/sec-filings/CLF/8-k-cleveland-cliffs-inc-reports-material-event-e716134072c2.html)
+- [Investing.com — Cleveland-Cliffs Completes Stelco Holdings Acquisition](https://www.investing.com/news/company-news/clevelandcliffs-completes-stelco-holdings-acquisition-93CH-3698260)
+- [Investing.com — Cleveland-Cliffs prices $1.8 billion in senior notes for Stelco buy](https://www.investing.com/news/company-news/clevelandcliffs-prices-18-billion-in-senior-notes-for-stelco-buy-93CH-3654267)
+- [FinanceCharts — Cleveland-Cliffs Total Debt](https://www.financecharts.com/stocks/CLF/balance-sheet/total-debt)
+
+Fact-check: Q1 2026 (reported Apr 20, 2026) revenue $4.9B (vs $4.6B YoY); GAAP net loss $229M ($0.42/sh); adjusted loss $0.40 (beat by $0.02); adjusted EBITDA $95M incl. an $80M one-time cold-weather energy cost; shipments 4.1M net tons; liquidity $3.1B; ~$7.7B total debt (Stelco-swollen); stock fell >6% to ~$9.13. Contested debt/stock figures softened to ranges.
+
+---
+
+## Topic: First Solar / record earnings built on Section 45X credits (article: "First Solar's record quarter rests on $2.1 billion of tax credits Washington keeps poking at" — 2026-06-15T1000-first-solar.md) [clean energy]
+
+- [BusinessWire — First Solar Q1 2026 results & reaffirmed guidance](https://www.businesswire.com/news/home/20260430224118/en/First-Solar-Inc.-Announces-First-Quarter-2026-Financial-Results-and-Reaffirms-Guidance)
+- [SEC — First Solar Form 10-Q FY2026 (period ended 3/31/2026)](https://www.sec.gov/Archives/edgar/data/0001274494/000127449426000109/fslr-20260331.htm)
+- [StockTitan — FSLR Q1 2026 10-Q summary](https://www.stocktitan.net/sec-filings/FSLR/10-q-first-solar-inc-quarterly-earnings-report-9624adc81009.html)
+- [The Motley Fool — FSLR Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/first-solar-fslr-q1-2026-earnings-transcript/)
+- [Investing.com — First Solar beats EPS in Q1 2026](https://www.investing.com/news/transcripts/earnings-call-transcript-first-solar-beats-eps-in-q1-2026-stock-rises-93CH-4651527)
+- [GreentechLead — Q1 2026 backlog 47.9 GW](https://greentechlead.com/solar/first-solar-q1-2026-revenue-hits-1-04-bn-module-sales-drive-24-growth-as-backlog-reaches-47-9-gw-53298)
+- [Ainvest — Q1 2026 record results mask a critical bookings gap](https://www.ainvest.com/news/solar-q1-2026-record-results-mask-critical-bookings-gap-growth-story-intact-2605/)
+- [PV Tech — First Solar 45X tax credit deals pass $2 billion](https://www.pv-tech.org/first-solar-45x-tax-credit-deals-reach-2billion/)
+- [Simply Wall St — Reliance on Section 45X might change the case for FSLR](https://simplywall.st/stocks/us/semiconductors/nasdaq-fslr/first-solar/news/reliance-on-section-45x-tax-credits-might-change-the-case-fo)
+- [Congress.gov CRS — The Section 45X Advanced Manufacturing Production Credit](https://www.congress.gov/crs-product/IF12809)
+- [Investing.com — First Solar: Tax Credit Dependency Masking Backlog Depletion](https://www.investing.com/analysis/first-solar-tax-credit-dependency-masking-backlog-depletion-200676449)
+- [PV Tech — Section 232 polysilicon tariffs could be clarified](https://www.pv-tech.org/section-232-polysilicon-tariffs-could-be-clarified-by-end-of-the-month/)
+- [SEC — First Solar 8-K Q4 2025 press release (45X context)](https://www.sec.gov/Archives/edgar/data/0001274494/000127449426000020/ex991pressreleaseq4-2025fi.htm)
+
+Fact-check: Q1 2026 (reported Apr 30, 2026) net sales $1.04B (+24%); net income $347M ($3.22 EPS); adjusted EBITDA $520M; gross margin 46.6%; FY2026 guidance reaffirmed ($4.9-5.2B sales, $2.6-2.8B adj EBITDA); Section 45X credits guided $2.10-2.19B (~75-80% of EBITDA); backlog 47.9 GW at $14.4B; Q1 gross bookings only ~1.7 GW. BP 6.6 GW termination labeled as un-adjudicated allegation; ratios flagged as derived.
+
+---
+
+## Topic: Crocs / value trap on HeyDude impairment + single-clog concentration (article: "Crocs trades at 8x earnings because a $2.5B bet just impaired itself and the clog is the only thing holding" — 2026-06-15T0930-crocs.md) [footwear]
+
+- [Crocs IR — Q1 2026 results press release](https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--Reports-Better-Than-Expected-First-Quarter-2026-Results-And-Raises-Full-Year-Outlook/default.aspx)
+- [PRNewswire — Crocs Q1 2026 results](https://www.prnewswire.com/news-releases/crocs-inc-reports-better-than-expected-first-quarter-2026-results-and-raises-full-year-outlook-302758131.html)
+- [StockTitan — CROX Q1 2026 8-K filing](https://www.stocktitan.net/sec-filings/CROX/8-k-crocs-inc-reports-material-event-f9136f79aed8.html)
+- [Motley Fool — CROX Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/crocs-crox-q1-2026-earnings-transcript/)
+- [GuruFocus — CROX Q1 2026 earnings call highlights](https://www.gurufocus.com/news/8836241/crocs-inc-crox-q1-2026-earnings-call-highlights-navigating-challenges-with-strategic-growth)
+- [Investing.com — Crocs Q4 2025 slides, stock surges 18%](https://in.investing.com/news/company-news/crocs-q4-2025-slides-revenue-and-earnings-beat-forecasts-stock-surges-18-93CH-5238078)
+- [Motley Fool — CROX Q4 2025 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/02/12/crocs-crox-q4-2025-earnings-call-transcript/)
+- [Crocs IR — Q4 and FY2025 results](https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--Reports-Fourth-Quarter-and-Full-Year-2025-Results-Issues-First-Quarter-and-Full-Year-2026-Outlook/default.aspx)
+- [SEC — Crocs Form 8-K FY2025 (Q2 2025 press release, impairment)](https://www.sec.gov/Archives/edgar/data/0001334036/000133403625000083/croxq22025-pressrelease.htm)
+- [FashionUnited — Crocs 2025 revenue $4 billion despite decline](https://fashionunited.uk/news/business/crocs-records-2025-revenue-of-4-billion-dollars-despite-consolidated-decline/2026021286261)
+- [GuruFocus — CROX forward P/E ratio](https://www.gurufocus.com/term/forward-pe-ratio/CROX)
+- [stockanalysis.com — CROX statistics & valuation](https://stockanalysis.com/stocks/crox/statistics/)
+- [PRNewswire — Crocs completes HeyDude acquisition](https://www.prnewswire.com/news-releases/crocs-inc-completes-acquisition-of-casual-footwear-brand-heydude-301485415.html)
+- [TheStreet — Crocs purchases HeyDude for $2.5 billion](https://www.thestreet.com/investing/crocs-to-acquire-heydude)
+
+Fact-check: Q1 2026 (reported Apr 30, 2026) enterprise revenue $921.5M (-1.7%); Crocs brand $767.4M (+0.8%), HeyDude $154.0M (-12.3%); adjusted operating margin 22.3%; adjusted EPS $2.99; Q1 free cash flow negative $98.9M. FY2025 net loss $81.2M ($1.50 diluted loss) with a $738.1M HeyDude impairment; HeyDude bought for $2.5B (closed early 2022); ~$80M annualized tariff headwind; forward P/E ~8-9x (range). No material corrections.
+
+---
+
+## Topic: Twilio / re-rating vs organic-growth and carrier pass-through (article: "Twilio rallies 30% on an AI story, but four points of its 20% growth are pass-through and acquisitions" — 2026-06-15T0900-twilio.md) [software]
+
+- [Twilio Q1 2026 results press release (IR)](https://investors.twilio.com/news-releases/news-release-details/twilio-announces-first-quarter-2026-results)
+- [Twilio Q1 2026 earnings (twilio.com)](https://www.twilio.com/en-us/press/releases/q1-2026-earnings)
+- [TWILIO INC Form 8-K Q1 2026 (SEC, exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/0001447669/000144766926000046/twloq126ex991.htm)
+- [Investing.com — Twilio Q1 2026 slides: 20% revenue growth, raised guidance](https://in.investing.com/news/company-news/twilio-q1-2026-slides-20-revenue-growth-raised-guidance-93CH-5372041)
+- [Investing.com — Twilio Q1 2026 earnings beat, stock surges (transcript)](https://www.investing.com/news/transcripts/earnings-call-transcript-twilios-q1-2026-earnings-beat-forecasts-stock-surges-93CH-4660370)
+- [Motley Fool — Twilio Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/twilio-twlo-q1-2026-earnings-transcript/)
+- [Yahoo Finance — Twilio Q1 2026 earnings call highlights](https://finance.yahoo.com/markets/stocks/articles/twilio-inc-twlo-q1-2026-072144763.html)
+- [TradingView — Twilio Q1 revenue $1.41B, GAAP gross profit $684M, non-GAAP EPS $1.50](https://www.tradingview.com/news/tradingview:62efce701cf42:0-twilio-posts-q1-revenue-1-41b-gaap-gross-profit-684m-and-non-gaap-eps-1-50/)
+- [GuruFocus — Twilio forward PE ratio](https://www.gurufocus.com/term/forward-pe-ratio/TWLO)
+- [Yahoo Finance — Twilio valuation after strong Q1 earnings beat](https://finance.yahoo.com/markets/stocks/articles/twilio-valuation-strong-q1-earnings-121605251.html)
+
+Fact-check: Q1 2026 (reported Apr 30, 2026) revenue $1.407B (+20% reported, +16% organic); GAAP operating income $108M, non-GAAP $279M (19.8% margin); non-GAAP EPS $1.50; SBC 9.7% of revenue (first sub-10% since IPO); ~70bp margin headwind from A2P carrier fees; DBNRR 114%; Active Customer Accounts disclosure discontinued; stock ~+30% on print, ~$21B mkt cap, forward P/E ~33; FY26 organic guide just 9.5-10.5%. Pivoted from a stale 'GAAP-loss' premise.
+
+---
+
+## Topic: Toast / GAAP profit riding a 51-bp payments take rate (article: "Toast Books $126 Million Profit on $1.63 Billion, but 80% Rides a 51-Basis-Point Take Rate" — 2026-06-15T0830-toast.md) [fintech]
+
+- [SEC Form 8-K Exhibit 99.1 (Q1 2026, tost-20260331)](https://www.sec.gov/Archives/edgar/data/0001650164/000165016426000113/tost-20260331xexhibit991.htm)
+- [Toast Announces First Quarter 2026 Financial Results — BusinessWire](https://www.businesswire.com/news/home/20260507253488/en/Toast-Announces-First-Quarter-2026-Financial-Results)
+- [StockTitan — Toast Q1 2026 8-K summary](https://www.stocktitan.net/sec-filings/TOST/8-k-toast-inc-reports-material-event-4deffd3a73ea.html)
+- [StockTitan — Toast grows Q1 2026 revenue 22% (10-Q)](https://www.stocktitan.net/sec-filings/TOST/10-q-toast-inc-quarterly-earnings-report-e5376910acd2.html)
+- [Quartr — Toast Q1 2026 summary](https://quartr.com/events/toast-inc-tost-q1-2026_oj3mKQsT)
+- [Motley Fool — Toast Q1 2026 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/toast-tost-q1-2026-earnings-call-transcript/)
+- [CoinLaw — Toast statistics 2026 (ARR, GPV, revenue)](https://coinlaw.io/toast-statistics/)
+- [Yahoo Finance — Toast vs Block POS platform comparison](https://finance.yahoo.com/news/toast-vs-block-pos-platform-145600283.html)
+- [HeyGoTrade — Toast vs Shift4 B2B fintech](https://www.heygotrade.com/en/blog/toast-tost-vs-shift4-four-b2b-fintech-2026/)
+- [stockanalysis.com — TOST statistics & valuation](https://stockanalysis.com/stocks/tost/statistics/)
+- [companiesmarketcap.com — Toast market cap](https://companiesmarketcap.com/toast/marketcap/)
+
+Fact-check: Q1 2026 (period ended Mar 31, 2026; reported May 7, 2026) GAAP net income $126M (vs $56M) on $1.63B revenue (+22%); operating income $110M / 21% margin; adjusted EBITDA $179M; ARR $2.2B (+26%); ~171,000 locations (+22%); GPV ~$51B; payments take rate ~51 bps (+2 bps); SaaS gross margin >80%; hardware+services at negative gross margin. Fintech-share/GPV/valuation softened to ranges.
+
+---
+
 ## Topic: Iron Mountain / re-rated as a data-center play (article: "Iron Mountain Is Priced as a Data-Center Play While Data Centers Are 13% of Revenue" — 2026-06-14T1300-iron-mountain.md) [REIT]
 
 - ✅ [Iron Mountain Reports First Quarter 2026 Results — IRM IR](https://investors.ironmountain.com/news/news-details/2026/Iron-Mountain-Reports-First-Quarter-2026-Results/default.aspx)

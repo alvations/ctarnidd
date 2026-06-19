@@ -18,16 +18,16 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 | 8  | done | 2026-06-14T1200-celsius.md        | Celsius (CELH) — rev +138% but flagship +6%; Alani Nu carries it; Pepsi 59% [beverages] |
 | 9  | done | 2026-06-14T1230-wayfair.md        | Wayfair (W) — best quarter in 5 yrs still a $105M loss; flat customers; $3B debt [e-commerce] |
 | 10 | done | 2026-06-14T1300-iron-mountain.md  | Iron Mountain (IRM) — re-rated as a data-center play; DC only ~13% of revenue [REIT] |
-| 11 | pending | TBD-toast.md          | Toast (TOST) — restaurant fintech on a take-rate + hardware subsidy [fintech] |
-| 12 | pending | TBD-twilio.md         | Twilio (TWLO) — the messaging API commodity dressed as an AI platform [software] |
-| 13 | pending | TBD-crocs.md          | Crocs (CROX) — cheap for a reason; the HeyDude drag + fad risk [footwear] |
-| 14 | pending | TBD-first-solar.md    | First Solar (FSLR) — earnings built on policy credits that politics can revoke [clean energy] |
-| 15 | pending | TBD-cleveland-cliffs.md | Cleveland-Cliffs (CLF) — leveraged steel cyclical riding on tariffs [materials] |
-| 16 | pending | TBD-dutch-bros.md     | Dutch Bros (BROS) — a drive-thru coffee chain priced like a tech compounder [restaurants] |
-| 17 | pending | TBD-soundhound.md     | SoundHound AI (SOUN) — tiny revenue, vast multiple, the purest AI-hype trade [AI software] |
-| 18 | pending | TBD-exact-sciences.md | Exact Sciences (EXAS) — Cologuard's growth vs persistent losses + new rivals [diagnostics] |
-| 19 | pending | TBD-sweetgreen.md     | Sweetgreen (SG) — premium-salad growth story still losing money on every bowl [restaurants] |
-| 20 | pending | TBD-planet-fitness.md | Planet Fitness (PLNT) — the $10 gym franchise priced for flawless expansion [consumer/fitness] |
+| 11 | done | 2026-06-15T0830-toast.md          | Toast (TOST) — $126M GAAP profit on $1.63B, but ~80% rides a 51-bp payments take rate [fintech] |
+| 12 | done | 2026-06-15T0900-twilio.md         | Twilio (TWLO) — +30% on an AI story; only 16 of its 20% growth is organic, rest carrier pass-through + M&A [software] |
+| 13 | done | 2026-06-15T0930-crocs.md          | Crocs (CROX) — ~8x earnings value trap; $738M HeyDude impairment + single-clog fad risk [footwear] |
+| 14 | done | 2026-06-15T1000-first-solar.md    | First Solar (FSLR) — record quarter rests on $2.1B of Section 45X credits politics can revoke; bookings cliff [clean energy] |
+| 15 | done | 2026-06-15T1030-cleveland-cliffs.md | Cleveland-Cliffs (CLF) — beats yet loses $229M; ~$7.7B debt, leveraged bet on prices it can't set [materials] |
+| 16 | done | 2026-06-15T1100-dutch-bros.md     | Dutch Bros (BROS) — ~50x earnings while two-thirds of growth is freshly poured concrete [restaurants] |
+| 17 | done | 2026-06-15T1130-soundhound.md     | SoundHound AI (SOUN) — ~16x sales on $44M/qtr; acquisition-fueled, ~$25M/qtr loss, the purest AI-hype trade [AI software] |
+| 18 | done | 2026-06-15T1200-exact-sciences.md | Exact Sciences (ABT/EXAS) — Abbott's $21B buyout at $105 cashed out a never-profitable growth story [diagnostics] |
+| 19 | done | 2026-06-15T1230-sweetgreen.md     | Sweetgreen (SG) — $125.8M "profit" is a one-time Spyce gain; comps crater 12.8%, still losing money [restaurants] |
+| 20 | done | 2026-06-15T1300-planet-fitness.md | Planet Fitness (PLNT) — guidance halved as net member adds fall ~36%; the denominator illusion breaks [consumer/fitness] |
 | 21 | pending | TBD-builders-firstsource.md | Builders FirstSource (BLDR) — building-products roll-up on a frozen housing market [building products] |
 | 22 | pending | TBD-sarepta.md        | Sarepta (SRPT) — gene-therapy growth shadowed by patient-safety deaths [biotech] |
 | 23 | pending | TBD-carmax.md         | CarMax (KMX) — used-car retailer squeezed by affordability and rates [auto retail] |
