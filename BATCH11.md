@@ -74,13 +74,13 @@ ONE line, one clause, concrete (name+number+stance), ~8-14 words. NOT two senten
 | 48 | done | 2026-06-18T1200-conagra.md        | Conagra (CAG) — "return to growth" (organic +2.4%) hides total sales -1.9% and adj-EPS -23.5%; a $1.40 dividend held against falling profit + $7.3B net debt [packaged food] |
 | 49 | done | 2026-06-18T1230-generac.md        | Generac (GNRC) — the secular resilience franchise (Residential) grew just 1% with home-standby units falling; the +12% / ~90% rally rides a C&I data-center bet [industrials] |
 | 50 | done | 2026-06-18T1300-cintas.md         | Cintas (CTAS) — ~36x trailing on a headcount-linked B2B services firm; organic growth decelerated to 8.2%, next leg pinned on a ~$5.5B UniFirst acquisition [industrials] |
-| 51 | pending | TBD-rollins.md        | Rollins (ROL) — pest control priced for perpetual perfection [industrials] |
-| 52 | pending | TBD-pool-corp.md      | Pool Corp (POOL) — pool-supply distributor past its pandemic boom [distribution] |
-| 53 | pending | TBD-fastenal.md       | Fastenal (FAST) — industrial distribution at a premium as manufacturing softens [distribution] |
-| 54 | pending | TBD-knight-swift.md   | Knight-Swift (KNX) — truckload carrier in a long freight recession [transport] |
-| 55 | pending | TBD-deere.md          | Deere (DE) — farm-equipment earnings rolling over with the ag cycle [machinery] |
-| 56 | pending | TBD-nutrien.md        | Nutrien (NTR) — fertilizer giant tied to volatile crop-nutrient prices [agriculture] |
-| 57 | pending | TBD-carrier.md        | Carrier (CARR) — HVAC re-rated on heat-pump + data-center cooling hope [industrials] |
-| 58 | pending | TBD-sherwin-williams.md | Sherwin-Williams (SHW) — paint compounder leaning on price as volumes soften [materials] |
-| 59 | pending | TBD-waste-management.md | Waste Management (WM) — recession-proof trash at a not-recession-proof price [waste] |
-| 60 | pending | TBD-chewy.md          | Chewy (CHWY) — pet e-commerce growth slowing as the pandemic pets age [e-commerce] |
+| 51 | done | 2026-06-18T1330-rollins.md        | Rollins (ROL) — ~50x trailing on 6.6% organic growth; double-digit topline padded by serial M&A; GAAP EPS flat at $0.22 [business-services] |
+| 52 | done | 2026-06-18T1400-pool-corp.md      | Pool Corp (POOL) — $5.3B revenue flat for a third year; U.S. new-pool builds ~40% below the 2022 peak; floor-is-the-ceiling [distribution] |
+| 53 | done | 2026-06-18T1430-fastenal.md       | Fastenal (FAST) — +12.4% daily sales into a soft PMI, but gross margin -50bps to 44.6% on tariffs; ~35x = secular multiple on a cyclical [distribution] |
+| 54 | done | 2026-06-18T1500-knight-swift.md   | Knight-Swift (KNX) — adjusted $0.09 / GAAP -$0.01; adjusted OR 97%, LTL swung to a loss; priced for a recovery the cycle hasn't delivered [transportation] |
+| 55 | done | 2026-06-18T1530-deere.md          | Deere (DE) — peak ~32x multiple on trough earnings; FY26 net income $4.5-5.0B vs the $10.166B FY2023 peak; core P&PA sales -14%, margin 22.0%→15.7% [industrials] |
+| 56 | done | 2026-06-18T1600-nutrien.md        | Nutrien (NTR) — "record" Q1 is a potash-price bet; GAAP $0.27 vs adjusted $0.51; price-taker on a benchmark it doesn't set; stock fell ~7% [materials] |
+| 57 | done | 2026-06-18T1630-carrier.md        | Carrier (CARR) — data-center orders +500% (backlog covers $1.5B target, order book real), but organic -1%, FCF -$15M, residential -12%; ~44x on ~7% DC revenue [industrials] |
+| 58 | done | 2026-06-18T1700-sherwin-williams.md | Sherwin-Williams (SHW) — 6.8% growth is bought (Suvinil) + FX + price; PSG same-store +2.4% on price not gallons; mgmt sees "little to no recovery"; 25-31x [materials] |
+| 59 | done | 2026-06-18T1730-waste-management.md | Waste Management (WM) — ~31x while 2026 growth is core price 5.4-5.8% vs volume 0.2-0.6%; revenue miss papered by an EPS beat; Stericycle leverage ~3.6x [business-services] |
+| 60 | done | 2026-06-18T1800-chewy.md          | Chewy (CHWY) — growth slides to 7.7% and guidance cut; active customers +3.6%, growth extracted from a near-flat cohort; record profit flattered by $73.4M SBC; ~49x [e-commerce] |

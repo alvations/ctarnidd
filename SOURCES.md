@@ -8,6 +8,182 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Chewy / margin-and-monetization growth on a near-flat customer base, guidance cut (article: "Chewy's growth slides to 7.7% as guidance cut sends shares to a new floor" — 2026-06-18T1800-chewy.md) [e-commerce]
+
+- [Chewy Q1 FY2026 Form 8-K / Exhibit 99.1 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001766502/000162828026042058/chwyq12026exhibit991.htm)
+- [Chewy Q1 FY2025 Form 8-K / Exhibit 99.1 (prior-year comparable, SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001766502/000176650225000028/chwyq12025exhibit991.htm)
+- [Chewy Announces First Quarter 2026 Financial Results (Investor Relations)](https://investor.chewy.com/news-and-events/news/news-details/2026/Chewy-Announces-First-Quarter-2026-Financial-Results/default.aspx)
+- [Chewy Q1 2026 results (Businesswire)](https://www.businesswire.com/news/home/20260610296946/en/Chewy-Announces-First-Quarter-2026-Financial-Results)
+- [Chewy posts Q1 FY2026: $3.36B sales, $94.8M net income (TradingView News)](https://www.tradingview.com/news/tradingview:84fcbae985d2a:0-chewy-posts-q1-fy2026-3-36b-sales-94-8m-net-income-adjusted-diluted-eps-0-43/)
+- [Chewy Q1 2026 earnings: record profit, customer growth (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/chewy-q1-2026-earnings-record-134232378.html)
+- [Chewy stock dips as strong Q1 collides with guidance cut (Timothy Sykes)](https://www.timothysykes.com/news/chewyinc-chwy-news-2026_06_12/)
+- [Chewy (CHWY) Statistics & Valuation (stockanalysis.com)](https://stockanalysis.com/stocks/chwy/statistics/)
+- [Chewy Inc (CHWY) Q1 2026 Earnings Call Highlights (GuruFocus)](https://www.gurufocus.com/news/8910414/chewy-inc-chwy-q1-2026-earnings-call-highlights-strong-sales-growth-and-record-profitability)
+
+Fact-check: Q1 FY2026 (thirteen weeks ended May 3, 2026, reported June 10, 2026) net sales $3.36B (+7.7% YoY, down from 8.3% a year earlier); active customers 21.5M (+3.6%); NSPAC $597 (≈+4.6%); gross margin 30.1% (+50bps); GAAP net income $94.8M (record), net margin 2.8% (+80bps); share-based comp and related taxes $73.4M (≈77% of net income); adjusted EBITDA $253.1M; Autoship sales ~$2.83B (+10.5%), 84.4% of net sales; FCF ~$71M (+45%+); FY2026 revenue guidance cut to $13.40–$13.55B (6.3%–7.5% growth) with customer adds trending to low end of ~150k–250k/quarter "given the current environment"; trailing P/E ~49, ~45% below three-months-prior high. No corrections required; figures hedged where primary-vs-secondary differed (gross margin "roughly 30%," multiples "near").
+
+---
+
+## Topic: Waste Management / price-led growth on flat volume, bought Stericycle growth, secular multiple on a toll-road (article: "Waste Management trades at 31x earnings while 2026 growth rides almost entirely on price, not volume" — 2026-06-18T1730-waste-management.md) [business-services]
+
+- [WM Q1 2026 EPS/revenue (GuruFocus)](https://www.gurufocus.com/news/8824264/waste-management-wm-q1-2026-eps-179-beats-170-revenue-6227b-misses-6287b-still-63-undervalued-gf-score-93100)
+- [WM Q1 2026 earnings call transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-waste-management-beats-q1-2026-eps-forecast-stock-dips-93CH-4650877)
+- [WM Q1 2026 10-Q (StockTitan)](https://www.stocktitan.net/sec-filings/WM/10-q-waste-management-inc-quarterly-earnings-report-9385b8668883.html)
+- [WM Q1 2026 highlights (GuruFocus call notes)](https://www.gurufocus.com/news/8830985/waste-management-inc-wm-q1-2026-earnings-call-highlights-strong-ebitda-growth-and-strategic-investments-drive-performance)
+- [WM Q4/FY2025 earnings & 2026 guidance (WM IR)](https://investors.wm.com/news-releases/news-release-details/wm-announces-fourth-quarter-and-full-year-2025-earnings)
+- [WM Q4 earnings, Stericycle & sustainability (Waste Dive)](https://www.wastedive.com/news/wm-q4-earnings-2025-2026-outlook-sustainability-recycling-stericycle/810875/)
+- [WM to acquire Stericycle for $7.2B (WM IR)](https://investors.wm.com/news-releases/news-release-details/wm-acquire-stericycle-leader-medical-waste-services-72-billion/)
+- [WM 2026 growth inflection, pricing/volume (Seeking Alpha)](https://seekingalpha.com/article/4863164-waste-management-stock-growth-inflection-volume-headwinds-fade-pricing-strong)
+- [WM P/E ratio TTM ~31.4 (GuruFocus)](https://www.gurufocus.com/term/pettm/WM/PE-Ratio/WM)
+- [WM vs RSG valuation comparison (PortfoliosLab)](https://portfolioslab.com/tools/stock-comparison/RSG/WM)
+- [WM statistics & valuation (stockanalysis.com)](https://stockanalysis.com/stocks/wm/statistics/)
+- [Barchart — What to expect from WM Q1 2026](https://www.barchart.com/story/news/1241570/what-to-expect-from-waste-management-s-q1-2026-earnings-report)
+
+Fact-check: Q1 2026 operating revenue $6.227B (missed ~$6.287B consensus); adjusted diluted EPS $1.81 (beat ~$1.70; one source $1.79 — a beat either way); adjusted operating EBITDA up ~5.9% with margin expansion; cash from operations ~$1.5B (+24%), FCF nearly doubled; FY2026 guidance core price 5.4%–5.8%, yield 3.2%–3.6%, volume 0.2%–0.6%; Stericycle $7.2B (incl. ~$1.4B net debt), >$125M run-rate synergies, leverage to ~3.6x vs 2.75–3.0x target; Healthcare Solutions ~3% 2026 growth (mainly price) amid ERP friction; six RNG + four recycling projects due 2026; trailing P/E ~31 (≈52% above industry median ~20). No material corrections; EPS consensus stated conservatively; no invented figures.
+
+---
+
+## Topic: Sherwin-Williams / bought-and-borrowed growth, price-not-gallons, cyclical priced as secular (article: "Sherwin-Williams sells $5.67B of paint, admits no recovery is coming, and trades like one already arrived" — 2026-06-18T1700-sherwin-williams.md) [materials]
+
+- [SEC Form 8-K — SHW Q1 2026 earnings release](https://www.sec.gov/Archives/edgar/data/0000089800/000008980026000036/shwearningsrelease1q2026.htm)
+- [Sherwin-Williams IR — 2026 First Quarter Financial Results](https://investors.sherwin-williams.com/press-releases/press-release-details/2026/The-Sherwin-Williams-Company-Reports-2026-First-Quarter-Financial-Results/default.aspx)
+- [PRNewswire — Q1 2026 results](https://www.prnewswire.com/news-releases/the-sherwin-williams-company-reports-2026-first-quarter-financial-results-302755602.html)
+- [StockTitan — SHW sold $5.67B of paint in Q1, kept 2026 forecast](https://www.stocktitan.net/news/SHW/the-sherwin-williams-company-reports-2026-first-quarter-financial-82xwmxa8peos.html)
+- [Investing.com (CA) — SHW Q1 2026 slides: beat on margin gains, Suvinil boost](https://ca.investing.com/news/company-news/sherwinwilliams-q1-2026-slides-earnings-beat-on-margin-gains-suvinil-boost-93CH-4592363)
+- [Seeking Alpha — SHW keeps 2026 guidance, raises raw-material inflation outlook](https://seekingalpha.com/news/4580909-sherwin-williams-keeps-2026-guidance-unchanged-while-raising-raw-material-inflation-outlook)
+- [Autobody News — SHW beats Q1 estimates as Refinish posts double-digit growth](https://www.autobodynews.com/news/sherwin-williams-beats-q1-estimates-as-refinish-posts-double-digit-growth)
+- [GuruFocus — SHW forward PE ratio](https://www.gurufocus.com/term/forwardPE/NYSE:SHW/Forward-PE-Ratio/Sherwin-Williams-Co)
+- [Globe and Mail / Motley Fool — SHW Q1 2026 earnings transcript](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/1564435/sherwin-williams-shw-q1-2026-earnings-transcript/)
+
+Fact-check: Q1 2026 (reported April 28, 2026) consolidated net sales $5.667B (+6.8%); gross margin 49.1% (+90bps, 14th consecutive quarter of expansion); adjusted diluted EPS $2.35 (beat ~$2.27); GAAP EPS $2.15 (+7.5%); net income $534.7M (+6.1%); Paint Stores Group sales +3.7% to $3.05B, same-store +2.4% (characterized as price-led, an inference supported by no-recovery guidance); Suvinil closed Oct 2025, high-teens contribution to Consumer Brands while N.A. DIY demand declined; FY2026 guidance reaffirmed (GAAP EPS $10.70–$11.10, adjusted $11.50–$11.90); management expects "little to no recovery in most end markets this year"; 80–100 store openings planned; forward P/E ~25–31 (premium to chemicals median ~20). No material corrections; valuation stated as a range; price-vs-volume split labeled inference.
+
+---
+
+## Topic: Carrier / 500% data-center order headline (order book real) vs ~1% organic decline, 44x multiple (article: "Carrier's data-center cooling story masks a 1% organic decline and a 44x multiple" — 2026-06-18T1630-carrier.md) [industrials]
+
+- [Carrier Reports First Quarter 2026 Results — IR](https://ir.carrier.com/news/news-details/2026/Carrier-Reports-First-Quarter-2026-Results/default.aspx)
+- [Carrier Reports First Quarter 2026 Results — PR Newswire](https://www.prnewswire.com/news-releases/carrier-reports-first-quarter-2026-results-302758617.html)
+- [Carrier Q1 2026 earnings — StockTitan 8-K](https://www.stocktitan.net/sec-filings/CARR/8-k-carrier-global-corp-reports-material-event-7b41ebcdf2ee.html)
+- [Earnings slide as Q1 2026 margins tighten — StockTitan 10-Q](https://www.stocktitan.net/sec-filings/CARR/10-q-carrier-global-corp-quarterly-earnings-report-ca234545ebfc.html)
+- [Carrier Q1 2026 Revenue $5.34B, GAAP EPS $0.28 — TradingView](https://www.tradingview.com/news/tradingview:3751c91436500:0-carrier-global-reports-q1-2026-revenue-5-34b-gaap-eps-0-28-adjusted-eps-0-57/)
+- [Q1 2026 Revenue Up 2.4%, Data Center Orders Grow Fivefold — IndexBox](https://www.indexbox.io/blog/carrier-global-q1-2026-revenue-and-eps-beat-estimates-data-center-orders-surge/)
+- [Earnings call transcript: Carrier Q1 2026 beats — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-carrier-global-beats-q1-2026-forecasts-with-eps-and-revenue-surprise-93CH-4656165)
+- [Carrier (CARR) Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/30/carrier-carr-q1-2026-earnings-call-transcript/)
+- [Carrier Reports 2025 Results and Announces 2026 Outlook — Carrier](https://www.carrier.com/us/en/news/carrierreports-2025-results-and-announces-2026-outlook/)
+- [CARR PE Ratio (TTM) 44.18 — GuruFocus](https://www.gurufocus.com/term/pettm/NYSE:CARR/PE-Ratio-TTM/Carrier-Global)
+- [Carrier Global Cuts 3,000 Jobs — TIKR](https://www.tikr.com/blog/carrier-global-cuts-3000-jobs-heres-where-the-stock-could-go-in-2026)
+
+Fact-check: Q1 2026 (reported April 30, 2026) net sales $5.341B (+~2.4% reported, ~3% FX tailwind) but organic revenue DOWN ~1%; data-center orders up 500% YoY with backlog covering the full $1.5B 2026 data-center sales target (order book confirmed real; DC ~7% of revenue, $1.5B / ~$22B); GAAP diluted EPS $0.28 vs adjusted $0.57; net income $238M vs $412M; GAAP operating margin 4.8% vs 12.1%; adjusted EBITDA $866M (16.2% margin); operating cash flow $79M, FCF NEGATIVE $15M (vs +$420M prior year); CSA Residential sales down ~12% on distributor destocking; Viessmann acquired ~$14.2B, >$10B divestiture proceeds; ~3,000 job cuts; trailing P/E ~44 (vs ~18 ten-year median); stock +~9% on print. P/E and DC-revenue share stated as approximations to reflect source range; no figure beyond what sources support.
+
+---
+
+## Topic: Nutrien / commodity price-taker, GAAP-vs-adjusted gap, cyclical priced as secular food-security story (article: "Nutrien's record quarter is a potash-price bet dressed as a food-security story" — 2026-06-18T1600-nutrien.md) [materials]
+
+- [Nutrien Reports First Quarter 2026 Results (Nutrien IR)](https://www.nutrien.com/news/press-releases/nutrien-reports-first-quarter-2026-results-1746)
+- [Nutrien Q1 2026 results (StockTitan)](https://www.stocktitan.net/news/NTR/nutrien-reports-first-quarter-2026-m07n9tgogkgn.html)
+- [Nutrien Reports First Quarter 2026 Results (Businesswire)](https://www.businesswire.com/news/home/20260428899674/en/Nutrien-Reports-First-Quarter-2026-Results)
+- [Nutrien Q1 2026 slides: record potash volumes, stock tumbles 7% (Investing.com)](https://www.investing.com/news/company-news/nutrien-q1-2026-slides-record-potash-volumes-stock-tumbles-7-93CH-4670235)
+- [Nutrien Ltd. (NTR) Stock Falls on Q1 2026 Earnings (Quiver Quantitative)](https://www.quiverquant.com/news/Nutrien+Ltd.+(NTR)+Stock+Falls+on+Q1+2026+Earnings)
+- [Nutrien Reports Full-Year 2025 Results and Provides 2026 Guidance (Nutrien IR)](https://www.nutrien.com/news/press-releases/nutrien-reports-full-year-2025-results-and-provides-2026-guidance-1741)
+- [Nutrien Ltd. Form 6-K FY2026 (SEC)](https://www.sec.gov/Archives/edgar/data/0001725964/000119312526209487/d125293dex991.htm)
+- [Potash facts (Natural Resources Canada)](https://natural-resources.canada.ca/minerals-mining/mining-data-statistics-analysis/minerals-metals-facts/potash-facts)
+- [Fertilizer prices gain momentum (World Bank)](https://blogs.worldbank.org/en/opendata/fertilizer-prices-gain-momentum-amid-strong-demand-and-geopoliti)
+- [Potash Price Per Ton — 2026 Market Rates (GrainBrief)](https://grainbrief.com/prices/potash-price-per-ton)
+
+Fact-check: Q1 2026 (reported April 28, 2026) total revenue $6,046M (~+18.6%–19%); GAAP net earnings $139M, diluted GAAP EPS $0.27; adjusted EPS $0.51 (~double GAAP); adjusted EBITDA $1.105B (+~30%); potash adjusted EBITDA $578M on record 3.51M tonnes and realized price +21% to $264/tonne; nitrogen adjusted EBITDA $482M on price +13% to $381/tonne despite volumes -5%; operating cash flow negative ~$851M (seasonal); total debt ~$12.6B; dividend $0.55/share (~$264M); potash price arc ~$1,202 (Apr 2022) → ~$311 (end-2023) → ~$310–$380 (spring 2026); FY2025 net earnings $2.30B on $19.59B revenue; stock fell ~7.36% post-print. Thesis pivoted from a stale "earnings collapsed" angle to "commodity-price-taker / cyclical-priced-as-secular" (Q1 2026 was a rebound); EPS-vs-consensus presented as contested (beat Zacks $0.48 / reportedly missed $0.53).
+
+---
+
+## Topic: Deere / peak multiple on trough cyclical earnings, core farm engine -14% (article: "Deere trades near record highs on trough earnings as its core farm engine shrinks 14%" — 2026-06-18T1530-deere.md) [industrials]
+
+- [Deere FY26 Q2 earnings — deere.com](https://www.deere.com/en/news/all-news/fy26-second-quarter-earnings/)
+- [Deere 2Q 2026 net income $1.773B — PR Newswire](https://www.prnewswire.com/news-releases/deere-reports-second-quarter-net-income-of-1-773-billion-302778847.html)
+- [Deere Q2 2026 mixed results, segment detail — StockTitan](https://www.stocktitan.net/sec-filings/DE/8-k-deere-co-reports-material-event-e372d7486f1a.html)
+- [Deere 2Q 2026 net income $1.773B — farm-equipment.com](https://www.farm-equipment.com/articles/25333-deere-reports-2q-2026-net-income-of-1773-billion)
+- [Deere Q2 2026 earnings, construction offsets farm slump — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/deere-q2-2026-earnings-beat-112526659.html)
+- [Deere raised FY26 net income outlook — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/deere-raised-fy26-net-income-163600267.html)
+- [Deere Q2 profit $1.77B, construction +29%, ag bottom 2026 — BigGo Finance](https://finance.biggo.com/news/US_DE_2026-05-21)
+- [John Deere raises full-year forecast amid construction recovery — mlq.ai](https://mlq.ai/news/john-deere-raises-full-year-earnings-forecast-amid-construction-segment-recovery/)
+- [John Deere Financial net income +18% in Q2 — Equipment Finance News](https://equipmentfinancenews.com/news/lender-operations/john-deere-financial-net-income-rises-18-in-q2/)
+- [Deere FY2023 net income $10.166B record — PR Newswire](https://www.prnewswire.com/news-releases/deere-reports-net-income-of-2-369-billion-for-fourth-quarter-10-166-billion-for-fiscal-year-301995571.html)
+- [Deere FY2024 net income $7.1B — PR Newswire](https://www.prnewswire.com/news-releases/deere-reports-net-income-of-1-245-billion-for-fourth-quarter-7-1-billion-for-fiscal-year-302312855.html)
+- [Deere FY2025 Q4 net income $1.065B — SEC EDGAR 8-K](https://www.sec.gov/Archives/edgar/data/315189/000110465925116130/de-20251126xex99d1.htm)
+- [Deere 15-year stock price history — Macrotrends](https://www.macrotrends.net/stocks/charts/DE/deere/stock-price-history)
+- [Deere stock price/valuation — Investing.com](https://www.investing.com/equities/deere---co)
+- [Deere quote — CNBC](https://www.cnbc.com/quotes/DE)
+
+Fact-check: FY26 Q2 (quarter ended ~late April 2026) net income $1.773B, EPS $6.55, net sales & revenues +5% to $13.369B, net income -2% YoY; Production & Precision Agriculture sales -14% to $4.503B, operating margin 22.0% → 15.7%; Construction & Forestry +29%, Small Ag & Turf +16% filled the hole; FY26 guidance net income $4.5B–$5.0B — roughly half the FY2023 peak of $10.166B (FY2024 was $7.1B); a non-recurring $272M IEEPA tariff refund lifted equipment margins ~2.5pts to 16.9%; stock ~$585 (June 16, 2026) vs ATH close $660.56, trailing P/E ~32.6, forward ~29.77. Correction: peak year is FY2023 ($10.166B), not FY2024; draft corrected throughout. "Roughly half of peak" and "~12% from ATH" are arithmetic on confirmed figures.
+
+---
+
+## Topic: Knight-Swift / GAAP loss vs adjusted nine cents, freight-recession cyclical priced for recovery (article: "Knight-Swift Earned Nine Cents and Lost Money on GAAP — But the Stock Prices a Full Recovery" — 2026-06-18T1500-knight-swift.md) [transportation]
+
+- [SEC 8-K, exhibit 99 (Q1 2026, filed Apr 16 2026)](https://www.sec.gov/Archives/edgar/data/1492691/000149269126000030/knx-exhibit9904162026.htm)
+- [SEC 8-K, Q1 2026 (alt exhibit)](https://www.sec.gov/Archives/edgar/data/0001492691/000149269126000034/exhibit99103312026.htm)
+- [Knight-Swift IR — First Quarter 2026 Earnings PDF](https://s24.q4cdn.com/286931391/files/doc_earnings/2026/q1/earnings-result/First-Quarter-2026-Earnings.pdf)
+- [Investing.com — Knight-Swift Q1 2026 slides: one-time charges weigh on results](https://www.investing.com/news/company-news/knightswift-q1-2026-slides-onetime-charges-weigh-on-results-93CH-4631022)
+- [StockTitan — KNX swings to Q1 2026 loss as LTL claims hit margins (10-Q)](https://www.stocktitan.net/sec-filings/KNX/10-q-knight-swift-transportation-holdings-inc-quarterly-earnings-repo-57e4d76d398b.html)
+- [Motley Fool — KNX Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/22/knight-swift-knx-q1-2026-earnings-transcript/)
+- [Transport Topics — Knight-Swift more confident in up cycle despite guidance cut](https://www.ttnews.com/articles/knight-swift-up-cycle-2026)
+- [Seeking Alpha — KNX lowers Q1 EPS guidance on fuel, arbitration, weather](https://seekingalpha.com/news/4575958-knight-swift-lowers-q1-eps-guidance-on-higher-fuel-costs-arbitration-award-weather)
+
+Fact-check: Q1 2026 (quarter ended March 31, 2026; released April 16, 2026) GAAP diluted EPS $(0.01) (net loss ~$1.3M) vs $0.19 prior year; adjusted EPS $0.09 vs $0.28 (missed ~$0.17 consensus); total revenue $1,850M (+1.4%), ex-fuel-surcharge +0.3% to ~$1,638M; consolidated adjusted operating ratio 97% (~+230bps worse); ~$45M aggregate one-time items ($18.0M LTL claims from a 2022 arbitration ruling, $4.1M Mexico VAT, $12–14M weather+fuel, deferred warehousing); LTL swung from ~$12.7M operating profit to ~$3.6M operating loss (adjusted OR ~99.6%); truckload revenue per loaded mile (ex-fuel) +1.4%, loaded miles -1.8%; FY2026 adjusted EPS guidance $0.45–$0.49; ~162.3M shares. No substantive corrections; small per-segment figures stated as approximate; no specific P/E asserted.
+
+---
+
+## Topic: Fastenal / cyclical PMI-linked distributor at a secular multiple, gross-margin slip on tariffs (article: "Fastenal grows 12% into a soft factory floor — at 35x, the math leaves no room to miss" — 2026-06-18T1430-fastenal.md) [distribution]
+
+- [SEC 8-K — Fastenal Q1 2026 earnings release](https://www.sec.gov/Archives/edgar/data/815556/000081555626000019/ex_99103312026earningsrele.htm)
+- [Fastenal IR — 2026 First Quarter Earnings](https://investor.fastenal.com/news-releases/news-details/2026/Fastenal-Company-Reports-2026-First-Quarter-Earnings/default.aspx)
+- [StockTitan — FAST 10-Q, Q1 2026 sales rise 12% to $2.20B](https://www.stocktitan.net/sec-filings/FAST/10-q-fastenal-co-quarterly-earnings-report-44163c08e0f1.html)
+- [StockTitan — FAST 8-K, net income $339.8M](https://www.stocktitan.net/sec-filings/FAST/8-k-fastenal-co-reports-material-event-7fe5ca63fb53.html)
+- [TradingView — Fastenal Q1 2026: Revenue $2.20B, Net Income $339.8M, Op Margin 20.3%](https://www.tradingview.com/news/tradingview:6ef58bdc70e6c:0-fastenal-reports-q1-2026-revenue-2-20b-net-income-339-8m-operating-margin-20-3/)
+- [Investing.com — Fastenal Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-fastenal-q1-2026-shows-robust-growth-amid-challenges-93CH-4610840)
+- [Yahoo Finance — Fastenal Q1 earnings meet estimates, sales beat, stock down](https://finance.yahoo.com/markets/stocks/articles/fastenal-q1-earnings-meet-estimates-164900979.html)
+- [GuruFocus — Fastenal forward P/E ratio 34.94](https://www.gurufocus.com/term/forward-pe-ratio/FAST)
+- [StockStory — FAST Q1 deep dive: market share gains and pricing challenges](https://stockstory.org/us/stocks/nasdaq/fast/news/earnings-call/fast-q1-deep-dive-market-share-gains-and-pricing-challenges-shape-outlook)
+- [Distribution Strategy Group — In a market that gave nothing, Fastenal grew 12.4%](https://distributionstrategy.com/2026/04/in-a-market-that-gave-nothing-fastenal-grew-12-4/)
+- [ISM / S&P Global US Manufacturing PMI press release](https://www.pmi.spglobal.com/Public/Home/PressRelease/b8123dcab4204a3f979075403c433cd0)
+- [TradingEconomics — United States Manufacturing PMI](https://tradingeconomics.com/united-states/manufacturing-pmi)
+
+Fact-check: Q1 2026 (reported April 13, 2026) net sales $2,201.7M (+12.4% YoY, daily basis); diluted EPS $0.30 (+13.6%, met consensus); net income $339.8M (+~13.8%); operating income $447.6M = 20.3% of sales (+20bps); gross margin 44.6%, down ~50bps from 45.1% (the disappointment); realized pricing ~3.5%, price/cost unfavorable ~50bps on tariffs; operating cash flow $378.4M (~111% of net income), ~$296M returned; FMI/onsite metrics confirmed; FY2026 capex ~$320M (~3.5% of sales); forward P/E ~35x (~89% above industry median ~18.5x); U.S. manufacturing PMI ~52.6 avg Q1 2026, ISM 54 in May. Correction: an early 44.9% gross-margin figure was actually FMI's share of sales; the verified gross margin is 44.6%, used throughout. Valuation stated as "roughly 35x."
+
+---
+
+## Topic: Pool Corp / multi-year revenue plateau, new-build construction ~40% below peak, floor-is-the-ceiling (article: "Pool Corp's $5.3B revenue is flat for a third year while new-pool builds sit 40% below their peak" — 2026-06-18T1400-pool-corp.md) [distribution]
+
+- [POOL Q1 2026 Form 8-K (Ex-99.1, SEC)](https://www.sec.gov/Archives/edgar/data/0000945841/000119312526172135/pool-ex99_1.htm)
+- [Pool Corporation Q1 2026 results — POOLCORP IR](https://ir.poolcorp.com/pool-corporation-reports-first-quarter-results-and-confirms-annual-earnings-guidance-range-3/)
+- [Pool Corp Q1 2026 — Investing.com (maintenance growth drives 6% sales gain)](https://www.investing.com/news/company-news/pool-corporation-q1-2026-slides-maintenance-growth-drives-6-sales-gain-93CH-4633530)
+- [Pool Corp Q1 2026 8-K — StockTitan](https://www.stocktitan.net/sec-filings/POOL/8-k-pool-corp-reports-material-event-df7eefced96e.html)
+- [Pool Corporation FY2025 / Q4 2025 results & 2026 guidance — POOLCORP IR](https://ir.poolcorp.com/pool-corporation-reports-year-end-and-fourth-quarter-2025-results-provides-2026-earnings-guidance/)
+- [POOL FY2025 10-K (SEC)](https://www.sec.gov/Archives/edgar/data/945841/000119312526074833/pool-20251231.htm)
+- [Pool Corp stock plunges on sluggish pool builds — TIKR](https://www.tikr.com/blog/pool-corp-stock-plunges-14-on-sluggish-pool-builds-heres-where-the-stock-could-be-headed-in-2026)
+- [Pool permitting falls lower in 2025 — NAHB Eye On Housing](https://eyeonhousing.org/2026/01/pool-permitting-falls-lower-in-2025/)
+- [POOL statistics & valuation — StockAnalysis](https://stockanalysis.com/stocks/pool/statistics/)
+- [POOL PE ratio history — Macrotrends](https://www.macrotrends.net/stocks/charts/POOL/pool/pe-ratio)
+
+Fact-check: Q1 2026 (8-K filed April 23, 2026) net sales +6% to ~$1.14B (~3% price / ~3% volume); operating income +7% to $82.6M, margin 7.3% (+10bps); diluted EPS $1.45 (+2%, +8% ex-ASU); gross margin 29.0% (-20bps); chemicals ~+8%, equipment ~+7%, building materials ~+5%; FY2026 EPS guidance $10.87–$11.17; FY2025 net sales ~$5.3B (roughly flat, near that level since 2023), net income ~$406.4M, diluted EPS $10.85 (-4%), operating income -6%; new U.S. in-ground pool builds ~58,000–60,000 in 2025 (fourth consecutive decline, ~40% below the ~98,000 2022 peak), ~58,000 expected in 2026; forward P/E ~18x vs ~27x five-year average. Correction: thesis softened from "revenue down" to "revenue flat for a third year" (Q1 2026 sales actually rose 6%); multiples/stock price labeled approximate.
+
+---
+
+## Topic: Rollins / ~50x earnings on 6.6% organic growth, bought deals padding the topline (article: "Rollins Trades Near 50 Times Earnings on 6.6% Organic Growth as Bought Deals Pad the Topline" — 2026-06-18T1330-rollins.md) [business-services]
+
+- [Rollins IR — Q1 2026 financial results press release](https://www.rollins.com/investors/press-releases/detail/432/rollins-inc-reports-first-quarter-2026-financial-results)
+- [Rollins 8-K (Q1 2026, EX-99.1)](https://www.sec.gov/Archives/edgar/data/0000084839/000008483926000019/rol-20260422xex991.htm)
+- [Investing.com — Rollins Q1 2026 slides](https://www.investing.com/news/company-news/rollins-q1-2026-slides-sequential-growth-accelerates-into-peak-season-93CH-4633289)
+- [StockStory — ROL Q1 deep dive: organic growth and M&A offset margin headwinds](https://stockstory.org/us/stocks/nyse/rol/news/earnings-call/rol-q1-deep-dive-organic-growth-and-manda-activity-offset-margin-headwinds)
+- [StockTitan — Rollins posts Q1 2026 growth with flat EPS](https://www.stocktitan.net/sec-filings/ROL/8-k-rollins-inc-reports-material-event-10388a732a37.html)
+- [The Motley Fool — Rollins Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/23/rollins-rol-q1-2026-earnings-transcript/)
+- [Rollins IR — Q4 & full-year 2025 financial results](https://www.rollins.com/investors/press-releases/detail/426/rollins-inc-reports-fourth-quarter-and-full-year-2025-financial-results)
+- [GuruFocus — Rollins forward P/E](https://www.gurufocus.com/term/forwardPE/NYSE:ROL/Forward-PE-Ratio/Rollins)
+- [stockanalysis.com — Rollins statistics & valuation](https://stockanalysis.com/stocks/rol/statistics/)
+- [Nasdaq — Rollins PEG / P/E ratios](https://www.nasdaq.com/market-activity/stocks/rol/price-earnings-peg-ratios)
+
+Fact-check: Q1 2026 (reported April 23, 2026) revenue $906.4M (+10.2%); organic growth 6.6%; GAAP diluted EPS $0.22 (flat YoY); adjusted EPS $0.24 (+9.1%); operating income $145M (+2.0%), operating margin 16.1% (-~120bps); adjusted operating income $153M (+4.0%), margin 16.9% (-~100bps); gross margin -~60bps; service-line growth residential +9.3%/commercial +9.6%/termite+ancillary +13.5% reported (organic ~4.2%/~7.7%/~10%); FY2026 guidance 7–8% organic + 2–3% M&A = 9–11% total, price +3–4%; Romex (2026), Fox + Saela (2025), ~$310M on acquisitions in 2025; 2025 operating cash flow $678.1M (+11.6%), FCF ~$650M (+12.1%); trailing P/E ~49.6, forward ~43–44, PEG ~3.44. Correction: a stale "operating margin -10bps" figure was corrected to the confirmed Q1 2026 operating margin 16.1% (-~120bps). Multiples are point-in-time (mid-April 2026), labeled "near"/"roughly."
+
+---
+
 ## Topic: Cintas / software-multiple on a headcount-linked compounder, bought UniFirst growth (article: "Cintas Trades at 36 Times Earnings on 8% Growth as It Bets $5.5 Billion on UniFirst" — 2026-06-18T1300-cintas.md) [business-services]
 
 - [Cintas FQ3 FY26 revenue & earnings PDF (company IR)](https://www.cintas.com/docs/default-source/investor-relations/quarterly-reports/q3-fy26-revenue-and-earnings.pdf?sfvrsn=6928f9fa_1)
