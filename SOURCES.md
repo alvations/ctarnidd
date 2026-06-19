@@ -8,6 +8,176 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: MongoDB / GAAP profit propped by stock-based comp (article: "MongoDB reaccelerates to 25% growth, but its $4.4M GAAP profit rests on a $493M stock subsidy" — 2026-06-16T1300-mongodb.md) [software]
+
+- [MongoDB Q1 FY27 results — PRNewswire 8-K release](https://www.prnewswire.com/news-releases/mongodb-inc-announces-first-quarter-fiscal-2027-financial-results-302784757.html)
+- [MongoDB IR — Q1 FY27 financial results](https://investors.mongodb.com/news-releases/news-release-details/mongodb-inc-announces-first-quarter-fiscal-2027-financial)
+- [StockTitan — MDB Q1 revenue $687.6M, lifts 2027 guidance](https://www.stocktitan.net/news/MDB/mongo-db-inc-announces-first-quarter-fiscal-2027-financial-pn6ou0elo2cm.html)
+- [Motley Fool — MongoDB (MDB) Q1 2027 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/28/mongodb-mdb-q1-2027-earnings-transcript/)
+- [Investing.com — MongoDB Q1 2027 earnings beat transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-mongodb-q1-2027-earnings-beat-boosts-stock-93CH-4715697)
+- [GuruFocus — MongoDB reports Q1 FY27 with 25% revenue growth](https://www.gurufocus.com/news/8890886/mongodb-mdb-reports-strong-q1-fiscal-2027-earnings-with-25-revenue-growth)
+- [stockanalysis.com — MDB statistics & valuation](https://stockanalysis.com/stocks/mdb/statistics/)
+- [AlphaQuery — MDB stock-based compensation (annual)](https://www.alphaquery.com/stock/MDB/fundamentals/annual/stock-based-compensation)
+- [SEC EDGAR — MongoDB Form 8-K exhibit (FY26)](https://www.sec.gov/Archives/edgar/data/0001441816/000162828026038798/mdb-043026xex991xrelease.htm)
+
+Fact-check: Q1 FY27 (reported 2026-05-28) revenue $687.6M (+25%); Atlas $512.5M (+29.4%, ~75% of total); GAAP operating loss -$24.8M; GAAP net income $4.4M ($0.05); non-GAAP net income $112.3M ($1.32); FY26 SBC ~$493.9M; >67,700 customers; net ARR expansion ~119%; FY27 guide $2.92-2.96B; ~$26.2B market cap, ~10x P/S. Premise reframed from "deceleration" to composition-of-profit; ~80x forward P/E labeled an approximation.
+
+---
+
+## Topic: Datadog / 1% GAAP margin under a 22% non-GAAP headline (article: "Datadog clears $1 billion a quarter while its GAAP margin sits at 1%" — 2026-06-16T1230-datadog.md) [software]
+
+- [Datadog IR — Q1 2026 Financial Results](https://investors.datadoghq.com/news-releases/news-release-details/datadog-announces-first-quarter-2026-financial-results/)
+- [StockTitan — Datadog Q1 revenue rises 32% to $1.006B](https://www.stocktitan.net/news/DDOG/datadog-announces-first-quarter-2026-financial-wceudctqtekl.html)
+- [Investing.com — Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-datadog-q1-2026-earnings-beat-expectations-stock-surges-93CH-4668436)
+- [The Motley Fool — DDOG Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/datadog-ddog-q1-2026-earnings-transcript/)
+- [SEC — Datadog Form 8-K (Q1 2026, period ended 2026-03-31)](https://www.sec.gov/Archives/edgar/data/0001561550/000162828026031677/ex-991x20260331x8k.htm)
+- [stockanalysis.com — DDOG statistics & valuation](https://stockanalysis.com/stocks/ddog/statistics/)
+- [Yahoo Finance — Datadog Q1 earnings & revenues surpass estimates](https://finance.yahoo.com/markets/stocks/articles/datadog-q1-earnings-revenues-surpass-162900073.html)
+- [IndexBox — Datadog Q1 2026 revenue surges 32%](https://www.indexbox.io/blog/datadog-q1-2026-earnings-revenue-surges-32-on-ai-and-enterprise-demand/)
+
+Fact-check: Q1 2026 (reported May 7, 2026) revenue $1,006M (+32%, first quarter above $1B); GAAP operating income $7M / 1% margin; non-GAAP operating income $223M / 22%; SBC $197M (~19.6% of revenue); GAAP EPS $0.15, non-GAAP $0.60; ARR >$4B; RPO $3.48B (+51%); FCF $289M; ~20% of customers use AI integrations / ~80% of ARR; ~$79.29B market cap, ~95x forward P/E. No corrections required.
+
+---
+
+## Topic: Five Below / a comp lapping a collapsed base, guided to decelerate (article: "Five Below's 22.7% Comp Laps a Collapse, and Its Own Guidance Cuts It to 8% Next Quarter" — 2026-06-16T1200-five-below.md) [retail]
+
+- [SEC 8-K Exhibit 99.1 — Five Below Q1 FY2026 results](https://www.sec.gov/Archives/edgar/data/0001177609/000117760926000015/q12026fivebelowexhibit991.htm)
+- [Five Below IR — Q1 FY2026 press release](https://investor.fivebelow.com/news/press-release-details/2026/Five-Below-Inc--Announces-First-Quarter-Fiscal-2026-Financial-Results/default.aspx)
+- [StockTitan — Five Below Q1 sales up 32.5%, lifts 2026 view](https://www.stocktitan.net/news/FIVE/five-below-inc-announces-first-quarter-fiscal-2026-financial-wmjl339ctzis.html)
+- [Yahoo Finance — Q1 earnings top estimates on strong traffic and comps](https://finance.yahoo.com/markets/stocks/articles/five-below-q1-earnings-top-172900360.html)
+- [Investing.com — Q1 2026 earnings call transcript: "exceeds expectations, stock rises"](https://www.investing.com/news/transcripts/earnings-call-transcript-five-below-q1-2026-exceeds-expectations-stock-rises-93CH-4725390) (one of the conflicting reaction headlines; the preponderance — GuruFocus/Yahoo/Sherwood — reported the stock fell on a market-crash day; article sets the tape aside)
+- [Yahoo Finance — Q1 earnings top estimates on strong traffic and comps](https://finance.yahoo.com/markets/stocks/articles/five-below-q1-earnings-top-172900360.html) (beat + raise framing)
+- [StreetInsider — Five Below appoints Winnie Park as CEO](https://www.streetinsider.com/Corporate+News/Five+Below+(FIVE)+Appoints+Winnie+Park+as+CEO/24066552.html)
+- [Motley Fool (2024) — Can Five Below turn a 50% drop into a 50% gain?](https://www.fool.com/investing/2024/12/16/can-five-below-stock-turn-a-50-drop-in-2024-into-a)
+- [Yahoo Finance — Five Below CEO Joel Anderson resigns](https://finance.yahoo.com/news/five-below-ceo-joel-anderson-123400160.html)
+
+Fact-check: Q1 FY2026 (quarter ended May 2, reported June 3, 2026) net sales $1,285.6M (+32.5%); comps +22.7% off a depressed base; adj EPS $2.22 (~+158%); operating income $154.2M vs $50.8M prior; inventory ~$813.3M (+~16%) bought "opportunistically"; tariff window through July 24, 2026 then reversion; Q2 guide comps +7-9%. Stock fell ~11-13% but on a broad-market-crash day (Nasdaq ~-4%) — confounded, so NOT used as evidence; thesis rests on print-vs-guidance and tariff timing. CEO is Winnie Park.
+
+---
+
+## Topic: Paycom / Beti self-service cannibalized its own service revenue (article: "Paycom's growth has cratered from 30% to single digits after its own Beti software ate its service revenue" — 2026-06-16T1130-paycom.md) [software]
+
+- [SEC Form 8-K (Q1 2026 exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/0001590955/000119312526208968/payc-ex99_1.htm)
+- [StockTitan — PAYC Q1 2026 10-Q ($571.9M)](https://www.stocktitan.net/sec-filings/PAYC/10-q-paycom-software-inc-quarterly-earnings-report-e9251d8aa725.html)
+- [StockTitan — PAYC Q1 2026 8-K ($572M, margins)](https://www.stocktitan.net/sec-filings/PAYC/8-k-paycom-software-inc-reports-material-event-721b1bc23cc0.html)
+- [Seeking Alpha — reaffirmed 2026 guidance + $2B buyback](https://seekingalpha.com/news/4587996-paycom-reaffirms-2026-revenue-of-2_175b-2_195b-and-adjusted-ebitda-of-950m-970m-while-board)
+- [Motley Fool — PAYC Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/paycom-payc-q1-2026-earnings-transcript/)
+- [Investing.com — earnings call transcript, Q1 2026 beat](https://www.investing.com/news/transcripts/earnings-call-transcript-paycom-beats-expectations-in-q1-2026-93CH-4665825)
+- [Morningstar — Beti cannibalization, retreat, co-CEO](https://www.morningstar.com/company-reports/1206365-paycom-earnings-firm-retreats-on-flagship-beti-amid-conversion-and-revenue-cannibalization-woes)
+- [stockanalysis.com — PAYC revenue 2011–2025](https://stockanalysis.com/stocks/payc/revenue/)
+- [Macrotrends — PAYC revenue history](https://www.macrotrends.net/stocks/charts/PAYC/paycom-software/revenue)
+- [GuruFocus — PAYC forward P/E 12.59](https://www.gurufocus.com/term/forward-pe-ratio/PAYC)
+- [Paycom IR — Chad Richison governance](https://investors.paycom.com/corporate-governance/person-details/default.aspx?ItemId=57ad6452-4967-492d-92a5-190054965eda)
+- [Paycom — Beti launch press release](https://www.paycom.com/about/press-room/paycom-launches-beti-an-industry-first-employee-driven-payroll-solution/)
+
+Fact-check: Q1 2026 (May 7, 2026) revenue $571.9M (+7.8%); GAAP net income $155.7M ($3.04 EPS), non-GAAP EPS $3.15; adj EBITDA $275.4M (48.2% margin); FY26 guide $2.175-2.195B reaffirmed; $2B buyback authorization. Revenue growth history: ~30% (2022), ~23% (2023), ~11% (2024), ~9% (2025). Beti cannibalization admitted Q3 2023 (guidance cut, co-CEO Chris Thomas elevated); founder Chad Richison controls the company. Forward P/E ~12.6-15.5 (low-to-mid teens). No corrections.
+
+---
+
+## Topic: Etsy / take-rate extraction, not buyer recovery, drives the turn (article: "Etsy Returned to Growth by Taking More From Its Sellers, Not Its Buyers" — 2026-06-16T1100-etsy.md) [e-commerce]
+
+- [StockTitan — ETSY Q1 2026 8-K filing summary](https://www.stocktitan.net/sec-filings/ETSY/8-k-etsy-inc-reports-material-event-8e61c8978809.html)
+- [StockTitan — ETSY Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/ETSY/10-q-etsy-inc-quarterly-earnings-report-682f6c8cc46c.html)
+- [Etsy IR — Q1 2026 shareholder letter (8-K EX-99.1)](https://investors.etsy.com/sec-filings/all-sec-filings/content/0001370637-26-000042/q126shareholderletter.htm)
+- [TradingView — Etsy posts Q1 2026 results](https://www.tradingview.com/news/tradingview:93b4a689dc3f3:0-etsy-posts-q1-2026-revenue-631-3m-gms-2-46b-net-income-from-continuing-operations-104-7m/)
+- [The Motley Fool — Etsy Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/29/etsy-etsy-q1-2026-earnings-transcript/)
+- [Investing.com — Etsy Q1 2026 revenue beats, stock jumps](https://www.investing.com/news/transcripts/earnings-call-transcript-etsys-q1-2026-revenue-beats-forecast-stock-jumps-93CH-4645578)
+- [Etsy IR — Q4 and FY2025 results](https://investors.etsy.com/news-events/press-releases/detail/218/etsy-inc-reports-fourth-quarter-and-full-year-2025-results)
+- [CNBC — Etsy Q4 2025 earnings / Depop deal](https://www.cnbc.com/2026/02/19/etsy-etsy-q4-earnings-report-2025.html)
+- [Search Engine Land — Etsy transaction fee increase to 6.5%](https://searchengineland.com/etsy-sellers-30-higher-transaction-fees-381322)
+- [Printify — Amazon Handmade vs Etsy 2026](https://printify.com/blog/amazon-handmade-vs-etsy/)
+
+Fact-check: Q1 2026 (reported April 29, 2026) revenue $631.3M; take rate 25.7%, up 180bps YoY (~130bps from Reverb divestiture); marketplace GMS $2.46B (+5.5%), but continuing-ops consolidated GMS -3.9% and currency-neutral +3.6%; net income from continuing ops $104.7M (vs -$35.1M); adj EBITDA $184.7M (29.3% margin); first sequential active-buyer growth in two years (exact count not cleanly disclosed); GMS/active buyer (TTM) $122. Depop sold to eBay for $1.2B. No corrections beyond contrasting segment vs consolidated growth.
+
+---
+
+## Topic: CF Industries / record quarter driven by price, settlement, cheap gas (article: "CF Industries posts a record $615M quarter — and a war, a lawsuit, and cheap gas did most of the lifting" — 2026-06-16T1030-cf-industries.md) [agriculture]
+
+- [CF Industries IR — Q1 2026 earnings](https://www.cfindustries.com/newsroom/2026/2026-q1-earnings)
+- [Business Wire — CF Q1 2026 Net Earnings of $615M, Adj. EBITDA $983M](https://www.businesswire.com/news/home/20260506162870/en/CF-Industries-Holdings-Inc.-Reports-First-Quarter-2026-Net-Earnings-of-$615-Million-Adjusted-EBITDA-of-$983-Million)
+- [SEC 8-K — CF Industries earnings exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0001324404/000132440426000011/cf-05062026_ex991xearnings.htm)
+- [Investing.com — CF Q1 2026 slides: earnings beat amid tight nitrogen markets](https://www.investing.com/news/company-news/cf-industries-q1-2026-slides-earnings-beat-amid-tight-nitrogen-markets-93CH-4670512)
+- [StockTitan — CF Q1 2026 earnings climb to $615M on tight nitrogen](https://www.stocktitan.net/sec-filings/CF/8-k-cf-industries-holdings-inc-reports-material-event-880f06cc81e4.html)
+- [Motley Fool — CF Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/cf-industries-cf-q1-2026-earnings-transcript/)
+- [Orica — Settlement of litigation with CF Industries and Nelson Brothers acquisition](https://www.orica.com/news-media/2026/settlement-of-litigation-with-cf-industries-and-acquisition-of-nelson-brothers-explosives-business-in-the-us)
+- [Capital Brief — Orica settles CF Industries litigation](https://www.capitalbrief.com/briefing/orica-settles-cf-industries-litigation-for-243m-confirms-us-explosives-buyout-b8a36e7f-6cbe-4583-81f0-28ad9a26e97f/)
+- [MSN — CF plans $1.3B 2026 capex as Iran conflict tightens nitrogen market](https://www.msn.com/en-us/news/other/cf-industries-plans-13b-2026-capex-as-iran-conflict-tightens-nitrogen-market/gm-GMFF1F265D)
+
+Fact-check: Q1 2026 (reported May 6, 2026) net sales $1.99B (+19%); net earnings $615M ($3.98 EPS); adjusted EBITDA $983M (nearly double); ~99% ammonia utilization. EBITDA bridge: price +$401M, volume -$39M, realized gas -$76M. ~$170M litigation settlement gain (Orica/Nelson Brothers; Orica cash ~$169.5M). Natural gas in COGS $4.57/MMBtu vs $3.68 prior. 2026 capex ~$1.3B. No corrections; figures from Business Wire / SEC 8-K primary disclosure.
+
+---
+
+## Topic: Lamb Weston / volume bought with price as capacity glut comes due (article: "Lamb Weston sells 7% more fries for 63% less profit as the glut it built comes due" — 2026-06-16T1000-lamb-weston.md) [packaged food]
+
+- [Lamb Weston Q3 FY2026 press release (businesswire)](https://www.businesswire.com/news/home/20260401378538/en/Lamb-Weston-Reports-Third-Quarter-Fiscal-2026-Results-Increases-Midpoint-of-Fiscal-Year-2026-Net-Sales-and-EBITDA-Outlook-and-Reduces-Expected-2026-Capital-Expenditures)
+- [Lamb Weston Form 8-K FY2026 (SEC)](https://www.sec.gov/Archives/edgar/data/1679273/000167927326000011/lw-20260222x8kxexx9913q26.htm)
+- [Lamb Weston Form 10-Q FY2026 (SEC)](https://www.sec.gov/Archives/edgar/data/1679273/000167927326000013/lw-20260222.htm)
+- [Lamb Weston IR — Q3 FY2026 release](https://investors.lambweston.com/news-releases/news-release-details/lamb-weston-reports-third-quarter-fiscal-2026-results-increases)
+- [Baking Business — Lamb Weston earnings dip in Q3](https://www.bakingbusiness.com/articles/65991-lamb-weston-earnings-dip-in-q3)
+- [GuruFocus — LW Q3 FY2026 EPS $0.39 misses, revenue $1,564.8M](https://www.gurufocus.com/news/8771013/lamb-weston-lw-q3-fy2026-earnings-eps-039-misses-058-estimate-revenue-15648m-beats-149289m-estimate)
+- [Value The Markets — Q3 results show revenue rise, profit drop](https://www.valuethemarkets.com/news/lamb-weston-q3-results-show-revenue-rise-profit-drop)
+- [Grafa — Q3 results: $1.56B revenue, potato write-off](https://grafa.com/en/news/united-states/lamb-weston-nyse-lw-q3-fiscal-2026-results-potato-write-off)
+- [Minichart — Q3 2026: net income drops 63%, restructuring](https://www.minichart.com.sg/2026/04/01/lamb-weston-q3-2026-earnings-report-net-income-drops-63-cost-savings-and-restructuring-highlighted/)
+- [Hedgeweek — Jana Partners wins board battle at Lamb Weston](https://www.hedgeweek.com/jana-partners-wins-board-battle-at-lamb-weston/)
+- [Food Dive — Lamb Weston adds new board members after activist pushback](https://www.fooddive.com/news/french-fry-maker-lamb-weston-adds-new-board-members-after-activist-pushback/752071/)
+- [Food Dive — activist urges doubling cost cuts](https://www.fooddive.com/news/lamb-weston-french-fries-activist-investor/814317/)
+- [ING / Food Ingredients First — GLP-1 and European food demand](https://www.foodingredientsfirst.com/news/glp1-drugs-food-demand-ing.html)
+- [Simply Wall St — LW valuation after raised guidance and Jana purchases](https://simplywall.st/stocks/us/food-beverage-tobacco/nyse-lw/lamb-weston-holdings/news/a-look-at-lamb-weston-lw-valuation-after-raised-2026-guidanc)
+
+Fact-check: Q3 FY2026 (quarter ended Feb 22, reported April 1, 2026) net sales $1,564.8M (+~3%); volume +7% offset by price/mix -7% (constant-currency essentially flat); GAAP net income $54.0M, down 63% from $146.0M; diluted EPS $0.39 vs $1.03 (missed ~$0.58); adj EBITDA $271.7M (-27%); $32.5M write-off of excess raw potatoes (International). Jana Partners won the board battle July 2025. Stock near six-year lows. Correction: 8-K constant-currency 7%/7% figures used (an earlier draft cited 12% volume).
+
+---
+
+## Topic: CarMax / EPS beat built on buybacks, cost cuts, and discounts (article: "CarMax's Q1 Beat Was Bought, Not Earned, as Same-Store Volume Fell and Margins Hit a Floor" — 2026-06-16T0930-carmax.md) [auto retail]
+
+- [CarMax IR — First Quarter Fiscal 2027 Results](https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/)
+- [CarMax 8-K Q1 FY2027 earnings release (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001170010/000117001026000053/q1fy27earningsrelease.htm)
+- [Business Wire — CarMax Reports First Quarter Fiscal 2027 Results](https://www.businesswire.com/news/home/20260617549757/en/CarMax-Reports-First-Quarter-Fiscal-2027-Results)
+- [StockTitan — CarMax Q1 revenue rises 6.2% to $8.0 billion](https://www.stocktitan.net/news/KMX/car-max-reports-first-quarter-fiscal-2027-dkfjfmeilm8k.html)
+- [Investing.com — CarMax Q1 FY27 slides: earnings beat amid cost cuts, CAF growth](https://www.investing.com/news/company-news/carmax-q1-fy27-slides-earnings-beat-amid-cost-cuts-caf-growth-93CH-4747511)
+- [Yahoo Finance / Zacks — CarMax Q1 Earnings Beat Estimates on Revenue Growth, Cost Control](https://ca.finance.yahoo.com/news/carmax-q1-earnings-beat-estimates-144100951.html)
+- [Quiver Quantitative — CarMax ($KMX) Releases Q4 2026 Earnings (FY2026 context)](https://www.quiverquant.com/news/CARMAX+%28%24KMX%29+Releases+Q4+2026+Earnings)
+
+Fact-check: Q1 FY2027 (ended May 31, reported June 17, 2026) net revenues $8.0B (+6.2%); EPS $1.31 beat ~$0.94 consensus but FELL from $1.38 prior year; net earnings $185.6M, down 11.8% from $210.4M; combined units +3.3% but comparable-store used units -0.8%; gross profit per retail used unit $2,177, down $230; SG&A down $24.5M; CAF income $140.2M (-1.0%) while pushing deeper into lower-credit borrowers. Correction: clarified EPS $1.31 was a YoY decline, not a rise; ~$50M forgone-gross-profit figure labeled an order-of-magnitude calc.
+
+---
+
+## Topic: Sarepta / Elevidys collapse after deaths, boxed warning, shipment halt (article: "Sarepta's Elevidys revenue cratered 73% to $102 million as a boxed warning and three deaths gutted the gene-therapy story" — 2026-06-16T0900-sarepta.md) [biotech]
+
+- [Sarepta Q1 2026 results — Business Wire](https://www.businesswire.com/news/home/20260506560125/en/Sarepta-Therapeutics-Announces-First-Quarter-2026-Financial-Results-and-Recent-Corporate-Developments)
+- [Sarepta Q1 2026 results — company IR](https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-first-quarter-2026-financial)
+- [Sarepta 8-K FY2026 (ex99.1) — SEC](https://www.sec.gov/Archives/edgar/data/0000873303/000119312526208966/srpt-ex99_1.htm)
+- [Q1 2026 earnings call transcript — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-sareptas-q1-2026-earnings-beat-expectations-93CH-4665852)
+- [Seeking Alpha — reiterated $1.2B–$1.4B guidance](https://seekingalpha.com/news/4587926-sarepta-reiterates-1_2b-1_4b-2026-net-product-revenue-guidance-while-targeting-cohort-8-data)
+- [Elevidys boxed warning for ALI/ALF — CGTLive](https://www.cgtlive.com/view/sarepta-elevidys-gets-boxed-warning-ali-alf)
+- [FDA recommends removal of pause, resume ambulatory shipments — Sarepta IR](https://investorrelations.sarepta.com/news-releases/news-release-details/fda-informs-sarepta-it-recommends-sarepta-remove-its-pause-and)
+- [Third patient death / FDA halts distribution — NeurologyLive](https://www.neurologylive.com/view/third-patient-death-leads-significant-concerns-sarepta-gene-therapy-program)
+- [Sarepta cuts 36% of workforce, halts shipments — Xtalks](https://xtalks.com/sarepta-cuts-36-of-workforce-and-finally-agrees-to-fda-request-to-halt-all-elevidys-shipments-following-patient-deaths-4337/)
+- [Restructuring / pipeline prioritization — Sarepta IR](https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-strategic-restructuring-and)
+- [Sarepta layoffs / siRNA pivot — Fierce Biotech](https://www.fiercebiotech.com/biotech/sarepta-pivots-sirna-and-lays-500-staffers-elevidys-gets-box-warning)
+- [SRPT market cap — Macrotrends](https://www.macrotrends.net/stocks/charts/SRPT/sarepta-therapeutics/market-cap)
+- [Competitors catch up (REGENXBIO, Solid) — BioSpace](https://www.biospace.com/drug-development/following-sarepta-woes-others-look-to-unlock-the-next-chapter-in-dmd-treatment)
+
+Fact-check: Q1 2026 (reported May 6, 2026) total net product revenues $330.5M (Elevidys $102.0M, PMO $228.6M); Elevidys down ~73% from ~$375M a year earlier; total revenues $730.8M; net income ~$331M (EPS $3.16); FY2026 guide reiterated $1.2-1.4B; cash $748.3M. Boxed warning (acute liver injury/failure), nonambulatory eligibility removed, AAVrh74 platform designation revoked, voluntary U.S. shipment halt (later resumed for ambulatory); three deaths from acute liver failure; ~36% / ~500-job workforce cut. Stock down >80% to ~$1.85B market cap. No material corrections.
+
+---
+
+## Topic: Builders FirstSource / borrowing to buy back stock through a loss (article: "Builders FirstSource swings to a loss as housing freezes — yet keeps buying its own stock" — 2026-06-16T0830-builders-firstsource.md) [building products]
+
+- [BLDR IR — Q1 2026 Results press release](https://investors.bldr.com/news/news-details/2026/Builders-FirstSource-Reports-First-Quarter-2026-Results/default.aspx)
+- [SEC 8-K FY2026 exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0001316835/000119312526193923/bldr-ex99_1.htm)
+- [StockTitan — Q1 sales fall 10%, $500M buyback (8-K)](https://www.stocktitan.net/sec-filings/BLDR/8-k-builders-first-source-inc-reports-material-event-b9fbc6b6f377.html)
+- [StockTitan — BLDR posts Q1 2026 loss as sales and margins decline (10-Q)](https://www.stocktitan.net/sec-filings/BLDR/10-q-builders-first-source-inc-quarterly-earnings-report-a21ae5e7a66e.html)
+- [Investing.com — Q1 2026 earnings call transcript (misses EPS)](https://www.investing.com/news/transcripts/earnings-call-transcript-builders-firstsource-q1-2026-misses-eps-expectations-93CH-4650211)
+- [Modern Distribution Management — Financials slide further in 1Q](https://www.mdm.com/top-distributor-sectors/building-materials-construction/builders-firstsource-financials-slide-further-in-1q-on-housing-woes/)
+- [Simply Wall St — Why BLDR is down 15.4% after Q1 loss + $500M buyback](https://simplywall.st/stocks/us/capital-goods/nyse-bldr/builders-firstsource/news/why-builders-firstsource-bldr-is-down-154-after-posting-a-q1)
+- [SEC 8-K FY2025 exhibit (cumulative buyback history)](https://www.sec.gov/Archives/edgar/data/0001316835/000095017025061436/bldr-ex99_2.htm)
+- [StreetInsider — BLDR announces $1B share buyback (history)](https://www.streetinsider.com/Corporate+News/Builders+FirstSource+(BLDR)+Announces+$1B+Share+Buyback/23555267.html)
+
+Fact-check: Q1 2026 (quarter ended March 31, reported ~April 30, 2026) net sales $3.29B (-10.1%); gross margin 28.3% (-220bps); adjusted EBITDA $213.8M (-42.1%); GAAP net loss $(47.4)M, diluted EPS $(0.43) vs $0.84; adjusted EPS $0.27 (missed $0.39); FCF $42.7M; Q1 buyback 3.3M shares for $302.9M (~7x FCF) plus a new $500M authorization; net debt/EBITDA 3.2x vs 2.0x. Cumulative Aug 2021-Apr 2025 buyback: 99.3M shares (48.1% of float), $8.0B. No corrections; stock's double-digit drop stated qualitatively.
+
+---
+
 ## Topic: Planet Fitness / denominator illusion as member adds fall (article: "Planet Fitness cut 2026 growth in half after its strongest sign-up season delivered 36% fewer new members" — 2026-06-15T1300-planet-fitness.md) [consumer/fitness]
 
 - [Investing.com — Q1 2026 earnings beat forecasts, stock falls](https://www.investing.com/news/transcripts/earnings-call-transcript-planet-fitness-q1-2026-earnings-beat-forecasts-stock-falls-93CH-4668443)

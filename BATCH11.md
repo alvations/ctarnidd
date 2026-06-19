@@ -28,14 +28,14 @@ Same forensic house voice. **Titles = ONE-LINE CNBC/Bloomberg headlines** (one c
 | 18 | done | 2026-06-15T1200-exact-sciences.md | Exact Sciences (ABT/EXAS) — Abbott's $21B buyout at $105 cashed out a never-profitable growth story [diagnostics] |
 | 19 | done | 2026-06-15T1230-sweetgreen.md     | Sweetgreen (SG) — $125.8M "profit" is a one-time Spyce gain; comps crater 12.8%, still losing money [restaurants] |
 | 20 | done | 2026-06-15T1300-planet-fitness.md | Planet Fitness (PLNT) — guidance halved as net member adds fall ~36%; the denominator illusion breaks [consumer/fitness] |
-| 21 | pending | TBD-builders-firstsource.md | Builders FirstSource (BLDR) — building-products roll-up on a frozen housing market [building products] |
-| 22 | pending | TBD-sarepta.md        | Sarepta (SRPT) — gene-therapy growth shadowed by patient-safety deaths [biotech] |
-| 23 | pending | TBD-carmax.md         | CarMax (KMX) — used-car retailer squeezed by affordability and rates [auto retail] |
-| 24 | pending | TBD-lamb-weston.md    | Lamb Weston (LW) — frozen-fry giant facing a capacity glut + GLP-1 [packaged food] |
-| 25 | pending | TBD-cf-industries.md  | CF Industries (CF) — nitrogen fertilizer earnings ride the natural-gas spread [agriculture/materials] |
-| 26 | pending | TBD-etsy.md           | Etsy (ETSY) — a handmade marketplace whose buyers keep leaving [e-commerce] |
-| 27 | pending | TBD-paycom.md         | Paycom (PAYC) — HCM software whose own automation eats the seats it bills [software] |
-| 28 | pending | TBD-five-below.md     | Five Below (FIVE) — discount-retail growth story meeting the tariff + value-consumer squeeze [retail] |
+| 21 | done | 2026-06-16T0830-builders-firstsource.md | Builders FirstSource (BLDR) — swings to a GAAP loss as housing freezes (sales -10.1%, EBITDA -42%), yet buys back $302.9M of stock (~7x FCF) [building products] |
+| 22 | done | 2026-06-16T0900-sarepta.md | Sarepta (SRPT) — Elevidys revenue craters ~73% to $102M after a boxed warning, three deaths, and a shipment halt; valuation now a single binary [biotech] |
+| 23 | done | 2026-06-16T0930-carmax.md | CarMax (KMX) — EPS beat is bought, not earned; comparable-store used units -0.8%, net earnings -11.8%, lifted by buybacks + cost cuts [auto retail] |
+| 24 | done | 2026-06-16T1000-lamb-weston.md | Lamb Weston (LW) — volume +7% bought with price -7%; GAAP net income -63%; capacity glut, Jana board, GLP-1 cloud [packaged food] |
+| 25 | done | 2026-06-16T1030-cf-industries.md | CF Industries (CF) — record $615M quarter built on a war-tightened nitrogen price (+$401M), a ~$170M settlement, and cheap $4.57 gas [agriculture/materials] |
+| 26 | done | 2026-06-16T1100-etsy.md | Etsy (ETSY) — return to growth driven by a 25.7% take rate (~130bps from Reverb sale), not returning buyers; consolidated GMS still -3.9% [e-commerce] |
+| 27 | done | 2026-06-16T1130-paycom.md | Paycom (PAYC) — growth decelerated from ~30% to ~8% as its own Beti self-service automated away the service revenue it used to bill [software] |
+| 28 | done | 2026-06-16T1200-five-below.md | Five Below (FIVE) — a +22.7% comp lapping a collapsed base, with the company's own guide cutting it to ~8% and a tariff window expiring July 24 [retail] |
 
 ## Extension (2026-06-15): user re-issued "do 20 more, varied sectors, S&P 1000/1500" while Batch 11 had 12 pending.
 Folded into this manifest: 12 carryover (rows 9-20) + 8 new (rows 21-28) = 20 pending = the requested "20 more."
@@ -52,8 +52,8 @@ ONE line, one clause, concrete (name+number+stance), ~8-14 words. NOT two senten
 
 ## Resume
 - `bash scripts/ctarnidd_next.sh` → first pending row (newest active BATCH*.md) or `ALL DONE`.
-| 29 | pending | TBD-datadog.md        | Datadog (DDOG) — observability at a high multiple; usage-based + AI [software] |
-| 30 | pending | TBD-mongodb.md        | MongoDB (MDB) — database growth vs Atlas consumption + SBC [software] |
+| 29 | done | 2026-06-16T1230-datadog.md | Datadog (DDOG) — first $1B quarter (+32%) but a 1% GAAP margin under the 22% non-GAAP headline, the gap almost all $197M of SBC [software] |
+| 30 | done | 2026-06-16T1300-mongodb.md | MongoDB (MDB) — reaccelerates to 25% but its first $4.4M GAAP profit rests on a $493M annual SBC add-back and cyclical Atlas consumption [software] |
 | 31 | pending | TBD-snap.md           | Snap (SNAP) — perennial losses + a stalled ad business [social] |
 | 32 | pending | TBD-pinterest.md      | Pinterest (PINS) — shopping pivot vs ad-pricing reality [social] |
 | 33 | pending | TBD-roku.md           | Roku (ROKU) — streaming reach vs unprofitable platform economics [streaming] |
