@@ -8,6 +8,190 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Nucor / a tariff-protected commodity price-taker whose blowout $3.23 quarter is a 50% Section 232 tariff wall and a crushed year-ago comp dressed as operating excellence, priced as a secular compounder toward a $6.7B through-cycle EBITDA target the bull capitalizes as certain (article: "Nucor's $3.23 quarter is built on a 50% tariff wall, not a wider moat" — 2026-06-21T1800-nucor.md) [materials]
+
+- [Nucor — Reports Results for the First Quarter of 2026 (IR)](https://investors.nucor.com/news/news-details/2026/Nucor-Reports-Results-for-the-First-Quarter-of-2026/default.aspx)
+- [Nucor 8-K FY2026 (SEC, exhibit 99.1)](https://www.sec.gov/Archives/edgar/data/0000073309/000119312526182332/d150975dex991.htm)
+- [Nucor 10-Q FY2026 (SEC)](https://www.sec.gov/Archives/edgar/data/0000073309/000119312526220778/nue-20260404.htm)
+- [PR Newswire — Nucor Reports Results for the First Quarter of 2026](https://www.prnewswire.com/news-releases/nucor-reports-results-for-the-first-quarter-of-2026-302754639.html)
+- [StockTitan — NUE Q1 2026 10-Q / 8-K](https://www.stocktitan.net/sec-filings/NUE/10-q-nucor-corp-quarterly-earnings-report-ce45a4be381d.html)
+- [Investing.com — Nucor Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-nucors-q1-2026-earnings-beat-expectations-stock-rises-93CH-4642290)
+- [Motley Fool — Nucor (NUE) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/28/nucor-nue-q1-2026-earnings-call-transcript/)
+- [Recycling Today — Nucor earnings soar in Q1](https://www.recyclingtoday.com/news/nucor-steel-recycling-profits-q1-2026-pricing-tariffs/)
+- [Steel Market Update — Nucor sees strong demand, record shipments, higher prices](https://www.steelmarketupdate.com/2026/04/28/nucor-sees-strong-demand-record-shipments-and-higher-prices-as-2026-builds-momentum/)
+- [Argus Media — Tariffs, demand boost US steel outlook: Nucor](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2781160-tariffs-demand-boost-us-steel-outlook-nucor)
+- [WV Gazette-Mail — Nucor on track to finish WV mill this year; $950M in 2026](https://www.wvgazettemail.com/business/nucor-on-track-to-finish-wv-mill-this-year-company-spending-950m-on-mill-in/article_37db1a4c-a2b8-42ba-8fbc-b027ec089573.html)
+- [Nucor 8-K FY2025 (SEC, full-year 2025 / 2024 / 2023 figures)](https://www.sec.gov/Archives/edgar/data/0000073309/000119312525013459/d871780dex991.htm)
+- [Macrotrends — Nucor EPS 2012–2025](https://www.macrotrends.net/stocks/charts/NUE/nucor/eps-earnings-per-share-diluted)
+- [TIKR — Nucor Q1 2026 operating margin / $6.7B through-cycle target](https://www.tikr.com/blog/heres-why-nucor-stock-looks-interesting-after-its-q1-2026-operating-margin-recovery-to-12)
+
+Fact-check: Q1 2026 net $743M, EPS $3.23 (vs year-ago $156M/$0.77, ~+264% EPS off a battered comp), revenue $9.50B (+21%); gross profit ~$1.50B (+148%), operating income ~$1.12B (+247%), operating margin ~12% vs 4%; record ~7M-ton shipments, ASP per ton +14%; guide was $2.70–$2.80 (consensus $2.82); import share crushed 22%→~15% by the Section 232 tariff doubled 25%→50% in June 2025 (UK exempt at 25%); Q1 capex $661M, FY ~$2.5B incl. ~$950M to the WV Apple Grove mill (completion late 2026); $254M returned; $2.48B cash + undrawn $2.25B revolver to March 2030; FY2025 EBITDA ~$4.2B/EPS $7.52, FY2024 $8.46, FY2023 $18.00; Nov 2022 Investor Day set the $6.7B through-cycle EBITDA target. All CONFIRMED vs Nucor IR/SEC 8-K & 10-Q, corroborated by StockTitan, Investing.com, Recycling Today, Argus, Steel Market Update; no corrections, no wrongdoing alleged — an economic/valuation argument.
+
+---
+
+## Topic: Ferrari / a deliberately volume-capped luxury automaker shipping 4.4% fewer cars yet priced at 34x as a perpetual-pricing-power compounder, with all growth forced through a price/mix lever that has a ceiling and an unproven EV (Luce) transition the company has already de-risked by cutting its 2030 target (article: "Ferrari shipped fewer cars again — and trades at 34x betting it never needs to ship more" — 2026-06-21T1730-ferrari.md) [luxury]
+
+- [Ferrari Q1 2026 results — company IR](https://www.ferrari.com/en-EN/corporate/articles/2026-ferrari-first-quarter-results)
+- [Ferrari N.V. Form 6-K FY2026 Q1 results (SEC)](https://www.sec.gov/Archives/edgar/data/0001648416/000164841626000062/fnvq12026results.htm)
+- [Ferrari Q1 2026 Results Press Release (PDF)](https://cdn.ferrari.com/cms/network/media/pdf/2026_05_05%20-%20%20Ferrari%20Q1%202026%20Results%20Press%20Release.pdf)
+- [CNBC — Ferrari NV (RACE) earnings Q1 2026](https://www.cnbc.com/2026/05/05/ferrari-nv-race-earnings-q1-2026.html)
+- [StockTitan — Ferrari Q1 revenue €1.85B, confirms 2026 outlook](https://www.stocktitan.net/news/RACE/another-quarter-of-strong-mix-2026-guidance-kw47hkpri4re.html)
+- [TIKR — Ferrari Q1 2026: €1.85B revenue, order book to end of 2027](https://www.tikr.com/blog/ferrari-q1-2026-e1-85b-revenue-as-order-book-extends-to-end-of-2027)
+- [Investing.com — Ferrari Q1 2026 slides: strong cash flow, guidance confirmed](https://in.investing.com/news/company-news/ferrari-q1-2026-slides-strong-cash-flow-guidance-confirmed-93CH-5379412)
+- [CNBC — Ferrari shares fall after launching first full EV](https://www.cnbc.com/2026/05/26/ferrari-stock-shares-luce-electric-vehicle-ev-launch.html)
+- [CNN Business — Ferrari unveils first electric car, $640,000 price tag](https://www.cnn.com/2026/05/26/cars/ferrari-new-electric-vehicle-luce-intl-hnk)
+- [electrive.com — Ferrari's first EV 'Luce' to launch from €550,000](https://www.electrive.com/2026/05/26/ferraris-first-ev-luce-to-launch-from-e550000/)
+- [CNBC — Ferrari unveils first EV and cuts 2030 EV sales target](https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html)
+- [financecharts — Ferrari (RACE) PE ratio current & historical](https://www.financecharts.com/stocks/RACE/value/pe-ratio)
+- [Simply Wall St — Ferrari valuation check, premium P/E multiple](https://simplywall.st/stocks/us/automobiles/nyse-race/ferrari/news/ferrari-race-valuation-check-after-recent-share-pullback-and/amp)
+
+Fact-check: Q1 2026 (reported May 5, 2026; SEC Form 6-K): net revenues ~€1.85B (€1,848M, +3.2% reported / +6.0% constant currency), net profit €413M flat, EBITDA €722M / 39.1% margin, EBIT €548M / 29.7% margin, shipments 3,436 units (−4.4% from 3,593); 2026 guidance confirmed (revenues ~€7.50B, adj EBITDA ≥€2.93B, adj diluted EPS ≥€9.45, industrial FCF ≥€1.50B); order book into end-2027; mix drivers F80/Special Series/personalization/Americas; P/E ~33.9 trailing / ~31.7 forward (vs auto ~16x, luxury ~26x); EV Luce unveiled May 26 2026 from €550,000 (~$640,000), >1,000hp, deliveries Q4 2026, stock fell on reveal; 2030 EV target cut at the Oct 2025 Capital Markets Day. All CONFIRMED vs Ferrari Q1 release / 6-K, CNBC, StockTitan, TIKR; no corrections, no figure beyond sourced data.
+
+---
+
+## Topic: Prologis / the world's largest warehouse REIT priced at 21x FFO as a secular e-commerce compounder while its defining re-leasing spread has collapsed two-thirds (84%→32% net effective, 54%→17% cash) and its embedded lease mark-to-market is nearly spent, with same-store growth now leaning on unusually low bad debt and a capital pivot into data centers (article: "Prologis trades at 21x FFO while its rent-rollover engine has lost two-thirds of its thrust" — 2026-06-21T1700-prologis.md) [reits]
+
+- [Prologis IR — Reports First Quarter 2026 Results](https://ir.prologis.com/press-releases/detail/1036/prologis-reports-first-quarter-2026-results)
+- [Prologis.com — First Quarter 2026 Results press release](https://www.prologis.com/insights-news/press-releases/prologis-reports-first-quarter-2026-results)
+- [StockTitan — Prologis Q1 Core FFO Rises, Lifts 2026 Outlook](https://www.stocktitan.net/news/PLD/prologis-reports-first-quarter-2026-god4gkw1vw3b.html)
+- [Investing.com — Prologis Q1 2026 slides: occupancy tops 95%, data center push accelerates](https://www.investing.com/news/company-news/prologis-q1-2026-slides-occupancy-tops-95-data-center-push-accelerates-93CH-4618858)
+- [Motley Fool — Prologis (PLD) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/16/prologis-pld-q1-2026-earnings-call-transcript/)
+- [AOL — Prologis (PLD) Q1 2026 Earnings Call Transcript](https://www.aol.com/articles/prologis-pld-q1-2026-earnings-170024213.html)
+- [SEC — Prologis Form 8-K FY2026 (ex99_1)](https://www.sec.gov/Archives/edgar/data/1045609/000119312526157977/pld-ex99_1.htm)
+- [GuruFocus — Prologis Declares Quarterly Dividend and Raises 2026 Guidance](https://www.gurufocus.com/news/8824711/prologis-pld-declares-quarterly-dividend-and-raises-2026-guidance)
+- [stockanalysis.com — Prologis (PLD) Statistics & Valuation](https://stockanalysis.com/stocks/pld/statistics/)
+- [Ainvest — Prologis: Weighing the 2026 Rent Growth Inflection](https://www.ainvest.com/news/prologis-weighing-2026-rent-growth-inflection-portfolio-allocation-2601/)
+
+Fact-check: Q1 2026 (reported April 16, 2026): Core FFO $1.50/sh ($1.52 ex-net-promote, vs $1.42), GAAP net $1.05/sh (vs $0.63), occupancy 95.3%, record 64M sq ft signings, retention 75.8%, net effective rent change 31.9%, cash rent change 16.8%, cash SSNOI 8.8% / net-effective 6.1% (driven by occupancy, rent change and "unusually low bad debt"), lease mark-to-market ~17% (vs ~18% / ~$800M end-2025), first market-rent uptick in 2.5 years, development starts $1.78B of which $1.3B data centers, debt/EBITDA 4.8x, dividend $1.07/qtr, 2026 guidance raised (Core FFO $6.07–$6.23), market cap ~$132B; historical spread series CONFIRMED (3Q23 84.0%/54.2% → 1Q26 31.9%/16.8%). No material corrections; the ~60%+ peak mark-to-market is framed as "implied" and the ~21x multiple / ~$128 price as approximate; thesis framed as valuation/asymmetry, not operational distress.
+
+---
+
+## Topic: NextEra Energy / a leveraged, rate-sensitive, subsidy-fed $40B/year construction company priced at a 22x compounder premium, whose own yieldco (XPLR, formerly NextEra Energy Partners) cut its distribution to zero and bought back $3.7B of convertible obligations it could no longer roll — the canary signaling the cost-of-capital stress the whole structure shares (article: "NextEra trades at a 22x growth premium while its financing canary cut payouts to zero" — 2026-06-21T1630-nextera-energy.md) [utilities]
+
+- [NextEra Energy Q1 2026 Form 8-K (Exhibit 99) — SEC](https://www.sec.gov/Archives/edgar/data/0000753308/000075330826000028/neeq12026exhibit99.htm)
+- [NextEra Energy Q1 2026 News Release (April 23, 2026) — IR PDF](https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/reports-and-fillings/quarterly-earnings/2026/Q1%202026/2026-0423%20NEEQ12026News%20Release%20vF.pdf)
+- [NextEra Energy Beats Q1 Earnings Estimates, Revenues Rise Y/Y — Yahoo Finance / Zacks](https://finance.yahoo.com/sectors/energy/articles/nextera-energy-beats-q1-earnings-153700094.html)
+- [NextEra Energy Q1 2026: EPS Beats at $1.09 as Backlog Hits Record 33 GW — TIKR](https://www.tikr.com/blog/nextera-energy-q1-2026-eps-beats-at-1-09-as-backlog-hits-record-33-gw)
+- [XPLR Infrastructure Shares Tank on Distribution Suspension — US News](https://money.usnews.com/investing/news/articles/2025-01-28/nextera-energys-xplr-infrastructure-shares-tank-on-dividend-suspension)
+- [XPLR Infrastructure News Release (Jan 28, 2025) — IR PDF](https://www.investor.xplrinfrastructure.com/~/media/Files/X/xplr-infrastructure-ir/news-and-events/events-and-presentations/2025/1-28-25/Copy%20of%202025-0128%20XPLR%20Infrastructure%20News%20Release%20vFinal.pdf)
+- [Fitch Affirms XPLR Infrastructure Ratings (Jan 28, 2025) — IR PDF](https://www.investor.xplrinfrastructure.com/~/media/Files/X/xplr-infrastructure-ir/fixed-income-investors/download-library/rating-agency-reports/fitch-affirms-xplr-infrastructure-28-jan-2025.pdf)
+- [Fitch Affirms NextEra's Ratings; Outlook Stable (May 18, 2026) — IR PDF](https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/fixed-income-investors/download-library/03%20-%20Q2%202026/fitch-affirms-nexteras-ratings-outlook-stable-places-dominion-on-positive-watch-18-may-2026.pdf)
+- [NextEra expects up to $1.8B by 2026 in renewable tax credit sales — Utility Dive](https://www.utilitydive.com/news/nextera-energy-nee-earnings-tax-credit-transfer/698005/)
+- [NextEra Energy P/E ratio analysis — FullRatio](https://fullratio.com/stocks/nyse-nee/pe-ratio)
+- [NextEra Energy Debt-to-Equity — GuruFocus](https://www.gurufocus.com/term/debt-to-equity/NEE)
+
+Fact-check: Q1 2026 (reported April 23, 2026; SEC 8-K exhibit 99 / IR release): adjusted EPS $1.09 (+10.1% from $0.99, beat ~$0.98 consensus), revenue $6.70B (+7.3%, missed ~$7.20B), GAAP net $2.182B/$1.04 (vs $833M/$0.40), 2026 adjusted EPS guidance $3.92–$4.02, NextEra Energy Resources record 4 GW origination / ~33 GW backlog, total assets $221.4B / LT debt $93.9B; XPLR/NEP — Jan 28 2025 distribution suspended indefinitely, rebranded XPLR, ~$3.7B CEPF obligations across three financings, buyout schedule ~$945M (2025) / ~$150M (2026) / ~$465M (2027), ~$2.8B debt+CEPF refinanced 2025–2026, Fitch called the 100% cut credit-supportive; capex ~$40B/yr through 2030; tax-credit monetization ~$1.6–$1.8B by 2026 (IRA transferability); P/E ~22 (sector ~20.18), debt/equity ~1.75. All CONFIRMED; soft language used where sources gave ranges, no fraud alleged.
+
+---
+
+## Topic: PDD Holdings / the Temu/Pinduoduo parent priced as a secular compounder while it posts its slowest-ever 11% growth and a 15% net-income drop, its Temu international engine loses the US de-minimis duty-free loophole, and it fights a self-funded domestic subsidy war it is structurally positioned to lose — all through a Cayman VIE that owns contracts, not the operating companies (article: "PDD's profit falls 15% as Temu's tariff cushion vanishes and the home-front subsidy war drains margins" — 2026-06-21T1600-pinduoduo.md) [e-commerce]
+
+- [StockTitan — PDD Q1 2026 results (news)](https://www.stocktitan.net/news/PDD/pdd-holdings-announces-first-quarter-2026-unaudited-financial-2iwyuhtjni8p.html)
+- [StockTitan — PDD Q1 2026 Form 6-K SEC filing](https://www.stocktitan.net/sec-filings/PDD/6-k-pdd-holdings-inc-current-report-foreign-issuer-45ad684f666e.html)
+- [SEC — PDD Holdings Form 6-K FY2026 (EX-99.1)](https://www.sec.gov/Archives/edgar/data/1737806/000110465926034813/tm269789d1_ex99-1.htm)
+- [MarketBeat — PDD Q1 earnings call highlights (2026-05-27)](https://www.marketbeat.com/instant-alerts/pdd-q1-earnings-call-highlights-2026-05-27/)
+- [Sahm Capital — PDD margin compression Q1 2026](https://www.sahmcapital.com/news/content/pdd-holdings-nasdaqgspdd-margin-compression-tests-bullish-earnings-narrative-in-q1-2026-2026-05-28)
+- [Yahoo Finance — Temu-owner PDD profit dives, challenges at home and abroad](https://finance.yahoo.com/news/temu-owner-pdd-holdings-misses-103739145.html)
+- [White House — Fact Sheet: closing de minimis exemptions (2025)](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-closes-de-minimis-exemptions-to-combat-chinas-role-in-americas-synthetic-opioid-crisis/)
+- [TaxCloud — US de minimis exemption ends 2025](https://taxcloud.com/sales-tax-radar/us-de-minimis-exemption-ends-2025/)
+- [Practical Ecommerce — Ecommerce after de minimis exemption](https://www.practicalecommerce.com/ecommerce-after-de-minimis-tariff-exemption)
+- [GrowthDragons — Alibaba, JD, PDD, Meituan fined $528M](https://growthdragons.substack.com/p/alibaba-jd-pdd-and-meituan-fined)
+- [Caixin Global — PDD plunges as regulatory headwinds batter Temu](https://www.caixinglobal.com/2026-01-21/pdd-plunges-as-regulatory-headwinds-batter-temu-102406132.html)
+
+Fact-check: Q1 2026 (quarter ended March 31, 2026; reported May 27, 2026; SEC Form 6-K): revenue RMB106.2B (~US$14.6B, +11% vs RMB95.7B, slowest in public history), online marketing services RMB49.9B, transaction services RMB56.3B (+20%), operating profit RMB19.6B (+22%), net income RMB12.5B (~US$1.8B, −15% vs RMB14.7B), non-GAAP net income RMB14.1B (−17%, falls faster than GAAP), cash/ST investments RMB436.1B (~US$63.2B); US de-minimis ended for China/HK May 2 2025 and globally Aug 29 2025 (Temu/Shein most exposed); SAMR fine RMB3.6B (~US$528M) across seven platforms incl. PDD ~April 17 2026 — an administrative penalty, not proof of wrongdoing. One correction: an erroneous "US$115.4B" USD search figure corrected to ~US$14.6B (RMB/USD ≈7.27). VIE/de-minimis framed as structural/regulatory tail risk, no fraud alleged.
+
+---
+
+## Topic: ConocoPhillips / a through-cycle compounder narrative undone by price-taker reality — Q1 2026 headline production grew 4% only because of the $22.5B all-stock Marathon deal, but pro-forma volume fell ~1% and a 6% drop in realized price cut net income 21%, leaving the return-of-capital promise hostage to crude (article: "ConocoPhillips earns less on more barrels as a $22.5B Marathon deal meets a $50 tape" — 2026-06-21T1530-conocophillips.md) [energy]
+
+- [ConocoPhillips IR — Q1 2026 results press release](https://www.conocophillips.com/news-media/story/conocophillips-announces-first-quarter-2026-results-and-quarterly-dividend/)
+- [Businesswire — ConocoPhillips announces first-quarter 2026 results](https://www.businesswire.com/news/home/20260430387552/en/ConocoPhillips-announces-first-quarter-2026-results-and-quarterly-dividend)
+- [StockTitan — COP Q1 2026 8-K material event](https://www.stocktitan.net/sec-filings/COP/8-k-conocophillips-reports-material-event-f85810b17a91.html)
+- [StockTitan — COP Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/COP/10-q-conocophillips-quarterly-earnings-report-f52a142b2f14.html)
+- [Yahoo Finance / Offshore-technology — ConocoPhillips Q1 2026 earnings fall 21% to $2.2bn](https://www.offshore-technology.com/news/conocophillips-q1-2026-earnings-fall/)
+- [ad-hoc-news — COP Q1 2026 earnings beat on $1.89 EPS](https://www.ad-hoc-news.de/boerse/news/ueberblick/conocophillips-stock-us20825c1045-q1-2026-earnings-beat-on-1-89-eps/69305479)
+- [ConocoPhillips IR — to acquire Marathon Oil (all-stock)](https://www.conocophillips.com/news-media/story/conocophillips-to-acquire-marathon-oil-corporation-in-all-stock-transaction-provides-shareholder-distribution-update/)
+- [Mergersight — ConocoPhillips' $22.5bn acquisition of Marathon Oil](https://www.mergersight.com/post/conocophillips-22-5bn-acquisition-of-marathon-oil)
+- [ConocoPhillips IR — FY2025 results / 2026 guidance](https://www.conocophillips.com/news-media/story/conocophillips-reports-fourth-quarter-and-full-year-2025-results-announces-2026-guidance-and-quarterly-dividend/)
+- [TradersUnion — COP stock forecast, breakeven and Willow FCF ramp](https://tradersunion.com/news/financial-news/show/1655934-conocophillips-stock-forecast-2030/)
+- [Ainvest — ConocoPhillips $12.5B capex / $7B cash flow leap](https://www.ainvest.com/news/conocophillips-betting-12-5-billion-7-billion-cash-flow-leap-2605/)
+
+Fact-check: Q1 2026 (reported April 30, 2026): net income $2.2B vs $2.8B (~−21%), reported EPS $1.78 vs $2.23, adjusted EPS $1.89 vs $2.09 (beat $1.72 consensus), production 2,309 MBOED (~+4% headline but ~−80 MBOED / ~−1% pro-forma), realized price $50.36/BOE vs $53.34 (~−6%), CFO $5.4B, FCF $2.4B, capex $2.9B; $2.0B returned ($1B dividend + $1B buyback), Q2 dividend $0.84; FY guidance 2.295–2.325 MMBOED, capex $12.0–12.5B, ~45% of CFO returned; Marathon ~$22.5B all-stock incl. ~$5.4B net debt, 0.255 ratio, closed Nov 22 2024; Willow ~50% done, first oil early 2029. All load-bearing figures CONFIRMED vs COP IR/Businesswire/StockTitan 8-K & 10-Q; only breakeven figures softened to analyst-estimate ranges (mid-$40s today); the bought-growth-plus-soft-crude thesis held, no wrongdoing alleged.
+
+---
+
+## Topic: Applied Materials / a textbook cyclical re-rated as a secular AI compounder — record 16x sales and 55x earnings as China collapses from ~40% to the mid-20s of revenue, ~$710M of sales legislated away by export controls, and a GAAP-over-non-GAAP earnings inversion flattered by a mark-to-market gain on its Besi stake (article: "Applied Materials Trades at a Record 16x Sales While Its Biggest Market Shrinks" — 2026-06-21T1500-applied-materials.md) [semis]
+
+- [AMAT IR — Q2 FY2026 results (PDF)](https://ir.appliedmaterials.com/node/29236/pdf)
+- [AMAT IR — Exhibit 99.1 Q2 2026 earnings release](https://ir.appliedmaterials.com/static-files/c02d8253-7dc3-44d3-a9a9-29d07fb26f17)
+- [GlobeNewswire — Applied Materials Announces Second Quarter 2026 Results](https://www.globenewswire.com/news-release/2026/05/14/3295316/0/en/applied-materials-announces-second-quarter-2026-results.html)
+- [SEC 8-K — Exhibit 99.1 Q2 2026 earnings release](https://www.sec.gov/Archives/edgar/data/0000006951/000162828026035071/exhibit991q22026earningsre.htm)
+- [Motley Fool — AMAT Q2 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/15/applied-materials-amat-q2-2026-earnings-transcript/)
+- [TIKR — Record Revenue and 50% Gross Margin in Q2 FY2026](https://www.tikr.com/blog/applied-materials-stock-posts-record-revenue-and-50-gross-margin-in-q2-fy2026)
+- [TIKR — Beat Q2 Estimates, Raised 2026 Outlook, Stock Dipped](https://www.tikr.com/blog/applied-materials-beat-q2-estimates-and-raised-its-2026-outlook-the-stock-dipped-heres-what-investors-should-know)
+- [TrendForce — Applied sees >30% equipment growth, >50% packaging surge; China top market 2Q](https://www.trendforce.com/news/2026/05/15/news-applied-materials-sees-over-30-equipment-growth-50-packaging-surge-in-2026-china-remains-top-market-in-2qfy26/)
+- [Seeking Alpha — Q3 revenue $8.95B, non-GAAP EPS $3.36, >30% equipment growth](https://seekingalpha.com/news/4593566-applied-materials-expects-q3-revenue-of-8_95b-and-non-gaap-eps-of-3_36-as-it-forecasts)
+- [GuruFocus — AMAT reaches record valuation with price-to-sales ratio](https://www.gurufocus.com/news/8918227/applied-materials-amat-reaches-record-valuation-with-pricetosales-ratio)
+- [TrendForce — Applied flags 2026 China fab spending drop amid tougher export rules](https://www.trendforce.com/news/2025/11/14/news-applied-materials-flags-a-2026-china-fab-spending-drop-amid-tougher-u-s-export-rules/)
+- [AMAT IR — Strategic investment in BE Semiconductor](https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-strategic-investment-be)
+
+Fact-check: Q2 FY2026 (reported May 14, 2026; quarter ended ~Apr 26): record revenue $7.91B (~+11% YoY / ~+13% seq), GAAP gross margin 49.9% / non-GAAP 50.0%, GAAP op income $2.52B / 31.9%, GAAP EPS $3.51 > non-GAAP $2.86 (the inversion), Semi Systems ~$6.0B, AGS ~$1.7B; Q3 guide ~$8.95B ±$500M, non-GAAP EPS $3.36; 2026 outlook semi-equipment >30%, advanced packaging >50%; export-control hit ~$600M + ~$110M unshipped ≈ $710M; ~9% Besi stake acquired Apr 2025 drove the unrealized gain; TSMC 2026 capex $52–56B. China share (~40%→~28%→~24–27%) and multiples (P/S >16, P/E ~55, +~216% over 52 weeks) stated as approximate. Key correction was a thesis PIVOT: the original "cyclical peak with softening demand" framing was partially false (AMAT posted record revenue and RAISED guidance), so the thesis was re-centered on a strong cyclical priced at a record secular multiple; no invented figures.
+
+---
+
+## Topic: Sea Limited / a "record" 47% revenue quarter masking Shopee segment-margin compression — the crown-jewel e-commerce unit's adjusted EBITDA fell ~16% ($264.4M→$223.2M) even as GMV surged 30%, as delivery and VIP subsidies reverse the profitability transition the multiple had already pre-booked (Garena bookings actually rose ~20%) (article: "Sea Limited's revenue jumped 47% — but Shopee's profit fell while volume surged 30%" — 2026-06-21T1430-sea-limited.md) [tech]
+
+- [Sea Limited Reports First Quarter 2026 Results — BusinessWire](https://www.businesswire.com/news/home/20260511833139/en/Sea-Limited-Reports-First-Quarter-2026-Results)
+- [Strong Q1 2026 growth at Sea Limited (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/SE/6-k-sea-ltd-current-report-foreign-issuer-7e4b4f8c09e1.html)
+- [Sea Q1 2026 slides / earnings call transcript — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-sea-limited-q1-2026-revenue-beats-forecast-stock-jumps-93CH-4733888)
+- [Sea Limited Q1 2026 record broad-based growth — MarketChameleon](https://marketchameleon.com/articles/b/2026/5/12/sea-limited-q1-2026-record-broad-based-growth-shopee-gmv-garena-monee)
+- [Sea targets ~25% 2026 Shopee GMV growth, FY adjusted EBITDA no lower than 2025 — Seeking Alpha](https://seekingalpha.com/news/4591712-sea-targets-25-percent-2026-shopee-gmv-growth-while-keeping-full-year-adjusted-ebitda-no)
+- [Sea Limited Reports First Quarter 2025 Results — BusinessWire](https://www.businesswire.com/news/home/20250512899100/en/Sea-Limited-Reports-First-Quarter-2025-Results)
+- [Sea (SE) Reports 46.6% Revenue Growth and $1B Adjusted EBITDA — Insider Monkey](https://www.insidermonkey.com/blog/sea-limited-se-reports-46-6-revenue-growth-to-7-1b-and-1b-adjusted-ebitda-in-q1-2026-1761883/)
+
+Fact-check: Q1 2026 (reported May 11, 2026): revenue ~$7.1B (+46.6%), net income $438.2M (+6.7%), total adjusted EBITDA $1.034B (first ever >$1B); Shopee GMV $37.3B (+30.2%), gross orders +29%, but Shopee segment adjusted EBITDA $223.2M vs $264.4M (~−15.6%) — the core thesis; Garena did NOT decline — bookings $931.4M (+20.1%), segment adj EBITDA $574M (+25%), "best quarter since 2021"; Monee loan book $9.9B (+71.3%), 90-day NPL 1.1% stable; FY guidance ~25% Shopee GMV growth, FY adj EBITDA "no lower than" 2025. The key correction: a secondary source wrongly put Q1 2025 Shopee segment EBITDA at ~$464M (implying a ~52% collapse), but the official Q1 2025 6-K confirms $264.4M, so the decline is ~16% — all "cut in half"/"52%"/"$464M" language was removed throughout, and the Garena claim softened to "concentrated-title." All segment figures CONFIRMED.
+
+---
+
+## Topic: Qualcomm / a $238B valuation leaning on a licensing toll its biggest tenant is leaving — Apple (one of three ≥10% customers) cuts Qualcomm modems to ~20% of iPhones in 2026 and zero by 2027, opening a ~$7.3–7.8B annual cliff in 2028, while fiscal Q2 already shows revenue down ~2-3%, QCT handset −13% and margins compressing — yet the stock trades at ~23x near its high, pricing the cliff at zero (article: "Qualcomm's $238B Valuation Leans on a Royalty Toll Apple Is Walking Away From" — 2026-06-21T1400-qualcomm.md) [semis]
+
+- [Qualcomm FY2026 Q2 Earnings Release (PDF, IR/q4cdn)](https://s204.q4cdn.com/645488518/files/doc_financials/2026/q2/FY2026-2nd-Quarter-Earnings-Release.pdf)
+- [Qualcomm FY2026 Q2 Earnings Presentation (PDF, IR)](https://investor.qualcomm.com/files/doc_financials/2026/q2/FY2026-2nd-Quarter-Earnings-Presentation_4-29-26_Final.pdf)
+- [Qualcomm IR — Q2 FY2026 earnings release notice](https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-Earnings-Release-Available-on-Companys-Investor-Relations-Website-4762e9df6/default.aspx)
+- [Futurum — Qualcomm Q2 FY2026: Data Center and Auto Progress](https://futurumgroup.com/insights/qualcomm-q2-fy-2026-earnings-show-data-center-entry-and-auto-strength/)
+- [Tickeron — QCOM Q2 FY2026 Earnings Recap](https://tickeron.com/earnings/QCOM/)
+- [TIKR — Qualcomm Reports $10.6B in Q2 Revenue](https://www.tikr.com/blog/qualcomm-reports-10-6b-in-q2-revenue-with-eps-at-high-end-of-guidance)
+- [Motley Fool — QCOM Q2 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/29/qualcomm-qcom-q2-2026-earnings-transcript/)
+- [Futurum — Why Apple's $7B Modem Exit Won't Damage Qualcomm](https://futurumgroup.com/press-release/why-apples-7b-modem-exit-wont-damage-qualcomm-report-summary/)
+- [TipRanks — Qualcomm braces for a breakup with Apple as modem deal nears end](https://www.tipranks.com/news/qualcomm-braces-for-a-breakup-with-apple-as-modem-deal-nears-end)
+- [AppleInsider — Apple ends Qualcomm dependency with C1 modem](https://appleinsider.com/articles/25/02/21/apple-ends-its-qualcomm-dependency-with-the-new-c1-modem-chip)
+- [Qualcomm FY2025 10-K (customer concentration, royalty structure)](https://s204.q4cdn.com/645488518/files/doc_financials/2025/q4/QCOM-09-28-25-FY2025-10-K-Final.pdf)
+- [IDC — Worldwide smartphone shipments forecast](https://my.idc.com/getdoc.jsp?containerId=prUS53767725)
+- [stockanalysis.com — QCOM overview (price, market cap, valuation)](https://stockanalysis.com/stocks/qcom/)
+- [CNBC — QCOM quote](https://www.cnbc.com/quotes/QCOM)
+
+Fact-check: Fiscal Q2 2026 (reported April 29, 2026): total revenue ~$10.6B (~−2-3% YoY), non-GAAP EPS ~$2.65 (~−7%), QCT ~$9.1B (~−4.2%), QCT handset −13%, QTL ~$1.4B (+5%, ~72% EBT), auto ~$1.3B (+38%, ~$5B run rate), IoT ~$1.7B (+9%), non-GAAP op margin ~31% vs ~34%; China Android shipments "meaningfully below" end demand; Q3 guide revenue $9.2–10.0B, non-GAAP EPS $2.10–2.30; Apple modems ~20% of iPhones 2026 / 0% by 2027, licensing to 2027; Apple/Samsung/Xiaomi each ≥10% of FY2025 revenue per 10-K; stock ~$226.50, mkt cap ~$238B, P/E ~23.17, 52-wk ~$121.99–259.92 as of June 19 2026. All CONFIRMED vs Qualcomm IR earnings release/presentation and multiple outlets; the Apple cliff (~$7.3–7.8B) explicitly labeled an analyst estimate; revenue YoY decline softened to "~2-3%" to span sources; no invented numbers.
+
+---
+
+## Topic: Texas Instruments / a deeply cyclical analog-and-embedded supplier re-rated to ~49x (vs a ~24.65 ten-year norm) as a secular AI grower on the strength of a data-center line that is only ~11–12% of revenue, while automotive sits flat-to-down with China softening into H2 and the >$8/share 2026 FCF target remains a forecast partly underwritten by CHIPS Act cash (article: "Texas Instruments trades near 49x as a 90%-growth data-center sliver reprices the whole cycle" — 2026-06-21T1330-texas-instruments.md) [semis]
+
+- [TI 8-K / Form 8-K Q1 FY2026 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0000097476/000009747626000097/q12026txnex99-eredgar.htm)
+- [TI IR — Q1 2026 financial results press release](https://investor.ti.com/news-releases/news-release-details/ti-reports-first-quarter-2026-financial-results-and-shareholder)
+- [StockTitan — TXN 8-K, Q1 2026 revenue $4.83B](https://www.stocktitan.net/sec-filings/TXN/8-k-texas-instruments-inc-reports-material-event-661347f18bf5.html)
+- [StockTitan — TXN 10-Q, Q1 2026 earnings jump on 19% sales growth](https://www.stocktitan.net/sec-filings/TXN/10-q-texas-instruments-inc-quarterly-earnings-report-c185a4a6be18.html)
+- [Investing.com — TXN Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-texas-instruments-q1-2026-beats-forecasts-stock-rises-93CH-4630887)
+- [IndexBox — TXN Q1 2026 revenue $4.83B, EPS $1.68](https://www.indexbox.io/blog/texas-instruments-q1-2026-revenue-hits-483b-shares-surge-18/)
+- [Motley Fool — TXN Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/22/txn-q1-2026-earnings-transcript/)
+- [TIKR — TXN beats Q1 with $4.8B revenue and 19% YoY growth](https://www.tikr.com/blog/texas-instruments-beats-q1-estimates-with-4-8b-revenue-and-19-year-over-year-growth)
+- [TIKR — TXN up 58% as data-center revenue grows 90% YoY](https://www.tikr.com/blog/texas-instruments-stock-up-58-this-year-as-data-center-revenue-grows-90-year-over-year-whats-next)
+- [fullratio — TXN PE ratio current and historical](https://fullratio.com/stocks/nasdaq-txn/pe-ratio)
+- [Defense World — TI slashes 2026 capex outlook, targets $8+ FCF/share](https://www.defenseworld.net/2026/02/28/texas-instruments-slashes-2026-capex-outlook-targets-8-free-cash-flow-per-share-details-fab-roadmap.html)
+
+Fact-check: Q1 2026 (reported April 22, 2026): revenue $4.83B (+19% YoY / +9% seq, above guidance), EPS $1.68 vs ~$1.36 consensus (incl. a 5-cent benefit), net income $1.55B (+31%), gross margin 58% (+210bps seq), analog +22% to $3.92B at 41.7% op margin, data-center ~+90% YoY at ~11–12% of sales, industrial ~+30%, automotive flat-to-slightly-down seq with China H2 risk, inventory 209 days; TTM op cash flow $7.82B, capex $4.10B, FCF $4.35B incl. $630M CHIPS; 2025 FCF $3.23/share, >$8/share 2026 target; capex cycle ~83% complete; Q2 guide $5.0–5.4B revenue, EPS $1.77–2.05; valuation P/E ~49 (~99% above the ~24.65 ten-year mean), fwd ~35x, +~58% in 2026. All CONFIRMED vs TI 8-K/SEC EDGAR/IR and transcript; valuation softened with "roughly/near"; key correction was a thesis PIVOT — the original "FCF collapse under fab capex" angle was stale/reversed (capex winding down, FCF recovering), so the thesis re-centered on valuation/multiple risk, with the insider-selling section framed structurally.
+
+---
+
 ## Topic: Moody's / record quarter and elite ratings duopoly priced at a secular ~31x multiple while the $2T+ issuance quarter is a cresting refinancing-cycle wave, with an adjusted-vs-GAAP wedge and a generative-AI threat to the analytics moat (article: "Moody's hits records at 31x earnings on a toll booth that still bends to the bond cycle" — 2026-06-21T1300-moodys.md) [financials]
 
 - [Moody's Q1 2026 Earnings Release PDF (company IR)](https://s203.q4cdn.com/694693571/files/doc_financials/2026/q1/1Q26-Earnings-Release-vFINAL.pdf)
