@@ -52,3 +52,35 @@ ONE line, one clause, concrete (name+number+stance), ~8-14 words. NOT two senten
 
 ## Resume
 - `bash scripts/ctarnidd_next.sh` → first pending row (newest active BATCH*.md) or `ALL DONE`.
+| 29 | pending | TBD-datadog.md        | Datadog (DDOG) — observability at a high multiple; usage-based + AI [software] |
+| 30 | pending | TBD-mongodb.md        | MongoDB (MDB) — database growth vs Atlas consumption + SBC [software] |
+| 31 | pending | TBD-snap.md           | Snap (SNAP) — perennial losses + a stalled ad business [social] |
+| 32 | pending | TBD-pinterest.md      | Pinterest (PINS) — shopping pivot vs ad-pricing reality [social] |
+| 33 | pending | TBD-roku.md           | Roku (ROKU) — streaming reach vs unprofitable platform economics [streaming] |
+| 34 | pending | TBD-upstart.md        | Upstart (UPST) — AI lending that the credit cycle keeps testing [fintech] |
+| 35 | pending | TBD-instacart.md      | Instacart (CART) — grocery delivery whose profit is really advertising [e-commerce] |
+| 36 | pending | TBD-tempus.md         | Tempus AI (TEM) — AI-diagnostics hype vs persistent losses [healthcare] |
+| 37 | pending | TBD-guardant.md       | Guardant Health (GH) — liquid-biopsy growth vs heavy losses [diagnostics] |
+| 38 | pending | TBD-lululemon.md      | Lululemon (LULU) — US saturation + competition slowing the compounder [apparel] |
+| 39 | pending | TBD-williams-sonoma.md | Williams-Sonoma (WSM) — home retail margins vs the housing freeze [retail] |
+| 40 | pending | TBD-deckers.md        | Deckers (DECK) — Hoka hypergrowth decelerating; fashion-cycle risk [footwear] |
+| 41 | pending | TBD-dollar-general.md | Dollar General (DG) — the low-income consumer's store under margin pressure [retail] |
+| 42 | pending | TBD-dollar-tree.md    | Dollar Tree (DLTR) — the broken price-point + Family Dollar drag [retail] |
+| 43 | pending | TBD-floor-decor.md    | Floor & Decor (FND) — unit growth priced for a housing recovery that hasn't come [retail] |
+| 44 | pending | TBD-tractor-supply.md | Tractor Supply (TSCO) — rural retail compounder at a full multiple [retail] |
+| 45 | pending | TBD-cava.md           | CAVA (CAVA) — the next Chipotle priced like three of them [restaurants] |
+| 46 | pending | TBD-texas-roadhouse.md | Texas Roadhouse (TXRH) — beef costs vs a premium restaurant multiple [restaurants] |
+| 47 | pending | TBD-hershey.md        | Hershey (HSY) — cocoa-cost shock + GLP-1 snacking risk [packaged food] |
+| 48 | pending | TBD-conagra.md        | Conagra (CAG) — packaged-food volumes falling under price fatigue [packaged food] |
+| 49 | pending | TBD-generac.md        | Generac (GNRC) — generator demand swings on weather and the grid [industrials] |
+| 50 | pending | TBD-cintas.md         | Cintas (CTAS) — boring uniform-rental compounder at a tech multiple [industrials] |
+| 51 | pending | TBD-rollins.md        | Rollins (ROL) — pest control priced for perpetual perfection [industrials] |
+| 52 | pending | TBD-pool-corp.md      | Pool Corp (POOL) — pool-supply distributor past its pandemic boom [distribution] |
+| 53 | pending | TBD-fastenal.md       | Fastenal (FAST) — industrial distribution at a premium as manufacturing softens [distribution] |
+| 54 | pending | TBD-knight-swift.md   | Knight-Swift (KNX) — truckload carrier in a long freight recession [transport] |
+| 55 | pending | TBD-deere.md          | Deere (DE) — farm-equipment earnings rolling over with the ag cycle [machinery] |
+| 56 | pending | TBD-nutrien.md        | Nutrien (NTR) — fertilizer giant tied to volatile crop-nutrient prices [agriculture] |
+| 57 | pending | TBD-carrier.md        | Carrier (CARR) — HVAC re-rated on heat-pump + data-center cooling hope [industrials] |
+| 58 | pending | TBD-sherwin-williams.md | Sherwin-Williams (SHW) — paint compounder leaning on price as volumes soften [materials] |
+| 59 | pending | TBD-waste-management.md | Waste Management (WM) — recession-proof trash at a not-recession-proof price [waste] |
+| 60 | pending | TBD-chewy.md          | Chewy (CHWY) — pet e-commerce growth slowing as the pandemic pets age [e-commerce] |
