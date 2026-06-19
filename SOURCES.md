@@ -8,6 +8,162 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Moody's / record quarter and elite ratings duopoly priced at a secular ~31x multiple while the $2T+ issuance quarter is a cresting refinancing-cycle wave, with an adjusted-vs-GAAP wedge and a generative-AI threat to the analytics moat (article: "Moody's hits records at 31x earnings on a toll booth that still bends to the bond cycle" — 2026-06-21T1300-moodys.md) [financials]
+
+- [Moody's Q1 2026 Earnings Release PDF (company IR)](https://s203.q4cdn.com/694693571/files/doc_financials/2026/q1/1Q26-Earnings-Release-vFINAL.pdf)
+- [Moody's 8-K Q1 2026 Earnings Release (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001059556/000162828026026383/a1q26earningsrelease.htm)
+- [StockTitan — MCO 8-K Q1 2026 record results, raised buyback](https://www.stocktitan.net/sec-filings/MCO/8-k-moodys-corp-de-reports-material-event-ce5b3707785a.html)
+- [StockTitan — MCO 10-Q Q1 2026 revenue +8%](https://www.stocktitan.net/sec-filings/MCO/10-q-moodys-corp-de-quarterly-earnings-report-e95b72ffb079.html)
+- [The Motley Fool — Moody's (MCO) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/22/moodys-mco-q1-2026-earnings-call-transcript/)
+- [Investing.com — Moody's Q1 2026 beats EPS and revenue (call transcript)](https://www.investing.com/news/transcripts/earnings-call-transcript-moodys-q1-2026-beats-eps-and-revenue-expectations-93CH-4629757)
+- [GuruFocus — Is Moody's 13% undervalued after Q1 2026? (Adj EPS $4.33, rev $2.079B, P/E)](https://www.gurufocus.com/news/8808663/is-moodys-mco-130-undervalued-after-q1-2026-earnings-adj-eps-433-vs-401-est-beat-revenue-2079b-vs-2082b-est-miss-gf-score-94100)
+- [tikr — Moody's Q1 2026 segment margins](https://www.tikr.com/blog/moodys-stock-posts-46-operating-margins-in-q1-2026-heres-what-investors-need-to-know)
+- [stockanalysis.com — MCO statistics & valuation](https://stockanalysis.com/stocks/mco/statistics/)
+- [Seeking Alpha — Moody's vs S&P: AI risk, refinancing boom, 2026 outlook](https://seekingalpha.com/article/4889290-moodys-vs-s-and-p-global-ai-risk-refinancing-boom-and-2026-outlook)
+
+Fact-check: Q1 2026 (reported April 22, 2026): revenue $2,079M (+8% YoY). MIS ratings record revenue ~$1.2B on >$2 trillion rated issuance (first ever in a quarter), 67% MIS adjusted operating margin, >$100B AI-related financing, private-credit revenue +80%+. MA (analytics) revenue +8%, ARR $3.6B, adjusted op margin 32.5% (+250 bps), ~45% of total revenue. Adjusted diluted EPS $4.33 (+13%) vs GAAP $3.73 (~16% wedge, dominated by acquired-intangible amortization). Company-wide GAAP op margin 44.3%, adjusted 53.2%. Operating cash flow $939M (+24%), FCF $844M (+26%). Capital returns $1.7B in Q1; buyback raised to ~$2.5B from $2.0B. FY2026 adjusted EPS guidance reaffirmed (not raised) at $16.40–$17.00. Valuation ~31x trailing, ~25x forward. ~35–40% global ratings share, near-duopoly with S&P; ratings required by regulation/indentures. All CONFIRMED vs Moody's release/8-K/10-Q, transcripts, GuruFocus, stockanalysis; no material corrections.
+
+---
+## Topic: Nu Holdings / secular-compounder neobank multiple on a fast-growing, mix-shifting consumer-credit book seasoning into a high-rate Brazil — rising allowance/NPL and risk-adjusted-NIM compression on the company's own disclosures (article: "Nu Holdings clears $5B revenue and $871M profit — and its credit book is seasoning faster than the bulls admit" — 2026-06-21T1230-nu-holdings.md) [fintech]
+
+- [Nu Holdings Ltd. — Form 6-K (SEC, filed 2026-05-14)](https://www.sec.gov/Archives/edgar/data/0001691493/000129281426003057/nu20260514_6k2.htm)
+- [Nu Holdings Ltd. Reports First Quarter 2026 Financial Results — Nu International (company IR)](https://international.nubank.com.br/company/nu-holdings-ltd-reports-first-quarter-2026-financial-results/)
+- [Nu Holdings Q1 2026 Earnings: $871M Net Income Despite Elevated Provisions — TIKR](https://www.tikr.com/blog/nu-holdings-q1-2026-earnings-871m-net-income-despite-elevated-provisions)
+- [Nu Holdings (NU) Reports Record Q1 2026 Revenue Surpassing $5B and $871M Net Income — Yahoo Finance / Insider Monkey](https://www.insidermonkey.com/blog/nu-holdings-nu-reports-record-q1-2026-revenue-surpassing-5b-and-871m-net-income-1766501/)
+- [Nu Holdings Ltd. Reports First Quarter 2026 Financial Results — Businesswire](https://www.businesswire.com/news/home/20260514553909/en/Nu-Holdings-Ltd.-Reports-First-Quarter-2026-Financial-Results)
+- [Nu Holdings (NU) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/nu/statistics/)
+- [Brazil cuts Selic to 14.25% — Rio Times](https://www.riotimesonline.com/brazil-cuts-selic-14-25-copom-hawkish-communique-inflation-june-2026/)
+
+Fact-check: Q1 2026 (reported May 14, 2026; SEC Form 6-K filed 2026-05-14): revenue above $5B (record Q1, ~+42% FX-neutral); managerial net income ~$871M (~+41% FX-neutral); 135.2M customers (+14%); Mexico at break-even ahead of plan; NIM ~21.1%; risk-adjusted NIM 9.5%, down ~100 bps sequentially from 10.5%; credit-loss allowance $1.79B, +33% QoQ FX-neutral (build ≈ $267M seasonality + $423M growth + mix); 15–90 day NPL 5.0% (up from 4.1%); 90+ day NPL ~6.5% (down slightly); credit portfolio $37.2B (+40% FX-neutral); unsecured lending ~+53% to ~$10B (sourced to Yahoo/Insider Monkey, softened to ranges); deposits ~$42.4B (+22%); ROE ~30%; forward P/E low-to-mid teens (~14x). Brazil Selic 14.25% by mid-2026. No allegation of wrongdoing; allowance-adequacy framed as structural epistemics. All CONFIRMED; contested single-source figures softened to ranges.
+
+---
+## Topic: KKR / fee-related-earnings annuity priced as secular while GAAP profit, frozen carry realizations and insurance investment losses tell the cyclical truth — adjusted-vs-GAAP wedge and mark-to-model exit drought (article: "KKR posts record $758B AUM and $1.13 fee earnings — but $0.41 GAAP profit tells the real story" — 2026-06-21T1200-kkr.md) [financials]
+
+- [KKR Form 8-K (Q1 2026 earnings release) — SEC](https://www.sec.gov/Archives/edgar/data/0001404912/000140491226000011/q126earningsrelease_vf.htm)
+- [StockTitan — KKR grows AUM to $758B, boosts dividend and buybacks in Q1 2026 (8-K)](https://www.stocktitan.net/sec-filings/KKR/8-k-kkr-co-inc-reports-material-event-77e0b43d20f9.html)
+- [StockTitan — KKR Q1 2026 results show higher revenue, profit shift (10-Q)](https://www.stocktitan.net/sec-filings/KKR/10-q-kkr-co-inc-quarterly-earnings-report-7eea257e8ed8.html)
+- [Investing.com — KKR Q1 2026 earnings beat expectations, stock gains (call transcript)](https://www.investing.com/news/transcripts/earnings-call-transcript-kkr-q1-2026-earnings-beat-expectations-stock-gains-93CH-4660075)
+- [The Globe and Mail — KKR Earnings Call: Record Fees, Cautious 2026 Outlook](https://www.theglobeandmail.com/investing/markets/stocks/KKR/pressreleases/1758732/kkr-earnings-call-record-fees-cautious-2026-outlook/)
+- [Dealroom — KKR rebounds to ~$405M/$365M Q1 profit, expands buyback and dividend](https://app.dealroom.co/news/feed/kkr-rebounds-to-405m-q1-profit-expands-buyback-and-declares-dividend-amid-22-ytd-share-price-decline)
+- [The Motley Fool — KKR Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/05/kkr-kkr-q1-2026-earnings-call-transcript/)
+
+Fact-check: Q1 2026 (reported May 5, 2026): total AUM $758B (+14%); FPAUM $615B (+17%); management fees $1.192B (~+30%); FRE $1.016B / $1.13 per adjusted share (+23%); total operating earnings $1.325B / $1.47 (+18%); adjusted net income $1.249B / $1.39. GAAP net income attributable to KKR $364.8M, basic EPS $0.41. Realized performance income $197.2M ("more than doubled"); realized investment income $121.9M; gross unrealized carry ~$10.2B. Insurance net investment-related losses $652.7M; asset-management net investment losses $316.4M; insurance operating earnings $260.3M; Global Atlantic book value $11.665B / insurance AUM $220B. Perpetual capital $326B (+17%); new capital raised $28B; dividend $0.195; buyback $317M + $500M authorization; 2026 ANI/share likely below the $7 target, exits sliding to 2027. CONFIRMED vs 8-K/10-Q/transcripts; an early ">$750M realized" figure was a mis-period conflation and not used.
+
+---
+## Topic: Charles Schwab / record-quarter NIM recovery priced as a secular baseline while management's EPS upside explicitly requires no Fed cuts; underwater HTM bonds, thin capital cushion and a stock that fell on the print (article: "Schwab's Record Quarter Quietly Bet Its Margin on the Fed Never Cutting Again" — 2026-06-21T1130-charles-schwab.md) [financials]
+
+- [SEC 8-K Q1 2026 exhibit 99.1 (a1q26exhibit991.htm)](https://www.sec.gov/Archives/edgar/data/316709/000031670926000016/a1q26exhibit991.htm)
+- [SEC 10-Q Q1 2026 (schw-20260331.htm)](https://www.sec.gov/Archives/edgar/data/0000316709/000031670926000019/schw-20260331.htm)
+- [Schwab Q1 2026 earnings release (PDF)](https://content.schwab.com/web/retail/public/about-schwab/schwab_q1_2026_earnings_release.pdf)
+- [StockTitan — Schwab Q1 2026 30% profit jump / $11.8T client assets](https://www.stocktitan.net/sec-filings/SCHW/10-q-schwab-charles-corp-quarterly-earnings-report-db1ea7dc380e.html)
+- [StockTitan — Profit surges, revenue climbs 16% (8-K)](https://www.stocktitan.net/sec-filings/SCHW/8-k-schwab-charles-corp-reports-material-event-bf9484708f82.html)
+- [mlq.ai — SCHW Q1 2026 earnings](https://mlq.ai/stocks/SCHW/q1-2026-earnings/)
+- [TIKR — Record $1.43 EPS, $6.5B revenue](https://www.tikr.com/blog/charles-schwab-stock-posts-record-1-43-eps-as-revenue-hits-6-5b-in-q1-2026)
+- [TIKR — Record Q1, why did the stock fall](https://www.tikr.com/blog/charles-schwab-posted-record-q1-2026-earnings-why-did-the-stock-fall)
+- [24/7 Wall St. — Barclays PT to $127, 2026 guidance](https://247wallst.com/investing/2026/05/15/barclays-hikes-charles-schwab-price-target-to-127-2026-guidance-crushes-street-expectations/)
+- [stockanalysis.com — SCHW overview/price](https://stockanalysis.com/stocks/schw/)
+- [fullratio — SCHW P/E ratio](https://fullratio.com/stocks/nyse-schw/pe-ratio)
+- [Risk.net — Schwab FHLB advances as deposits dropped (2023 context)](https://www.risk.net/risk-quantum/7956520/schwab-turns-to-costly-fhlb-advances-as-deposits-drop)
+
+Fact-check: Q1 2026 (reported April 16, 2026): net revenue $6.48B (+16%); GAAP net income $2.48B (+30%); diluted EPS $1.37 (vs $0.99); adjusted EPS $1.43; NIM 2.88% vs 2.53%; net interest revenue ~$3.1B (+16%); bank deposits $253.0B (+3%); supplemental funding cut ~$50.0B / 77% since Sep 30, 2024, ending ~$5.1B; client assets $11.77T (+19%); core NNA $140.0B; daily average trades 9.9M (+34%); buybacks $2.4B; dividend +19%; Tier 1 leverage 8.9% (from 9.3%), adjusted 6.8% (from 7.1%, target band 6.75–7.00%); HTM amortization of prior AFS-transfer losses $496M; AOCI opt-out election; 2026 EPS scenario $5.70–$5.80 now tracking above, CFO cited benefit from "lack of rate cuts"; stock fell on the record print. Original deposit-flight/NIM-squeeze premise was a resolved 2023 episode, reframed accordingly. Valuation ~15x forward stated as approximate. CONFIRMED vs 8-K/10-Q/release/StockTitan/TIKR.
+
+---
+## Topic: MercadoLibre / 49% revenue growth masking a 20% operating-income decline and ~600bps margin compression, with an 87%-growing credit book funding the top line — analysis of the company's own disclosed provisions and NIMAL, not an allegation (article: "MercadoLibre's revenue roared 49% in Q1 — so why did operating profit just fall 20%?" — 2026-06-21T1100-mercadolibre.md) [e-commerce]
+
+- [BusinessWire — MercadoLibre Reports Q1 2026 Financial Results](https://www.businesswire.com/news/home/20260507262226/en/MercadoLibre-Inc.-Reports-First-Quarter-2026-Financial-Results)
+- [SEC — MELI Form 8-K (Q1 2026 exhibit)](https://www.sec.gov/Archives/edgar/data/0001099590/000109959026000014/meli-20260507xex991.htm)
+- [SEC — MELI Form 10-Q FY2026 Q1](https://www.sec.gov/Archives/edgar/data/0001099590/000109959026000017/meli-20260331.htm)
+- [StockTitan — MELI Q1 2026 revenue jumps 49% / 10-Q net income slips](https://www.stocktitan.net/sec-filings/MELI/8-k-mercadolibre-inc-reports-material-event-2be491b4d333.html)
+- [Investing.com — MercadoLibre Q1 2026 slides: 49% revenue surge masks margin pressure](https://www.investing.com/news/company-news/mercadolibre-q1-2026-slides-49-revenue-surge-masks-margin-pressure-93CH-4670917)
+- [Motley Fool — MercadoLibre Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/mercadolibre-meli-q1-2026-earnings-transcript/)
+- [Quiver Quantitative — MELI Stock Falls on Q1 2026 Earnings](https://www.quiverquant.com/news/MercadoLibre+(MELI)+Stock+Falls+on+Q1+2026+Earnings)
+- [Advisorpedia — Scorching Growth vs. Rising Non-performing Loans](https://www.advisorpedia.com/active/mercadolibre-scorching-growth-vs-rising-non-performing-loans/)
+- [StockAnalysis — MELI statistics & valuation](https://stockanalysis.com/stocks/meli/statistics/)
+- [Macrotrends — MELI stock price history](https://www.macrotrends.net/stocks/charts/MELI/mercadolibre/stock-price-history)
+
+Fact-check: Q1 2026 (reported May 7, 2026): net revenues $8,845M (+49% YoY, +46% FX-neutral; fastest since Q2 2022). Income from operations $611M, 6.9% margin, down ~20% YoY from $763M (~600bps compression). Net income $417M (down from $494M, ~16% decline). Diluted EPS $8.23, missed ~12%. Total credit portfolio $14.6B (+87% YoY); credit-card sub-portfolio +104% to ~$6.6bn, 2.7M cards issued. NIMAL 17.8% (from 22.7%). 15–90 day NPL ~8.0%, broadly stable; provision coverage 149%. GMV $19.0bn (+42%); TPV $87.2bn (+50%); active buyers 84.1M; Mercado Pago MAU 82.9M; AUM $19.9bn (+77%). Valuation ~40–43x trailing / ~31–40x forward (original ~50x premise softened to verified range). Management cited higher Brazil provisions, longer-duration/personal loans. No allegation of wrongdoing. CONFIRMED vs 8-K/10-Q/BusinessWire/transcript.
+
+---
+## Topic: Progressive / record May combined ratio and profit manufactured by a once-in-a-generation hard-pricing cycle now mean-reverting (Florida credits + ~8% top-5 rate cuts), priced as a durable secular machine (article: "Progressive's Record 82 Combined Ratio Is a Cycle Peak Wearing a Secular Mask" — 2026-06-21T1030-progressive.md) [insurance]
+
+- [Progressive posts higher Q1 2026 profit, premiums — PGR 8-K (StockTitan)](https://www.stocktitan.net/sec-filings/PGR/8-k-progressive-corp-oh-reports-material-event-a5adca1a1655.html)
+- [Progressive earns $2.8B profit in Q1 2026 — PGR 10-Q (StockTitan)](https://www.stocktitan.net/sec-filings/PGR/10-q-progressive-corp-oh-quarterly-earnings-report-976052e68903.html)
+- [Progressive Q1 2026 Income Up Nearly 10% — Carrier Management](https://www.carriermanagement.com/news/2026/04/15/286789.htm)
+- [Progressive May net income rises 36% to $1.45B — StockTitan](https://www.stocktitan.net/news/PGR/progressive-reports-may-2026-6u06ctp54dgs.html)
+- [Progressive Reports May 2026 Financial Results — Quiver Quantitative](https://www.quiverquant.com/news/The+Progressive+Corporation+Reports+May+2026+Financial+Results+with+Significant+Increases+in+Net+Income+and+Premiums)
+- [Progressive's April profit climbs 10% despite storm losses — Insurance Business](https://www.insurancebusinessmag.com/us/news/breaking-news/progressives-april-profit-climbs-10-despite-storm-losses-576094.aspx)
+- [Progressive to return nearly $1 billion to Florida auto customers — Yahoo Finance](https://finance.yahoo.com/news/progressive-return-nearly-1-billion-173100860.html)
+- [Commissioner Yaworsky announces more significant auto rate decreases for FL top-5 — Florida OIR](https://floir.gov/newsroom/archives/item-details/2026/03/05/commissioner-mike-yaworsky-announces-more-significant-auto-rate-decreases-for-florida-s-top-5-auto-insurance-groups)
+- [GEICO announces additional auto rate reductions in Florida — GEICO](https://www.geico.com/about/pressreleases/2026/20260302/)
+
+Fact-check: Q1 2026 (YTD to Mar 31, reported ~Apr 15, 2026): combined ratio 86.4; net income $2.8B (~+10%); diluted EPS $4.80 (+10%); policies in force +9%; NPW $23.6B (+6%); NPE $21.0B (+8%); personal-auto NPW $18.9B (+7.8%). May 2026 (monthly): net income $1.445B (+36%); EPS $2.47; combined ratio 82.1; NPW $7.027B (+6%); NPE $7.361B (+10%). Enterprise target combined ratio 96. Florida: ~$1B in policyholder credits; top-5 auto groups filing avg ~-8% for 2026; commissioner announcing "more significant" decreases; GEICO cutting FL rates. The headline "82" refers explicitly to the May monthly print; quarterly 86.4 stated separately, not conflated. Reserve-release and investment-income points framed as cycle mechanics (no asserted figure). Valuation framed qualitatively. Caution on the multiple, not an allegation of wrongdoing; premise verified TRUE. CONFIRMED vs 8-K/10-Q/StockTitan/Carrier Management/Florida OIR/GEICO.
+
+---
+## Topic: Pfizer / clean Q1 beat over a strained dividend — FY2025 payout exceeding free cash flow, GAAP payout near 126%, rising debt and thinning liquidity, funding a Seagen-led oncology pivot that must out-run the Eliquis/Ibrance patent cliff (article: "Pfizer's 6% dividend leans on a $43B oncology bet and a GAAP payout near 130%" — 2026-06-21T1000-pfizer.md) [pharma]
+
+- [Pfizer 8-K (FY2026), SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0000078003/000007800326000053/pfe-3292026xex99.htm)
+- [Pfizer Q1 2026 Earnings Release (PDF, IR)](https://s206.q4cdn.com/795948973/files/doc_financials/2026/q1/Q1-2026-PFE-Earnings-Release-FINAL.pdf)
+- [Pfizer Reports Strong First-Quarter Results And Reaffirms 2026 Guidance — BusinessWire](https://www.businesswire.com/news/home/20260505963182/en/Pfizer-Reports-Strong-First-Quarter-Results-And-Reaffirms-2026-Guidance)
+- [Pfizer (PFE) earnings Q1 2026 — CNBC](https://www.cnbc.com/2026/05/05/pfizer-pfe-earnings-q1-2026.html)
+- [Earnings call transcript: Pfizer Q1 2026 beats estimates — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-pfizer-q1-2026-beats-estimates-stock-rises-93CH-4660068)
+- [Pfizer reports Q1 results above consensus — Sherwood News](https://sherwood.news/markets/pfizer-earnings-q1-2026-results-above-consensus-reaffirms-guidance/)
+- [Income Investors Face a Hard Truth About Pfizer's Payout Safety — 24/7 Wall St.](https://247wallst.com/investing/2026/03/26/income-investors-face-a-hard-truth-about-pfizers-payout-safety/)
+- [Pfizer's Patent Cliff, Rising Debt, And The Fight To Stay A Buy — Seeking Alpha](https://seekingalpha.com/article/4859104-pfizer-patent-cliff-rising-debt-and-the-fight-to-stay-a-buy)
+- [Pfizer Faces Patent Cliffs and Acquisition Challenges — Intellectia.ai](https://intellectia.ai/news/stock/pfizer-faces-patent-cliffs-and-acquisition-challenges)
+- [Pfizer's impending patent cliff — Parola Analytics](https://parolaanalytics.com/blog/pfizer-patent-cliff/)
+- [Pfizer, in sweeping cost cutting push, lifts overall savings target to $7.7B — Fierce Pharma](https://www.fiercepharma.com/pharma/pfizer-sweeping-cost-cutting-push-lifts-savings-target-77b)
+- [Pfizer's Cancer Drugs Deliver Growth Amid Competitive Pressure — Yahoo Finance](https://finance.yahoo.com/news/pfizers-cancer-drugs-deliver-growth-152400012.html)
+- [Pfizer Invests $43 Billion to Battle Cancer — Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invests-43-billion-battle-cancer)
+- [Pfizer's modest 2026 outlook — CNBC](https://www.cnbc.com/2025/12/16/pfizer-2026-guidance-metsera-seagen-deals.html)
+
+Fact-check: Q1 2026 (reported May 5, 2026): revenue $14.45B (+5.4%, vs ~$13.84B consensus); adjusted EPS $0.75 (vs $0.72); FY2026 guidance reaffirmed ($59.5–62.5B revenue, $2.80–3.00 adjusted EPS); ex-COVID operational growth ~7%. Seagen acquired 2023 for $43B; Seagen portfolio +20% in Q1; Padcev +13% to $464M; oncology ~27% of revenue. FY2025 dividends $9.771B vs FCF ~$9.076B (~$695M shortfall); GAAP payout ~126.5%, adjusted ~53.4%. Total debt ~$63.6B (2024) → ~$67.4B (2025); liquid assets ~$20.5B → ~$13.6B. Cost-savings target raised to $7.7B by 2027. Eliquis EU patent expired May 2026; ~$1.5B LOE headwind 2026; major Eliquis/Ibrance expirations 2027–28; cumulative LOE ~$17–18B 2025–2030. ~$3.3B buyback authorization remains (execution softened). Headline "near 130%" rounds the defensible ~126.5%. CONFIRMED vs 8-K/release/CNBC/24-7 Wall St./Fierce Pharma.
+
+---
+## Topic: FEMSA / 97% net-income surge dominated by a one-time BradyPLUS–Imperial Dade gain (strip it and underlying earnings fell 36%), an excellent Oxxo engine bolted to a flat KOF bottler, geared to a peso/remittance-dependent consumer (article: "FEMSA's 97% profit surge is mostly an accounting mirage — strip it and earnings fell 36%" — 2026-06-21T0930-femsa.md) [staples]
+
+- [FEMSA 1Q 2026 Results — FEMSA IR](https://www.femsa.com/en/press-room/press-release/femsa-1q-2026-results/)
+- [FEMSA Q1 revenue rises 6.1%, operating income up 5.5% — StockTitan](https://www.stocktitan.net/news/FMX/femsa-announces-first-quarter-2026-ip1uyk6x3aaj.html)
+- [FEMSA 1Q26 results show growth but weaker earnings — FMX Form 6-K — StockTitan](https://www.stocktitan.net/sec-filings/FMX/6-k-mexican-economic-development-inc-current-report-foreign-issuer-14a97145eacb.html)
+- [Earnings call transcript: FEMSA sees strong Q1 2026 growth amid challenges — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-femsa-sees-strong-q1-2026-growth-amid-challenges-93CH-4650777)
+- [FEMSA Q1 Earnings Beat as OXXO Mexico & Americas & Mobility Aid — TradingView/Zacks](https://www.tradingview.com/news/zacks:49abb283d094b:0-femsa-q1-earnings-beat-as-oxxo-mexico-americas-mobility-aid/)
+- [Coca-Cola FEMSA (KOF) Q1 2026 net income drops 15.5% as financing costs rise — StockTitan](https://www.stocktitan.net/sec-filings/KOF/6-k-coca-cola-femsa-sab-de-cv-current-report-foreign-issuer-e3d50901d927.html)
+- [FEMSA announces ~EUR 3.3bn offering of Heineken shares — FEMSA IR](https://femsa.gcs-web.com/news-releases/news-release-details/femsa-announces-approximately-eur-33-billion-offering-shares)
+- [Mexico's FEMSA Offloads Majority of Its Shares In Heineken — Bloomberg Línea](https://www.bloomberglinea.com/english/mexicos-femsa-offloads-majority-of-its-shares-in-heineken/)
+
+Fact-check: Q1 2026 (reported April 30, 2026): net consolidated income Ps. 17,639M (+97.3%), dominated by a one-time BradyPLUS–Imperial Dade gain; excluding it, net income Ps. 5,688M (−36.4%), dragged by higher net financing expenses and the absence of prior-year discontinued-operations income. Total revenue +6.1% reported / +8.5% comparable; operating income +5.5% reported / +12.1% comparable; gross margin ~40.5%. Oxxo Mexico: revenue +8.3%, op income +20.9%, SSS +6.0%. Coca-Cola FEMSA: revenue +1.1% (~Ps. 70,925M), op income −2.3%. Americas & Mobility: revenue +12.9%, op income +34.0%. Spin by Oxxo 11.0M active users (+22.3%); digital tender 50.6%. Stock +5.56% on the day. Net majority income Ps. 4.34/Unit (+167.9%); US$2.41/ADS. FEMSA Forward/Heineken divestiture confirmed. CORRECTION: an early absolute revenue of "Ps. 149.3 billion" was contested, so the article states growth percentages only. CONFIRMED vs FEMSA IR/StockTitan/SEC/Bloomberg Línea.
+
+---
+## Topic: Intuitive Surgical / genuine 23% growth and da Vinci razor-and-blades annuity priced at ~40x forward / ~18x revenue for an uncontested monopoly that the FDA materially ended (Medtronic Hugo Dec 2025, J&J Ottava Jan 2026), plus a 100bps tariff drag (article: "Intuitive Surgical's 23% growth is real — but a 40x multiple is buying a monopoly the FDA just ended" — 2026-06-21T0900-intuitive-surgical.md) [healthcare]
+
+- [Intuitive Surgical Q1 2026 8-K earnings release (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000029/q126ex-991earningsrelease.htm)
+- [Intuitive Surgical IR — Q1 2026 earnings news release](https://isrg.intuitive.com/news-releases/news-release-details/intuitive-announces-first-quarter-earnings-7)
+- [MassDevice — Intuitive sales increase 23% in Q1 2026](https://www.massdevice.com/intuitive-sales-increase-q1-2026/)
+- [StockTitan — Intuitive places 431 systems as sales jump 23%](https://www.stocktitan.net/news/ISRG/intuitive-announces-first-quarter-ceqd3ha0k9ou.html)
+- [Medtronic — FDA clearance of Hugo for urologic procedures (Dec 3, 2025)](https://news.medtronic.com/2025-12-03-Medtronic-announces-FDA-clearance-of-Hugo-TM-robotic-assisted-surgery-system-for-urologic-surgical-procedures)
+- [MedTech Dive — Medtronic Hugo surgical robot FDA clearance](https://www.medtechdive.com/news/Medronic-Hugo-surgical-robot-FDA-clearance/807049/)
+- [MedTech Dive — J&J submits Ottava de novo request in general surgery](https://www.medtechdive.com/news/JJ-submits-FDA-de-novo-Ottava-robot-general-surgery/808976/)
+- [MedTech Dive — Medtronic completes first Hugo case in the US](https://www.medtechdive.com/news/medtronic-completes-first-hugo-case-in-the-us/812325/)
+- [GuruFocus — ISRG forward P/E ratio](https://www.gurufocus.com/term/forward-pe-ratio/ISRG)
+- [StockAnalysis — ISRG statistics & valuation](https://stockanalysis.com/stocks/isrg/statistics/)
+
+Fact-check: Q1 2026: revenue $2.77B (+23% vs $2.25B); GAAP net income $821.5M; non-GAAP EPS $2.50 (vs $1.81); total procedures +~17%, da Vinci +16% to ~847,000, Ion +39%; system placements 431 da Vinci (vs 367), of which 232 da Vinci 5 (~53%); installed base 11,395 (+12% vs 10,189). 2026 da Vinci procedure-growth guidance 13.5–15.5%; 2026 non-GAAP gross-margin guide 67.5–68.5% including ~100bps (1.0% of revenue) tariff impact plus freight/semiconductor-memory costs. Medtronic Hugo FDA urology clearance Dec 3, 2025 (first large-medtech soft-tissue robot in U.S. in 20+ years; first U.S. case early 2026); J&J Ottava de novo submission Jan 2026. Valuation "near 40x forward" / "~18x revenue" stated conservatively (sources span ~40.84x to ~45–46x). Stock prices point-in-time. No invented numbers. CONFIRMED vs 8-K/IR/MassDevice/StockTitan/MedTech Dive/GuruFocus.
+
+---
+## Topic: Medtronic / "highest revenue growth in a decade" flattered by ~$824M FX (organic 5.8%) and adjustments — constant-currency EPS fell 2%, a $1.80 GAAP-to-adjusted wedge, and a MiniMed spin still ~90%-consolidated into the organic rate (article: "Medtronic's 'Best Growth in a Decade' Was Mostly Currency, and Constant-Currency EPS Fell 2%" — 2026-06-21T0830-medtronic.md) [healthcare]
+
+- [Medtronic IR — Q4/FY2026 results (Jun 3, 2026)](https://news.medtronic.com/2026-06-03-Medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years)
+- [PR Newswire — same release](https://www.prnewswire.com/news-releases/medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years-302789415.html)
+- [SEC 8-K exhibit 99.1 — FY26 Q4 earnings](https://www.sec.gov/Archives/edgar/data/0001613103/000162828026040034/exhibit991-fy26q4earningsr.htm)
+- [InvestingNews — FY2026 results summary](https://investingnews.com/medtronic-reports-fourth-quarter-and-full-year-fiscal-2026-results-delivers-highest-annual-revenue-growth-in-10-years/)
+- [MedTech Dive — Medtronic lowers forecast after MiniMed IPO](https://www.medtechdive.com/news/medtronic-lowers-earnings-forecast-after-minimed-ipo/815688/)
+- [Drug Delivery Business — MiniMed completes $538M IPO](https://www.drugdeliverybusiness.com/minimed-completes-ipo-medtronic-separation-continues/)
+- [Investing.com — Q4 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-medtronics-q4-2026-results-exceed-expectations-93CH-4724382)
+- [stockanalysis.com — MDT statistics & valuation](https://stockanalysis.com/stocks/mdt/statistics/)
+- [GuruFocus — MDT forward P/E](https://www.gurufocus.com/term/forward-pe-ratio/MDT)
+
+Fact-check: FY2026 (reported Jun 3, 2026): revenue $36.364B, +8.4% reported / +5.8% organic; FX benefit ~$824M (IR; a wire cited $819M — same range). Q4 revenue $9.807B, +9.9% reported / +6.6% organic; Q4 FX +$308M. GAAP net income $4.801B, GAAP diluted EPS $3.73 (+3.3%); non-GAAP net income $7.120B, non-GAAP diluted EPS $5.53 (+0.7%), constant-currency adjusted EPS −2.0%. GAAP op margin 17.8%; adjusted 24.4% (−130 bps). Segments (organic): Cardiovascular 9.3%, Neuroscience 3.1%, Medical Surgical 2.9%, Diabetes 7.9%. OCF $7.330B; FCF $5.426B; diluted shares 1,288.1M; dividend $2.88 annualized (49th increase). MiniMed IPO March 9, 2026, ~$538M raised, Medtronic retains ~90.03%. FY27 guidance organic 6.75–7.25% (incl. ~125 bps extra selling week), adjusted EPS $5.90–$6.00. Valuation ~$79/share, ~$102B cap, forward P/E ~12. CONFIRMED vs IR/PR Newswire/8-K/transcript/stockanalysis/GuruFocus; no material corrections.
+
+---
 ## Topic: GM / record-EPS beat engineered by a 40%+ buyback-shrunk share count, a one-off tariff true-up and a favorable write-down base, on a cyclical ICE-truck cash engine (article: "General Motors' record EPS is engineered by a shrinking share count, not a growing business" — 2026-06-20T1800-general-motors.md) [autos]
 
 - [CNBC — GM raises 2026 guidance amid $500M tariff refund (Q1 2026)](https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html)

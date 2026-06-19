@@ -24,16 +24,16 @@ Written 10-at-a-time in parallel via the Workflow engine. 32 US + 14 ADR/ex-USA 
 | 18 | 2026-06-20T1700-royal-caribbean.md | RCL | US | travel | record bookings + still-levered post-COVID balance sheet; demand pulled forward; discretionary risk | done |
 | 19 | 2026-06-20T1730-rio-tinto.md | RIO | UK/Australia (ADR) | materials | iron-ore (China-property-dependent) price-taker dressed as a copper/lithium transition play; Simandou supply wave | done |
 | 20 | 2026-06-20T1800-general-motors.md | GM | US | autos | EV losses + China collapse + Cruise shutdown; ICE-truck profits into a softening market; buyback EPS | done |
-| 21 | 2026-06-21T0830-medtronic.md | MDT | US | healthcare | med-device giant, chronic low-single-digit growth at a premium; diabetes spin-off financial engineering | pending |
-| 22 | 2026-06-21T0900-intuitive-surgical.md | ISRG | US | healthcare | da Vinci razor-blade moat vs a ~70x multiple; Ir5 transition + Medtronic Hugo / J&J Ottava competition | pending |
-| 23 | 2026-06-21T0930-femsa.md | FMX | Mexico (ADR) | staples/retail | Oxxo + KO bottler; the trade-down + remittance/peso-dependent consumer; capital-return story vs Mexico macro | pending |
-| 24 | 2026-06-21T1000-pfizer.md | PFE | US | pharma | post-COVID cliff; Seagen-funded oncology pivot vs patent expirations (Eliquis 2028); dividend-vs-pipeline | pending |
-| 25 | 2026-06-21T1030-progressive.md | PGR | US | insurance | best-in-class auto insurer priced for permanent share gains as the hard-market pricing cycle peaks | pending |
-| 26 | 2026-06-21T1100-mercadolibre.md | MELI | LatAm/Argentina (ADR) | e-commerce | the 'Amazon of LatAm' priced ~50x while its Mercado Credito fintech book carries rising delinquency risk | pending |
-| 27 | 2026-06-21T1130-charles-schwab.md | SCHW | US | financials | cash-sorting/deposit-flight overhang; NIM squeeze from the TD Ameritrade balance sheet; rate risk | pending |
-| 28 | 2026-06-21T1200-kkr.md | KKR | US | financials | alt-manager priced on fee-related earnings while realizations stay frozen; Global Atlantic adds leverage | pending |
-| 29 | 2026-06-21T1230-nu-holdings.md | NU | Brazil (ADR) | fintech | LatAm neobank priced for perfection while credit losses + NIM compression + Brazil-rate risk loom | pending |
-| 30 | 2026-06-21T1300-moodys.md | MCO | US | financials | ratings duopoly priced for perfection; issuance-cycle dependence; AI disruption of the data moat | pending |
+| 21 | 2026-06-21T0830-medtronic.md | MDT | US | healthcare | med-device giant, chronic low-single-digit growth at a premium; diabetes spin-off financial engineering | done |
+| 22 | 2026-06-21T0900-intuitive-surgical.md | ISRG | US | healthcare | da Vinci razor-blade moat vs a ~70x multiple; Ir5 transition + Medtronic Hugo / J&J Ottava competition | done |
+| 23 | 2026-06-21T0930-femsa.md | FMX | Mexico (ADR) | staples/retail | Oxxo + KO bottler; the trade-down + remittance/peso-dependent consumer; capital-return story vs Mexico macro | done |
+| 24 | 2026-06-21T1000-pfizer.md | PFE | US | pharma | post-COVID cliff; Seagen-funded oncology pivot vs patent expirations (Eliquis 2028); dividend-vs-pipeline | done |
+| 25 | 2026-06-21T1030-progressive.md | PGR | US | insurance | best-in-class auto insurer priced for permanent share gains as the hard-market pricing cycle peaks | done |
+| 26 | 2026-06-21T1100-mercadolibre.md | MELI | LatAm/Argentina (ADR) | e-commerce | the 'Amazon of LatAm' priced ~50x while its Mercado Credito fintech book carries rising delinquency risk | done |
+| 27 | 2026-06-21T1130-charles-schwab.md | SCHW | US | financials | cash-sorting/deposit-flight overhang; NIM squeeze from the TD Ameritrade balance sheet; rate risk | done |
+| 28 | 2026-06-21T1200-kkr.md | KKR | US | financials | alt-manager priced on fee-related earnings while realizations stay frozen; Global Atlantic adds leverage | done |
+| 29 | 2026-06-21T1230-nu-holdings.md | NU | Brazil (ADR) | fintech | LatAm neobank priced for perfection while credit losses + NIM compression + Brazil-rate risk loom | done |
+| 30 | 2026-06-21T1300-moodys.md | MCO | US | financials | ratings duopoly priced for perfection; issuance-cycle dependence; AI disruption of the data moat | done |
 | 31 | 2026-06-21T1330-texas-instruments.md | TXN | US | semis | analog capex super-cycle ($5B+/yr fabs) into soft industrial/auto; FCF/share collapsed; priced on recovery | pending |
 | 32 | 2026-06-21T1400-qualcomm.md | QCOM | US | semis | handset-royalty toll losing Apple's modem (C1) + China concentration; auto/IoT vs maturing smartphone TAM | pending |
 | 33 | 2026-06-21T1430-sea-limited.md | SE | Singapore (ADR) | tech | Shopee/Garena/SeaMoney; the swing back to growth-over-profit + Garena (Free Fire) decline + SEA/LatAm competition | pending |
