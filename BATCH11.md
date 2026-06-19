@@ -64,16 +64,16 @@ ONE line, one clause, concrete (name+number+stance), ~8-14 words. NOT two senten
 | 38 | done | 2026-06-17T1200-lululemon.md      | Lululemon (LULU) — 4% revenue growth hides a 37% profit collapse; Americas comps negative 5 straight quarters; China carries it; guidance cut twice [apparel] |
 | 39 | done | 2026-06-17T1230-williams-sonoma.md | Williams-Sonoma (WSM) — best-in-class margins at ~25x earnings on a frozen housing market; 4.8% comp is share-gain, West Elm masks Pottery Barn +1.0% [retail] |
 | 40 | done | 2026-06-17T1300-deckers.md        | Deckers (DECK) — Hoka cooled to 15%; two brands ~97% of revenue; through-2030 framework resets to high-single-digit CAGR; gross margin guided down [footwear] |
-| 41 | pending | TBD-dollar-general.md | Dollar General (DG) — the low-income consumer's store under margin pressure [retail] |
-| 42 | pending | TBD-dollar-tree.md    | Dollar Tree (DLTR) — the broken price-point + Family Dollar drag [retail] |
-| 43 | pending | TBD-floor-decor.md    | Floor & Decor (FND) — unit growth priced for a housing recovery that hasn't come [retail] |
-| 44 | pending | TBD-tractor-supply.md | Tractor Supply (TSCO) — rural retail compounder at a full multiple [retail] |
-| 45 | pending | TBD-cava.md           | CAVA (CAVA) — the next Chipotle priced like three of them [restaurants] |
-| 46 | pending | TBD-texas-roadhouse.md | Texas Roadhouse (TXRH) — beef costs vs a premium restaurant multiple [restaurants] |
-| 47 | pending | TBD-hershey.md        | Hershey (HSY) — cocoa-cost shock + GLP-1 snacking risk [packaged food] |
-| 48 | pending | TBD-conagra.md        | Conagra (CAG) — packaged-food volumes falling under price fatigue [packaged food] |
-| 49 | pending | TBD-generac.md        | Generac (GNRC) — generator demand swings on weather and the grid [industrials] |
-| 50 | pending | TBD-cintas.md         | Cintas (CTAS) — boring uniform-rental compounder at a tech multiple [industrials] |
+| 41 | done | 2026-06-18T0830-dollar-general.md | Dollar General (DG) — +10.8% operating profit on +2.0% comps is shrink/cost-control math, not a richer customer [retail] |
+| 42 | done | 2026-06-18T0900-dollar-tree.md    | Dollar Tree (DLTR) — +38% adj-EPS rests on a ~$110M tariff refund + freight/shrink while the $1-price moat is abandoned for a $1.25–$7 ladder; traffic -1.0% [retail] |
+| 43 | done | 2026-06-18T0930-floor-decor.md    | Floor & Decor (FND) — 6 new boxes mask comps -3.7% / transactions -5.5%; ~22x fwd on a housing recovery frozen at a 30-yr-low 4.06M existing-home sales [retail] |
+| 44 | done | 2026-06-18T1000-tractor-supply.md | Tractor Supply (TSCO) — net sales +3.6% but comps +0.5% is all ticket; transactions -1.0%, EPS fell to $0.31; bought new-store growth masks an organic stall [retail] |
+| 45 | done | 2026-06-18T1030-cava.md           | CAVA (CAVA) — a genuinely excellent operator at ~175x earnings whose own guide halves comps (9.7%→~4.5–7%) and cuts margin; pure valuation asymmetry [restaurants] |
+| 46 | done | 2026-06-18T1100-texas-roadhouse.md | Texas Roadhouse (TXRH) — sector-leading 4.5% traffic but restaurant margin slips to 16.3%; ~27x earnings on a beef price-taker (6.2% commodity inflation) [restaurants] |
+| 47 | done | 2026-06-18T1130-hershey.md        | Hershey (HSY) — 93% GAAP profit jump is hedge-distorted; adjusted gross margin actually FELL 80bps; ~10pts price on ~-2pts volume, 2 of 3 segments shrink income [packaged food] |
+| 48 | done | 2026-06-18T1200-conagra.md        | Conagra (CAG) — "return to growth" (organic +2.4%) hides total sales -1.9% and adj-EPS -23.5%; a $1.40 dividend held against falling profit + $7.3B net debt [packaged food] |
+| 49 | done | 2026-06-18T1230-generac.md        | Generac (GNRC) — the secular resilience franchise (Residential) grew just 1% with home-standby units falling; the +12% / ~90% rally rides a C&I data-center bet [industrials] |
+| 50 | done | 2026-06-18T1300-cintas.md         | Cintas (CTAS) — ~36x trailing on a headcount-linked B2B services firm; organic growth decelerated to 8.2%, next leg pinned on a ~$5.5B UniFirst acquisition [industrials] |
 | 51 | pending | TBD-rollins.md        | Rollins (ROL) — pest control priced for perpetual perfection [industrials] |
 | 52 | pending | TBD-pool-corp.md      | Pool Corp (POOL) — pool-supply distributor past its pandemic boom [distribution] |
 | 53 | pending | TBD-fastenal.md       | Fastenal (FAST) — industrial distribution at a premium as manufacturing softens [distribution] |

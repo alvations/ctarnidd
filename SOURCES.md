@@ -8,6 +8,170 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Cintas / software-multiple on a headcount-linked compounder, bought UniFirst growth (article: "Cintas Trades at 36 Times Earnings on 8% Growth as It Bets $5.5 Billion on UniFirst" — 2026-06-18T1300-cintas.md) [business-services]
+
+- [Cintas FQ3 FY26 revenue & earnings PDF (company IR)](https://www.cintas.com/docs/default-source/investor-relations/quarterly-reports/q3-fy26-revenue-and-earnings.pdf?sfvrsn=6928f9fa_1)
+- [Cintas Announces Fiscal 2026 Third Quarter Results (newsroom)](https://www.cintas.com/about/newsroom/details/news/2026/03/25/cintas-corporation-announces-fiscal-2026-third-quarter-results/)
+- [Cintas FY2026 8-K exhibit 99 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/723254/000072325426000006/ex992026-2x28.htm)
+- [StockTitan — Cintas Q3 EPS rises 10%, lifts FY2026 outlook](https://www.stocktitan.net/news/CTAS/cintas-corporation-announces-fiscal-2026-third-quarter-314tmvladanb.html)
+- [Investing.com — Cintas Q3 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-cintas-q3-2026-tops-estimates-stock-rises-93CH-4580401)
+- [fullratio — CTAS P/E ratio](https://fullratio.com/stocks/nasdaq-ctas/pe-ratio)
+- [public.com — CTAS P/E ratio](https://public.com/stocks/ctas/pe-ratio)
+- [GuruFocus — CTAS forward P/E ratio](https://www.gurufocus.com/term/forward-pe-ratio/CTAS)
+- [Cintas to acquire UniFirst in $5.5B transaction (newsroom, Mar 11 2026)](https://www.cintas.com/about/newsroom/details/news/2026/03/11/cintas-to-acquire-unifirst-in-5.5-billion-transaction-that-expands-service-capabilities-enhances-workday-solutions-and-advances-industry-innovation/)
+- [Davis Polk — Cintas $5.3B proposal to acquire UniFirst](https://www.davispolk.com/experience/cintas-53-billion-proposal-acquire-unifirst)
+
+Fact-check: FQ3 FY2026 (reported March 25, 2026) revenue $2.84B (+8.9% YoY); organic growth 8.2%; gross margin 51.0% ($1.45B), all-time high; diluted EPS $1.24 (+9.7%); net income $502.5M (+8.4%); operating income 23.2% of revenue (ex prior-year one-time gain +40bps); FY2026 guidance revenue $11.21B–$11.24B, adjusted EPS $4.86–$4.90 (excludes UniFirst transaction costs); ~$1.45B returned to shareholders in the quarter; 45 consecutive years of dividend increases; trailing P/E ~36x (defensible range). Correction: UniFirst deal value tightened from "roughly $5 billion" to "roughly $5.5 billion" ($275/share cash, announced Mar 11, 2026). No figure asserted that could not be sourced; cyclicality/employment-linkage framed as structural characteristics.
+
+---
+
+## Topic: Generac / flat home-resilience franchise, data-center bet carrying the rally (article: "Generac's home-resilience engine is flat; a data-center bet now carries an 89% rally" — 2026-06-18T1230-generac.md) [industrials]
+
+- [Generac IR — First Quarter 2026 Results](https://investors.generac.com/news-releases/news-release-details/generac-reports-first-quarter-2026-results)
+- [Generac IR — Q1 2026 release PDF](https://investors.generac.com/node/16106/pdf)
+- [SEC 8-K — Generac Holdings Inc. FY2026 (ex_952511)](https://www.sec.gov/Archives/edgar/data/0001474735/000143774926013726/ex_952511.htm)
+- [SEC 8-K — Generac Holdings Inc. FY2026 (ex_919348)](https://www.sec.gov/Archives/edgar/data/0001474735/000143774926003700/ex_919348.htm)
+- [StockTitan — Generac Q1 sales rise 12%, lifts 2026 outlook](https://www.stocktitan.net/news/GNRC/generac-reports-first-quarter-2026-bhkc00tdjads.html)
+- [Globe and Mail — Generac Tops Q1 Earnings Estimates, Lifts 2026 Revenue Outlook](https://www.theglobeandmail.com/investing/markets/stocks/GNRC/pressreleases/1593921/generac-tops-q1-earnings-estimates-lifts-2026-revenue-outlook/)
+- [Investing.com — Generac Holdings beats Q1 2026 earnings expectations (transcript)](https://www.investing.com/news/transcripts/earnings-call-transcript-generac-holdings-beats-q1-2026-earnings-expectations-93CH-4646076)
+- [TIKR — Generac's $700M Data Center Backlog](https://www.tikr.com/blog/generacs-700-million-data-center-backlog-is-building-the-case-for-a-250-price-target)
+
+Fact-check: Q1 2026 (reported April 29, 2026) consolidated net sales $1.06B (+12%); Residential external net sales ~$549M (+~1%), home standby "approximately flat" as higher pricing offset lower volumes; energy storage declined; C&I external net sales ~$510M (+~28%); Residential adjusted EBITDA margin 25.1%, C&I 13.0%; GAAP net income $73M ($1.24/sh); adjusted net income $106M ($1.80/sh, beat ~$1.33 consensus); gross margin 38.7%; FCF ~$90M; FY2026 guidance raised to mid-to-high-teens net sales growth driven entirely by data-center/telecom/rental within C&I; data-center backlog over $700M, vendor approvals "in final stages"; stock ~+8.6% on print, ~+90% trailing year. No corrections required; figures softened where appropriate; the 2022-23 destock/drawdown framed as historical backdrop.
+
+---
+
+## Topic: Conagra / "return to growth" masks falling earnings, dividend coverage strain (article: "Conagra's Earnings Fell 23% as a Held Dividend Strains a $7.3 Billion Balance Sheet" — 2026-06-18T1200-conagra.md) [consumer-staples]
+
+- [Conagra Brands Reports Third Quarter Results — PR Newswire (primary)](https://www.prnewswire.com/news-releases/conagra-brands-reports-third-quarter-results-302730636.html)
+- [CONAGRA BRANDS INC. Form 8-K FY2026 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/23217/000002321726000010/tmb-20260401xex99d1.htm)
+- [Conagra Brands (CAG) Q3 FY2026 Earnings — GuruFocus](https://www.gurufocus.com/news/8771012/conagra-brands-cag-q3-fy2026-earnings-gaap-eps-042-vs-040-est-beat-adjusted-eps-039-miss-revenue-280b-vs-276b-est-beat)
+- [Conagra Brands (NYSE: CAG) Reports Q3 FY2026 Results — Value The Markets](https://www.valuethemarkets.com/news/conagra-brands-q3-earnings-show-decline-in-net-sales)
+- [Conagra Q3 FY26 slides: sales return to growth amid margin pressure — Investing.com](https://www.investing.com/news/company-news/conagra-q3-fy26-slides-sales-return-to-growth-amid-margin-pressure-93CH-4592884)
+- [CAG Dividend Yield 11.13% — WallStreetZen](https://www.wallstreetzen.com/stocks/us/nyse/cag/dividends)
+- [CAG Dividend Payout Ratio — GuruFocus](https://www.gurufocus.com/term/payout/CAG)
+
+Fact-check: Q3 FY2026 (reported April 1, 2026) total net sales $2,787.8M (-1.9% YoY); organic net sales +2.4% (price/mix +1.9pts, volume +0.5pts); GAAP diluted EPS $0.42 (+40.0%); adjusted EPS $0.39 (-23.5%); adjusted gross margin 23.7% (-112bps); adjusted operating margin 10.6% (-213bps); adjusted EBITDA $437M (-14.9%); net debt $7.3B, net leverage 3.83x; dividend $0.35/qtr ($1.40 annual); FY2026 guidance cut toward low end (organic near midpoint of -1% to +1%, adjusted EPS ~$1.70); payout ~82% of forward adjusted-EPS guidance (article's conservative framing vs ~10-11% market yield). No figure corrections; fixed a "Marie Callender's" brand-name typo.
+
+---
+
+## Topic: Hershey / hedge-distorted GAAP margin expansion, price-led growth on falling volume (article: "Hershey's 93% profit jump is a price hike wearing a compounder's costume" — 2026-06-18T1130-hershey.md) [consumer-staples]
+
+- [StockTitan — Hershey reports Q1 2026 financial results (8-K)](https://www.stocktitan.net/news/HSY/hershey-reports-first-quarter-2026-financial-hv70x653vwyc.html)
+- [StockTitan — Q1 2026 earnings surge on pricing and margin gains (10-Q)](https://www.stocktitan.net/sec-filings/HSY/10-q-hershey-co-quarterly-earnings-report-ce7737d8e2a6.html)
+- [SEC — Hershey Co Form 8-K exhibit 99.1, Q1 FY2026](https://www.sec.gov/Archives/edgar/data/0000047111/000162828026028569/exhibit991_2026xq1.htm)
+- [FoodNavigator-USA — Hershey profit surge masks volume decline and cocoa cost pressures](https://www.foodnavigator-usa.com/Article/2026/05/26/hershey-profit-surge-masks-volume-decline-and-cocoa-cost-pressures/)
+- [PRNewswire — Hershey Reports First-Quarter 2026 Financial Results](https://www.prnewswire.com/news-releases/hershey-reports-first-quarter-2026-financial-results-302757665.html)
+- [Investing.com — Hershey Co Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-hershey-co-q1-2026-beats-earnings-expectations-93CH-4649130)
+- [ConfectioneryNews — Hershey rebounds as Q1 2026 earnings show strong revenue and profit growth](https://www.confectionerynews.com/Article/2026/04/30/hershey-rebounds-as-q1-2026-earnings-show-strong-revenue-and-profit-growth/)
+
+Fact-check: Q1 2026 (reported April 30, 2026) net sales $3,104.2M (+10.6%); organic constant-currency +7.9% (net price ~+10 points, volume ~-2 points); GAAP gross margin 39.4% vs 33.7% prior year — but the expansion is distorted by commodity-derivative mark-to-market, and adjusted gross margin (management's preferred metric) FELL 80bps to 40.4%; GAAP net income $435.1M (+93.6%), GAAP EPS $2.13 vs $1.10; adjusted EPS $2.35 (+12.4%); FY2026 guidance net sales +4–5%, adjusted EPS growth +30–35%; LesserEvil added ~2 points to consolidated growth (~20 points to Salty Snacks, where segment income still fell 18.1%); International segment income -46.8%. The ~60% 2025 profit-collapse base framed as approximate. No corrections required; thesis pivoted from the assigned "cocoa crushing GAAP margin" premise (false — GAAP margin expanded) to the accurate hedge-distortion / adjusted-margin-fell frame.
+
+---
+
+## Topic: Texas Roadhouse / best-in-class traffic but commodity price-taker margin, beef inflation (article: "Texas Roadhouse trades at 27x earnings while beef inflation quietly eats its margin" — 2026-06-18T1100-texas-roadhouse.md) [restaurants]
+
+- [Texas Roadhouse IR — First Quarter 2026 Results](https://investor.texasroadhouse.com/news/news-details/2026/Texas-Roadhouse-Inc--Announces-First-Quarter-2026-Results/default.aspx)
+- [StockTitan — TXRH 8-K (Q1 2026, dividend lift)](https://www.stocktitan.net/sec-filings/TXRH/8-k-texas-roadhouse-inc-reports-material-event-ba4007ba1538.html)
+- [StockTitan — TXRH 10-Q (Q1 2026 revenue +12.8%)](https://www.stocktitan.net/sec-filings/TXRH/10-q-texas-roadhouse-inc-quarterly-earnings-report-38be6666cf09.html)
+- [Investing.com — TXRH Q1 2026 earnings call transcript (EPS beats, revenue misses)](https://www.investing.com/news/transcripts/earnings-call-transcript-texas-roadhouse-q1-2026-eps-beats-revenue-misses-93CH-4670941)
+- [Restaurant Business — Texas Roadhouse sees some relief on beef prices](https://www.restaurantbusinessonline.com/financing/texas-roadhouse-sees-some-relief-beef-prices)
+- [Restaurant Business — Beef costs put pressure on Texas Roadhouse](https://www.restaurantbusinessonline.com/financing/beef-costs-put-pressure-texas-roadhouse)
+- [TipRanks — Texas Roadhouse posts strong Q1 results, hikes dividend](https://www.tipranks.com/news/company-announcements/texas-roadhouse-posts-strong-q1-results-hikes-dividend)
+- [GuruFocus — TXRH P/E ratio data](https://www.gurufocus.com/stock/TXRH/data/pe-ratio)
+- [StockAnalysis — TXRH statistics & valuation](https://stockanalysis.com/stocks/txrh/statistics/)
+- [MarketBeat — Texas Roadhouse Q1 earnings call highlights](https://www.marketbeat.com/instant-alerts/texas-roadhouse-q1-earnings-call-highlights-2026-05-09/)
+
+Fact-check: Q1 2026 (13 weeks ended March 31, 2026; reported May 7) total revenue $1.63B (+12.8%); comparable restaurant sales +7.1% (4.5% traffic + ~1.9% menu price); net income $123.4M; diluted EPS $1.87 (+9.6%, beat ~$1.82); restaurant margin 16.3% of sales (down from 16.6%, -36bps); restaurant margin dollars $264.4M (+10.5%); food & beverage costs 35.3% (+122bps) on 6.2% commodity inflation, beef the swing factor; commodity inflation FY guide 6%–7%, Q2 7%–8%; labor 32.9% (-46bps); dividend $0.75/share; valuation ~27x trailing (~$170s, ~$10.4B cap). No corrections required; figures stated conservatively; cattle-herd lows framed as structural backdrop.
+
+---
+
+## Topic: CAVA / excellent operator priced for perfection, own guidance halves comps (article: "CAVA trades at 175x earnings while its own guidance halves same-store growth" — 2026-06-18T1030-cava.md) [restaurants]
+
+- [CAVA Group Reports First Quarter 2026 Results — Business Wire](https://www.businesswire.com/news/home/20260519643333/en/CAVA-Group-Reports-First-Quarter-2026-Results)
+- [CAVA Group, Inc. Form 8-K — FY2026 Q1 earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001639438/000162828026036461/earningsrelease2026q1.htm)
+- [CAVA Group Reports First Quarter 2026 Results — investor.cava.com](https://investor.cava.com/news/news-details/2026/CAVA-Group-Reports-First-Quarter-2026-Results/default.aspx)
+- [CAVA Group (NYSE: CAVA) lifts 2026 outlook after strong Q1 results — StockTitan](https://www.stocktitan.net/sec-filings/CAVA/8-k-cava-group-inc-reports-material-event-af1dcc1dc9e0.html)
+- [Mediterranean chain CAVA posts $434M Q1 sales, eyes up to 77 new sites — StockTitan](https://www.stocktitan.net/news/CAVA/cava-group-reports-first-quarter-2026-n9cp22n4581s.html)
+- [Earnings call transcript: CAVA Group beats Q1 2026 forecasts — Investing.com](https://m.investing.com/news/transcripts/earnings-call-transcript-cava-group-beats-q1-2026-forecasts-stock-dips-93CH-4699907)
+- [CAVA Group, Inc. 1Q 2026 10-Q Summary — TradingView](https://www.tradingview.com/news/tradingview:422d8e4a4c37d:0-cava-group-inc-1q-2026-revenue-438-27m-eps-0-2-10-q-summary/)
+- [CAVA Group (CAVA) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/cava/statistics/)
+- [CAVA market cap — public.com](https://public.com/stocks/cava/market-cap)
+- [CAVA Group ($CAVA) Releases Q1 2026 Earnings, Stock Rises — Quiver Quantitative](https://www.quiverquant.com/news/CAVA+GROUP+%28%24CAVA%29+Releases+Q1+2026+Earnings%2C+Stock+Rises)
+- [CAVA posts $1.18B revenue, 72 net new restaurants in 2025 — StockTitan (Form ARS)](https://www.stocktitan.net/sec-filings/CAVA/ars-cava-group-inc-sec-filing-01c4e69e6829.html)
+
+Fact-check: Q1 FY2026 (reported May 19, 2026) revenue $434.4M (+32.2%); same-restaurant sales +9.7%, traffic +6.8%; restaurant-level profit $108.9M, margin 25.1%; adjusted EBITDA $61.7M (+37.6%); GAAP net income $23.6M (down from $25.7M), EPS $0.20 (beat $0.18); 20 net new restaurants, 459 units, ~$3.0M AUV; ~$403M cash, zero debt; FY2026 guidance restaurant-level margin 23.7%–24.3%, adjusted EBITDA $181M–$191M; same-restaurant-sales guidance reported inconsistently across sources, softened to "mid-single-digit range (roughly 4.5%–7%)"; valuation ~$80/share, ~$11B cap, P/E ~175. The article explicitly concedes CAVA is an excellent operator and rests entirely on valuation asymmetry; no fraud asserted.
+
+---
+
+## Topic: Tractor Supply / bought new-store growth masks negative same-store traffic (article: "Tractor Supply's growth is rented from new stores while its old ones lose customers" — 2026-06-18T1000-tractor-supply.md) [specialty-retail]
+
+- [SEC 8-K — Q1 FY2026 earnings release exhibit (TSCO)](https://www.sec.gov/Archives/edgar/data/0000916365/000091636526000020/ex991-q12026earningsrelease.htm)
+- [Tractor Supply IR — Q1 2026 results; reaffirms FY2026 outlook](https://corporate.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Company-Reports-First-Quarter-2026-Financial-Results-Reaffirms-Fiscal-Year-2026-Outlook/default.aspx)
+- [Businesswire — Tractor Supply Q1 2026 financial results](https://www.businesswire.com/news/home/20260421543068/en/Tractor-Supply-Company-Reports-First-Quarter-2026-Financial-Results-Reaffirms-Fiscal-Year-2026-Outlook)
+- [StockTitan — TSCO 10-Q: Q1 2026 earnings slip despite higher sales](https://www.stocktitan.net/sec-filings/TSCO/10-q-tractor-supply-co-de-quarterly-earnings-report-3d577cae3ab6.html)
+- [Quiver Quantitative — TSCO Q1 2026 earnings](https://www.quiverquant.com/news/TRACTOR+SUPPLY+($TSCO)+Releases+Q1+2026+Earnings)
+- [Simply Wall St — TSCO net margin slippage tests bullish growth narrative](https://simplywall.st/stocks/us/retail/nasdaq-tsco/tractor-supply/news/tractor-supply-tsco-net-margin-slippage-tests-bullish-growth)
+- [The Motley Fool — TSCO Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/04/21/tractor-supply-tsco-q1-2026-earnings-transcript/)
+- [Intellectia — TSCO Q1 2026 earnings call insights (pet drag, guidance)](https://intellectia.ai/news/stock/tractor-supply-company-q1-2026-earnings-call-insights)
+- [Yahoo Finance — Why TSCO is down after Q1 earnings miss and flat same-store sales](https://finance.yahoo.com/markets/stocks/articles/why-tractor-supply-tsco-down-050525311.html)
+- [GuruFocus — TSCO P/E ratio (TTM)](https://www.gurufocus.com/term/pettm/TSCO/PE-Ratiottm/Tractor-Supply-Co)
+
+Fact-check: Q1 FY2026 (reported April 21, 2026) net sales $3.59B (+3.6%); comparable-store sales +0.5% (average ticket +1.6%, transactions -1.0%); diluted EPS $0.31 (vs $0.34, missed consensus); net income $164.5M (vs $179.4M); gross margin 36.2% (flat); SG&A ~$1.07B (+6.1%, 29.7% of sales, ~70bps deleverage); 40 new namesake stores at 65-70% productivity; pet category >100bps comp drag; FY2026 guidance reaffirmed (net sales +4-6%, comps 1-3%, EPS $2.13-$2.23); >2,300 stores, runway toward ~3,000; trailing P/E ~15x. Correction: stock-drop softened from "roughly 12%" to "roughly 10%" with a high-single-to-low-double-digit caveat (only contested figure). No invented numbers.
+
+---
+
+## Topic: Floor & Decor / new boxes mask same-store decline, housing-recovery TAM not arriving (article: "Floor & Decor sells more stores than flooring as comps fall 3.7% on a frozen housing market" — 2026-06-18T0930-floor-decor.md) [home-improvement]
+
+- [FND Q1 FY2026 8-K earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001507079/000162828026028899/fnd-20260326x8kxex991.htm)
+- [FND Q1 FY2026 10-Q / earnings summary (StockTitan)](https://www.stocktitan.net/sec-filings/FND/10-q-floor-decor-holdings-inc-quarterly-earnings-report-014a895ebe7d.html)
+- [FND posts Q1 2026 earnings, $400M buyback (StockTitan 8-K)](https://www.stocktitan.net/sec-filings/FND/8-k-floor-decor-holdings-inc-reports-material-event-dd36fb7dc949.html)
+- [Earnings call transcript: FND misses Q1 2026 EPS (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-floor--decor-misses-q1-2026-eps-forecast-93CH-4651688)
+- [FND Q1 2026 Earnings Transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/05/01/floor-decor-fnd-q1-2026-earnings-transcript/)
+- [FND 4%–7% sales growth target for 2026 (Seeking Alpha)](https://seekingalpha.com/news/4554393-floor-and-decor-outlines-4-percent-7-percent-sales-growth-target-for-2026-while-advancing-pro)
+- [FND valuation after earnings & guidance (Simply Wall St)](https://simplywall.st/stocks/us/retail/nyse-fnd/floor-decor-holdings)
+- [FND statistics & valuation (stockanalysis.com)](https://stockanalysis.com/stocks/fnd/statistics/)
+- [FND PE ratio history (Macrotrends)](https://www.macrotrends.net/stocks/charts/FND/floor-decor-holdings/pe-ratio)
+- [FND Q2 FY2025 results / first positive comp since Q4 2022 (IR)](https://ir.flooranddecor.com/news-events/press-releases/detail/268/floor-decor-holdings-inc-announces-second-quarter)
+- [FND FY2024 results, comps -7.1% (IR)](https://ir.flooranddecor.com/news-events/press-releases/detail/257/floor-decor-holdings-inc-announces-fourth-quarter-and)
+- [2025 home sales stuck at 30-year low (Yahoo Finance / AP)](https://finance.yahoo.com/news/2025-us-home-sales-stuck-150413482.html)
+- [NAR existing-home sales statistics](https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales)
+- [2026 housing market forecast & rate lock-in (Mortgage Research)](https://www.mortgageresearch.com/articles/housing-market-forecast-2026/)
+
+Fact-check: Q1 FY2026 (quarter ended March 26, 2026, reported April 30, 2026) net sales $1,152.3M (-0.7% YoY); comparable-store sales -3.7%, transactions -5.5%, average ticket +1.9%; diluted EPS $0.37 (-17.8% from $0.45), missed $0.41 consensus; net income $39.7M (-18.8%); gross margin 44.0% (up despite lower sales); 6 new warehouses (276 total); $400M buyback authorization; FY2026 guidance net sales ~$4,770M–$4,990M, comps (4.0)% to flat, EPS ~$1.83–$2.08, 20 new stores; existing-home sales 4.06M in 2025 (30-year low) frozen by rate lock-in; valuation ~$43 share (~16% drop), ~24x trailing / ~22x forward vs specialty-retail ~11x. No corrections required after verification.
+
+---
+
+## Topic: Dollar Tree / 38% EPS beat on tariff refund + abandoned single-price moat (article: "Dollar Tree's 38% EPS jump rests on a tariff windfall and a price moat it already abandoned" — 2026-06-18T0900-dollar-tree.md) [discount-retail]
+
+- [Dollar Tree Q1 FY2026 10-Q / earnings — StockTitan](https://www.stocktitan.net/sec-filings/DLTR/10-q-dollar-tree-inc-quarterly-earnings-report-64b78256eb58.html)
+- [Dollar Tree Q1 FY2026 8-K earnings press release — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000064/ex991q1-26earningspressrel.htm)
+- [Dollar Tree Q1 2026 earnings beat, raises full-year EPS guidance — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/dollar-tree-q1-2026-earnings-132329259.html)
+- [Dollar Tree (DLTR) Q1 2026 Earnings Transcript — The Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/29/dollar-tree-dltr-q1-2026-earnings-transcript/)
+- [Dollar Tree completes $1.01 billion sale of Family Dollar — Chain Store Age](https://chainstoreage.com/done-deal-dollar-tree-completes-101-billion-sale-family-dollar)
+- [Dollar Tree Completes Sale of Family Dollar Business — Dollar Tree IR](https://corporate.dollartree.com/news-media/press-releases/detail/288/dollar-tree-completes-sale-of-family-dollar-business-to)
+- [Dollar Tree Plans 325 Net-New Stores in 2026, Doubles Down on Multi-Price — Retail TouchPoints](https://www.retailtouchpoints.com/news/dollar-tree-plans-325-net-new-stores-in-2026-doubles-down-on-multi-price-assortment/617889/)
+- [DLTR valuation after earnings — Simply Wall St](https://simplywall.st/stocks/us/consumer-retailing/nasdaq-dltr/dollar-tree/valuation)
+
+Fact-check: Q1 FY2026 (quarter ended May 2, 2026, reported ~May 28, 2026) net sales $4,970.5M (+7.2%); comparable store sales +3.5% (traffic -1.0%, average ticket +4.5%); gross margin 36.8% (+120bps), operating margin 9.5% (+120bps); GAAP diluted EPS from continuing ops $1.76 (vs $1.47); adjusted EPS $1.74 (+38%, vs ~$1.55 consensus); ~$595–600M buybacks; FY2026 guidance net sales $20.5–20.7B, comps +3–4%, adjusted EPS $6.70–7.10 (GAAP ~$6.50–6.90); Family Dollar sold July 5, 2025 (~$800M net); multi-price ladder $1.25–$7; tariffs ~$20M/month early estimate, ~$110M IEEPA refunds post-quarter; forward P/E ~16.7, stock ~$112.88. No material corrections; tariff refund described as "approximately $110 million" and non-recurring.
+
+---
+
+## Topic: Dollar General / margin recovery from shrink/cost control, not a richer customer (article: "Dollar General's margin recovery runs on shrink math, not a richer customer" — 2026-06-18T0830-dollar-general.md) [discount-retail]
+
+- [Dollar General Reports First Quarter 2026 Results (BusinessWire)](https://www.businesswire.com/news/home/20260602751270/en/Dollar-General-Corporation-Reports-First-Quarter-2026-Results)
+- [DG 8-K Q1 2026 (StockTitan)](https://www.stocktitan.net/sec-filings/DG/8-k-dollar-general-corp-reports-material-event-4dd5c31b88ab.html)
+- [Dollar General Q1 net income rises 13.3% (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/dollar-general-q1-net-income-140754052.html)
+- [DG Q1 2026 earnings beat, raises FY EPS forecast (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/dollar-general-q1-2026-earnings-121625152.html)
+- [DG Q1 2026 Earnings Transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/06/02/dollar-general-dg-q1-2026-earnings-transcript/)
+- [DG 8-K Q1 FY2025 press release (SEC)](https://www.sec.gov/Archives/edgar/data/0000029534/000110465925055706/tm2516684d1_ex99.htm)
+- [DG 10-Q Aug 1 2025 (SEC)](https://www.sec.gov/Archives/edgar/data/29534/000155837025011786/dg-20250801x10q.htm)
+- [DG Reports Fourth Quarter and Fiscal Year 2024 Results (Yahoo Finance)](https://finance.yahoo.com/news/dollar-general-corporation-reports-fourth-105000000.html)
+- [Category Growth, Traffic Lift DG's Fiscal Q1 Results (Store Brands)](https://storebrands.com/category-growth-traffic-lift-dollar-generals-fiscal-q1-results)
+
+Fact-check: Q1 FY2026 (reported June 2, 2026) net sales +3.4% to $10.79B; same-store sales +2.0% (traffic +1.4%, average transaction +0.5%); gross margin 31.6% (+65bps); operating profit $638.5M (+10.8% from $576.1M); operating margin 5.9% (~+40bps via shrink mitigation / improved damages); diluted EPS $2.00 (+12.4%), net income $444.1M (+13.3%); FY2026 guidance raised to EPS $7.20–$7.45 (from $7.10–$7.35), net sales growth 3.7%–4.2%, SSS 2.2%–2.7%. The thesis attacks the composition and durability of the beat (finite, non-repeatable internal cost recoveries) rather than denying it. Correction: prior EPS guidance corrected from "$7.10 to $7.45" to "$7.10 to $7.35." All figures company-reported.
+
+---
+
 ## Topic: Deckers / Hoka deceleration, two-brand concentration, framework reset (article: "Deckers' Hoka cools to 15% as a two-brand empire prices in perfection" — 2026-06-17T1300-deckers.md) [footwear]
 
 - [Deckers IR — Q4 & Full FY2026 results](https://ir.deckers.com/news-events/press-releases/detail/656/deckers-brands-reports-fourth-quarter-and-full-fiscal-year-2026-financial-results)
