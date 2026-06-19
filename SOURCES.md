@@ -8,6 +8,117 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Take-Two / the entire equity is a binary option on the November 19, 2026 GTA VI launch — record "net bookings" masking GAAP losses and a $7.36B accumulated deficit, with standard/legal deferred-revenue accounting (not fraud) letting management headline records while the bottom line stays red (article: "Take-Two's $44 billion market cap is one game, one date, and a $7.4 billion hole" — 2026-06-22T1100-take-two.md) [media]
+
+- [Take-Two Q4 & FY2026 results — StockTitan](https://www.stocktitan.net/news/TTWO/take-two-interactive-software-inc-reports-results-for-fourth-quarter-b4smbtxrgpw8.html)
+- [Take-Two Q4 & FY2026 results — BusinessWire](https://www.businesswire.com/news/home/20260521450562/en/Take-Two-Interactive-Software-Inc.-Reports-Results-for-Fourth-Quarter-and-Fiscal-Year-2026)
+- [Take-Two FY2026 8-K filing — StockTitan](https://www.stocktitan.net/sec-filings/TTWO/8-k-take-two-interactive-software-inc-reports-material-event-fed2dc7b6f1d.html)
+- [Take-Two IR — Q4 & FY2026 press release](https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fourth-2)
+- [Earnings call transcript Q4 FY2026 — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-taketwo-interactive-q4-2026-beats-forecasts-stock-rises-93CH-4705458)
+- [GTA 6 delayed to November 19, 2026 — Variety](https://variety.com/2025/gaming/news/gta-6-release-delayed-november-2026-1236571679/)
+- [GTA 6 third delay confirmed — GamingBible](https://www.gamingbible.com/news/gta-6-third-delay-officially-confirmed-with-catch-575224-20260518)
+- [TTWO market cap / price — stockanalysis.com](https://stockanalysis.com/stocks/ttwo/market-cap/)
+- [TTWO market cap history — MacroTrends](https://www.macrotrends.net/stocks/charts/TTWO/take-two-interactive-software/market-cap)
+
+Fact-check: FY2026 (year ended 3/31/2026, reported 5/21/2026) GAAP net loss $298.2M / $(1.62) EPS; GAAP net revenue $6,656.4M (+18%); net bookings $6,721.0M (+19%); RCS 78% of bookings; SBC $305.3M; change in deferred net revenue +$64.6M; accumulated deficit $(7,357.0)M ≈ $7.36B. Q4: GAAP revenue $1,679.8M, net loss $(59.5)M / $(0.32), bookings $1,580.3M, RCS 82%, deferred change $(99.5)M. FY2027 guide: bookings $8.0–8.2B, GAAP revenue $7.9–8.1B. GTA VI release Nov 19, 2026 after three delays (fall 2025 → May 26 2026 → Nov 19 2026), ~18 months behind, pre-orders ~June 25 2026. Market (June 19, 2026): ~$239, market cap low-to-mid $40s billion, consensus 12-mo target ~$279. All CONFIRMED vs BusinessWire/StockTitan/IR + Variety/GamingBible; deferral accounting described as standard and legal, NOT fraud; market cap/price stated as ranges. No invented figures.
+
+---
+
+## Topic: National Grid / a CPIH-linked "bond proxy" that is structurally a leveraged option on regulatory generosity — record £11.6bn capex at ~2x operating profit, £2.8bn fresh net debt to £44.2bn, returns set by Ofgem (RIIO-T3 6.12% real cost of equity), with a 2024 £7bn rights issue + ~15% dividend rebase as a preview not an aberration (article: "National Grid books record £11.6bn capex and 78p EPS, but a £44bn debt load funds the dividend" — 2026-06-22T1030-national-grid.md) [utilities]
+
+- [SEC Form 6-K — National Grid plc FY2026](https://www.sec.gov/Archives/edgar/data/0001004315/000165495426004849/a2416e.htm)
+- [Investegate — FY2026 Full Year Results Statement](https://www.investegate.co.uk/announcement/rns/national-grid--ng./fy2026-full-year-results-statement/9567572)
+- [National Grid — Full Year Results 2025/26 (14 May 2026)](https://www.nationalgrid.com/document/576631/download)
+- [StockTitan — National Grid maps £70B network investment, 8–10% EPS growth](https://www.stocktitan.net/sec-filings/NGG/6-k-national-grid-plc-current-report-foreign-issuer-61cb048fe22e.html)
+- [Investing.com — National Grid posts higher FY26 earnings, £70bn plan](https://uk.investing.com/news/earnings/national-grid-posts-higher-fy26-earnings-targets-70-billion-fiveyear-investment-4676894)
+- [TipRanks — National Grid Unveils £70bn Investment Plan as FY2026 Profits Rise](https://www.tipranks.com/news/company-announcements/national-grid-unveils-70bn-investment-plan-as-fy2026-profits-and-payouts-rise)
+- [Sharecast — National Grid announces £7bn rights issue (May 2024)](https://www.sharecast.com/news/news-and-announcements/national-grid-reports-mixed-year-announces-pound7bn-rights-issue--16829306.html)
+- [ii — National Grid rights issue: all you need to know](https://www.ii.co.uk/analysis-commentary/national-grid-rights-issue-all-you-need-know-ii531810)
+- [ts2.tech — RIIO-T3 Decision and 2026 Outlook](https://ts2.tech/en/national-grid-plc-lon-ng-nyse-ngg-stock-on-8-december-2025-riio-t3-decision-scrip-dividend-deadline-and-2026-outlook/)
+- [WallStreetZen — NGG dividend yield](https://www.wallstreetzen.com/stocks/us/nyse/ngg/dividends)
+- [GuruFocus — NGG P/E ratio](https://www.gurufocus.com/term/pettm/NGG)
+
+Fact-check: FY2026 (year ended 31 March 2026, reported 14 May 2026) underlying operating profit £5.7bn (+9%); underlying EPS 78.0p (+8% constant currency); statutory EPS 65.5p (+9%); dividend 48.49p (+3.8%, CPIH-linked); record capex £11.6bn (vs £9.8bn); FY asset growth 10.9% (11.7% regulated); net debt £44.2bn (+£2.8bn); regulatory gearing 61%, drifting toward high-60s; £70bn five-year plan, 8–10% underlying EPS CAGR off 78.0p; RIIO-T3 6.12% real allowed cost of equity at 60% notional gearing (2026–2031); May 2024 rights issue £7bn fully underwritten, 7-for-24 at 645p, ~£6.8bn net, ~91% take-up, dividend rebased ~15%. All CONFIRMED vs SEC 6-K / Investegate / company statement; valuation multiples and ADR yield framed as ranges. No invented figures; no wrongdoing alleged — a valuation/leverage argument.
+
+---
+
+## Topic: Okta / a former hypergrowth identity vendor (50%+ in peak years) now growing 11% and guiding to 9–10%, with a ~$94M GAAP-vs-non-GAAP wedge (mostly stock comp), a long-dated-RPO denominator illusion, and a moat Microsoft Entra bundles for free — priced in patches as if a reacceleration its own guidance never promises (article: "Okta's growth halves to 11% while the GAAP-to-adjusted gap swallows half its profit" — 2026-06-22T1000-okta.md) [software]
+
+- [Okta IR — Q1 FY2027 Financial Results](https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-First-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx)
+- [Okta 8-K (FY2026 / ex99.1, Q1 FY27) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001660134/000166013426000050/okta-4302026_ex991.htm)
+- [Okta newsroom — Q1 FY2027 press release](https://www.okta.com/newsroom/press-releases/okta-announces-first-quarter-2027-financial-results/)
+- [Nasdaq — Okta Announces First Quarter Fiscal Year 2027 Financial Results](https://www.nasdaq.com/press-release/okta-announces-first-quarter-fiscal-year-2027-financial-results-2026-05-28)
+- [CNBC — Okta (OKTA) earnings Q1 2027](https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html)
+- [StockTitan — Okta Q1 FY27 8-K filing summary](https://www.stocktitan.net/sec-filings/OKTA/8-k-okta-inc-reports-material-event-8424a068fe5e.html)
+- [Okta newsroom — Q4 / FY2026 financial results](https://www.okta.com/newsroom/press-releases/okta-announces-fourth-quarter-fiscal-year-2026-financial-results/)
+- [Okta 8-K (FY2026 ex99.1, Q4) — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001660134/000166013426000016/okta-1312026_ex991.htm)
+- [Investing.com — Okta beats Q1 FY2027 forecasts](https://www.investing.com/news/transcripts/earnings-call-transcript-okta-beats-q1-fy2027-forecasts-stock-rises-93CH-4715698)
+- [Public.com — OKTA stock forecast & price target](https://public.com/stocks/okta/forecast-price-target)
+- [stockanalysis.com — OKTA statistics & valuation](https://stockanalysis.com/stocks/okta/statistics/)
+- [Gartner Peer Insights — Microsoft vs Okta (access management)](https://www.gartner.com/reviews/market/access-management/compare/microsoft-vs-okta)
+- [Gartner Peer Insights — CyberArk vs Okta Privileged Access](https://www.gartner.com/reviews/market/privileged-access-management/compare/product/cyberark-privileged-access-manager-vs-okta-privileged-access)
+
+Fact-check: Q1 FY2027 (quarter ended April 2026, reported May 28, 2026) total revenue $765M (+11%); subscription revenue +11%; non-GAAP diluted EPS $0.91 (beat $0.85); GAAP net income $74M vs $62M prior year; non-GAAP net income $168M (~$94M wedge, led by SBC); cRPO $2.499B (+12%); total RPO $4.084B; FCF $271M (35% margin). FY2027 guidance: revenue $3.185B–$3.205B (9–10%); non-GAAP operating margin 25–26%; FCF $855M–$885M. Context: CyberArk acquired by Palo Alto Networks (~$25B, closed Feb 11, 2026); 2023 support-system breach; Entra ID bundled via M365/Azure. Valuation multiples, ~$14B market cap and ~$100 median PT framed as ranges. All load-bearing figures CONFIRMED vs Okta IR/8-K/CNBC/StockTitan; no invented figures.
+
+---
+
+## Topic: Toronto-Dominion / a "record quarter" that is structurally a run-off story — adjusted EPS +21% flattered by a shrinking share count against a U.S. franchise legally frozen by an ADJUDICATED felony money-laundering guilty plea (~US$3.09B penalties) and an unprecedented indefinite OCC ~US$434B asset cap; forced $50B securities sale and ~10% U.S. shrinkage dressed as optimization, AML remediation through 2027 (article: "TD's Record Quarter Hides the Felony Asset Cap Strangling Its Only Growth Engine" — 2026-06-22T0930-toronto-dominion.md) [financials]
+
+- [TD Bank Group Reports Second Quarter 2026 Results — TD Mediaroom (May 28, 2026)](https://td.mediaroom.com/2026-05-28-TD-Bank-Group-Reports-Second-Quarter-2026-Results)
+- [TD Q2 2026 Earnings News Release (PDF) — TD IR](https://www.td.com/content/dam/tdcom/canada/about-td/pdf/quarterly-results/2026/q2/2026-q2-earnings-newsrelease-en.pdf)
+- [Toronto Dominion Bank — Form 6-K FY2026 (ex994) — SEC](https://www.sec.gov/Archives/edgar/data/0000947263/000094726326000055/ex994.htm)
+- [Earnings call transcript: TD Bank Q2 2026 — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-td-bank-q2-2026-shows-strong-earnings-beat-93CH-4714899)
+- [TD Bank Q2 2026 adjusted earnings up 15% — StockTitan](https://www.stocktitan.net/sec-filings/TD/6-k-toronto-dominion-bank-current-report-foreign-issuer-c0b58339797a.html)
+- [TD Bank Q2 2026 Net Profit Margin Decline Tests Premium Valuation — Simply Wall St](https://simplywall.st/stocks/ca/banks/tsx-td/toronto-dominion-bank-shares/news/td-bank-q2-2026-net-profit-margin-decline-tests-premium-valu)
+- ['Profits over compliance': TD takes record $3 billion guilty plea — American Banker](https://www.americanbanker.com/news/td-pleads-guilty-to-money-laundering-conspiracy-hit-with-asset-cap)
+- [TD Bank to pay $3 billion after breaking U.S. money laundering rules — CBS News](https://www.cbsnews.com/news/td-bank-money-laundering-3-billion-fine-settlement/)
+- [TD Bank hit with $3B penalty in U.S. money laundering settlement — ICIJ](https://www.icij.org/investigations/fincen-files/td-bank-hit-with-3b-penalty-in-u-s-money-laundering-settlement/)
+- [TD Bank shrinks by 10% in U.S. to comply with asset cap — American Banker](https://www.americanbanker.com/news/td-bank-shrinks-by-10-in-u-s-to-comply-with-asset-cap)
+- [TD close to offloading $9B mortgage portfolio — Banking Dive](https://www.bankingdive.com/news/td-offloading-9b-mortgage-portfolio-bofa-strategic-review-aml/743459/)
+- [Household budgets tighten amid mortgage renewals — TD Stories (Apr 8, 2026)](https://stories.td.com/ca/en/news/2026-04-08-household-budgets-tighten-amid-mortgage-renewals-as-buyer-in)
+
+Fact-check: Q2 2026 (reported May 28, 2026) adjusted earnings $4.2B (+15%); adjusted diluted EPS $2.38 (+21%); revenue $16.04B; Canadian P&C net income $1,925M (+15%); dividend +4% to $1.12; ~19M shares repurchased ($7B buyback); CET1 14.3% (-26bps QoQ, buyback ~41bps); PCL ~$1,001M, impaired provisions +9% to $465M. AML settlement (Oct 2024, ADJUDICATED guilty plea): first U.S. bank to plead guilty to conspiracy to commit money laundering; ~US$3.09B penalties (~$1.8B DOJ / ~$1.3B FinCEN / $450M OCC); indefinite OCC asset cap ~US$434B on U.S. retail subsidiaries (OCC may compel up to +7%/yr reduction if remediation unmet); five-year probation, monitors, remediation through 2027; U.S. assets to shrink ~10%, up to $50B securities sold/reinvested; ~$9B mortgage offload. All CONFIRMED vs TD Mediaroom/IR/SEC 6-K + DOJ/OCC/FinCEN/American Banker. Felony plea and penalties are adjudicated facts (correctly stated, not allegation); "profits over compliance" is American Banker's framing, attributed. Valuation multiples framed as a range. No invented figures.
+
+---
+
+## Topic: Workday / a maturing back-office SaaS franchise whose subscription growth decelerated from twenties to 14.3% (guided to 12–13%), priced on a reacceleration its own guidance denies — non-GAAP 31.8% vs GAAP 13.3% margin (SBC ~16% of revenue the bridge), selling per-seat while marketing AI agents that eat the seats, amid a co-founder CEO restoration and layoffs (article: "Workday's Subscription Growth Has Slipped to 14% While the Machines It Sells Eat Its Own Seats" — 2026-06-22T0900-workday.md) [software]
+
+- [Workday Announces Fiscal 2027 First Quarter Financial Results (IR)](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2027-First-Quarter-Financial-Results/)
+- [Workday Form 8-K, Q1 FY2027 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001327811/000132781126000024/wday-04302026x991.htm)
+- [Workday (WDAY) Q1 earnings report 2027 — CNBC](https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html)
+- [Workday Q1 revenue $2.54B; lifts 2027 margin outlook — StockTitan](https://www.stocktitan.net/news/WDAY/workday-announces-fiscal-2027-first-quarter-financial-rwio4mhbgl0y.html)
+- [Workday Q1 Earnings Beat Estimates — Yahoo/Zacks](https://finance.yahoo.com/markets/stocks/articles/workday-q1-earnings-beat-estimates-140700314.html)
+- [Workday WDAY Q1 FY2027 Earnings: Non-GAAP EPS $2.66 vs GAAP EPS $0.87 — GuruFocus](https://www.gurufocus.com/news/8875698/workday-wday-q1-fy2027-earnings-nongaap-eps-266-vs-100-est-beat-gaap-eps-087-miss-revenue-2542b-vs-2517b-est-beat)
+- [Workday Announces CEO Transition as Co-Founder Aneel Bhusri Returns — Workday Newsroom](https://newsroom.workday.com/2026-02-09-Workday-Announces-CEO-Transition-as-Co-Founder-Aneel-Bhusri-Returns-to-Lead-the-Companys-Next-Chapter)
+- [Workday CEO Carl Eschenbach stepping down, co-founder Bhusri to take over — CNBC](https://www.cnbc.com/2026/02/09/workday-stock-carl-eschenbach-aneel-bhusri.html)
+- [Workday Layoffs 2026: What the Customer Ops Cut Means — KORE1](https://www.kore1.com/workday-layoffs-2026/)
+- [Workday Stock-Based Compensation 2012-2026 — MacroTrends](https://macrotrends.net/stocks/charts/WDAY/workday/stock-based-compensation)
+- [WORKDAY Forward PE Ratio — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/WDAY)
+
+Fact-check: Q1 FY2027 (quarter ended April 30, 2026, reported May 21, 2026) subscription revenue $2.354B (+14.3%); total revenue $2.542B (+13.5%); GAAP operating income $338M (13.3% margin) vs non-GAAP $809M (31.8%); GAAP net income $222M / EPS $0.87 vs non-GAAP EPS $2.66; 12-month subscription backlog $8.81B (+15.5%), total subscription backlog $27.29B (+10.9%); FY27 subscription guide $9.93–9.95B (12–13%), Q2 ~$2.46B (~13%); FY27 adjusted operating margin guide raised to ~30.5%; SBC ~16% of revenue (FY26). CEO transition: Carl Eschenbach out, co-founder Aneel Bhusri returned as CEO effective Feb 9, 2026; layoffs ~8.5% (~1,750) + ~2% (~375) in Feb 2026, Global Customer Operations, AI-framed; forward P/E ~11–12, trailing GAAP P/E high-40s. All CONFIRMED vs SEC 8-K / IR / CNBC / GuruFocus / Workday newsroom; trailing P/E and SBC% labeled as approximate. No invented figures.
+
+---
+
+## Topic: Lockheed Martin / a market-priced "safe compounder" whose Q1 2026 free cash flow swung negative — growth concentrated almost entirely in the F-35, margins eaten by fixed-price/classified-program charges that have become recurring forward guidance ($500–700M/yr cash burn through 2027), and buybacks flattering EPS as net earnings fall (article: "Lockheed Martin burned cash in Q1 2026 while paying out a compounder's multiple" — 2026-06-22T0830-lockheed-martin.md) [defense]
+
+- [Lockheed Martin Reports First Quarter 2026 Financial Results — Apr 23, 2026](https://news.lockheedmartin.com/2026-04-23-Lockheed-Martin-Reports-First-Quarter-2026-Financial-Results)
+- [LMT Q1 2026 Form 8-K / results (StockTitan)](https://www.stocktitan.net/sec-filings/LMT/8-k-lockheed-martin-corp-reports-material-event-acb5791272d7.html)
+- [Lockheed Martin Q1 2026 Financial Results (PRNewswire)](https://www.prnewswire.com/news-releases/lockheed-martin-reports-first-quarter-2026-financial-results-302750718.html)
+- [Lockheed Martin (LMT) Q1 2026 Earnings Transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/23/lockheed-martin-lmt-q1-2026-earnings-transcript/)
+- [Lockheed Martin Reports Fourth Quarter and Full Year 2025 Financial Results — Jan 29, 2026](https://news.lockheedmartin.com/2026-01-29-Lockheed-Martin-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results)
+- [Lockheed Martin Reports Third Quarter 2025 Financial Results — Oct 21, 2025](https://news.lockheedmartin.com/2025-10-21-Lockheed-Martin-Reports-Third-Quarter-2025-Financial-Results)
+- [F-35 Breaks Delivery Record (191 in 2025) — Jan 7, 2026](https://news.lockheedmartin.com/2026-01-07-F-35-Breaks-Delivery-Record,-Continues-Combat-Success-in-2025)
+- [US DoD, Lockheed finalise ~296 F-35 contract (Janes)](https://www.janes.com/defence-intelligence-insights/defence-news/air/us-dod-lockheed-martin-finalise-contract-for-nearly-300-f-35s)
+- [Pentagon details $1.5 trillion FY2027 budget request (defence-industry.eu)](https://defence-industry.eu/pentagon-details-1-5-trillion-fy2027-budget-request/)
+- [After NGAD loss, Lockheed says it will 'supercharge' F-35 (Defense One)](https://www.defenseone.com/business/2025/04/after-ngad-loss-lockheed-says-it-will-supercharge-f-35/404756/)
+- [Lockheed eyes 'Ferrari' fighters following F-47 loss (Axios)](https://www.axios.com/2025/04/30/lockheed-earnings-f35-taiclet-ngad)
+- [Lockheed dividend hike and increased buybacks (Yahoo Finance)](https://finance.yahoo.com/news/lockheed-martin-5-percent-dividend-100913843.html)
+- [5 Insightful Analyst Questions From Q1 Earnings Call (StockStory)](https://stockstory.org/us/stocks/nyse/lmt/news/earnings-call/5-insightful-analyst-questions-from-lockheed-martins-q1-earnings-call)
+
+Fact-check: Q1 2026 (reported April 23, 2026) revenue $18.0B (flat YoY); net earnings $1.5B / EPS $6.44 (vs $1.7B / $7.28, ~-12%); free cash flow $(291)M (vs $955M; cash from ops $220M vs $1.4B); segment operating profit $1.8B (down); operating margin ~11% vs ~13%. Classified: Q1 2026 clean (no new charge); management guides $500–700M/yr classified cash burn 2026 and 2027; FY2024 classified pre-tax losses ~$2.0B (~$6.16 EPS); Q2 2025 ~$950M Aeronautics charge. FY2025 sales +6% (~$1.6B), of which ~$1.9B from F-35; record backlog $194B; 191 F-35s delivered (prior record 142); ~296-aircraft Lot 18/19 agreement (deliveries from 2026); FY2027 budget request ~$1.5T raising F-35 procurement toward 85; NGAD/F-47 awarded to Boeing (~$20B, March 2025); 23 consecutive years dividend growth, buyback authorization +$2B to $9B; FY2026 FCF guide $6.5–6.8B. All CONFIRMED vs Lockheed IR / 8-K / PRNewswire + Janes/Axios/Defense One; rounded figures hedged. No invented figures.
+
+---
+
 ## Topic: Nucor / a tariff-protected commodity price-taker whose blowout $3.23 quarter is a 50% Section 232 tariff wall and a crushed year-ago comp dressed as operating excellence, priced as a secular compounder toward a $6.7B through-cycle EBITDA target the bull capitalizes as certain (article: "Nucor's $3.23 quarter is built on a 50% tariff wall, not a wider moat" — 2026-06-21T1800-nucor.md) [materials]
 
 - [Nucor — Reports Results for the First Quarter of 2026 (IR)](https://investors.nucor.com/news/news-details/2026/Nucor-Reports-Results-for-the-First-Quarter-of-2026/default.aspx)

@@ -44,9 +44,9 @@ Written 10-at-a-time in parallel via the Workflow engine. 32 US + 14 ADR/ex-USA 
 | 38 | 2026-06-21T1700-prologis.md | PLD | US | reits | industrial REIT priced for permanent e-commerce demand as vacancy rises and rent spreads decelerate | done |
 | 39 | 2026-06-21T1730-ferrari.md | RACE | Italy (ADR) | luxury/autos | priced like a luxury-goods compounder (~50x) on capped volumes; EV transition; the order-book-as-moat | done |
 | 40 | 2026-06-21T1800-nucor.md | NUE | US | materials | steel priced as a secular grower at mid-cycle while tariff-protected prices + construction demand roll over | done |
-| 41 | 2026-06-22T0830-lockheed-martin.md | LMT | US | defense | F-35 concentration + classified program charges vs a defense-budget plateau; priced as a safe compounder | pending |
-| 42 | 2026-06-22T0900-workday.md | WDAY | US | software | HCM/financials SaaS decelerating to ~15% as the seat model faces AI-agent disruption; priced on re-accel | pending |
-| 43 | 2026-06-22T0930-toronto-dominion.md | TD | Canada (ADR) | financials | the US money-laundering settlement asset-cap throttling its growth engine; balance-sheet repositioning drag | pending |
-| 44 | 2026-06-22T1000-okta.md | OKTA | US | software | identity-security growth halved post-breach; Microsoft Entra bundling; demonstration-vs-deployment | pending |
-| 45 | 2026-06-22T1030-national-grid.md | NGG | UK (ADR) | utilities | the surprise rights-issue dilution + a rate-regulated capex-heavy balance sheet; priced as a safe yield | pending |
-| 46 | 2026-06-22T1100-take-two.md | TTWO | US | media | the whole equity is a GTA VI release bet; perpetual GAAP losses + bookings-vs-revenue deferral; delay risk | pending |
+| 41 | 2026-06-22T0830-lockheed-martin.md | LMT | US | defense | F-35 concentration + classified program charges vs a defense-budget plateau; priced as a safe compounder | done |
+| 42 | 2026-06-22T0900-workday.md | WDAY | US | software | HCM/financials SaaS decelerating to ~15% as the seat model faces AI-agent disruption; priced on re-accel | done |
+| 43 | 2026-06-22T0930-toronto-dominion.md | TD | Canada (ADR) | financials | the US money-laundering settlement asset-cap throttling its growth engine; balance-sheet repositioning drag | done |
+| 44 | 2026-06-22T1000-okta.md | OKTA | US | software | identity-security growth halved post-breach; Microsoft Entra bundling; demonstration-vs-deployment | done |
+| 45 | 2026-06-22T1030-national-grid.md | NGG | UK (ADR) | utilities | the surprise rights-issue dilution + a rate-regulated capex-heavy balance sheet; priced as a safe yield | done |
+| 46 | 2026-06-22T1100-take-two.md | TTWO | US | media | the whole equity is a GTA VI release bet; perpetual GAAP losses + bookings-vs-revenue deferral; delay risk | done |
