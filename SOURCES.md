@@ -8,6 +8,179 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: Deckers / Hoka deceleration, two-brand concentration, framework reset (article: "Deckers' Hoka cools to 15% as a two-brand empire prices in perfection" — 2026-06-17T1300-deckers.md) [footwear]
+
+- [Deckers IR — Q4 & Full FY2026 results](https://ir.deckers.com/news-events/press-releases/detail/656/deckers-brands-reports-fourth-quarter-and-full-fiscal-year-2026-financial-results)
+- [SEC 8-K FY2026 press release exhibit](https://www.sec.gov/Archives/edgar/data/0000910521/000091052126000007/deckex991pressrelease-3312.htm)
+- [Yahoo Finance — Deckers Q4 FY2026 earnings beat](https://finance.yahoo.com/markets/stocks/articles/deckers-q4-fy2026-earnings-beat-115952122.html)
+- [just-style — Hoka, Ugg push Deckers to record $5.47bn FY26 net sales](https://www.just-style.com/news/deckers-brands-fy26-result/)
+- [TIKR — Deckers closes record Q4 FY2026, Hoka largest quarter ever](https://www.tikr.com/blog/deckers-outdoor-stock-closes-a-record-q4-2026-fiscal-year-with-hoka-at-its-largest-quarter-ever)
+- [BigGo Finance — DECK charts path to 2030, low-double-digit EPS growth](https://finance.biggo.com/news/US_DECK_2026-05-21)
+- [Investing.com — Deckers earnings: can Hoka sustain growth momentum?](https://www.investing.com/news/earnings/deckers-earnings-on-deck-can-hoka-sustain-growth-momentum-93CH-4704306)
+- [StockTitan — Record FY2026 results and $5B buyback](https://www.stocktitan.net/sec-filings/DECK/8-k-deckers-outdoor-corp-reports-material-event-821b8fb3ec1b.html)
+- [Simply Wall St — Deckers Outdoor stock analysis](https://simplywall.st/stocks/us/consumer-durables/nyse-deck/deckers-outdoor)
+
+Fact-check: FY2026 net sales $5.47B (+10%); Hoka $2.59B (+16%), Q4 Hoka $671M (+15%, largest quarter ever); Ugg $2.74B (+8%); Hoka+Ugg ≈97% of total; FY2026 diluted EPS $7.02 (+11%); operating margin >23%; FY2027 guide revenue $5.86–5.91B, EPS $7.30–7.45, gross margin ~56.5% (down YoY); $120M tariffs (10% rate assumed, no refund); through-2030 framework = high-single-digit revenue CAGR; June quarter Hoka guided high-single-digit on wholesale timing; stock ~$110 / ~15x fwd; Raymond James downgrade; $5B buyback. No corrections required; percentages rounded within defensible ranges.
+
+---
+
+## Topic: Williams-Sonoma / housing-cycle earnings priced as secular (article: "Williams-Sonoma trades at 25 times earnings on a housing market that won't move" — 2026-06-17T1230-williams-sonoma.md) [retail]
+
+- [Business Wire — WSM Q1 2026 results (May 21, 2026)](https://www.businesswire.com/news/home/20260521844129/en/Williams-Sonoma-Inc.-announces-strong-first-quarter-2026-results)
+- [SEC 8-K Exhibit 99.1 — FY2026 Q1 earnings](https://www.sec.gov/Archives/edgar/data/0000719955/000071995526000126/exhibit991fy2026q1earnings.htm)
+- [StockTitan — WSM 8-K Q1 2026 comps 4.8% reaffirms outlook](https://www.stocktitan.net/sec-filings/WSM/8-k-williams-sonoma-inc-reports-material-event-3b02a4a7224c.html)
+- [WSM FY2026 Q1 Earnings Release PDF (IR)](https://s24.q4cdn.com/161876561/files/doc_financials/2026/q1/WSM-FY-2026-Q1-Earnings-Release.pdf)
+- [Motley Fool — WSM Q1 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/21/williams-sonoma-wsm-q1-2026-earnings-transcript/)
+- [Stock Analysis — WSM statistics & valuation](https://stockanalysis.com/stocks/wsm/statistics/)
+- [Fortune — housing market frozen for 3 years](https://fortune.com/2026/04/08/housing-market-frozen-spring-thaw-mortgage-rates-inventory/)
+- [TradingEconomics — US existing home sales](https://tradingeconomics.com/united-states/existing-home-sales/news/532323)
+- [PRNewswire — Consumer Edge: big-ticket home purchases stalled, rotation to décor](https://www.prnewswire.com/news-releases/consumer-edge-reports-big-ticket-home-purchases-stalled-in-2025-as-consumers-shift-spending-toward-repairs-upkeep-and-smaller-ticket-decor-and-kitchen-products-302689823.html)
+- [Interior Daily — US furniture market opens 2026 flat with rising cost pressure](https://www.interiordaily.com/article/9833448/us-furniture-market-opens-2026-with-flat-demand-and-rising-cost-pressure/)
+
+Fact-check: Q1 FY2026 (reported May 21, 2026) total net revenue $1.81B; comparable brand revenue +4.8% (West Elm +8.5%, Williams Sonoma +5.0%, PB Kids & Teen +4.5%, Pottery Barn +1.0%, B2B +13.7%); gross margin 44.0% (-30 bps YoY); operating margin 16.2% (-60 bps); diluted EPS $1.93; capital return $373M ($288M buyback + $85M dividends); FY guide comp +2% to +6%, operating margin 17.5%–18.1% (reaffirmed); tariffs front-loaded H1, peak Q2; stock ~$227, ~25x trailing; existing-home sales ~4.1M vs ~5M norm, lock-in suppressing ~870k sales, furniture/bedding spend ~+1.9% 2026. No material corrections; an early "39%" gross-margin probe corrected to verified 44.0%.
+
+---
+
+## Topic: Lululemon / 4% growth masks 37% profit collapse, Americas stall (article: "Lululemon Grows Revenue 4% While Profit Collapses 37% and the Americas Bleed" — 2026-06-17T1200-lululemon.md) [apparel]
+
+- [SEC Form 8-K — lululemon Q1 FY2026 exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000077/lulu-20260503xex991.htm)
+- [lululemon corporate — Q1 Fiscal 2026 results press release](https://corporate.lululemon.com/media/press-releases/2026/06-04-2026-210523775)
+- [CNBC — Lululemon (LULU) earnings Q1 2026](https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html)
+- [StockTitan — lululemon Q1 2026 earnings, sees 2026 sales dip](https://www.stocktitan.net/news/LULU/lululemon-athletica-inc-announces-first-quarter-fiscal-2026-id9b04tl6iim.html)
+- [SGI Europe — Q1: Lululemon's 4% growth hides a 37% profit collapse](https://www.sgieurope.com/financial-results/q1-lululemons-4-growth-hides-a-37-profit-collapse/121480.article)
+- [Investing.com — earnings call transcript, Lululemon Q1 2026](https://www.investing.com/news/transcripts/earnings-call-transcript-lululemon-q1-2026-sees-revenue-rise-stock-gains-93CH-4727636)
+- [TheStreet — Lululemon Q1 2026 live blog (41% YTD skid)](https://www.thestreet.com/latest-news/lulu-lululemon-earnings-call-updates-q1-2026)
+- [Yahoo Finance — Lululemon Q1 profit falls despite 4% revenue growth](https://finance.yahoo.com/markets/stocks/articles/lululemon-q1-profit-falls-despite-090752488.html)
+- [The Motley Fool — LULU Q1 2026 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/06/04/lululemon-lulu-q1-2026-earnings-transcript/)
+
+Fact-check: Q1 FY2026 (quarter ended May 3, 2026; reported June 4, 2026) net revenue ~$2.47B (+4%, +2% cc); income from operations $276.9M (-37%); operating margin 11.2% (-730 bps); net income $195M (vs $314.6M); diluted EPS $1.69 (vs $2.60); gross margin 54.2% (-410 bps; tariffs ~280 bps, markdowns ~40 bps); comps +1% reported / -2% cc; Americas rev ~-3% to ~$1.6B, comps -5% to -6%, fifth straight decline; China +30% to $478.4M; inventory $1.7B (+2% dollars, -4% units); FY guide $11.0–11.15B (flat to -1%), EPS $10.95–11.15 (cut from ~$14); interim CEO "negative commentary on social channels" quote; stock down ~40%+ YTD. Corrections: prior-year net income harmonized to $314.6M; comp sentence clarified to both bases.
+
+---
+
+## Topic: Guardant Health / TAM-priced screening franchise vs widening losses (article: "Guardant Health races to $1.3B in revenue while losses keep widening past $110M a quarter" — 2026-06-17T1130-guardant.md) [diagnostics]
+
+- [Investing.com — Guardant Q1 2026 slides: revenue soars 48% on Shield momentum](https://www.investing.com/news/company-news/guardant-health-q1-2026-slides-revenue-soars-48-on-shield-momentum-93CH-4670904)
+- [Investing.com — Earnings call transcript: Guardant Q1 2026 revenue soars, EPS misses](https://www.investing.com/news/transcripts/earnings-call-transcript-guardant-health-q1-2026-revenue-soars-eps-misses-93CH-4670816)
+- [SEC — Guardant Health Form 8-K exhibit 99.1 (FY2026 Q1)](https://www.sec.gov/Archives/edgar/data/0001576280/000157628026000024/gh-03312026xexhibit991.htm)
+- [StockTitan — Guardant Health 10-Q: $302M revenue, losses, legal battles](https://www.stocktitan.net/sec-filings/GH/10-q-guardant-health-inc-quarterly-earnings-report-9f7996da00bd.html)
+- [Barchart — Guardant Health Q1 Earnings Call Highlights](https://www.barchart.com/story/news/1821226/guardant-health-q1-earnings-call-highlights)
+- [minichart — Guardant Q1 2026 financial results and analysis](https://www.minichart.com.sg/2026/05/08/guardant-health-inc-q1-2026-financial-results-and-analysis-revenue-expenses-and-comprehensive-loss-overview/)
+- [Guardant Health IR — Q4 and full-year 2025 results and 2026 outlook](https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-2026-Outlook/default.aspx)
+- [Kavout — What drove Guardant's Q4 2025 performance and 2026 outlook](https://www.kavout.com/market-lens/what-drove-guardant-health-s-q4-2025-performance-and-2026-outlook)
+- [MedTech Dive — Guardant wins FDA approval for colon cancer blood test](https://www.medtechdive.com/news/guardant-fda-approval-Shield-colon-cancer-blood-test/722665/)
+- [NCI — Shield blood test approved for colorectal cancer screening](https://www.cancer.gov/news-events/cancer-currents-blog/2024/shield-blood-test-colorectal-cancer-screening)
+- [PMC/NEJM — A blood-based test for colorectal cancer screening (Eclipse)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12795244/)
+- [Seeking Alpha — Guardant Q1 2026 earnings call presentation](https://seekingalpha.com/article/4900970-guardant-health-inc-2026-q1-results-earnings-call-presentation)
+
+Fact-check: Q1 2026 (reported May 7–8, 2026) total revenue $302M (+48%); oncology $205M (+36%, ~86k tests); biopharma & data $53M (+17%); screening $41.6M (from $5.7M, >600%; Shield ~44k tests vs ~9k); net loss WIDENED to $112.1M (from $95.2M), loss/share $0.85; Q1 FCF burn $71M; FY2025 FCF burn $233M (from $275M); FY2026 guide $1.30–1.32B revenue, screening $162–174M from 210–225k tests; late-2025 raise $327.3M offering + $402.5M converts (>$700M); Shield Medicare rate $1,495; Eclipse CRC sensitivity 83.1% / advanced-adenoma 13.2%; Cologuard Plus CRC ~93.9% / APL ~43.4%; Abbott developing blood-based CRC test. Corrections: Medicare rate $1,495 (not $920); no unsourced "ADT loophole" framing used.
+
+---
+
+## Topic: Tempus AI / AI-named diagnostics lab, widening GAAP losses, short-seller allegations (article: "Tempus AI grows revenue 36% to $348M yet GAAP losses widen to $126M" — 2026-06-17T1100-tempus.md) [healthcare]
+
+- [Tempus — First Quarter 2026 Results (IR press release)](https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/)
+- [Tempus Q1 2026 Results (Businesswire)](https://www.businesswire.com/news/home/20260505411869/en/Tempus-Reports-First-Quarter-2026-Results)
+- [Tempus AI Form 10-Q (SEC, period 2026-03-31)](https://www.sec.gov/Archives/edgar/data/0001717115/000119312526206356/tem-20260331.htm)
+- [StockTitan — TEM 10-Q $125,919K net loss](https://www.stocktitan.net/sec-filings/TEM/10-q-tempus-ai-inc-quarterly-earnings-report-43548d43c1b6.html)
+- [StockTitan — TEM 8-K 36% growth, raised outlook](https://www.stocktitan.net/sec-filings/TEM/8-k-tempus-ai-inc-reports-material-event-f6eead96b7bf.html)
+- [MarketBeat — Tempus AI Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/tempus-ai-q1-earnings-call-highlights-2026-05-05/)
+- [Investing.com — Tempus AI Q1 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-tempus-ai-sees-robust-revenue-growth-despite-eps-miss-in-q1-2026-93CH-4661152)
+- [Seeking Alpha — Tempus targets $1.59B-$1.6B revenue, ~$65M adj EBITDA, Merck](https://seekingalpha.com/news/4586528-tempus-ai-targets-1_59b-1_6b-revenue-and-about-65m-adjusted-ebitda-in-2026-backed-by-merck)
+- [Businesswire — Spruce Point Strong Sell opinion on TEM (May 2025)](https://www.businesswire.com/news/home/20250528603657/en/Spruce-Point-Capital-Management-Announces-Investment-Opinion-Releases-Report-and-Strong-Sell-Research-Opinion-on-Tempus-AI-Inc.-Nasdaq-TEM)
+- [Yahoo Finance — Tempus AI recovers 15% as Wall Street downplays Spruce Point](https://finance.yahoo.com/news/tempus-ai-recovers-15-wall-201715083.html)
+- [Tempus — Third Quarter 2025 Results (Ambry contribution)](https://www.tempus.com/news/tempus-reports-third-quarter-2025-results/)
+
+Fact-check: Q1 2026 (reported May 5, 2026) revenue $348.1M (+~36%); GAAP net loss $125.9M (vs $68.0M, ~85% wider); SBC + related payroll $56.3M; unrealized securities losses $32.3M; Diagnostics $261.1M (+34.7%); Data & Applications $87.0M (+40.5%, Insights +44.1%); FY2026 guide $1.59–1.60B, ~$65M adjusted EBITDA; Ambry Genetics closed Feb 3, 2025 ($375M cash + ~4.8M shares; FY2025 consolidated ~$1.24B / ~79% growth); cash ~$764M; stock ~$55–56 after print. Spruce Point's claims (2024 AI revenue ~$12.4M of ~$693.4M; Pathos AI ~$200M TCV related-party; 50–60% downside; Lefkofsky/Groupon governance) explicitly LABELED as allegations Tempus disputes, not adjudicated facts.
+
+---
+
+## Topic: Instacart / advertising profit engine masks thin delivery economics (article: "Instacart's first $1B quarter ran on ads, not delivery — and the engine is cooling" — 2026-06-17T1030-instacart.md) [e-commerce]
+
+- [Instacart Announces First Quarter 2026 Financial Results — IR](https://investors.instacart.com/news-releases/news-release-details/instacart-announces-first-quarter-2026-financial-results)
+- [Maplebear Inc. Form 8-K / Q1 2026 press release — SEC](https://www.sec.gov/Archives/edgar/data/1579091/000157909126000032/q12026pressrelease.htm)
+- [Instacart Q1 2026 Earnings Transcript — The Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/07/instacart-cart-q1-2026-earnings-transcript/)
+- [Instacart Q1 2026 slides: revenue tops $1B — Investing.com](https://www.investing.com/news/company-news/instacart-q1-2026-slides-revenue-tops-1b-enterprise-gains-momentum-93CH-4664386)
+- [Instacart Reports Record Q1 With $10B GTV, $1B Revenue — Progressive Grocer](https://progressivegrocer.com/instacart-reports-record-q1-10b-gtv-1b-revenue-1st-time)
+- [Instacart (NASDAQ: CART) posts Q1 growth, expands $3.5B buyback — StockTitan](https://www.stocktitan.net/sec-filings/CART/8-k-maplebear-inc-reports-material-event-73558bbfd058.html)
+- [Instacart Stock Falls 8% After Q1 Earnings — TIKR](https://www.tikr.com/blog/instacart-stock-falls-8-after-q1-earnings-is-the-selloff-overdone)
+
+Fact-check: Q1 2026 (reported May 6, 2026) GTV $10.29B (+13%); total revenue $1.02B (+14%, first over $1B); transaction revenue $733M (+13%, 7.1% of GTV); advertising & other $286M (+16%, fastest since Q3 2023, 2.8% of GTV); GAAP net income $144M (+36%); adjusted EBITDA $300M (+23%); orders 91.2M (+10%); AOV $113 (+3%); OCF $268M / FCF $253M; buyback raised $1B to $3.5B total; Q2 guide GTV +11–13%, advertising +11–14%, adj. EBITDA $290–300M; stock fell ~8% post-print. No corrections required; the ~$156M adjusted-vs-GAAP wedge is arithmetic from confirmed figures.
+
+---
+
+## Topic: Upstart / cyclical lending priced as software, AI-model fraud suit (article: "Upstart's revenue jumped 44% in Q1 while its GAAP loss widened and its AI model faces a fraud suit" — 2026-06-17T1000-upstart.md) [fintech]
+
+- [Upstart IR — First Quarter 2026 Results](https://ir.upstart.com/news-releases/news-release-details/upstart-announces-first-quarter-2026-results)
+- [SEC 8-K — Upstart Q1 2026 press release exhibit](https://www.sec.gov/Archives/edgar/data/0001647639/000164763926000045/upst991prq12026.htm)
+- [SEC 10-Q — Upstart FY2026 Q1](https://www.sec.gov/Archives/edgar/data/0001647639/000164763926000046/upst-20260331.htm)
+- [StockTitan — Upstart Q1 revenue rises 44% as originations jump 61%](https://www.stocktitan.net/news/UPST/upstart-announces-first-quarter-2026-tt6aqny7vecq.html)
+- [Investing.com — Upstart Q1 2026 slides: 44% revenue growth amid margin pressure](https://www.investing.com/news/company-news/upstart-q1-2026-slides-44-revenue-growth-amid-margin-pressure-93CH-4661496)
+- [Motley Fool — Upstart (UPST) Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/05/upstart-upst-q1-2026-earnings-transcript/)
+- [PR Newswire — Pomerantz files class action against Upstart Holdings (UPST)](https://www.prnewswire.com/news-releases/pomerantz-law-firm-announces-the-filing-of-a-class-action-against-upstart-holdings-inc-and-certain-officers--upst-302789574.html)
+- [BusinessWire — Levi & Korsinsky UPST investor alert (alleged misleading AI growth statements)](https://www.businesswire.com/news/home/20260512552300/en/UPST-Investor-Alert-Upstart-Holdings-Securities-Fraud-Lawsuit---Investors-With-Losses-May-Seek-to-Lead-the-Class-Action-After-Company-Allegedly-Misled-on-AI-Growth-Levi-Korsinsky)
+- [TIKR — Upstart stock down 44% in 2026; analyst $45 fair value](https://www.tikr.com/blog/upstart-stock-is-down-44-in-2026-heres-why-analysts-still-sees-45-fair-value)
+- [Stockanalysis.com — UPST overview / market cap](https://stockanalysis.com/stocks/upst/)
+
+Fact-check: Q1 2026 (reported May 5, 2026) total revenue $308M (+44%, beat ~$303M); fee revenue $277M (+49%); originations ~$3.4B (+61%), 425,356 loans (+77%); GAAP net loss $6.6M (vs $2.4M); contribution margin 50% (from 55%); adjusted EBITDA $40.5M (from $42.6M), margin 13% (from 20%); SBC ~$29.8M; on-balance-sheet loans ~$1.0B (~6.2% of ~$16.4B powered); FY2026 guide ~$1.4B revenue, ~$294M adj. EBITDA; market cap ~$2.9B; trailing P/E low-50s to >60x vs high-single-digit industry. Securities class action (Pomerantz, Levi & Korsinsky, Gross) over "Model 22" (class period ~May 14–Nov 4, 2025) explicitly LABELED as allegations, not adjudicated. No corrections required.
+
+---
+
+## Topic: Roku / first GAAP profit dwarfed by stock comp, hardware loss-leader, CTV competition (article: "Roku finally turned a GAAP profit — but stock comp still dwarfs it, and the boxes still sell at a loss" — 2026-06-17T0930-roku.md) [streaming]
+
+- [Roku 8-K — Q1 FY2026 Exhibit 99.1 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001428439/000162828026028851/a04fy2026q1exhibit991.htm)
+- [Roku 8-K — Q4/FY2025 Exhibit 99.1 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001428439/000162828026007670/a04exhibit991-q425form8xker.htm)
+- [Roku 1Q26 Shareholder Letter (PDF)](https://image.roku.com/bWFya2V0aW5n/1Q26-Shareholder-Letter.pdf)
+- [Roku 4Q25 Shareholder Letter (PDF)](https://image.roku.com/bWFya2V0aW5n/4Q25-Shareholder-Letter.pdf)
+- [Variety — Roku Q1 2026 Earnings: Sales Up 22%](https://variety.com/2026/tv/news/roku-q1-2026-earnings-1236734538/)
+- [Yahoo Finance / Zacks — ROKU Shares Rise 6% on Q1 Earnings Beat](https://finance.yahoo.com/markets/stocks/articles/roku-shares-rise-6-q1-151400825.html)
+- [StockTitan — Roku Q1 2026 10-Q quarterly report](https://www.stocktitan.net/sec-filings/ROKU/10-q-roku-inc-quarterly-earnings-report-05c5a40d6823.html)
+- [The Motley Fool — Roku (ROKU) Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/01/roku-roku-q1-2026-earnings-transcript/)
+- [TIKR — Roku Just Crossed 100M Households and Turned a Profit](https://www.tikr.com/blog/roku-just-crossed-100-million-households-and-turned-a-profit-here-is-what-the-platform-is-actually-worth)
+- [Trefis — With Roku Stock Near Highs (platform power vs hardware headaches)](https://www.trefis.com/stock/roku/articles/602897/with-roku-stock-near-highs-is-its-platform-power-worth-the-hardware-headaches/2026-06-15)
+- [Cord Cutters News — Roku TV/player revenue now under 10% of total](https://cordcuttersnews.com/rokus-revenue-from-the-sale-of-roku-tvs-roku-players-is-now-less-than-10-of-its-total-revenue-helping-to-explain-what-drives-its-changes/)
+- [SignalBloom — Roku achieves full-year GAAP profitability and record cash flow](https://www.signalbloom.ai/news/ROKU/roku-crushes-q4-profit-estimates-achieves-full-year-gaap-profitability-and-record-cash-flow)
+
+Fact-check: FY2025 GAAP net income $88.4M (vs $129M loss in 2024) on revenue $4.74B (+15%); Q1 2026 (reported Apr 30, 2026) revenue $1.248B (+22%); net income $85.7M (vs $27.4M loss); adjusted EBITDA $148.4M (+165%); platform revenue $1.13B (+28%), advertising $613M (+27%), subscriptions $519M (+30%); streaming hours 38.7B (+8%); 100M streaming households; devices revenue $117.6M (-15.9%), gross margin -16.3%; FY2026 guide revenue $5.5B, net income $325M, adj. EBITDA $635M; EPS $0.57 (beat $0.34). FY2025 SBC reported $354.2M by one source (~$410M by another); article anchors the smaller figure and frames SBC as "roughly four times" net income (holds under both). No invented numbers.
+
+---
+
+## Topic: Pinterest / 18% growth into a GAAP loss, low-ARPU user growth, rented ad demand (article: "Pinterest Grew Revenue 18% and Still Slid Into a GAAP Loss as 367 Million Users Pay 20 Cents" — 2026-06-17T0900-pinterest.md) [social]
+
+- [Businesswire — Pinterest Q1 2026 Results (18% growth, ~$2B repurchases)](https://www.businesswire.com/news/home/20260504431866/en/Pinterest-Announces-First-Quarter-2026-Results-Delivers-18-Revenue-Growth-Record-Users-and-Approximately-$2-Billion-of-Share-Repurchases)
+- [SEC — Pinterest Form 8-K Q1 2026 press release](https://www.sec.gov/Archives/edgar/data/0001506293/000150629326000066/q1-26xpressrelease.htm)
+- [Investing.com — Q1 2026 slides: revenue beats amid margin pressure](https://www.investing.com/news/company-news/pinterest-q1-2026-slides-revenue-beats-amid-margin-pressure-concerns-93CH-4657600)
+- [ALM Corp — Q1 2026: $1.008B revenue, 631M users, AI ads](https://almcorp.com/blog/pinterest-q1-2026-results-revenue-users-ai-ads/)
+- [Grafa — Pinterest Q1 2026 revenue hits $1.01B](https://grafa.com/en/news/united-states/pinterest-q1-2026-earnings-user-growth)
+- [Motley Fool — PINS Q1 2026 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/05/04/pinterest-pins-q1-2026-earnings-call-transcript/)
+- [Simply Wall St — Q1 2026 Net Margin Collapse Tests Bullish Narrative](https://simplywall.st/stocks/us/media/nyse-pins/pinterest/news/pinterest-q1-2026-net-margin-collapse-tests-bullish-earnings)
+- [Performance Marketing World — Amazon becomes Pinterest's first third-party ad partner](https://www.performancemarketingworld.com/article/1821694/amazon-becomes-pinterests-first-ever-third-party-ad-partner)
+- [Nasdaq — Pinterest secures $1B Elliott investment, authorizes $3.5B buyback](https://www.nasdaq.com/articles/pinterest-secures-1-bln-elliott-investment-authorizes-35-bln-buyback-program)
+- [TIKR — Pinterest lost half its value: can a $3.5B buyback change the math?](https://www.tikr.com/blog/pinterest-stock-has-lost-half-its-value-in-a-year-can-a-3-5-billion-buyback-change-the-math)
+- [stockanalysis.com — PINS statistics & valuation](https://stockanalysis.com/stocks/pins/statistics/)
+
+Fact-check: Q1 2026 (reported May 4, 2026) revenue $1.008B (+18%, +15% cc); GAAP net loss $73.6M; SBC $231.4M (~23% of revenue); restructuring ~$47.1M; adjusted EBITDA $207M (~20% margin); global MAU 631M (+11%) — US&Canada 106M (+4%), Europe 159M (+7%), Rest of World 367M (+15%); ARPU global $1.61, US&Canada $7.12, Europe $1.17, Rest of World $0.20; Q2 guide $1.13–1.15B; ~$2B repurchases in Q1; $3.5B buyback (March 2, 2026); $1B accelerated repurchase funded from Elliott's $1B; Amazon = first third-party ad partner, Google live ~weeks before close; market cap ~$12.3B, forward P/E ~12. Point-in-time valuation softened to "~"; no invented figures.
+
+---
+
+## Topic: Snap / 3% ad growth vs Meta's 33%, other-revenue prop, eight years no GAAP profit (article: "Snap's ad engine grew 3% while Meta's grew 33%, and the gap is the whole story" — 2026-06-17T0830-snap.md) [social]
+
+- [Snap Inc 8-K press release (SEC, 2026-05-06)](https://www.sec.gov/Archives/edgar/data/0001564408/000156440826000024/snap-20260506xexx991pressr.htm)
+- [Snap Inc Q1 2026 investor letter (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001564408/000156440826000024/snapincq12026investorlet.htm)
+- [Snap Inc IR — First Quarter 2026 Financial Results](https://investor.snap.com/news/news-details/2026/Snap-Inc--Announces-First-Quarter-2026-Financial-Results/default.aspx)
+- [StockTitan — Snap Q1 2026 10-Q: revenue up 12%](https://www.stocktitan.net/sec-filings/SNAP/10-q-snap-inc-quarterly-earnings-report-91a8b5b0d29b.html)
+- [StockTitan — Snap Q1 2026 8-K: growth, cash flow, cost cuts](https://www.stocktitan.net/sec-filings/SNAP/8-k-snap-inc-reports-material-event-5b7c67055812.html)
+- [CNBC — Snap issues cautious guidance as Perplexity deal ends](https://www.cnbc.com/2026/05/06/snap-q1-earnings-report-2026.html)
+- [Yahoo Finance — SNAP Q1 Revenues Climb, Adjusted EBITDA More Than Doubles](https://finance.yahoo.com/markets/stocks/articles/snaps-q1-revenues-climb-y-152000100.html)
+- [PPC Land — Snap Q1 2026: revenue up 12% as AI ad tools drive conversion gains](https://ppc.land/snap-q1-2026-revenue-up-12-to-1-53b-as-ai-ad-tools-drive-conversion-gains/)
+- [TIKR — Meta Platforms Q1 2026: 33% revenue growth](https://www.tikr.com/blog/meta-platforms-q1-2026-33-revenue-growth-as-ai-investment-hits-145b)
+- [TheNextWeb — Snap Q1 2026: Iran war ad costs, Perplexity deal ends, 16% workforce cut](https://thenextweb.com/news/snap-q1-2026-iran-war-advertising-perplexity-specs)
+- [Qz — Snap cutting 16% of workforce to focus on AR glasses](https://qz.com/snap-layoffs-workforce-ar-glasses-specs-041526)
+- [Investing.com — Snap plunges after unveiling $2,195 AR glasses](https://www.investing.com/news/stock-market-news/tech-faceplant-snap-plunges-96-after-unveiling-bulky-2195-ar-glasses-4747220)
+
+Fact-check: Q1 2026 (reported May 6, 2026) total revenue $1,529M (+12%); advertising revenue +3% to ~$1.24B; other revenue +87% to $285M; net loss $89M (from $140M); adjusted EBITDA $233M (more than doubled); OCF $327M / FCF $286M; DAU 483M (+5%), MAU 956M, global ARPU $3.17, North America ARPU $9.23; SBC + related payroll $263M (FY2026 SBC guided ~$1.05B); Meta family-of-apps ad revenue ~$55B (+33%); Perplexity deal (reported up to $400M) ended, Q2 assumes zero contribution; Q2 guide revenue $1.52–1.55B; ~16% workforce cut (~1,000), $500M+ annual savings; Specs AR glasses $2,195; ~$20–25M/month Middle East ad drag (labeled estimate); IPO March 2017, no full-year GAAP profit since. No corrections required.
+
+---
+
 ## Topic: MongoDB / GAAP profit propped by stock-based comp (article: "MongoDB reaccelerates to 25% growth, but its $4.4M GAAP profit rests on a $493M stock subsidy" — 2026-06-16T1300-mongodb.md) [software]
 
 - [MongoDB Q1 FY27 results — PRNewswire 8-K release](https://www.prnewswire.com/news-releases/mongodb-inc-announces-first-quarter-fiscal-2027-financial-results-302784757.html)

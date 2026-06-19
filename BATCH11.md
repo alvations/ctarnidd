@@ -54,16 +54,16 @@ ONE line, one clause, concrete (name+number+stance), ~8-14 words. NOT two senten
 - `bash scripts/ctarnidd_next.sh` → first pending row (newest active BATCH*.md) or `ALL DONE`.
 | 29 | done | 2026-06-16T1230-datadog.md | Datadog (DDOG) — first $1B quarter (+32%) but a 1% GAAP margin under the 22% non-GAAP headline, the gap almost all $197M of SBC [software] |
 | 30 | done | 2026-06-16T1300-mongodb.md | MongoDB (MDB) — reaccelerates to 25% but its first $4.4M GAAP profit rests on a $493M annual SBC add-back and cyclical Atlas consumption [software] |
-| 31 | pending | TBD-snap.md           | Snap (SNAP) — perennial losses + a stalled ad business [social] |
-| 32 | pending | TBD-pinterest.md      | Pinterest (PINS) — shopping pivot vs ad-pricing reality [social] |
-| 33 | pending | TBD-roku.md           | Roku (ROKU) — streaming reach vs unprofitable platform economics [streaming] |
-| 34 | pending | TBD-upstart.md        | Upstart (UPST) — AI lending that the credit cycle keeps testing [fintech] |
-| 35 | pending | TBD-instacart.md      | Instacart (CART) — grocery delivery whose profit is really advertising [e-commerce] |
-| 36 | pending | TBD-tempus.md         | Tempus AI (TEM) — AI-diagnostics hype vs persistent losses [healthcare] |
-| 37 | pending | TBD-guardant.md       | Guardant Health (GH) — liquid-biopsy growth vs heavy losses [diagnostics] |
-| 38 | pending | TBD-lululemon.md      | Lululemon (LULU) — US saturation + competition slowing the compounder [apparel] |
-| 39 | pending | TBD-williams-sonoma.md | Williams-Sonoma (WSM) — home retail margins vs the housing freeze [retail] |
-| 40 | pending | TBD-deckers.md        | Deckers (DECK) — Hoka hypergrowth decelerating; fashion-cycle risk [footwear] |
+| 31 | done | 2026-06-17T0830-snap.md           | Snap (SNAP) — ad revenue grew just 3% vs Meta's 33%; "other revenue" +87% props the 12% headline; no full-year GAAP profit in 8 years public [social] |
+| 32 | done | 2026-06-17T0900-pinterest.md      | Pinterest (PINS) — 18% revenue growth slid to a $73.6M GAAP loss; new users are $0.20-ARPU Rest-of-World; ad demand rented from Amazon + Google [social] |
+| 33 | done | 2026-06-17T0930-roku.md           | Roku (ROKU) — first GAAP profit ($88.4M FY25) but $354M SBC dwarfs it ~4x; devices gross margin -16.3%; CTV ad core attacked by Amazon/Google/Netflix [streaming] |
+| 34 | done | 2026-06-17T1000-upstart.md        | Upstart (UPST) — revenue +44% / originations +61% yet GAAP loss widened, adj-EBITDA margin 20%→13%; "Model 22" AI faces a securities class action [fintech] |
+| 35 | done | 2026-06-17T1030-instacart.md      | Instacart (CART) — first $1B quarter but profit rides a $286M ad engine, not a flat ~7.1% delivery take; ad + GTV growth guided to decelerate [e-commerce] |
+| 36 | done | 2026-06-17T1100-tempus.md         | Tempus AI (TEM) — revenue +36% to $348M but GAAP loss widened to $125.9M; $56.3M SBC + Ambry-bought growth; Spruce Point AI/related-party allegations [healthcare] |
+| 37 | done | 2026-06-17T1130-guardant.md       | Guardant Health (GH) — revenue +48%, Shield +600%, yet net loss widened to $112M; funded by $700M+ raises; priced for a TAM, judged by a P&L [diagnostics] |
+| 38 | done | 2026-06-17T1200-lululemon.md      | Lululemon (LULU) — 4% revenue growth hides a 37% profit collapse; Americas comps negative 5 straight quarters; China carries it; guidance cut twice [apparel] |
+| 39 | done | 2026-06-17T1230-williams-sonoma.md | Williams-Sonoma (WSM) — best-in-class margins at ~25x earnings on a frozen housing market; 4.8% comp is share-gain, West Elm masks Pottery Barn +1.0% [retail] |
+| 40 | done | 2026-06-17T1300-deckers.md        | Deckers (DECK) — Hoka cooled to 15%; two brands ~97% of revenue; through-2030 framework resets to high-single-digit CAGR; gross margin guided down [footwear] |
 | 41 | pending | TBD-dollar-general.md | Dollar General (DG) — the low-income consumer's store under margin pressure [retail] |
 | 42 | pending | TBD-dollar-tree.md    | Dollar Tree (DLTR) — the broken price-point + Family Dollar drag [retail] |
 | 43 | pending | TBD-floor-decor.md    | Floor & Decor (FND) — unit growth priced for a housing recovery that hasn't come [retail] |
