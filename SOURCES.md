@@ -8,6 +8,171 @@ Legend: ✅ used in final article · 📎 consulted/background · 🔒 paywalled
 
 ---
 
+## Topic: GM / record-EPS beat engineered by a 40%+ buyback-shrunk share count, a one-off tariff true-up and a favorable write-down base, on a cyclical ICE-truck cash engine (article: "General Motors' record EPS is engineered by a shrinking share count, not a growing business" — 2026-06-20T1800-general-motors.md) [autos]
+
+- [CNBC — GM raises 2026 guidance amid $500M tariff refund (Q1 2026)](https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html)
+- [TradingView — GM reports Q1 2026: $43.6B revenue, $2.6B net income, EBIT-adj $4.3B](https://www.tradingview.com/news/tradingview:75788817c1fe3:0-general-motors-reports-q1-2026-43-6b-revenue-2-6b-net-income-ebit-adjusted-4-3b/)
+- [TIKR — GM Q1 2026 Earnings: EPS Beats by 40% as EV Losses Shrink](https://www.tikr.com/blog/general-motors-q1-2026-earnings-eps-beats-by-40-as-ev-losses-shrink)
+- [StockTitan — GM Q1 2026 10-Q: EV restructuring costs and tariff windfall](https://www.stocktitan.net/sec-filings/GM/10-q-general-motors-co-quarterly-earnings-report-34b50c7ea029.html)
+- [Quartr — GM Q1 2026 earnings summary](https://quartr.com/events/general-motors-company-gm-q1-2026_3elajiKG)
+- [GM Investor Relations — Q1 2026 press release/highlights](https://investor.gm.com/static-files/ad646529-cae6-43b3-9502-848ba44f8ea9)
+- [GM Authority — GM Board Approves Another $6B Share Buyback In 2026](https://gmauthority.com/blog/2026/01/gm-board-approves-another-6b-share-repurchase-program-in-2026/)
+- [StockDividendScreener — GM share buyback history](https://stockdividendscreener.com/auto-manufacturers/general-motors-stock-buyback-history/)
+- [WardsAuto — GM expects to save $1B by shutting down Cruise robotaxi](https://www.wardsauto.com/news/archive-auto-general-motors-q4-2024-earnings/738427/)
+- [Smart Cities Dive — GM shuts troubled Cruise robotaxi unit](https://www.smartcitiesdive.com/news/general-motors-shuts-cruise-robotaxi-unit-mary-barra/735205/)
+- [Road to Autonomy — GM Pulls the Plug on Cruise](https://www.roadtoautonomy.com/gm-pulls-plug-cruise/)
+
+Fact-check: Q1 2026 (reported April 28, 2026): revenue $43.6B (down from $44.0B); net income to stockholders $2.6B; EBIT-adjusted $4.3B; GAAP EPS $2.82, adjusted EPS $3.70 (+33% YoY, >40% above ~$2.64 consensus); North America EBIT-adj ~$3.66–3.7B. Raised FY EBIT-adj guidance to $13.5–$15.5B and adjusted EPS to $11.50–$13.50, while LOWERING net-income-to-stockholders to $9.9–$11.4B. ~1.5-pt margin benefit (~$500M) from a one-off Supreme Court IEEPA tariff true-up; gross tariff costs still guided $2.5–$3.5B FY. $1.1B fresh EV restructuring charges in the quarter; prior-period ~$4B China-JV + ~$500M Cruise write-downs; >$10B sunk in Cruise since 2016. Share count cut from ~1.54B (2015) to ~0.90B (2025), 40%+; Q1 buyback $800M at ~$75; new $6B 2026 program. All figures confirmed vs CNBC, TradingView, TIKR, StockTitan, GM IR; no corrections required, soft figures expressed as ranges.
+
+---
+## Topic: Rio Tinto / diversified-transition narrative over an iron-ore price-taker whose cash flows depend on a structurally declining Chinese steel customer, with Simandou worsening its own oversupply (article: "Rio Tinto's $25 billion EBITDA still rides one rock — and China is letting go" — 2026-06-20T1730-rio-tinto.md) [materials]
+
+- [Rio Tinto FY2025 6-K press release (SEC)](https://www.sec.gov/Archives/edgar/data/0000863064/000162828026009503/ye25-pressreleasex19feb.htm)
+- [Rio Tinto Q4/FY2025 results (SEC 6-K)](https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000006/ex1_2025-q4results.htm)
+- [Rio Tinto — Strong operating performance underpins financial results (IR)](https://www.riotinto.com/en/news/releases/2025/rio-tinto-strong-operating-performance-underpins-financial-results)
+- [Investing.com — Rio Tinto FY2025 slides: record copper EBITDA drives 9% earnings growth](https://www.investing.com/news/company-news/rio-tinto-fy-2025-slides-record-copper-ebitda-drives-9-earnings-growth-93CH-4512868)
+- [Globe and Mail / TipRanks — Rio Tinto Posts Strong 2025 Earnings](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/329873/rio-tinto-posts-strong-2025-earnings-as-copper-iron-ore-and-cost-cuts-drive-growth/)
+- [Rio Tinto Arcadium acquisition complete (SEC 6-K)](https://www.sec.gov/Archives/edgar/data/0000863064/000162828025016021/ex04d06arcadiumcomplete.htm)
+- [GMK Center — iron ore consensus ~$94/t for 2026](https://gmk.center/en/news/iron-ore-prices-may-fall-to-94-per-tonne-in-2026-consensus-forecast/)
+- [SEAISI — China steel supply and demand to remain weak in 2026](https://www.seaisi.org/details/27819?type=news-rooms)
+- [IndexBox — China property investment falls 16.2% YoY Jan-May 2026](https://www.indexbox.io/blog/chinas-property-investment-drops-162-in-jan-may-2026/)
+- [Discovery Alert — China steel production drops 5%, iron ore imports surge](https://discoveryalert.com.au/china-steel-production-drop-2026-market-dynamics/)
+- [S&P Global — 2025 Outlook: China commodities, steel downcycle still in play](https://spglobal.com/ratings/en/research/articles/250109-2025-outlook-China-commodities-watch-the-steel-downcycle-is-still-in-play-13377668)
+
+Fact-check: FY2025 (reported 19 Feb 2026): sales revenue $57.6B (+7%); underlying EBITDA $25.4B (+9%); underlying earnings $10.9B; operating cash flow $16.8B; dividend $6.5B at 60% payout. Copper production +11%, copper EBITDA $7.4bn (+114%). Iron-ore sales 342 Mt; Pilbara shipments 326.2 Mt (100% basis), down 1% — growth came from price/cost-out, not volume. Simandou first ore 2025, first cargo in China Jan 2026; 2026 sales guidance 5–10 Mt, ~20 Mt at full build. Arcadium acquired 6 Mar 2025 for $6.7bn. Macro: China steel output ~-5% YoY Q1 2026 (~250 Mt); apparent consumption -3.1% w/w early June 2026; property investment -16.2% YoY Jan-May; consensus iron ore ~$101→~$94/t (-7%), with Simandou cited as a driver. No precise iron-ore-segment EBITDA published, so 'lion's share / anchored by iron ore' framing used; forward prices labeled consensus. Verified vs SEC 6-K, IR, Investing.com, Globe and Mail.
+
+---
+## Topic: Royal Caribbean / a genuine Q1 beat alongside a full-year guidance cut, a peak-cycle E priced as secular, and a $22B/2.2x-levered balance sheet exposed to fuel, geopolitics and pulled-forward demand (article: "Royal Caribbean rides record bookings into a $22 billion debt headwind it can't out-sail" — 2026-06-20T1700-royal-caribbean.md) [travel]
+
+- [RCL Q1 2026 8-K earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000884887/000088488726000024/a2026q1earningsrelease.htm)
+- [Royal Caribbean Group Q1 2026 results (PRNewswire)](https://www.prnewswire.com/news-releases/royal-caribbean-group-reports-first-quarter-results-that-exceeded-expectations-and-provides-an-update-to-full-year-guidance-302758677.html)
+- [Royal Caribbean Q1 2026 slides: earnings surge, stock jumps 7% (Investing.com)](https://www.investing.com/news/company-news/royal-caribbean-q1-2026-slides-earnings-surge-33-stock-jumps-7-93CH-4650608)
+- [RCL Q1 2026 earnings transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/30/royal-caribbean-rcl-q1-2026-earnings-transcript/)
+- [RCL Q1 deep dive: demand firm, guidance trimmed (Globe and Mail / StockStory)](https://stockstory.org/us/stocks/nyse/rcl/news/earnings-call/rcl-q1-deep-dive-demand-remains-firm-but-guidance-trimmed-amid-geopolitical-and-cost-headwinds)
+- [RCL net long-term debt history (MacroTrends)](https://www.macrotrends.net/stocks/charts/RCL/royal-caribbean-cruises/net-long-term-debt)
+- [RCL debt-to-equity ratio (financecharts)](https://www.financecharts.com/stocks/RCL/value/debt-to-equity-ratio)
+- [RCL statistics & valuation (stockanalysis.com)](https://stockanalysis.com/stocks/rcl/statistics/)
+- [RCL P/E ratio analysis (fullratio)](https://fullratio.com/stocks/nyse-rcl/pe-ratio)
+- [Royal Caribbean Icon class through 2030 (Caribbean Journal)](https://www.caribjournal.com/2026/04/28/royal-caribbean-icon-class-building/)
+- [Bookings recover to higher pace (Cruise Industry News)](https://cruiseindustrynews.com/cruise-news/2026/04/royal-caribbean-reports-2026-q1-results-bookings-recover-to-higher-pace/)
+
+Fact-check: Q1 2026 (reported April 30, 2026): revenue $4.45B (+11.3%); reported EPS $3.48, adjusted EPS $3.60; adjusted EBITDA $1.70B at 38.2% margin (beat $1.60B); ~$1.1B returned ($836M buybacks + $270M dividends); stock +7%. Same release CUT FY2026 adjusted-EPS guidance to a $17.30 midpoint ($17.10–$17.50, ~3.4% cut), embedding a $0.74 fuel headwind and $0.12 lower JV, offset by $0.14; Q2/Q3 carry ~200bps yield headwind from geopolitics + dry-dock days; Mediterranean bookings moderated. Total debt ~$22B; long-term debt ~$17.2B (down ~9% YoY); debt-to-equity ~2.2x (bottom decile). Valuation: ~$312, ~$84B cap, trailing P/E ~17, forward ~15.7 (below 3-yr avg) — thesis explicitly pivoted away from an 'overvalued' premise to 'fairly-valued but levered and priced for continuation.' Icon-class orderbook runs through 2030. Verified vs SEC 8-K, PRNewswire, transcripts, MacroTrends/financecharts; primary $4.45B used over a conflated annualized figure.
+
+---
+## Topic: Marriott / asset-light fee compounder at ~31x forward earnings while core RevPAR grows a GDP-like 4% (decelerating to 2–3%), with 17% EPS manufactured by net-unit growth, a card-royalty step-up and a levered buyback (article: "Marriott trades at 31x forward earnings while its core US RevPAR grows just 4%" — 2026-06-20T1630-marriott.md) [travel]
+
+- [Marriott IR — First Quarter 2026 Results](https://marriott.gcs-web.com/news-releases/news-release-details/marriott-international-reports-first-quarter-2026-results)
+- [SEC Form 8-K — MAR Q1 2026 earnings release exhibit](https://www.sec.gov/Archives/edgar/data/0001048286/000104828626000012/mar-2026q1xex99earningsrel.htm)
+- [PR Newswire — Marriott Reports First Quarter 2026 Results](https://www.prnewswire.com/news-releases/marriott-international-reports-first-quarter-2026-results-302763318.html)
+- [StockTitan — MAR Q1 2026 8-K filing](https://www.stocktitan.net/sec-filings/MAR/8-k-marriott-international-inc-md-reports-material-event-1551ba862bc5.html)
+- [Hotel Dive — Marriott posts solid Q1 RevPAR growth, raises 2026 guidance](https://www.hoteldive.com/news/marriott-q1-2026-earnings/819442/)
+- [Hotel Management — Marriott tops Q1 guidance, lifts full-year RevPAR outlook](https://www.hotelmanagement.net/operate/marriott-tops-q1-guidance-lifts-full-year-revpar-outlook)
+- [Grafa — Marriott Q1 2026: adjusted EPS $2.72, RevPAR up 4.2%](https://grafa.com/en/news/united-states/marriott-q1-2026-earnings-record-pipeline-revpar-growth)
+- [GuruFocus — MARRIOTT INTERNATIONAL Debt-to-EBITDA](https://www.gurufocus.com/term/debt-to-ebitda/MAR)
+- [StockAnalysis — MAR Statistics & Valuation](https://stockanalysis.com/stocks/mar/statistics/)
+- [The Motley Fool — Marriott (MAR) Q1 2026 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/06/marriott-mar-q1-2026-earnings-transcript/)
+- [CoStar — Higher demand for all hotel segments leads Marriott to raise outlook](https://www.costar.com/article/1156146486/higher-demand-for-all-hotel-segments-leads-marriott-to-raise-its-outlook)
+
+Fact-check: Q1 2026 (reported May 6, 2026): adjusted diluted EPS $2.72 (+17% from $2.32, beat ~$2.55–$2.58); GAAP EPS $2.43 (~29c/~11% wedge); revenue $6.65B (+6%); adjusted EBITDA $1.398B (+15%). Worldwide RevPAR +4.2% constant-dollar, U.S. & Canada +4.0%, international +4.6%; net rooms +4.5% (~15,900 added). FY2026 guidance (raised) RevPAR 2%–3% — a deceleration; adjusted EBITDA $5.88–$5.97B; adjusted EPS $11.38–$11.63. Buyback 2.1M shares for ~$0.7B in Q1; $4.4B+ planned for 2026. Valuation ~$391, forward P/E ~31x (above 10-yr avg). Leverage ~$17B net debt, debt/EBITDA ~3.5x (industry median ~2.4x). Q2 Middle East RevPAR guided ~-50% on tough comp. An outlier 'RevPAR +8.4%' source was discarded in favor of the company's 4.2%; soft P/E and fair-value figures labeled estimates. Verified vs Marriott IR, SEC 8-K, transcript.
+
+---
+## Topic: Shell / accelerated $3B buyback funded by the most cyclical trading-and-refining earnings while crown-jewel LNG fell 27% YoY, net debt and gearing rose, cash flow fell a third, and distributions outran FCF ~1.8x (article: "Shell's $3B buyback is borrowing against a trading windfall it can't repeat" — 2026-06-20T1600-shell.md) [energy]
+
+- [Shell Plc 1st Quarter 2026 Unaudited Results — GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/07/3289609/0/en/shell-plc-1st-quarter-2026-unaudited-results.html)
+- [Shell Q1 2026 QRA document (PDF) — shell.com IR](https://www.shell.com/investors/results-and-reporting/quarterly-results/_jcr_content/root/main/section/simple_copy/promo_1962010312_cop/links/item1.stream/1778115266512/cad4d5b6af7a44f1bb371e2ea4c468ad5125af11/q1-2026-qra-document.pdf)
+- [Shell Q1 adjusted earnings $6.9B, dividend raised — StockTitan](https://www.stocktitan.net/news/SHEL/shell-plc-1st-quarter-2026-unaudited-p3d1prdfyqfq.html)
+- [Shell Q1 2026 profit rises; net debt and buybacks up (6-K) — StockTitan](https://www.stocktitan.net/sec-filings/SHEL/6-k-shell-plc-current-report-foreign-issuer-6630f25d92c0.html)
+- [Shell reports 23% increase in Q1 2026 adjusted earnings — Offshore Technology](https://www.offshore-technology.com/news/shell-reports-increase-q1-2026-adjusted-earnings/)
+- [Shell Q1 2026 slides: earnings double amid commodity recovery — Investing.com](https://www.investing.com/news/company-news/shell-q1-2026-slides-earnings-double-amid-commodity-recovery-93CH-4669887)
+- [Shell accelerates strategy to deliver more value with less emissions (CMD 2025) — GlobeNewswire](https://www.globenewswire.com/news-release/2025/03/25/3048433/0/en/Shell-accelerates-strategy-to-deliver-more-value-with-less-emissions.html)
+- [Shell Capital Markets Day: CEO steers back toward oil and gas — Energy Voice](https://www.energyvoice.com/oilandgas/508456/shell-investor-day-ceo-wael-sawan/)
+
+Fact-check: Q1 2026 (reported 7 May 2026): adjusted earnings $6,915M (+24% YoY, vs $3,256M Q4 2025); net income $5,694M; adjusted EBITDA $17.7B. Operating cash flow $6,062M (~-33% YoY); free cash flow $2,927M; net debt $52,606M (vs $45,687M Q4, $41,521M Q1 2025); gearing 23.2% (from 20.7%/18.7%). Dividend +5% to $0.3906; new $3.0B buyback, $3.2B repurchased; total distributions $5.3B vs $2.9B FCF ≈ 1.83x (computed). Segments: Integrated Gas $1,819M (-27% YoY from $2,483M); Upstream $2,377M; Marketing $1,334M; Chemicals & Products $1,925M (from -$66M Q4) — beat driven by 'higher trading and refining margins.' ARC Resources (~$13.6B) and Jiffy Lube (~$1.3B) disclosed, H2 2026 close; CMD 2025 eased 2030 carbon-intensity target. All figures confirmed vs GlobeNewswire, Shell IR PDF, StockTitan 6-K; derived ratios flagged as computed.
+
+---
+## Topic: Darden / a 4.2% comp that is ~3.5pts price with traffic a rounding error; Olive Garden's +3.2% leans on a catering tailwind; bought growth from 31 new units and the Chuy's roll-up; margins flat-to-down at a ~22x multiple (article: "Darden's 4.2% comp is 3.5% price: a pricing engine wearing a traffic suit" — 2026-06-20T1530-darden.md) [restaurants]
+
+- [Darden 8-K / Exhibit 99.1 — Q3 FY2026 earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000940944/000094094426000005/exhibit991-q3fy26.htm)
+- [Darden Q3 FY2026 earnings release PDF (darden.com)](https://www.darden.com/sites/default/files/2026-03/DRI%20Q3%20FY26%20Earnings%20Release%20-%20FINAL.pdf)
+- [Darden IR — Fiscal 2026 Third Quarter Results](https://investor.darden.com/news/news-details/2026/Darden-Restaurants-Reports-Fiscal-2026-Third-Quarter-Results-Declares-Quarterly-Dividend-And-Updates-Fiscal-2026-Financial-Outlook/default.aspx)
+- [PR Newswire — Darden Q3 FY2026 results](https://www.prnewswire.com/news-releases/darden-restaurants-reports-fiscal-2026-third-quarter-results-declares-quarterly-dividend-and-updates-fiscal-2026-financial-outlook-302718023.html)
+- [Investing.com — Darden Q3 FY2026 slides: sales growth strong despite revenue miss](https://www.investing.com/news/company-news/darden-q3-fy2026-slides-sales-growth-strong-despite-revenue-miss-93CH-4571097)
+- [The Motley Fool — Darden (DRI) Q3 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/03/19/darden-dri-q3-2026-earnings-call-transcript/)
+- [AInvest — Darden earnings call contradictions: revenue growth vs. margin stability](https://www.ainvest.com/news/darden-restaurants-earnings-call-contradictions-revenue-growth-margin-stability-revised-store-sales-guidance-2603/)
+- [CNBC — Darden Q2 FY2026 earnings, value plays bring in diners](https://www.cnbc.com/2025/12/18/darden-restaurants-dri-q2-2026-earnings.html)
+- [Alphastreet — Darden has a multi-brand cash engine bigger than an Olive Garden traffic story](https://news.alphastreet.com/darden-has-a-multi-brand-cash-engine-bigger-than-an-olive-garden-traffic-story/)
+- [stockanalysis.com — DRI statistics & valuation](https://stockanalysis.com/stocks/dri/statistics/)
+
+Fact-check: Q3 FY2026 (quarter ended Feb 22, 2026, reported March 19, 2026): total sales +5.9% to $3.345B; blended same-restaurant sales +4.2%, decomposed as ~3.5% check + ~10bps mix, leaving traffic a fraction of a point. Olive Garden +3.2% with traffic ~+100bps that leaned on a ~130bps catering benefit (i.e., dine-in traffic negative), with ~60bps lighter-portion drag and ~50bps Uber-fee drag; LongHorn +7.2%; Fine Dining +2.1%; Other Business +3.9%. Adjusted EPS from continuing ops $2.95 (+5.4%); 31 net new restaurants; $127M/0.7M shares repurchased. FY guidance ~9.5% total sales, ~4.5% comps, adjusted EPS $10.57–$10.67 (incl ~$0.25 from the 53rd week). Valuation ~$214, ~$24B cap, trailing P/E ~21.5–22.6. Original 'flat comp' premise pivoted — LongHorn strongly positive; accurate thesis is price-led, not traffic-led, comp. Confirmed vs Darden 8-K/PR and transcript coverage; bridge figures labeled management-disclosed.
+
+---
+## Topic: Estée Lauder / a celebrated 2% organic turn priced at ~26x forward earnings while GAAP tells a colder story (6.7% vs 15.0% operating margin; $0.24 vs $0.91 EPS), a ~47% dividend cut, and a still-growing restructuring (article: "Estée Lauder priced at 26x forward earnings on a 2% organic turn it can't yet bank" — 2026-06-20T1500-estee-lauder.md) [consumer]
+
+- [ELC official press release — Q3 FY2026 results (May 1, 2026)](https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/05-01-2026-110042145)
+- [SEC 8-K FY2026 Q3 Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0001001250/000100125026000017/fy2026q3exhibit991.htm)
+- [BusinessWire — ELC Reports Fiscal 2026 Third Quarter Results](https://www.businesswire.com/news/home/20260501773674/en/The-Este-Lauder-Companies-Reports-Fiscal-2026-Third-Quarter-Results)
+- [Investing.com — EL Q3 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-estee-lauder-q3-2026-beats-eps-forecast-stock-surges-93CH-4674756)
+- [Motley Fool — EL Q3 2026 earnings transcript](https://www.fool.com/earnings/call-transcripts/2026/05/01/estee-lauder-el-q3-2026-earnings-transcript/)
+- [Investing.com — EL cuts dividend amid challenging market](https://www.investing.com/news/company-news/estee-lauder-cuts-dividend-amid-challenging-market-93CH-3693937)
+- [ELC — "One ELC" operating model / PRGP milestone](https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/04-01-2026-220015297)
+- [StockTitan — EL $1.5B–$1.7B restructuring plan 8-K](https://www.stocktitan.net/sec-filings/EL/8-k-a-estee-lauder-companies-inc-amends-material-event-report-036664e77bd0.html)
+- [GuruFocus — EL forward P/E 26.49](https://www.gurufocus.com/term/forward-pe-ratio/EL)
+- [Capital.com — EL market cap June 2026](https://capital.com/en-int/markets/shares/estee-lauder-share-price/market-cap)
+- [Simply Wall St — EL valuation after earnings/share-price reset](https://simplywall.st/stocks/us/household/nyse-el/estee-lauder-companies/news/a-look-at-este-lauder-el-valuation-after-recent-earnings-los)
+- [MacroTrends — EL stock price history](https://www.macrotrends.net/stocks/charts/EL/estee-lauder/stock-price-history)
+
+Fact-check: Q3 FY2026 (quarter ended Mar 31, 2026, reported May 1, 2026): reported net sales $3,712M (+5%), organic +2%; GAAP net income $89M; GAAP diluted EPS $0.24 vs adjusted $0.91; GAAP operating margin 6.7% vs adjusted 15.0% (eight-point wedge); gross margin 76.4%. Fragrance double-digit organic; Hainan travel retail 'strong double-digit.' FY2026 guidance ~3% organic, GAAP EPS $0.69–$0.83 vs adjusted $2.35–$2.45, adjusted operating margin 10.7%–11.0%. Dividend cut from $0.66 to $0.35 quarterly (~47%). PRGP workforce reduction revised up to net 9,000–10,000 (from 5,800–7,000); total charges $1.5–$1.7B; ~$1.1B booked over nine months; substantially complete only by end FY2027. TTM revenue ~$14.8B (vs >$17B FY2022 peak). Forward P/E ~26 vs ~14.4 staples median; ~$87, ~$30B cap; ~$7B net debt. Corrected a transcript mislabel ($0.91 is adjusted, not GAAP); confirmed vs ELC release, SEC 8-K, GuruFocus.
+
+---
+## Topic: AstraZeneca / a flawless-execution oncology-growth premium ignoring a structural ~30% GAAP-vs-core earnings gap, a 2%-CER China business under a former-exec fraud indictment, and a publicized US-listing pivot (article: "AstraZeneca's 16% oncology engine is real — its 28% GAAP margin and a Beijing courtroom are the tax nobody prices" — 2026-06-20T1430-astrazeneca.md) [pharma]
+
+- [StockTitan — AZN Q1 2026 Form 6-K ($15,288m)](https://www.stocktitan.net/sec-filings/AZN/6-k-astrazeneca-plc-current-report-foreign-issuer-68d8e7d2013b.html)
+- [Investing.com — Q1 2026 earnings call transcript (EPS/revenue beat)](https://www.investing.com/news/transcripts/earnings-call-transcript-astrazeneca-q1-2026-eps-beat-revenue-miss-93CH-4645919)
+- [Investing.com — Q1 2026 slides: revenue reporting questions](https://www.investing.com/news/company-news/astrazeneca-q1-2026-slides-pipeline-delivers-revenue-reporting-raises-questions-93CH-4646132)
+- [BusinessWire — AstraZeneca results: Q1 2026](https://www.businesswire.com/news/home/20260428491257/en/AstraZeneca-results-Q1-2026)
+- [AstraZeneca — Q1 2026 results announcement (PDF)](https://www.astrazeneca.com/content/dam/az/PDF/2026/eq1/Q1-2026-results-announcement.pdf)
+- [FiercePharma — China indicts AstraZeneca and former exec Leon Wang](https://www.fiercepharma.com/pharma/china-indicts-astrazeneca-and-former-exec-leon-wang-over-data-trade-charges)
+- [Insurance Journal — China charges former AstraZeneca regional head with insurance fraud](https://www.insurancejournal.com/news/international/2026/02/12/857791.htm)
+- [Yahoo Finance — AstraZeneca moves to NYSE as $50bn US investment plan takes focus](https://finance.yahoo.com/news/astrazeneca-moves-nyse-50-billion-172910718.html)
+- [FiercePharma — Soriot considering move of stock listing to US (Times)](https://www.fiercepharma.com/pharma/astrazenecas-soriot-considering-move-stock-listing-us-times)
+- [FiercePharma — AstraZeneca plans $50bn US investment, Virginia plant](https://www.fiercepharma.com/manufacturing/astrazeneca-plans-50b-investment-us-including-massive-plant-virginia)
+
+Fact-check: Q1 2026 (reported 28 April 2026, CER unless noted): total revenue $15,288m (+13% actual, +8% CER); oncology $6,798m (44% of total, +16% CER); Enhertu $831m (+34%, Daiichi Sankyo alliance), Imfinzi ~$1.7bn (+30%). Reported GAAP EPS $1.99 vs core $2.58 (~30% gap); reported operating margin 28% vs core 35% (seven points). China revenue $1,923m (+7% actual, +2% CER). FY2026 guidance reconfirmed (mid-to-high single-digit revenue, low-double-digit core EPS); $80bn-by-2030 ambition reiterated; $50bn US investment pledge plus a considered London-to-NYSE listing move. China legal matter framed as ALLEGED, not adjudicated: former China chief Leon Wang detained Oct 2024 and indicted (reported Feb 2026) on charges spanning unlawful collection of personal information, illegal trade and medical-insurance fraud; AZ prepaid ~$3.5m import-tax compensation and warned of possible further fines. Whether the corporate entity (vs individuals) was indicted is reported inconsistently and labeled contested/unresolved. Penalty estimates vary; only the $3.5m prepaid figure asserted. Verified vs StockTitan 6-K, AZ IR PDF, FiercePharma, Insurance Journal.
+
+---
+## Topic: Constellation Brands / the structural-growth beer thesis broken as full-year beer net sales fall 3%, Modelo and Corona depletions decline, wine/spirits is divested away, and Veracruz fixed costs crush margins (article: "Constellation Brands' beer engine just stalled to +1% as Modelo and Corona shrink" — 2026-06-20T1400-constellation-brands.md) [consumer-staples]
+
+- [CNBC — Constellation Brands (STZ) Q4 2026 Earnings](https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html)
+- [Constellation Brands corporate — FY and Q4 2026 results](https://www.cbrands.com/blogs/press-releases/constellation-brands-reports-full-fiscal-year-and-fourth-quarter-2026-financial-results)
+- [Constellation Brands corporate — earnings recap FY/Q4 2026](https://www.cbrands.com/blogs/stories/earnings-recap-constellation-brands-fiscal-and-fourth-quarter-2026-results)
+- [SEC — Form 8-K FY2026 earnings (HTM)](https://www.sec.gov/Archives/edgar/data/16918/000001691826000008/stzex991_22820268kearnings.htm)
+- [SEC — Form 8-K FY2026 earnings exhibit (PDF)](https://www.sec.gov/Archives/edgar/data/16918/000001691826000008/stzex99-1_022826.pdf)
+- [Investing.com — Q4 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-constellation-brands-beats-q4-2026-forecasts-93CH-4605600)
+- [Yahoo Finance — Q4 earnings beat, wine & spirits sales fall](https://finance.yahoo.com/markets/stocks/articles/constellation-brands-q4-earnings-beat-181300882.html)
+- [GuruFocus — STZ Q4 FY2026 EPS/revenue](https://www.gurufocus.com/news/8782495/constellation-brands-stz-q4-fy2026-earnings-eps-116-vs-329-estimate-revenue-192b-vs-2396b-estimate-misses-on-both)
+- [TradingView — STZ FY26 10-K $9,139.0M revenue / $9.61 EPS](https://www.tradingview.com/news/tradingview:f3597ba0ba027:0-constellation-brands-reports-9-139-0m-revenue-and-9-61-eps-in-fy26-10-k/)
+- [The Globe and Mail — Constellation reports FY2026, raises dividend](https://www.theglobeandmail.com/investing/markets/stocks/STZ/pressreleases/1230169/constellation-brands-reports-fiscal-2026-results-raises-dividend/)
+- [Food Dive — Constellation $1.1B Canopy writedown (historical)](https://www.fooddive.com/news/constellation-brands-canopy-growth-cannabis-losses-billion-legalization/633552/)
+
+Fact-check: FY2026 (year ended Feb 28, 2026, reported April 8, 2026): consolidated net sales ~$9.14B (down ~10%); Q4 revenue $1.92B; Q4 adjusted EPS $1.90 (beat ~$1.68–$1.73), Q4 GAAP EPS ~$1.16. Beer net sales +1% in Q4 to ~$1.73B but -3% for the full year to $8.32B; shipments -3.8%, depletions -2.1% (Modelo Especial ~-3%, Corona Extra ~-7%, Modelo Chelada ~-1%; Pacifico +15%, Victoria +16%). Wine & Spirits net sales -58%, shipments -72.9% (divestitures). Q4 operating margin -340bps to 33.2%; beer-margin guidance cut to 37–38% from 39–40% (Veracruz absorption, SG&A, marketing); FY beer revenue guidance -1% to +1%. Net leverage ~2.7x; >$1.6B returned (~$924M buybacks). Corrected dek '-3% total' to '-10% consolidated / -3% beer'; tightened buyback to ~$924M. Immigration/Hispanic-demand linkage labeled interpretation; Canopy impairment historical. Verified vs CNBC, SEC 8-K, TradingView 10-K, transcript.
+
+---
+## Topic: Kraft Heinz / 3G zero-based-budgeting exhausted as the price lever jams against elasticity (organic -0.4% with volume/mix -1.2 vs price +0.8), a guided full-year contraction, a 2025 $9.3B impairment, and a ~6.6% warning-label dividend (article: "Kraft Heinz pays a 6.6% dividend on shrinking volumes and a $9.3 billion confession" — 2026-06-20T1330-kraft-heinz.md) [consumer-staples]
+
+- [KHC press release — Q1 2026 results (kraftheinzcompany.com)](https://news.kraftheinzcompany.com/press-releases-details/2026/Kraft-Heinz-Reports-First-Quarter-2026-Results-Maintains-2026-Full-Year-Outlook/default.aspx)
+- [KHC Q1 2026 8-K exhibit 99.1 (SEC)](https://www.sec.gov/Archives/edgar/data/0001637459/000163745926000020/ex991-erq12026.htm)
+- [Businesswire — KHC Q1 2026 results](https://www.businesswire.com/news/home/20260506515481/en/Kraft-Heinz-Reports-First-Quarter-2026-Results-Maintains-2026-Full-Year-Outlook)
+- [StockTitan — KHC 10-Q, Q1 2026 profit $799M](https://www.stocktitan.net/sec-filings/KHC/10-q-kraft-heinz-co-quarterly-earnings-report-9dba704e8318.html)
+- [TradingView — KHC Q1 2026 revenue $6.05B, EPS $0.67](https://www.tradingview.com/news/tradingview:a2c3e468d1784:0-kraft-heinz-reports-q1-2026-revenue-6-05b-gross-profit-2-22b-eps-0-67/)
+- [CNBC — Kraft Heinz pauses split (Feb 2026)](https://www.cnbc.com/2026/02/11/kraft-heinz-pauses-split-new-ceo-challenges.html)
+- [CNBC — Kraft Heinz to split into two companies (Sept 2025)](https://www.cnbc.com/2025/09/02/kraft-heinz-split.html)
+- [Seeking Alpha — $9.3B impairment amid strategic review](https://seekingalpha.com/news/4474742-kraft-heinz-outlines-confidence-in-double-digit-emerging-market-growth-and-9_3b-impairment)
+- [Motley Fool — Berkshire exits, ultra-high-yield risk](https://www.fool.com/investing/2026/04/26/the-buffett-era-is-over-could-this-ultrahighyield/)
+- [Investing.com — value trap disguised as a dividend play](https://www.investing.com/analysis/kraft-heinz-a-classic-value-trap-disguised-as-a-dividend-play-200671039)
+
+Fact-check: Q1 2026 (reported May 6, 2026): net sales ~$6.05B (+0.8% reported) masking organic net sales -0.4% (price +0.8pts, volume/mix -1.2pts); gross margin 36.7% (+230bps); adjusted operating income -11.8%; adjusted EPS $0.58 (-6.5%); GAAP diluted EPS $0.67; net income ~$798–799M; token ~$13M impairment. FY2026 guidance: organic net sales -1.5% to -3.5%, CC adjusted operating income -14% to -18%, adjusted EPS $1.98–$2.10. Dividend $0.40/qtr ($1.60 annualized), yield ~6.6%. FY2025: net sales ~$24.9B (-3.5%), organic -3.4%, operating loss ~$8.0B, $9.3B non-cash impairment (>$6B goodwill), net loss ~$4.7B; goodwill ~$22B. Split announced Sept 2025, PAUSED Feb 11, 2026 by new CEO Steve Cahillane; Berkshire (~325M shares) moving toward exit (in-progress). Soft figures phrased 'roughly'; no corrections required. Verified vs KHC press release, SEC 8-K, StockTitan 10-Q, TradingView, CNBC.
+
+---
 ## Topic: TJX / off-price beat-and-raise with margin near an all-time ceiling, guidance-implied deceleration at a mid-30s multiple (article: "TJX beats, raises, and still leaves no margin for error at 34 times earnings" — 2026-06-20T1300-tjx.md) [retail]
 
 - [SEC 8-K / Exhibit 99.1 — Q1 FY27 earnings press release](https://www.sec.gov/Archives/edgar/data/0000109198/000010919826000023/tjxq1fy27earningspressrele.htm)

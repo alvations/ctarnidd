@@ -14,16 +14,16 @@ Written 10-at-a-time in parallel via the Workflow engine. 32 US + 14 ADR/ex-USA 
 | 8 | 2026-06-20T1200-home-depot.md | HD | US | retail | big-ticket remodel frozen by rates; negative comps; SRS Distribution debt; priced for a housing recovery | done |
 | 9 | 2026-06-20T1230-sony.md | SONY | Japan (ADR) | media/tech | gaming/PS5 maturity + image-sensor cyclicality + entertainment-spin financial engineering; priced as a compounder | done |
 | 10 | 2026-06-20T1300-tjx.md | TJX | US | retail | off-price winner near a peak multiple as the trade-down tailwind matures and wage/freight press margin | done |
-| 11 | 2026-06-20T1330-kraft-heinz.md | KHC | US | consumer-staples | 3G zero-based-budgeting exhausted; volumes falling; breakup overhang; dividend on stalling organic sales | pending |
-| 12 | 2026-06-20T1400-constellation-brands.md | STZ | US | consumer-staples | Modelo beer carries a declining wine/spirits drag + written-down Canopy bet; Hispanic-demand risk | pending |
-| 13 | 2026-06-20T1430-astrazeneca.md | AZN | UK (ADR) | pharma | oncology-growth premium + a contested China business (fraud probe) + the threatened US listing-move; priced for perfection | pending |
-| 14 | 2026-06-20T1500-estee-lauder.md | EL | US | consumer | China/travel-retail collapse; multi-year inventory destock; margin reset priced as a turnaround | pending |
-| 15 | 2026-06-20T1530-darden.md | DRI | US | restaurants | Olive Garden traffic flat; Chuy's/Ruth's roll-up masking organic stall; value vs input costs | pending |
-| 16 | 2026-06-20T1600-shell.md | SHEL | UK (ADR) | energy | the buyback-funded valuation-gap-vs-US-majors story; LNG cyclicality; the energy-transition retreat | pending |
-| 17 | 2026-06-20T1630-marriott.md | MAR | US | travel | asset-light fee compounder priced as secular while US RevPAR decelerates and the cycle peaks | pending |
-| 18 | 2026-06-20T1700-royal-caribbean.md | RCL | US | travel | record bookings + still-levered post-COVID balance sheet; demand pulled forward; discretionary risk | pending |
-| 19 | 2026-06-20T1730-rio-tinto.md | RIO | UK/Australia (ADR) | materials | iron-ore (China-property-dependent) price-taker dressed as a copper/lithium transition play; Simandou supply wave | pending |
-| 20 | 2026-06-20T1800-general-motors.md | GM | US | autos | EV losses + China collapse + Cruise shutdown; ICE-truck profits into a softening market; buyback EPS | pending |
+| 11 | 2026-06-20T1330-kraft-heinz.md | KHC | US | consumer-staples | 3G zero-based-budgeting exhausted; volumes falling; breakup overhang; dividend on stalling organic sales | done |
+| 12 | 2026-06-20T1400-constellation-brands.md | STZ | US | consumer-staples | Modelo beer carries a declining wine/spirits drag + written-down Canopy bet; Hispanic-demand risk | done |
+| 13 | 2026-06-20T1430-astrazeneca.md | AZN | UK (ADR) | pharma | oncology-growth premium + a contested China business (fraud probe) + the threatened US listing-move; priced for perfection | done |
+| 14 | 2026-06-20T1500-estee-lauder.md | EL | US | consumer | China/travel-retail collapse; multi-year inventory destock; margin reset priced as a turnaround | done |
+| 15 | 2026-06-20T1530-darden.md | DRI | US | restaurants | Olive Garden traffic flat; Chuy's/Ruth's roll-up masking organic stall; value vs input costs | done |
+| 16 | 2026-06-20T1600-shell.md | SHEL | UK (ADR) | energy | the buyback-funded valuation-gap-vs-US-majors story; LNG cyclicality; the energy-transition retreat | done |
+| 17 | 2026-06-20T1630-marriott.md | MAR | US | travel | asset-light fee compounder priced as secular while US RevPAR decelerates and the cycle peaks | done |
+| 18 | 2026-06-20T1700-royal-caribbean.md | RCL | US | travel | record bookings + still-levered post-COVID balance sheet; demand pulled forward; discretionary risk | done |
+| 19 | 2026-06-20T1730-rio-tinto.md | RIO | UK/Australia (ADR) | materials | iron-ore (China-property-dependent) price-taker dressed as a copper/lithium transition play; Simandou supply wave | done |
+| 20 | 2026-06-20T1800-general-motors.md | GM | US | autos | EV losses + China collapse + Cruise shutdown; ICE-truck profits into a softening market; buyback EPS | done |
 | 21 | 2026-06-21T0830-medtronic.md | MDT | US | healthcare | med-device giant, chronic low-single-digit growth at a premium; diabetes spin-off financial engineering | pending |
 | 22 | 2026-06-21T0900-intuitive-surgical.md | ISRG | US | healthcare | da Vinci razor-blade moat vs a ~70x multiple; Ir5 transition + Medtronic Hugo / J&J Ottava competition | pending |
 | 23 | 2026-06-21T0930-femsa.md | FMX | Mexico (ADR) | staples/retail | Oxxo + KO bottler; the trade-down + remittance/peso-dependent consumer; capital-return story vs Mexico macro | pending |
